@@ -1,0 +1,125 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA INDIANA WATER COMPANY",
+        "Population Served": 1350,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3763856,
+          41.4722121302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROWN COUNTY WATER UTILITY",
+        "Population Served": 13882,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2273748048,
+          39.1962111616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVIS MOBILE HOME PARK",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8976029732,
+          39.2059705721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEER CREEK ESTATES HOME WATER ASSOC.",
+        "Population Served": 265,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0450230743,
+          40.7695040098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE OF THE WOODS MHP",
+        "Population Served": 46,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4264979093,
+          41.6426062358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PONDEROSA ESTATES",
+        "Population Served": 55,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8607176828,
+          41.244097338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SULLIVAN-VIGO RURAL WATER CORP.",
+        "Population Served": 2595,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3899644539,
+          39.4306386001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRI-COUNTY CONSERVANCY DISTRICT",
+        "Population Served": 2503,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4462121421,
+          39.4815483458
+        ]
+      }
+    }
+  ]
+}

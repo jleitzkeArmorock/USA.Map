@@ -1,0 +1,7790 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADA TOWNSHIP",
+        "Population Served": 7068,
+        "City": "ADA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4879523,
+          42.9547136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADAMS TOWNSHIP",
+        "Population Served": 2010,
+        "City": "PAINESDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6723492,
+          47.0432617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADDISON",
+        "Population Served": 605,
+        "City": "ADDISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3479749,
+          41.9863066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADRIAN",
+        "Population Served": 23663,
+        "City": "ADRIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0373054,
+          41.8975152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AHMEEK",
+        "Population Served": 148,
+        "City": "AHMEEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.396501,
+          47.298812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALBION",
+        "Population Served": 9144,
+        "City": "ALBION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7530304,
+          42.243097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALGONAC, CITY OF",
+        "Population Served": 4110,
+        "City": "ALGONAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5345263,
+          42.620207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLEGAN",
+        "Population Served": 5930,
+        "City": "ALLEGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8553031,
+          42.5291989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLEN PARK",
+        "Population Served": 28210,
+        "City": "ALLEN PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2107671,
+          42.2595071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLENDALE TOWNSHIP",
+        "Population Served": 19725,
+        "City": "ALLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9536535,
+          42.9722455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALMA, CITY OF",
+        "Population Served": 9182,
+        "City": "ALMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.659727,
+          43.37892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALMONT, VILLAGE OF",
+        "Population Served": 2674,
+        "City": "ALMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0449348,
+          42.9205842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPENA, CITY OF",
+        "Population Served": 10128,
+        "City": "ALPENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4327528,
+          45.0616794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPHA",
+        "Population Served": 198,
+        "City": "ALPHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.377079,
+          46.043842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANN ARBOR",
+        "Population Served": 118017,
+        "City": "ANN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANN ARBOR TOWNSHIP",
+        "Population Served": 1338,
+        "City": "ANN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARBOR RIDGE CONDOMINIUMS",
+        "Population Served": 58,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.2465036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARMADA, VILLAGE OF",
+        "Population Served": 1794,
+        "City": "ARMADA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8843722,
+          42.8441964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASH TOWNSHIP",
+        "Population Served": 5959,
+        "City": "CARLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3907658,
+          42.0592101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASHLEY, VILLAGE OF",
+        "Population Served": 526,
+        "City": "ASHLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474435,
+          43.186696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AU GRES, CITY OF",
+        "Population Served": 945,
+        "City": "AU GRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.695816,
+          44.04863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUBURN",
+        "Population Served": 2087,
+        "City": "AUBURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.069705,
+          43.603358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUBURN HILLS",
+        "Population Served": 21412,
+        "City": "AUBURN HILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2341028,
+          42.6875323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUGUSTA",
+        "Population Served": 885,
+        "City": "AUGUSTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3522219,
+          42.3364294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUGUSTA TOWNSHIP",
+        "Population Served": 3907,
+        "City": "WHITTAKER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5994302,
+          42.1279418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUSABLE VALLEY COMMUNITY",
+        "Population Served": 147,
+        "City": "FAIRVIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0511127,
+          44.725012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAD AXE",
+        "Population Served": 3129,
+        "City": "BAD AXE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0004744,
+          43.8020626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAIR LAKE BIBLE CAMP",
+        "Population Served": 372,
+        "City": "JONES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7994422,
+          41.9025472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BALDWIN, VILLAGE OF",
+        "Population Served": 1060,
+        "City": "BALDWIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.851729,
+          43.901123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BANCROFT, VILLAGE OF",
+        "Population Served": 616,
+        "City": "BANCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0638525,
+          42.8786421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BANGOR",
+        "Population Served": 2000,
+        "City": "BANGOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1130794,
+          42.3125356
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARAGA",
+        "Population Served": 2182,
+        "City": "BARAGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.489019,
+          46.778543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARN SWALLOW APARTMENTS",
+        "Population Served": 50,
+        "City": "CASSOPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0100069,
+          41.9117134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARRY TOWNSHIP",
+        "Population Served": 260,
+        "City": "DELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4080641,
+          42.4997581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARTON HILLS",
+        "Population Served": 450,
+        "City": "ANN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATTLE CREEK - VERONA SYSTEM",
+        "Population Served": 43975,
+        "City": "BATTLE CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1824269,
+          42.3192548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAY AREA WATER SYSTEM",
+        "Population Served": 0,
+        "City": "BAY CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8888648,
+          43.5944677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAY CITY, CITY OF",
+        "Population Served": 32255,
+        "City": "BAY CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8888648,
+          43.5944677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAVER CREEK-GRAYLING TOWNSHIPS UA",
+        "Population Served": 25,
+        "City": "GRAYLING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.714637,
+          44.661517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAVER TOWNSHIP",
+        "Population Served": 1211,
+        "City": "BAY CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8888648,
+          43.5944677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAVERTON",
+        "Population Served": 1071,
+        "City": "BEAVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.484732,
+          43.882247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEDFORD MEADOWS",
+        "Population Served": 156,
+        "City": "MONROE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3968252,
+          41.9145037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELDING",
+        "Population Served": 5769,
+        "City": "BELDING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.228906,
+          43.09781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELLAIRE, VILLAGE OF",
+        "Population Served": 1086,
+        "City": "BELLAIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2099992,
+          44.9754211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELLEVILLE",
+        "Population Served": 3964,
+        "City": "BELLEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4852106,
+          42.2048414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELLEVUE, VILLAGE OF",
+        "Population Served": 1282,
+        "City": "BELLEVUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0179986,
+          42.4437685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENTON HARBOR",
+        "Population Served": 9103,
+        "City": "BENTON HARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4541894,
+          42.1167065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERGLAND TOWNSHIP",
+        "Population Served": 210,
+        "City": "BERGLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5732099,
+          46.5924472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKLEY",
+        "Population Served": 14970,
+        "City": "BERKLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1835389,
+          42.5030909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERLIN TOWNSHIP",
+        "Population Served": 9900,
+        "City": "NEWPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3085419,
+          42.0022672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERRIEN SPRINGS",
+        "Population Served": 1910,
+        "City": "BERRIEN SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3388965,
+          41.9464336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BESSEMER",
+        "Population Served": 1619,
+        "City": "BESSEMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0529504,
+          46.4813363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG CREEK/MENTOR UTILITY AUTHORITY",
+        "Population Served": 622,
+        "City": "MIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.129728,
+          44.652236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG RAPIDS",
+        "Population Served": 10403,
+        "City": "BIG RAPIDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.483656,
+          43.698078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BINGHAM FARMS",
+        "Population Served": 888,
+        "City": "BINGHAM FARMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2732643,
+          42.515868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIRMINGHAM",
+        "Population Served": 20472,
+        "City": "BIRMINGHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2113192,
+          42.5467012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACKMAN TOWNSHIP",
+        "Population Served": 14817,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.2465036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLISSFIELD",
+        "Population Served": 3276,
+        "City": "BLISSFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8624411,
+          41.8325487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOOMFIELD HILLS",
+        "Population Served": 3540,
+        "City": "BLOOMFIELD HILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2454883,
+          42.583645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE SPRUCE APARTMENTS",
+        "Population Served": 96,
+        "City": "PORTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9030517,
+          42.8692006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOYNE CITY, CITY OF",
+        "Population Served": 3735,
+        "City": "BOYNE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.013942,
+          45.216675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOYNE FALLS, VILLAGE OF",
+        "Population Served": 370,
+        "City": "BOYNE FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.916157,
+          45.168065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRECKENRIDGE, VILLAGE OF",
+        "Population Served": 1339,
+        "City": "BRECKENRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.474998,
+          43.408085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BREITUNG TWP.-EAST KINGSFORD",
+        "Population Served": 1200,
+        "City": "EAST KINGSFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0645705,
+          45.7949562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGMAN",
+        "Population Served": 2291,
+        "City": "BRIDGMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5569659,
+          41.9430986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIGHTON, CITY OF",
+        "Population Served": 10210,
+        "City": "BRIGHTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7846458,
+          42.5316918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRILEY TOWNSHIP",
+        "Population Served": 435,
+        "City": "ATLANTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1438927,
+          45.0047306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRITTON",
+        "Population Served": 611,
+        "City": "BRITTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8310513,
+          41.9867114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRONSON",
+        "Population Served": 2421,
+        "City": "BRONSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1946963,
+          41.8722716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOKDALE ADRIAN",
+        "Population Served": 115,
+        "City": "ADRIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0373054,
+          41.8975152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOKLYN",
+        "Population Served": 1313,
+        "City": "BROOKLYN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2482819,
+          42.105874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROWN CITY",
+        "Population Served": 1316,
+        "City": "BROWN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.98966,
+          43.212249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUCHANAN",
+        "Population Served": 4871,
+        "City": "BUCHANAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3598709,
+          41.8273815
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUCKLEY, VILLAGE OF",
+        "Population Served": 529,
+        "City": "BUCKLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.677014,
+          44.504447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURR OAK",
+        "Population Served": 828,
+        "City": "BURR OAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3185899,
+          41.847272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURT TOWNSHIP",
+        "Population Served": 411,
+        "City": "GRAND MARAIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.983999,
+          46.670971
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURT VIEW ASSOCIATION",
+        "Population Served": 42,
+        "City": "INDIAN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6125364,
+          45.4125117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURTON, CITY OF",
+        "Population Served": 21000,
+        "City": "BURTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6335032,
+          42.9897333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BYRAM RIDGE",
+        "Population Served": 40,
+        "City": "LINDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7821563,
+          42.8146748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BYRON, VILLAGE OF",
+        "Population Served": 581,
+        "City": "BYRON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9444027,
+          42.8228091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BYRON-GAINES UTILITY AUTHORITY",
+        "Population Served": 37464,
+        "City": "BYRON CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7228062,
+          42.8122508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CADILLAC, CITY OF",
+        "Population Served": 10355,
+        "City": "CADILLAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4011619,
+          44.2519526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALEDONIA TOWNSHIP",
+        "Population Served": 4573,
+        "City": "CALEDONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5163391,
+          42.7891193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALUMET",
+        "Population Served": 726,
+        "City": "CALUMET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.454006,
+          47.246592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN",
+        "Population Served": 512,
+        "City": "CAMDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7573815,
+          41.7524799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPAC, VILLAGE OF",
+        "Population Served": 1775,
+        "City": "CAPAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9279881,
+          43.0125274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARNEY-NADEAU WATER & SEWER AUTHORITY",
+        "Population Served": 200,
+        "City": "CARNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.557345,
+          45.586635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARSON CITY",
+        "Population Served": 3322,
+        "City": "CARSON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.846395,
+          43.176977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASPIAN",
+        "Population Served": 997,
+        "City": "CASPIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6322477,
+          46.0643861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASSOPOLIS",
+        "Population Served": 1815,
+        "City": "CASSOPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0100069,
+          41.9117134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR SPRINGS",
+        "Population Served": 3520,
+        "City": "CEDAR SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.551424,
+          43.22336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTER LINE, CITY OF",
+        "Population Served": 8257,
+        "City": "CENTER LINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0277002,
+          42.4850362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL LAKE, VILLAGE OF",
+        "Population Served": 952,
+        "City": "CENTRAL LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2641566,
+          45.0701616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTREVILLE",
+        "Population Served": 1579,
+        "City": "CENTREVILLE (RR NAME CENTERVIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.633107,
+          43.924812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARLEVOIX",
+        "Population Served": 3124,
+        "City": "CHARLEVOIX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.258348,
+          45.317649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARLOTTE, CITY OF",
+        "Population Served": 9074,
+        "City": "CHARLOTTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8355792,
+          42.5637369
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHASSELL TOWNSHIP",
+        "Population Served": 800,
+        "City": "CHASSELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.525125,
+          47.028262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHATHAM",
+        "Population Served": 300,
+        "City": "CHATHAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.929038,
+          46.347723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHEBOYGAN, CITY OF",
+        "Population Served": 5500,
+        "City": "CHEBOYGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.47448,
+          45.646956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHELSEA",
+        "Population Served": 5474,
+        "City": "CHELSEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020224,
+          42.3180163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLARE, CITY OF",
+        "Population Served": 3118,
+        "City": "CLARE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.768628,
+          43.81947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAWSON",
+        "Population Served": 11825,
+        "City": "CLAWSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1463166,
+          42.5333682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIFFORD, VILLAGE OF",
+        "Population Served": 324,
+        "City": "CLIFFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.179112,
+          43.314747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIMAX",
+        "Population Served": 767,
+        "City": "CLIMAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3349948,
+          42.2383765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINTON",
+        "Population Served": 2336,
+        "City": "CLINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9716096,
+          42.0719867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIO, CITY OF",
+        "Population Served": 2515,
+        "City": "CLIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7346897,
+          43.1774215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLDWATER",
+        "Population Served": 13822,
+        "City": "COLDWATER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0030617,
+          41.941091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLEMAN, CITY OF",
+        "Population Served": 1243,
+        "City": "COLEMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.585843,
+          43.756695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLOMA",
+        "Population Served": 1555,
+        "City": "COLOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.308356,
+          42.1861494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLON",
+        "Population Served": 1190,
+        "City": "COLON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3249817,
+          41.9583823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBIAVILLE, VILLAGE OF",
+        "Population Served": 787,
+        "City": "COLUMBIAVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.410505,
+          43.156693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONCORD",
+        "Population Served": 1050,
+        "City": "CONCORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6430206,
+          42.1778187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONSTANTINE",
+        "Population Served": 2075,
+        "City": "CONSTANTINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6686026,
+          41.8411603
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOPERSVILLE",
+        "Population Served": 4519,
+        "City": "COOPERSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9347667,
+          43.0639112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COPPER CITY",
+        "Population Served": 210,
+        "City": "COPPER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.387057,
+          47.283535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COREWELLHEALTH GR KALAMAZOO",
+        "Population Served": 165,
+        "City": "GRAND RAPIDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6678639,
+          42.9632425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORUNNA, CITY OF",
+        "Population Served": 2028,
+        "City": "CORUNNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1177451,
+          42.9819728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROCKERY TOWNSHIP",
+        "Population Served": 1847,
+        "City": "NUNICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0672715,
+          43.0797424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROSWELL, CITY OF",
+        "Population Served": 2447,
+        "City": "CROSWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.621038,
+          43.275581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRYSTAL FALLS",
+        "Population Served": 1922,
+        "City": "CRYSTAL FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.334024,
+          46.098007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVISON, CITY OF",
+        "Population Served": 5000,
+        "City": "DAVISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5180155,
+          43.0346872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEARBORN",
+        "Population Served": 109976,
+        "City": "DEARBORN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1763145,
+          42.3222599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEARBORN HEIGHTS",
+        "Population Served": 57774,
+        "City": "DEARBORN HEIGHTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2732627,
+          42.3369816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DECATUR",
+        "Population Served": 1838,
+        "City": "DECATUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9744569,
+          42.1080979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEERFIELD",
+        "Population Served": 943,
+        "City": "DEERFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7788283,
+          41.888936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEERFIELD VILLA",
+        "Population Served": 72,
+        "City": "HOUGHTON LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7647496,
+          44.314739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DETOUR",
+        "Population Served": 325,
+        "City": "DETOUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.00982816,
+          46.00843725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DETROIT CITY OF",
+        "Population Served": 713777,
+        "City": "DETROIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0466403,
+          42.3315509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEXTER",
+        "Population Served": 4500,
+        "City": "DEXTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8842,
+          42.3372998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOWAGIAC",
+        "Population Served": 6350,
+        "City": "DOWAGIAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1088809,
+          41.9824681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DRYDEN, VILLAGE OF",
+        "Population Served": 1034,
+        "City": "DRYDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1238265,
+          42.9461395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUNDEE",
+        "Population Served": 5400,
+        "City": "DUNDEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6596596,
+          41.9572676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DURAND, CITY OF",
+        "Population Served": 3446,
+        "City": "DURAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9845777,
+          42.9120239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAGLE HARBOR TOWNSHIP",
+        "Population Served": 300,
+        "City": "EAGLE HARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.162326,
+          47.458245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST GRAND RAPIDS",
+        "Population Served": 11637,
+        "City": "EAST GRAND RAPIDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6097309,
+          42.9412024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST JORDAN, CITY OF",
+        "Population Served": 2215,
+        "City": "EAST JORDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.124225,
+          45.158063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST LANSING, CITY OF",
+        "Population Served": 33000,
+        "City": "EAST LANSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4721678,
+          42.7320307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST TAWAS, CITY OF",
+        "Population Served": 2808,
+        "City": "EAST TAWAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.490252,
+          44.279461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EATON RAPIDS, CITY OF",
+        "Population Served": 5340,
+        "City": "EATON RAPIDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.655814,
+          42.5092039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAU CLAIRE",
+        "Population Served": 610,
+        "City": "EAU CLAIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2997387,
+          41.9850452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ECORSE",
+        "Population Served": 9512,
+        "City": "ECORSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.145757,
+          42.2444833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDMORE",
+        "Population Served": 1256,
+        "City": "EDMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.038632,
+          43.408087
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDWARDSBURG",
+        "Population Served": 1260,
+        "City": "EDWARDSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0808384,
+          41.7956038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELBERTA, VILLAGE OF",
+        "Population Served": 372,
+        "City": "ELBERTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.226484,
+          44.619443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELK RAPIDS, VILLAGE OF",
+        "Population Served": 1642,
+        "City": "ELK RAPIDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.416461,
+          44.895558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELSIE, VILLAGE OF",
+        "Population Served": 966,
+        "City": "ELSIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.386926,
+          43.088639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELY TOWNSHIP-DIORITE",
+        "Population Served": 168,
+        "City": "DIORITE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8304127,
+          46.5091022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMERY PINES",
+        "Population Served": 50,
+        "City": "PRUDENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6519671,
+          44.2983513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMPIRE, VILLAGE OF",
+        "Population Served": 400,
+        "City": "EMPIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.060093,
+          44.811108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESCANABA",
+        "Population Served": 13659,
+        "City": "ESCANABA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0647434,
+          45.7455707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESSEXVILLE, CITY OF",
+        "Population Served": 3478,
+        "City": "ESSEXVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.841919,
+          43.6153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVART, CITY OF",
+        "Population Served": 1742,
+        "City": "EVART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.258097,
+          43.900575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRFIELD TOWNSHIP",
+        "Population Served": 717,
+        "City": "JASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0405002,
+          41.7933831
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARMINGTON HILLS, CITY OF",
+        "Population Served": 56823,
+        "City": "FARMINGTON HILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3771553,
+          42.4853125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARMINGTON, CITY OF",
+        "Population Served": 11597,
+        "City": "FARMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3763219,
+          42.4644795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FENNVILLE",
+        "Population Served": 1459,
+        "City": "FENNVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1045955,
+          42.5941052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FENTON, CITY OF",
+        "Population Served": 11746,
+        "City": "FENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7049498,
+          42.7978061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FERNDALE",
+        "Population Served": 22105,
+        "City": "FERNDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1346478,
+          42.4605917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FERRYSBURG",
+        "Population Served": 3268,
+        "City": "FERRYSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.21818,
+          43.080764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLAT ROCK",
+        "Population Served": 10541,
+        "City": "FLAT ROCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2918744,
+          42.0964314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLINT, CITY OF",
+        "Population Served": 81252,
+        "City": "FLINT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6900211,
+          43.0161693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLUSHING, CITY OF",
+        "Population Served": 8311,
+        "City": "FLUSHING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8510732,
+          43.0630834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORSYTH TOWNSHIP",
+        "Population Served": 2479,
+        "City": "GWINN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4409718,
+          46.2810556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOWLER, VILLAGE OF",
+        "Population Served": 1136,
+        "City": "FOWLER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7398622,
+          43.0017113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOWLERVILLE, VILLAGE OF",
+        "Population Served": 2951,
+        "City": "FOWLERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0730142,
+          42.6605894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKENMUTH, CITY OF",
+        "Population Served": 4944,
+        "City": "FRANKENMUTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7392288,
+          43.3323684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKFORT, CITY OF",
+        "Population Served": 1286,
+        "City": "FRANKFORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.234184,
+          44.633622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN TOWNSHIP",
+        "Population Served": 300,
+        "City": "RIPLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5537336,
+          47.1265938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRASER, CITY OF",
+        "Population Served": 16500,
+        "City": "FRASER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9493652,
+          42.539202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREEPORT",
+        "Population Served": 483,
+        "City": "FREEPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3133439,
+          42.7661449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREMONT",
+        "Population Served": 4516,
+        "City": "FREMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.942001,
+          43.467517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRENCHTOWN TOWNSHIP",
+        "Population Served": 16481,
+        "City": "MONROE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3968252,
+          41.9145037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRUITPORT TOWNSHIP",
+        "Population Served": 9355,
+        "City": "FRUITPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.154682,
+          43.13067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAASTRA",
+        "Population Served": 376,
+        "City": "GAASTRA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.605965,
+          46.058289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALESBURG",
+        "Population Served": 2377,
+        "City": "GALESBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.418056,
+          42.2886529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARDEN",
+        "Population Served": 270,
+        "City": "GARDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.550695,
+          45.7747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARDEN CITY",
+        "Population Served": 27625,
+        "City": "GARDEN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3310422,
+          42.3255929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAYLORD, CITY OF",
+        "Population Served": 3629,
+        "City": "GAYLORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.674752,
+          45.027513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GEORGETOWN TOWNSHIP",
+        "Population Served": 41086,
+        "City": "JENISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7919784,
+          42.9072481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GERMFASK TOWNSHIP",
+        "Population Served": 200,
+        "City": "GERMFASK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9258299,
+          46.2497082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIBRALTAR",
+        "Population Served": 4997,
+        "City": "GIBRALTAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1896484,
+          42.0950426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLADSTONE",
+        "Population Served": 4632,
+        "City": "GLADSTONE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0188466,
+          45.8457565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLADWIN, CITY OF",
+        "Population Served": 2933,
+        "City": "GLADWIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.486401,
+          43.980855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOBLES",
+        "Population Served": 725,
+        "City": "GOBLES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8794636,
+          42.3608691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND BEACH",
+        "Population Served": 272,
+        "City": "GRAND BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7975279,
+          41.7733739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND BLANC, CITY OF",
+        "Population Served": 8276,
+        "City": "GRAND BLANC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6299518,
+          42.9275277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND HAVEN",
+        "Population Served": 10412,
+        "City": "GRAND HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2283864,
+          43.0630734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND LEDGE, CITY OF",
+        "Population Served": 8701,
+        "City": "GRAND LEDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7463572,
+          42.7524401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND RAPIDS",
+        "Population Served": 273005,
+        "City": "GRAND RAPIDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6678639,
+          42.9632425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANDVILLE",
+        "Population Served": 15948,
+        "City": "GRANDVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7630956,
+          42.909598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANT",
+        "Population Served": 894,
+        "City": "GRANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.810882,
+          43.336132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANT TOWNSHIP - COPPER HARBOR",
+        "Population Served": 200,
+        "City": "COPPER HARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8888043,
+          47.4680744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRASS LAKE",
+        "Population Served": 1986,
+        "City": "GRASS LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2130083,
+          42.2508691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAYLING, CITY OF",
+        "Population Served": 1884,
+        "City": "GRAYLING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.714637,
+          44.661517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREAT LAKES WATER AUTHORITY",
+        "Population Served": 0,
+        "City": "DETROIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0466403,
+          42.3315509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENVILLE",
+        "Population Served": 8449,
+        "City": "GREENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2527987,
+          43.1775314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROSSE POINTE FARMS",
+        "Population Served": 9757,
+        "City": "GROSSE POINTE FARMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8918587,
+          42.4092038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROSSE POINTE PARK",
+        "Population Served": 11555,
+        "City": "GROSSE POINTE PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9313655,
+          42.3816896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROSSE POINTE SHORES",
+        "Population Served": 2929,
+        "City": "GROSSE POINTE SHORES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8768586,
+          42.4367034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROSSE POINTE WOODS",
+        "Population Served": 16135,
+        "City": "GROSSE POINTE WOODS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9069508,
+          42.4435616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROSSE POINTE, CITY OF",
+        "Population Served": 5421,
+        "City": "GROSSE POINTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9118591,
+          42.3861485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMTRAMCK",
+        "Population Served": 22413,
+        "City": "HAMTRAMCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0496438,
+          42.3928151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HANCOCK",
+        "Population Served": 4500,
+        "City": "HANCOCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.580956,
+          47.126871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARBOR BEACH, CITY OF",
+        "Population Served": 1604,
+        "City": "HARBOR BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6513942,
+          43.8447077
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARBOR COVE APARTMENTS",
+        "Population Served": 288,
+        "City": "WHITMORE LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7438303,
+          42.439479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARBOR SPRINGS, CITY OF",
+        "Population Served": 1194,
+        "City": "HARBOR SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.991999,
+          45.431676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARPER WOODS",
+        "Population Served": 14236,
+        "City": "HARPER WOODS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9238847,
+          42.4333367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRISON, CITY OF",
+        "Population Served": 1100,
+        "City": "HARRISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7997872,
+          44.0192188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRISVILLE, CITY OF",
+        "Population Served": 493,
+        "City": "HARRISVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.294689,
+          44.656402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HART",
+        "Population Served": 2126,
+        "City": "HART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.363965,
+          43.698341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTFORD",
+        "Population Served": 2688,
+        "City": "HARTFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1666876,
+          42.2067051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HASTINGS",
+        "Population Served": 7350,
+        "City": "HASTINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2908404,
+          42.6458683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAZEL PARK",
+        "Population Served": 16400,
+        "City": "HAZEL PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1035688,
+          42.4620142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HEMATITE TOWNSHIP",
+        "Population Served": 350,
+        "City": "AMASA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4485052,
+          46.2324679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HESPERIA",
+        "Population Served": 954,
+        "City": "HESPERIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.039507,
+          43.568903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLAND PARK",
+        "Population Served": 8977,
+        "City": "HIGHLAND PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965829,
+          42.4055981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLMAN, VILLAGE OF",
+        "Population Served": 697,
+        "City": "HILLMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.901106,
+          45.059177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLSDALE",
+        "Population Served": 8163,
+        "City": "HILLSDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6305101,
+          41.9200472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLAND BOARD OF PUBLIC WORKS",
+        "Population Served": 49687,
+        "City": "HOLLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1090828,
+          42.7876022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY, VILLAGE OF",
+        "Population Served": 8557,
+        "City": "HOLLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6277255,
+          42.7919727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLTON COTTAGES",
+        "Population Served": 34,
+        "City": "HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0795043,
+          43.4133486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMER",
+        "Population Served": 1668,
+        "City": "HOMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8092709,
+          42.1461479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORSELL MANOR",
+        "Population Served": 25,
+        "City": "VANDERBILT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.660309,
+          45.14279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOUGHTON",
+        "Population Served": 8386,
+        "City": "HOUGHTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.569012,
+          47.121872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOUGHTON HEIGHTS MANOR",
+        "Population Served": 50,
+        "City": "HOUGHTON LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7647496,
+          44.314739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOUGHTON TOWNSHIP",
+        "Population Served": 138,
+        "City": "EAGLE RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2956606,
+          47.4138051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOWARD CITY",
+        "Population Served": 1800,
+        "City": "HOWARD CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.467815,
+          43.395583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOWELL, CITY OF",
+        "Population Served": 10068,
+        "City": "HOWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9293952,
+          42.6072552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUDSON",
+        "Population Served": 2307,
+        "City": "HUDSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3538359,
+          41.855048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUDSONVILLE",
+        "Population Served": 7708,
+        "City": "HUDSONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.865235,
+          42.870889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTINGTON WOODS",
+        "Population Served": 6200,
+        "City": "HUNTINGTON WOODS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1668713,
+          42.4805913
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HURON REGIONAL WATER AUTHORITY",
+        "Population Served": 0,
+        "City": "BAD AXE,PORT AUSTIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.993452,
+          44.04282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IMLAY CITY, CITY OF",
+        "Population Served": 3579,
+        "City": "IMLAY CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0777153,
+          43.0247496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INKSTER",
+        "Population Served": 25369,
+        "City": "INKSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3099303,
+          42.2942045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INTERIOR TOWNSHIP",
+        "Population Served": 200,
+        "City": "TROUT CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0118069,
+          46.4821663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IONIA",
+        "Population Served": 12997,
+        "City": "IONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0711174,
+          42.9872547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRON MOUNTAIN",
+        "Population Served": 9200,
+        "City": "IRON MOUNTAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.06596,
+          45.820233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRON RIVER",
+        "Population Served": 3019,
+        "City": "IRON RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6426179,
+          46.0924697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRONWOOD",
+        "Population Served": 5387,
+        "City": "IRONWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1684371,
+          46.4555673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ISHPEMING",
+        "Population Served": 6470,
+        "City": "ISHPEMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.667636,
+          46.488547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ITHACA, CITY OF",
+        "Population Served": 3098,
+        "City": "ITHACA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6075,
+          43.291698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON",
+        "Population Served": 33165,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.2465036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAMESTOWN TOWNSHIP",
+        "Population Served": 3330,
+        "City": "JAMESTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8425336,
+          42.8255824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JONESVILLE",
+        "Population Served": 2258,
+        "City": "JONESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6655279,
+          41.9815175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KALAMAZOO",
+        "Population Served": 192992,
+        "City": "KALAMAZOO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5872286,
+          42.291707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KALEVA, VILLAGE OF",
+        "Population Served": 464,
+        "City": "KALEVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.01036,
+          44.373337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KALKASKA, VILLAGE OF",
+        "Population Served": 2020,
+        "City": "KALKASKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.175887,
+          44.734173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEEGO HARBOR, CITY OF",
+        "Population Served": 2733,
+        "City": "KEEGO HARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3438248,
+          42.6080884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENTWOOD",
+        "Population Served": 36072,
+        "City": "KENTWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6447492,
+          42.8694731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGSFORD",
+        "Population Served": 5480,
+        "City": "KINGSFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.072071,
+          45.794956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGSLEY, VILLAGE OF",
+        "Population Served": 1657,
+        "City": "KINGSLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.536115,
+          44.584658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE ARROWHEAD ESTATES",
+        "Population Served": 231,
+        "City": "ADRIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0373054,
+          41.8975152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE CITY, CITY OF",
+        "Population Served": 836,
+        "City": "LAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.215046,
+          44.335287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE LINDEN",
+        "Population Served": 1203,
+        "City": "LAKE LINDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.407339,
+          47.194092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE ODESSA",
+        "Population Served": 2018,
+        "City": "LAKE ODESSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1383367,
+          42.7847564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE ORION, VILLAGE OF",
+        "Population Served": 2973,
+        "City": "LAKE ORION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2396612,
+          42.7844752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESHORE CONDOMINIUMS",
+        "Population Served": 38,
+        "City": "BROOKLYN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2482819,
+          42.105874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEVIEW",
+        "Population Served": 1007,
+        "City": "LAKEVIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.27913,
+          43.442302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "L'ANSE",
+        "Population Served": 2300,
+        "City": "L'ANSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.452909,
+          46.756599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANSING BOARD OF WATER & LIGHT",
+        "Population Served": 166000,
+        "City": "LANSING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5546295,
+          42.7338254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANTERN BAY TREATMENT CENTER",
+        "Population Served": 52,
+        "City": "VAN BUREN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4841464,
+          42.2207982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAPEER, CITY OF",
+        "Population Served": 8841,
+        "City": "LAPEER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3188341,
+          43.0514161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LATHRUP VILLAGE",
+        "Population Served": 4075,
+        "City": "LATHRUP VILLAGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2227067,
+          42.4964242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAWRENCE",
+        "Population Served": 1045,
+        "City": "LAWRENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.051408,
+          42.2192056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAWTON",
+        "Population Served": 1900,
+        "City": "LAWTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8469539,
+          42.1672629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEE TOWNSHIP",
+        "Population Served": 35,
+        "City": "PULLMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0914189,
+          42.4836419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEONI TOWNSHIP",
+        "Population Served": 2408,
+        "City": "MICHIGAN CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3271772,
+          42.2330918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LESLIE, CITY OF",
+        "Population Served": 1872,
+        "City": "LESLIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4319386,
+          42.4511723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN PARK",
+        "Population Served": 38144,
+        "City": "LINCOLN PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1785361,
+          42.2505943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINDEN, CITY OF",
+        "Population Served": 4004,
+        "City": "LINDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7821563,
+          42.8146748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITCHFIELD",
+        "Population Served": 1310,
+        "City": "LITCHFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7584316,
+          42.044314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIVONIA",
+        "Population Served": 96942,
+        "City": "LIVONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3527097,
+          42.36837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOCH ALPINE SANITARY AUTHORITY",
+        "Population Served": 1506,
+        "City": "ANN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWELL",
+        "Population Served": 4150,
+        "City": "LOWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3418551,
+          42.933601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUDINGTON",
+        "Population Served": 8184,
+        "City": "LUDINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4477416,
+          43.9555406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYONS",
+        "Population Served": 789,
+        "City": "LYONS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9469455,
+          42.9819773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MACKINAC ISLAND",
+        "Population Served": 583,
+        "City": "MACKINAC ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6198572,
+          45.84907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MACKINAW CITY, VILLAGE OF",
+        "Population Served": 897,
+        "City": "MACKINAW CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727828,
+          45.783901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISON HEIGHTS",
+        "Population Served": 29694,
+        "City": "MADISON HEIGHTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1052028,
+          42.4858692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISON TOWNSHIP",
+        "Population Served": 3480,
+        "City": "ADRIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0373054,
+          41.8975152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAJESTIC CARE OF FLUSHING",
+        "Population Served": 150,
+        "City": "FLUSHING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8510732,
+          43.0630834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAN NOR FARMS SUBDIVISION",
+        "Population Served": 193,
+        "City": "ADRIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0373054,
+          41.8975152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCELONA AREA WATER AND SEWER AUTHORITY",
+        "Population Served": 3900,
+        "City": "MANCELONA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.060885,
+          44.902229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCHESTER",
+        "Population Served": 2150,
+        "City": "MANCHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0377231,
+          42.1503178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANISTEE, CITY OF",
+        "Population Served": 6200,
+        "City": "MANISTEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3237448,
+          44.2476682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANISTIQUE",
+        "Population Served": 3197,
+        "City": "MANISTIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.246419,
+          45.95779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANTON, CITY OF",
+        "Population Served": 1287,
+        "City": "MANTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.398944,
+          44.41084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLE GROVE APARTMENTS",
+        "Population Served": 28,
+        "City": "PRUDENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6519671,
+          44.2983513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLE RAPIDS, VILLAGE OF",
+        "Population Served": 643,
+        "City": "MAPLE RAPIDS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.691941,
+          43.104755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLE RIDGE TOWNSHIP",
+        "Population Served": 250,
+        "City": "ROCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1659736,
+          46.0688447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLEWOOD AND STONE MANORS",
+        "Population Served": 60,
+        "City": "MIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.129728,
+          44.652236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARCELLUS",
+        "Population Served": 1198,
+        "City": "MARCELLUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8155576,
+          42.0258779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARENISCO TOWNSHIP",
+        "Population Served": 430,
+        "City": "MARENISCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.695366,
+          46.3794321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARINE CITY",
+        "Population Served": 4652,
+        "City": "MARINE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4941921,
+          42.7190045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARION, VILLAGE OF",
+        "Population Served": 800,
+        "City": "MARION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.146984,
+          44.102515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARQUETTE",
+        "Population Served": 20629,
+        "City": "MARQUETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.396433,
+          46.5434914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARSHALL",
+        "Population Served": 7088,
+        "City": "MARSHALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9642008,
+          42.2721367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARTIN",
+        "Population Served": 785,
+        "City": "MARTIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6416846,
+          42.5369783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARY'S CITY OF DAVID",
+        "Population Served": 35,
+        "City": "BENTON HARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4541894,
+          42.1167065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARYSVILLE, CITY OF",
+        "Population Served": 9959,
+        "City": "MARYSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4861734,
+          42.9108647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON, CITY OF",
+        "Population Served": 8252,
+        "City": "MASON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4422845,
+          42.5797113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MATHIAS TOWNSHIP",
+        "Population Served": 175,
+        "City": "TRENARY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9700876,
+          46.1950236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MATTAWAN",
+        "Population Served": 2037,
+        "City": "MATTAWAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.784453,
+          42.2094839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAYVILLE, VILLAGE OF",
+        "Population Served": 950,
+        "City": "MAYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.35245,
+          43.336968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCBAIN, CITY OF",
+        "Population Served": 640,
+        "City": "MCBAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.213376,
+          44.193623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCMILLAN TOWNSHIP",
+        "Population Served": 391,
+        "City": "EWEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2812556,
+          46.535222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MELVINDALE",
+        "Population Served": 12851,
+        "City": "MELVINDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.175203,
+          42.2825383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEMPHIS, CITY OF",
+        "Population Served": 1180,
+        "City": "MEMPHIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7688135,
+          42.8964179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MENDON",
+        "Population Served": 920,
+        "City": "MENDON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4499887,
+          42.0064378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MENOMINEE",
+        "Population Served": 8583,
+        "City": "MENOMINEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.614491,
+          45.107671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESICK, VILLAGE OF",
+        "Population Served": 397,
+        "City": "MESICK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.713401,
+          44.405282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "METAMORA, VILLAGE OF",
+        "Population Served": 565,
+        "City": "METAMORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2891092,
+          42.9414173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MICHIANA",
+        "Population Served": 182,
+        "City": "MICHIANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8133616,
+          41.7642071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDDLEVILLE",
+        "Population Served": 3309,
+        "City": "MIDDLEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4619599,
+          42.7130889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDLAND, CITY OF",
+        "Population Served": 42547,
+        "City": "MIDLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2472117,
+          43.6155825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILAN",
+        "Population Served": 7363,
+        "City": "MILAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6830279,
+          42.0848616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILFORD, VILLAGE OF",
+        "Population Served": 6366,
+        "City": "MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6000696,
+          42.5917805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLERSBURG, VILLAGE OF",
+        "Population Served": 206,
+        "City": "MILLERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.06084,
+          45.334456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLINGTON, VILLAGE OF",
+        "Population Served": 1072,
+        "City": "MILLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.529677,
+          43.281413
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONROE",
+        "Population Served": 48664,
+        "City": "MONROE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3968252,
+          41.9145037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONROE SOUTH COUNTY",
+        "Population Served": 33816,
+        "City": "MONROE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3968252,
+          41.9145037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTAGUE",
+        "Population Served": 2479,
+        "City": "MONTAGUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.357013,
+          43.416677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTROSE, CITY OF",
+        "Population Served": 1657,
+        "City": "MONTROSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.892744,
+          43.176694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORENCI",
+        "Population Served": 2220,
+        "City": "MORENCI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2173964,
+          41.7195109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT CLEMENS, CITY OF",
+        "Population Served": 18405,
+        "City": "MOUNT CLEMENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8779754,
+          42.5972563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT MORRIS, CITY OF",
+        "Population Served": 3086,
+        "City": "MOUNT MORRIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.694958,
+          43.118637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT PLEASANT",
+        "Population Served": 21688,
+        "City": "MOUNT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7668495,
+          43.597646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUIR",
+        "Population Served": 604,
+        "City": "MUIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9425013,
+          42.9958661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUNISING",
+        "Population Served": 2783,
+        "City": "MUNISING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6494698,
+          46.4100035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUSKEGON",
+        "Population Served": 37213,
+        "City": "MUSKEGON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2483921,
+          43.2341813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUSKEGON HEIGHTS",
+        "Population Served": 9917,
+        "City": "MUSKEGON HEIGHTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.238946,
+          43.201126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MYSTIC VIEW APARTMENTS",
+        "Population Served": 100,
+        "City": "PULLMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0914189,
+          42.4836419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NAHMA TOWNSHIP",
+        "Population Served": 95,
+        "City": "NAHMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.66403,
+          45.84164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NAPOLEON TOWNSHIP",
+        "Population Served": 444,
+        "City": "NAPOLEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2460616,
+          42.1605944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NASHVILLE",
+        "Population Served": 1628,
+        "City": "NASHVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0930536,
+          42.6028137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEGAUNEE",
+        "Population Served": 4568,
+        "City": "NEGAUNEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.611803,
+          46.499102
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW BALTIMORE, CITY OF",
+        "Population Served": 12720,
+        "City": "NEW BALTIMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7368616,
+          42.6811436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW BUFFALO",
+        "Population Served": 1900,
+        "City": "NEW BUFFALO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7444526,
+          41.7952562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW HAVEN, VILLAGE OF",
+        "Population Served": 5600,
+        "City": "NEW HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1533058,
+          43.0936376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW LOTHROP, VILLAGE OF",
+        "Population Served": 610,
+        "City": "NEW LOTHROP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.969967,
+          43.116695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWAYGO",
+        "Population Served": 2571,
+        "City": "NEWAYGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.800051,
+          43.419743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWBERRY WATER & LIGHT",
+        "Population Served": 2000,
+        "City": "NEWBERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.512409,
+          46.353622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NILES",
+        "Population Served": 14215,
+        "City": "NILES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2541768,
+          41.8297694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH BRANCH, VILLAGE OF",
+        "Population Served": 1021,
+        "City": "NORTH BRANCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.196612,
+          43.229471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH MUSKEGON",
+        "Population Served": 3786,
+        "City": "NORTH MUSKEGON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.26756,
+          43.256125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHPORT, VILLAGE OF",
+        "Population Served": 526,
+        "City": "NORTHPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.616751,
+          45.131388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHVILLE",
+        "Population Served": 6119,
+        "City": "NORTHVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4832339,
+          42.4310816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHWEST OTTAWA CO WATER SYST",
+        "Population Served": 1,
+        "City": "GRAND HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2283864,
+          43.0630734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTON SHORES",
+        "Population Served": 23994,
+        "City": "NORTON SHORES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2639461,
+          43.1689044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORWAY",
+        "Population Served": 3314,
+        "City": "NORWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.903736,
+          45.786902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NOVI, CITY OF",
+        "Population Served": 48000,
+        "City": "NOVI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4754913,
+          42.48059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK LEAF MANOR",
+        "Population Served": 36,
+        "City": "LEWISTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3055687,
+          44.8839001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK PARK",
+        "Population Served": 29654,
+        "City": "OAK PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1821445,
+          42.4595317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLIVE/BLENDON TWPS",
+        "Population Served": 544,
+        "City": "BORCULO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0212227,
+          42.8853709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLIVET, CITY OF",
+        "Population Served": 1758,
+        "City": "OLIVET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9241542,
+          42.4414273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OMER, CITY OF",
+        "Population Served": 279,
+        "City": "OMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.854433,
+          44.04752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ONAWAY, CITY OF",
+        "Population Served": 880,
+        "City": "ONAWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.223903,
+          45.357512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ONSTED",
+        "Population Served": 907,
+        "City": "ONSTED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1899443,
+          42.0061554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ONTONAGON",
+        "Population Served": 2607,
+        "City": "ONTONAGON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.31403,
+          46.871053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORCHARD LAKE VILLAGE",
+        "Population Served": 2194,
+        "City": "ORCHARD LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.36895696,
+          42.5869558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSCEOLA TOWNSHIP",
+        "Population Served": 1391,
+        "City": "DOLLAR BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5115109,
+          47.1196494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OTISVILLE, VILLAGE OF",
+        "Population Served": 864,
+        "City": "OTISVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.524398,
+          43.166137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OTSEGO",
+        "Population Served": 3956,
+        "City": "OTSEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.696406,
+          42.4605904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OVID, CITY OF",
+        "Population Served": 1612,
+        "City": "OVID"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3714696,
+          43.0058396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OWOSSO, CITY OF",
+        "Population Served": 16353,
+        "City": "OWOSSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1720541,
+          42.9975968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OXFORD, VILLAGE OF",
+        "Population Served": 3540,
+        "City": "OXFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2646624,
+          42.8247524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARMA, VILLAGE OF",
+        "Population Served": 768,
+        "City": "PARMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5996885,
+          42.2583711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAW PAW",
+        "Population Served": 3362,
+        "City": "PAW PAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8911246,
+          42.2178171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAW PAW APTS - WEST MAPLE LAKE",
+        "Population Served": 40,
+        "City": "PAW PAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8911246,
+          42.2178171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENTWATER",
+        "Population Served": 857,
+        "City": "PENTWATER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4331053,
+          43.7817341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERE MARQUETTE TWP - CUSTOMER",
+        "Population Served": 339,
+        "City": "LUDINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4477416,
+          43.9555406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERRINTON, VILLAGE OF",
+        "Population Served": 439,
+        "City": "PERRINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.678856,
+          43.182839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERRY, CITY OF",
+        "Population Served": 2065,
+        "City": "PERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2194127,
+          42.8264205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETERSBURG",
+        "Population Served": 1115,
+        "City": "PETERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7149383,
+          41.9011578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETOSKEY, CITY OF",
+        "Population Served": 8979,
+        "City": "PETOSKEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.95533,
+          45.373343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEWAMO",
+        "Population Served": 476,
+        "City": "PEWAMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8472879,
+          43.0011493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINCKNEY, VILLAGE OF",
+        "Population Served": 2515,
+        "City": "PINCKNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9463359,
+          42.4567013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINCONNING, CITY OF",
+        "Population Served": 1204,
+        "City": "PINCONNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.964987,
+          43.853633
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEVIEW HOMES",
+        "Population Served": 25,
+        "City": "EVART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.258097,
+          43.900575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIRATES COVE CONDOMINIUMS",
+        "Population Served": 38,
+        "City": "ONEKAMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.205087,
+          44.363613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PITTSFIELD TOWNSHIP",
+        "Population Served": 24500,
+        "City": "ANN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLAINWELL",
+        "Population Served": 3998,
+        "City": "PLAINWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6417645,
+          42.4426144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT RIDGE",
+        "Population Served": 2872,
+        "City": "PLEASANT RIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1421482,
+          42.471147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLYMOUTH",
+        "Population Served": 9132,
+        "City": "PLYMOUTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4675021,
+          42.3712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POLKTON TOWNSHIP",
+        "Population Served": 135,
+        "City": "EASTMANVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9588463,
+          43.0173328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PONTIAC",
+        "Population Served": 63600,
+        "City": "PONTIAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2910468,
+          42.6389216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORT HURON, CITY OF",
+        "Population Served": 33800,
+        "City": "PORT HURON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4333742,
+          42.9760854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORTAGE",
+        "Population Served": 46292,
+        "City": "PORTAGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5800022,
+          42.2011538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORTAGE POINT INN",
+        "Population Served": 125,
+        "City": "ONEKAMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.205087,
+          44.363613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORTLAND",
+        "Population Served": 3883,
+        "City": "PORTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9030517,
+          42.8692006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POSEN, VILLAGE OF",
+        "Population Served": 234,
+        "City": "POSEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.698878,
+          45.261957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTTERVILLE, CITY OF",
+        "Population Served": 2617,
+        "City": "POTTERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.738874,
+          42.629203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POWERS-SPALDING WATER AUTHORITY",
+        "Population Served": 459,
+        "City": "POWERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.52596,
+          45.689965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRAIRIE VILLAGE APARTMENTS",
+        "Population Served": 38,
+        "City": "VICKSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.532775,
+          42.1200456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUINCY",
+        "Population Served": 1544,
+        "City": "QUINCY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8838525,
+          41.9442145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUINNESEC",
+        "Population Served": 1200,
+        "City": "QUINNESEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.988459,
+          45.8063452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAVENNA",
+        "Population Served": 1219,
+        "City": "RAVENNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.93704,
+          43.189626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "READING",
+        "Population Served": 1078,
+        "City": "READING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7480134,
+          41.8394928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REED CITY, CITY OF",
+        "Population Served": 2425,
+        "City": "REED CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.51005,
+          43.875017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REPUBLIC TOWNSHIP",
+        "Population Served": 700,
+        "City": "REPUBLIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.97569,
+          46.406606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHLYN MANOR",
+        "Population Served": 192,
+        "City": "ADRIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0373054,
+          41.8975152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHMOND TOWNSHIP",
+        "Population Served": 489,
+        "City": "PALMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.593192,
+          46.4407709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHMOND, CITY OF",
+        "Population Served": 5733,
+        "City": "RICHMOND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7557554,
+          42.8091969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIGA TOWNSHIP",
+        "Population Served": 266,
+        "City": "RIGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8249404,
+          41.8092159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVER ROUGE",
+        "Population Served": 7224,
+        "City": "RIVER ROUGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1352891,
+          42.2729262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERVIEW",
+        "Population Served": 12486,
+        "City": "RIVERVIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1793697,
+          42.1742073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCHESTER",
+        "Population Served": 7130,
+        "City": "ROCHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1338214,
+          42.680588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCHESTER EAST",
+        "Population Served": 5500,
+        "City": "ROCHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1338214,
+          42.680588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCHESTER HILLS",
+        "Population Served": 74000,
+        "City": "ROCHESTER HILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1499322,
+          42.6583661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKFORD",
+        "Population Served": 7160,
+        "City": "ROCKFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.559604,
+          43.119721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKLAND TOWNSHIP",
+        "Population Served": 350,
+        "City": "ROCKLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1795854,
+          46.7379959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKWOOD",
+        "Population Served": 3289,
+        "City": "ROCKWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2465957,
+          42.0708765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROGERS CITY, CITY OF",
+        "Population Served": 2827,
+        "City": "ROGERS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.818185,
+          45.421391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROMEO, VILLAGE OF",
+        "Population Served": 3750,
+        "City": "ROMEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0129874,
+          42.802808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROMULUS",
+        "Population Served": 23989,
+        "City": "ROMULUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3965995,
+          42.2222614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROOSEVELT PARK",
+        "Population Served": 3831,
+        "City": "ROOSEVELT PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.272281,
+          43.196404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSCOMMON, VILLAGE OF",
+        "Population Served": 1075,
+        "City": "ROSCOMMON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.591968,
+          44.49835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSE CITY, CITY OF",
+        "Population Served": 180,
+        "City": "ROSE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1163896,
+          44.4214456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSEVILLE, CITY OF",
+        "Population Served": 47299,
+        "City": "ROSEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9371409,
+          42.4972583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROYAL OAK, CITY OF",
+        "Population Served": 57236,
+        "City": "ROYAL OAK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1446485,
+          42.4894801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUDYARD TOWNSHIP",
+        "Population Served": 250,
+        "City": "RUDYARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6003272,
+          46.232518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAGINAW, CITY OF",
+        "Population Served": 44058,
+        "City": "SAGINAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9490365,
+          43.4200387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINE",
+        "Population Served": 9158,
+        "City": "SALINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7816075,
+          42.1667072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAND LAKE",
+        "Population Served": 360,
+        "City": "SAND LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.518073,
+          43.29238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDHILL MANOR",
+        "Population Served": 148,
+        "City": "HOUGHTON LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7647496,
+          44.314739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDUSKY, CITY OF",
+        "Population Served": 2679,
+        "City": "SANDUSKY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.829657,
+          43.420299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SARANAC",
+        "Population Served": 1343,
+        "City": "SARANAC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2129031,
+          42.9292232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAULT STE MARIE",
+        "Population Served": 14689,
+        "City": "SAULT STE. MARIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3476583,
+          46.4976734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCIO TOWNSHIP",
+        "Population Served": 8500,
+        "City": "ANN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTTVILLE, CITY OF",
+        "Population Served": 1214,
+        "City": "SCOTTVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.280079,
+          43.954728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SENEY TOWNSHIP",
+        "Population Served": 100,
+        "City": "SENEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9467491,
+          46.3453928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHELBY",
+        "Population Served": 1964,
+        "City": "SHELBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.363963,
+          43.608619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHERIDAN",
+        "Population Served": 649,
+        "City": "SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.073626,
+          43.212254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHERMAN TOWNSHIP",
+        "Population Served": 40,
+        "City": "GAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1642174,
+          47.2279906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SISTERS OF MARY, MOTHER OF EUCHARIST",
+        "Population Served": 100,
+        "City": "ANN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7484616,
+          42.2813722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SKANDIA-WEST BRANCH WATER DEPT",
+        "Population Served": 275,
+        "City": "SKANDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2415315,
+          46.3774407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH HAVEN AREA WATER & SEWER AUTHORITY",
+        "Population Served": 9133,
+        "City": "SOUTH HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2736407,
+          42.4030865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH LYON, CITY OF",
+        "Population Served": 11055,
+        "City": "SOUTH LYON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.659179,
+          42.451377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH POINTE I APARTMENTS",
+        "Population Served": 32,
+        "City": "INDIAN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6125364,
+          45.4125117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH RANGE",
+        "Population Served": 745,
+        "City": "SOUTH RANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.643181,
+          47.069928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH ROCKWOOD",
+        "Population Served": 1587,
+        "City": "SOUTH ROCKWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2610406,
+          42.0639323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH SHORE WATER SYSTEM",
+        "Population Served": 488,
+        "City": "BROOKLYN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2482819,
+          42.105874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHFIELD",
+        "Population Served": 71739,
+        "City": "SOUTHFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2218731,
+          42.4733689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHGATE",
+        "Population Served": 30047,
+        "City": "SOUTHGATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2067556,
+          42.2037103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPARTA",
+        "Population Served": 4140,
+        "City": "SPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.710039,
+          43.160858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING ARBOR TOWNSHIP",
+        "Population Served": 2833,
+        "City": "SPRING ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5527387,
+          42.2050383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING LAKE",
+        "Population Served": 2512,
+        "City": "SPRING LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.196997,
+          43.076963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGFIELD",
+        "Population Served": 3833,
+        "City": "SPRINGFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2391614,
+          42.3264298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGPORT",
+        "Population Served": 800,
+        "City": "SPRINGPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6985883,
+          42.378372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPSM",
+        "Population Served": 7166,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.2465036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST IGNACE",
+        "Population Served": 2987,
+        "City": "ST. IGNACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7278281,
+          45.8686238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST JOSEPH",
+        "Population Served": 8789,
+        "City": "ST JOSEPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4799538,
+          42.1095808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST. CLAIR SHORES, CITY OF",
+        "Population Served": 59715,
+        "City": "ST. CLAIR SHORES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8890965,
+          42.4969652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST. JOHNS, CITY OF",
+        "Population Served": 7896,
+        "City": "ST. JOHNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5585098,
+          43.000928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST. LOUIS CENTER",
+        "Population Served": 56,
+        "City": "CHELSEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020224,
+          42.3180163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST. LOUIS, CITY OF",
+        "Population Served": 6976,
+        "City": "ST. LOUIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6066704,
+          43.4083637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STANDISH, CITY OF",
+        "Population Served": 1509,
+        "City": "STANDISH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.95888,
+          43.983076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STANTON",
+        "Population Served": 1417,
+        "City": "STANTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.081407,
+          43.292532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STEPHENSON",
+        "Population Served": 862,
+        "City": "STEPHENSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.607616,
+          45.415251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STERLING HEIGHTS, CITY OF",
+        "Population Served": 127000,
+        "City": "STERLING HEIGHTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0302033,
+          42.5803122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STOCKBRIDGE, VILLAGE OF",
+        "Population Served": 1202,
+        "City": "STOCKBRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1805146,
+          42.4511466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STURGIS",
+        "Population Served": 11920,
+        "City": "STURGIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4191482,
+          41.799217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMIT TOWNSHIP",
+        "Population Served": 22522,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.2465036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNFIELD, VILLAGE OF",
+        "Population Served": 680,
+        "City": "SUNFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9924962,
+          42.7622568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET BEACH ASSOCIATION",
+        "Population Served": 29,
+        "City": "INDIAN RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6125364,
+          45.4125117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUPERIOR TOWNSHIP",
+        "Population Served": 767,
+        "City": "BRIMLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5722724,
+          46.4052986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUPERIOR TOWNSHIP",
+        "Population Served": 6830,
+        "City": "YPSILANTI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6117646,
+          42.241051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUTTONS BAY, VILLAGE OF",
+        "Population Served": 874,
+        "City": "SUTTONS BAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6511429,
+          44.9763817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWARTZ CREEK, CITY OF",
+        "Population Served": 5800,
+        "City": "SWARTZ CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8305144,
+          42.9572508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLVAN LAKE",
+        "Population Served": 2155,
+        "City": "SYLVAN LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3285467,
+          42.6114217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLVAN TOWNSHIP",
+        "Population Served": 263,
+        "City": "CHELSEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.020224,
+          42.3180163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAWAS CITY, CITY OF",
+        "Population Served": 1827,
+        "City": "TAWAS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.514697,
+          44.269461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAYLOR",
+        "Population Served": 63409,
+        "City": "TAYLOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2696509,
+          42.240872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TECUMSEH",
+        "Population Served": 8521,
+        "City": "TECUMSEH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9449417,
+          42.0039331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TEKONSHA",
+        "Population Served": 722,
+        "City": "TEKONSHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9858051,
+          42.0933791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE LEELANAU SCHOOL",
+        "Population Served": 82,
+        "City": "GLEN ARBOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9888783,
+          44.8977316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE PINES OF GOODRICH",
+        "Population Served": 40,
+        "City": "GOODRICH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.501656,
+          42.91708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE PORCHES",
+        "Population Served": 25,
+        "City": "GAYLORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.674752,
+          45.027513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THREE RIVERS",
+        "Population Served": 7905,
+        "City": "THREE RIVERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6346222,
+          41.9442722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TILDEN TOWNSHIP",
+        "Population Served": 375,
+        "City": "NATIONAL MINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6815246,
+          46.4585481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRAVERSE CITY",
+        "Population Served": 14532,
+        "City": "TRAVERSE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6165976,
+          44.7606481
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRENTON",
+        "Population Served": 18544,
+        "City": "TRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1800544,
+          42.1406552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TROY",
+        "Population Served": 85854,
+        "City": "TROY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1499304,
+          42.6055893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION CITY",
+        "Population Served": 1630,
+        "City": "UNION CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1360882,
+          42.0667135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UTICA, CITY OF",
+        "Population Served": 5059,
+        "City": "UTICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0335384,
+          42.6261446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VAN BUREN TOWNSHIP",
+        "Population Served": 27359,
+        "City": "BELLEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4852106,
+          42.2048414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VASSAR, CITY OF",
+        "Population Served": 2697,
+        "City": "VASSAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.583292,
+          43.371968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VERMONTVILLE, VILLAGE OF",
+        "Population Served": 780,
+        "City": "VERMONTVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0241621,
+          42.6289247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VICKSBURG",
+        "Population Served": 2906,
+        "City": "VICKSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.532775,
+          42.1200456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE AT EAGLE GARDENS",
+        "Population Served": 193,
+        "City": "WHITMORE LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7438303,
+          42.439479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAKEFIELD",
+        "Population Served": 1808,
+        "City": "WAKEFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.941003,
+          46.476545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALDRON",
+        "Population Served": 538,
+        "City": "WALDRON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.418837,
+          41.7278281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALLED LAKE, CITY OF",
+        "Population Served": 5452,
+        "City": "WALLED LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4810481,
+          42.537811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARREN, CITY OF",
+        "Population Served": 134056,
+        "City": "WARREN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0062746,
+          42.4932575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERFORD TOWNSHIP",
+        "Population Served": 73441,
+        "City": "WATERFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.402718,
+          42.7022527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERSMEET TOWNSHIP",
+        "Population Served": 575,
+        "City": "WATERSMEET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.177918,
+          46.267726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERVLIET",
+        "Population Served": 2735,
+        "City": "WATERVLIET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2605776,
+          42.1867052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYLAND",
+        "Population Served": 4435,
+        "City": "WAYLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6457663,
+          42.6745321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNE",
+        "Population Served": 17593,
+        "City": "WAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3863215,
+          42.2814269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEBBERVILLE, VILLAGE OF",
+        "Population Served": 1503,
+        "City": "WEBBERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.174432,
+          42.6668257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST BRANCH, CITY OF",
+        "Population Served": 2139,
+        "City": "WEST BRANCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.238613,
+          44.276408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST PARK APARTMENTS",
+        "Population Served": 54,
+        "City": "GAYLORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.674752,
+          45.027513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTBROOK APARTMENTS",
+        "Population Served": 330,
+        "City": "WHITMORE LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7438303,
+          42.439479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTLAND",
+        "Population Served": 84094,
+        "City": "WAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3863215,
+          42.2814269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTPHALIA, VILLAGE OF",
+        "Population Served": 925,
+        "City": "WESTPHALIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.798605,
+          42.9294782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE CLOUD",
+        "Population Served": 1408,
+        "City": "WHITE CLOUD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.771997,
+          43.550297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE DEER VILLAGE",
+        "Population Served": 20,
+        "City": "HOUGHTON LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7647496,
+          44.314739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE PIGEON",
+        "Population Served": 1640,
+        "City": "WHITE PIGEON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6433229,
+          41.7981056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITEHALL",
+        "Population Served": 2902,
+        "City": "WHITEHALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.348679,
+          43.410011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSTON, CITY OF",
+        "Population Served": 3917,
+        "City": "WILLIAMSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2832798,
+          42.689151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLOWS ON TWIN PONDS",
+        "Population Served": 147,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4016963,
+          42.2465036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WIXOM, CITY OF",
+        "Population Served": 13928,
+        "City": "WIXOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5363637,
+          42.5246873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODHAVEN",
+        "Population Served": 12875,
+        "City": "WOODHAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2451066,
+          42.1370519
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WYANDOTTE",
+        "Population Served": 25883,
+        "City": "WYANDOTTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1506436,
+          42.200409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WYOMING",
+        "Population Served": 72125,
+        "City": "WYOMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7057035,
+          42.9132581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YALE, CITY OF",
+        "Population Served": 1900,
+        "City": "YALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.798263,
+          43.130026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YPSILANTI COMMUNITY UTILITY AUTHORITY",
+        "Population Served": 53988,
+        "City": "YPSILANTI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6117646,
+          42.241051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ZEELAND BOARD OF PUBLIC WORKS",
+        "Population Served": 8328,
+        "City": "ZEELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0165267,
+          42.8123375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ZILWAUKEE, CITY OF",
+        "Population Served": 1534,
+        "City": "SAGINAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9490365,
+          43.4200387
+        ]
+      }
+    }
+  ]
+}

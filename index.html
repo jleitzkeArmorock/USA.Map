@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Leaflet GeoJSON Example</title>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster/dist/MarkerCluster.Default.css" />
+  <script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster/dist/leaflet.markercluster.js"></script>
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+      padding: 0;
+    }
+    #map {
+      height: 100%;
+      width: 100%;
+    }
+  </style>
+</head>
+<body>
+
+<h3>Leaflet Map with GeoJSON</h3>
+<div id="map"></div>
+
+<script>
+  // Initialize the map
+  const map = L.map('map').setView([37.8, -96], 4);
+  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+    attribution: '© OpenStreetMap contributors'
+  }).addTo(map);
+
+  // Function to choose color based on population
+  function getColor(pop) {
+    return pop > 100000 ? '#800026' :
+           pop > 50000  ? '#BD0026' :
+           pop > 20000  ? '#E31A1C' :
+           pop > 10000  ? '#FC4E2A' :
+           pop > 5000   ? '#FD8D3C' :
+           pop > 1000   ? '#FEB24C' :
+           pop > 0      ? '#FED976' :
+                          '#FFEDA0';
+  }
+
+  // Marker cluster group
+  const markers = L.markerClusterGroup();
+
+  // Function to fetch and add GeoJSON
+  function addGeoJsonToMap(url) {
+    fetch(url)
+      .then(response => response.json())
+      .then(data => {
+        const geojsonLayer = L.geoJSON(data, {
+          pointToLayer: function (feature, latlng) {
+            const pop = feature.properties["Population Served"] || 0;
+            return L.circleMarker(latlng, {
+              radius: 6,
+              fillColor: getColor(pop),
+              color: "#333",
+              weight: 1,
+              opacity: 1,
+              fillOpacity: 0.8
+            });
+          },
+          onEachFeature: function (feature, layer) {
+            if (feature.properties) {
+              const popupContent = `
+                <strong>${feature.properties["Water System Name"]}</strong><br>
+                Population Served: ${feature.properties["Population Served"] || "N/A"}<br>
+                City: ${feature.properties["City"] || "N/A"}
+              `;
+              layer.bindPopup(popupContent);
+            }
+          }
+        });
+
+        markers.addLayer(geojsonLayer);
+        map.addLayer(markers);
+      });
+  }
+
+  // Call it for multiple files
+  addGeoJsonToMap('MI.City.geojson');
+  addGeoJsonToMap('MI.NoCity.geojson');
+  addGeoJsonToMap('In.Data.geojson');
+  addGeoJsonToMap('IN.NoCity.geojson');
+</script>
+
+</body>
+</html>
