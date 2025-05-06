@@ -1,0 +1,6200 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COONS RUN PSD",
+        "Population Served": 927,
+        "City": "ADAMSVILLE,FRANCIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.24481,
+          39.40814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOUNTAIN PSD",
+        "Population Served": 1001,
+        "City": "ADDITION,KEYSER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3517,
+          38.802617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALBRIGHT TOWN OF",
+        "Population Served": 317,
+        "City": "ALBRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6428302,
+          39.4939772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRESTON COUNTY PSD 4",
+        "Population Served": 8753,
+        "City": "ALBRIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6428302,
+          39.4939772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALDERSON WATER",
+        "Population Served": 2458,
+        "City": "ALDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6427598,
+          37.7295035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN PSD",
+        "Population Served": 4039,
+        "City": "ALUM CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83520769100348,
+          38.2690725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUFFALO CREEK PSD",
+        "Population Served": 3821,
+        "City": "AMHERSTDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.809284,
+          37.7853849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANMOORE TOWN OF",
+        "Population Served": 951,
+        "City": "ANMOORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2923107,
+          39.2567572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD ARNETT",
+        "Population Served": 6663,
+        "City": "ARNETT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4301064,
+          37.8334445
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTHURDALE WATER ASSOC.",
+        "Population Served": 264,
+        "City": "ARTHURDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8150605,
+          39.4950858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRESTON CO PSD 1 PURCHASER",
+        "Population Served": 291,
+        "City": "ARTHURDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8150605,
+          39.4950858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASHLAND COMMUNITY",
+        "Population Served": 32,
+        "City": "ASHLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3526017,
+          37.4084488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON CO PSD - ASHTON",
+        "Population Served": 3768,
+        "City": "ASHTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1645889,
+          38.6242509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATHENS TOWN OF",
+        "Population Served": 5633,
+        "City": "ATHENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0161994,
+          37.4223414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL HAMPSHIRE PSD",
+        "Population Served": 2274,
+        "City": "AUGUSTA,ROMNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.758214,
+          39.343726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY CO P S W D-BUNKER HILL",
+        "Population Served": 34586,
+        "City": "BAKER HEIGHTS,INWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.376655,
+          37.73086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTOMAC FARMS WATER CO",
+        "Population Served": 65,
+        "City": "BAKERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7630489,
+          39.3628782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD BARTLEY",
+        "Population Served": 2242,
+        "City": "BARTLEY,ENGLISH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.71511,
+          37.33789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY MEM AIRPORT",
+        "Population Served": 4587,
+        "City": "BEAVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6653701,
+          38.3284435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BECKLEY WATER COMPANY",
+        "Population Served": 47386,
+        "City": "BECKLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1881557,
+          37.7781702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEECH BOTTOM WATER DEPT",
+        "Population Served": 610,
+        "City": "BEECH BOTTOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6514658,
+          40.2264597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELINGTON TOWN OF",
+        "Population Served": 2146,
+        "City": "BELINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9355873,
+          39.025097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELLWOOD COMMUNITY FACIL IMP",
+        "Population Served": 113,
+        "City": "BELLWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8300907,
+          37.9217833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELMONT, CITY OF",
+        "Population Served": 1048,
+        "City": "BELMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2584476,
+          39.3795193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAULEY RIVER PSD",
+        "Population Served": 3944,
+        "City": "BELVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.192053,
+          38.2312172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENWOOD WATER DEPARTMENT",
+        "Population Served": 1510,
+        "City": "BENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7347236,
+          40.0169542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "APPLE ORCHARD ACRES",
+        "Population Served": 91,
+        "City": "BERKELEY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2279514,
+          39.6267975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY SPRGS HEALTHCARE CENTER - LOWER",
+        "Population Served": 140,
+        "City": "BERKELEY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2279514,
+          39.6267975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY SPRGS HEALTHCARE CENTER - UPPER",
+        "Population Served": 140,
+        "City": "BERKELEY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2279514,
+          39.6267975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY SPRINGS CITY OF",
+        "Population Served": 3526,
+        "City": "BERKELEY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2279514,
+          39.6267975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SKY LINE VILLAGE MHP",
+        "Population Served": 120,
+        "City": "BERKELEY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2279514,
+          39.6267975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRI LAKE HOLDINGS, INC.",
+        "Population Served": 139,
+        "City": "BERKELEY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2279514,
+          39.6267975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAUGHS COMMUNITY HOME PARK",
+        "Population Served": 69,
+        "City": "BERKELEY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.2279514,
+          39.6267975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHESTNUT RIDGE PSD - BERRYBURG",
+        "Population Served": 148,
+        "City": "BERRYBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0845262,
+          39.2000955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD BERWIND",
+        "Population Served": 692,
+        "City": "BERWIND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6667753,
+          37.268725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHLEHEM",
+        "Population Served": 2667,
+        "City": "BETHLEHEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6906355,
+          40.043962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEVERLY TOWN OF",
+        "Population Served": 2268,
+        "City": "BEVERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8751955,
+          38.8407799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIRCH RIVER PSD",
+        "Population Served": 1205,
+        "City": "BIRCH RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7550982,
+          38.4987149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD BISHOP",
+        "Population Served": 50,
+        "City": "BISHOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5589363,
+          37.2085024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC BLUEFIELD DISTRICT",
+        "Population Served": 12174,
+        "City": "BLUEFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2223195,
+          37.2698395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUEWELL PSD",
+        "Population Served": 6216,
+        "City": "BLUEWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2598216,
+          37.3126167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRI-COUNTY WATER ASSOC - FAIRMONT",
+        "Population Served": 2607,
+        "City": "BOOTHSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1950826,
+          39.3948095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD BRADSHAW",
+        "Population Served": 163,
+        "City": "BRADSHAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0317928,
+          37.8017706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANCHLAND MIDKIFF PSD",
+        "Population Served": 3157,
+        "City": "BRANCHLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2037529,
+          38.2209232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON CO PSD(BRANDYWINE)",
+        "Population Served": 692,
+        "City": "BRANDYWINE,FRANKLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.332137,
+          38.644083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRENTON PSD",
+        "Population Served": 241,
+        "City": "BRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6359425,
+          37.5959449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN CAMP PSD",
+        "Population Served": 44,
+        "City": "BRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6359425,
+          37.5959449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGEPORT CITY OF",
+        "Population Served": 10775,
+        "City": "BRIDGEPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2561981,
+          39.2864787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALYESKA INC",
+        "Population Served": 50,
+        "City": "BRUCETON MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6411594,
+          39.6586918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUCKHANNON WATER BOARD",
+        "Population Served": 8098,
+        "City": "BUCKHANNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2322698,
+          38.9939426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKINS ROAD PSD",
+        "Population Served": 3112,
+        "City": "BUCKHANNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2322698,
+          38.9939426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HODGESVILLE PSD LORENTZ SYSTEM",
+        "Population Served": 376,
+        "City": "BUCKHANNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2322698,
+          38.9939426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HODGESVILLE PSD RT 20",
+        "Population Served": 2161,
+        "City": "BUCKHANNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2322698,
+          38.9939426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HODGESVILLE PSD - SAULS RUN",
+        "Population Served": 151,
+        "City": "BUCKHANNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2322698,
+          38.9939426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT HOPE WATER ASSOC",
+        "Population Served": 2870,
+        "City": "BUCKHANNON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2322698,
+          38.9939426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOUNTAIN PSD BURLINGTON",
+        "Population Served": 793,
+        "City": "BURLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9180799,
+          39.3375992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURNSVILLE PUBLIC UTILITY",
+        "Population Served": 1126,
+        "City": "BURNSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6548179,
+          38.8562069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAIRO WATER DEPARTMENT",
+        "Population Served": 406,
+        "City": "CAIRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1568523,
+          39.2088298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMERON WATER",
+        "Population Served": 962,
+        "City": "CAMERON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.566467,
+          39.8270237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIMBERLINE-CV PSD",
+        "Population Served": 577,
+        "City": "CANAAN VALLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.2567806,
+          42.0406482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN OF CAPON BRIDGE INC",
+        "Population Served": 700,
+        "City": "CAPON BRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.437672,
+          39.3006421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHERRY RUN MHP",
+        "Population Served": 135,
+        "City": "CARLISLE,HEDGESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18038,
+          37.96122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASS SCENIC RAILROAD",
+        "Population Served": 555,
+        "City": "CASS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9147826,
+          38.396785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEREDO WATER WORKS",
+        "Population Served": 1472,
+        "City": "CEREDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5586979,
+          38.3964816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAPMANVILLE, TOWN OF",
+        "Population Served": 1626,
+        "City": "CHAPMANVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0173502,
+          37.9737114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGEVIEW ESTATES PROP ASSOC",
+        "Population Served": 106,
+        "City": "CHAPMANVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0173502,
+          37.9737114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARLES TOWN UTILITIES",
+        "Population Served": 15220,
+        "City": "CHARLES TOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.859581,
+          39.2891836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAW - CAVE QUARTER UTILITY",
+        "Population Served": 126,
+        "City": "CHARLES TOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.859581,
+          39.2891836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAW - DEERFIELD VILLAGE SUBDIVISION",
+        "Population Served": 132,
+        "City": "CHARLES TOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.859581,
+          39.2891836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAW - WALNUT GROVE UTILITIES",
+        "Population Served": 7250,
+        "City": "CHARLES TOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.859581,
+          39.2891836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC-KANAWHA VALLEY DIST",
+        "Population Served": 207319,
+        "City": "CHARLESTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6332812,
+          38.3505995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINGO COUNTY PSD CHATTAROY",
+        "Population Served": 223,
+        "City": "CHATTAROY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.278385,
+          37.7045896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHESTER WATER DEPT.",
+        "Population Served": 3220,
+        "City": "CHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5628478,
+          40.6131203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHESTNUT RIDGE PSD",
+        "Population Served": 2744,
+        "City": "CHESTNUT RIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8133986,
+          39.3839818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLARKSBURG WATER BOARD",
+        "Population Served": 18006,
+        "City": "CLARKSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3445341,
+          39.2806451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST VIEW PSD 172",
+        "Population Served": 158,
+        "City": "CLARKSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3445341,
+          39.2806451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST VIEW PSD 194",
+        "Population Served": 393,
+        "City": "CLARKSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3445341,
+          39.2806451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMIT PARK PSD",
+        "Population Served": 827,
+        "City": "CLARKSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3445341,
+          39.2806451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY CO P S D - IVYDALE",
+        "Population Served": 729,
+        "City": "CLAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0851086,
+          38.4603788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY WATER DEPT",
+        "Population Served": 1232,
+        "City": "CLAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0851086,
+          38.4603788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD CLEAR CREEK",
+        "Population Served": 1407,
+        "City": "CLEAR CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3442733,
+          37.9162215
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REAMER HILL WATER ASSOC",
+        "Population Served": 59,
+        "City": "CLENDENIN (RR NAME CLENDENNIN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOVER PSD",
+        "Population Served": 976,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2895631,
+          38.7231463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD COAL CITY",
+        "Population Served": 3415,
+        "City": "COAL CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2103776,
+          37.6790041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COAL MOUNTAIN WATER",
+        "Population Served": 80,
+        "City": "COAL MOUNTAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7284465,
+          37.6695541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD COALWOOD",
+        "Population Served": 1008,
+        "City": "COALWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6526087,
+          37.3873354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOKE COUNTY PSD",
+        "Population Served": 240,
+        "City": "COLLIERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5411813,
+          40.3670132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOL RIDGE FLAT TOP PSD",
+        "Population Served": 4190,
+        "City": "COOL RIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0956508,
+          37.6581725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY BATTELLE PSD",
+        "Population Served": 3858,
+        "City": "CORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1071146,
+          39.6801124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COTTAGEVILLE PSD",
+        "Population Served": 3230,
+        "City": "COTTAGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8234667,
+          38.8656381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COWEN PSD",
+        "Population Served": 3098,
+        "City": "COWEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5578662,
+          38.4095529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRAIGSVILLE PSD",
+        "Population Served": 4711,
+        "City": "CRAIGSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6531473,
+          38.3306658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENBRIER COUNTY PSD 2",
+        "Population Served": 1478,
+        "City": "CRICHTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.716201,
+          38.056227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRUM PSD",
+        "Population Served": 3437,
+        "City": "CRUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4459823,
+          37.90565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRUMPLER COMMUNITY WATER",
+        "Population Served": 170,
+        "City": "CRUMPLER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3417681,
+          37.4248377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DANESE PSD",
+        "Population Served": 2294,
+        "City": "DANESE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9031487,
+          37.9306711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC GLADE SPRINGS DISTRICT",
+        "Population Served": 1747,
+        "City": "DANIELS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1228751,
+          37.7431716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVIS WATER WORKS",
+        "Population Served": 884,
+        "City": "DAVIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4647632,
+          39.1287273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVY MUNICIPAL WATER WORKS",
+        "Population Served": 332,
+        "City": "DAVY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6534423,
+          37.4784458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELBARTON TOWN OF",
+        "Population Served": 265,
+        "City": "DELBARTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.183332,
+          37.7112205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINGO COUNTY PSD - DELORME",
+        "Population Served": 64,
+        "City": "DELORME (RR NAME FOR EDGARTON)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POCAHONTAS COUNTY PSD",
+        "Population Served": 504,
+        "City": "DURBIN FR BART,FRANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.804507,
+          38.545554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD ECKMAN",
+        "Population Served": 118,
+        "City": "ECKMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4642706,
+          37.4045591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELIZABETH WATER DEPT",
+        "Population Served": 2289,
+        "City": "ELIZABETH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3952725,
+          39.0633754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKINS CITY OF",
+        "Population Served": 8544,
+        "City": "ELKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8466552,
+          38.925927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEADSVILLE PSD",
+        "Population Served": 1536,
+        "City": "ELKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8466552,
+          38.925927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDLAND PSD",
+        "Population Served": 3700,
+        "City": "ELKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8466552,
+          38.925927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRMONT CITY OF",
+        "Population Served": 30586,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIR OAKS SUBDIVISION",
+        "Population Served": 178,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ICES RUN PSD",
+        "Population Served": 1159,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLE CREEK PSD",
+        "Population Served": 2136,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONUMENTAL PSD",
+        "Population Served": 1949,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONUMENTAL PSD - CHESAPEAKE",
+        "Population Served": 96,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAYFORD ACRES",
+        "Population Served": 194,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY FALLS PSD",
+        "Population Served": 4042,
+        "City": "FAIRMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1425781,
+          39.4850848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRVIEW TOWN OF",
+        "Population Served": 958,
+        "City": "FAIRVIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2474794,
+          39.5926491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARMINGTON TOWN OF",
+        "Population Served": 699,
+        "City": "FARMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2489715,
+          39.5128612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNNY VIEW ACRES WATER PROJECT",
+        "Population Served": 69,
+        "City": "FARMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2489715,
+          39.5128612
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FENWICK MOUNTAIN PSD",
+        "Population Served": 554,
+        "City": "FENWICK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5823099,
+          38.228725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT HILL P S D RT 16 DISTRICT",
+        "Population Served": 1868,
+        "City": "FIVE FORKS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0998024,
+          39.0062115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD EGERIA",
+        "Population Served": 200,
+        "City": "FLAT TOP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1067614,
+          37.5895616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLATWOODS CANOE RUN PSD",
+        "Population Served": 4344,
+        "City": "FLATWOODS,SUTTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.42876,
+          36.89066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHWESTERN WATER DISTRICT",
+        "Population Served": 5296,
+        "City": "FLEMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1319715,
+          39.2666341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOLLANSBEE HOOVERSON HEIGHTS",
+        "Population Served": 4970,
+        "City": "FOLLANSBEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5959065,
+          40.3275693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOLLANSBEE MUNICIPAL",
+        "Population Served": 3145,
+        "City": "FOLLANSBEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5959065,
+          40.3275693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKFORT PSD",
+        "Population Served": 6747,
+        "City": "FORT ASHBY,SHORT GAP,WILEY FORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.74991,
+          39.617402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT GAY WATER WORKS",
+        "Population Served": 1685,
+        "City": "FORT GAY (CASSVILLE)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.593511,
+          38.12005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOUR STATES PSD",
+        "Population Served": 406,
+        "City": "FOUR STATES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3098077,
+          39.4798067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUGAR CREEK PSD",
+        "Population Served": 1572,
+        "City": "FRAMETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8584357,
+          38.6378762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN MUNICIPALITY OF",
+        "Population Served": 1402,
+        "City": "FRANKLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3311531,
+          38.6428945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON CO PSD-CIRCLEVILLE",
+        "Population Served": 75,
+        "City": "FRANKLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3311531,
+          38.6428945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON CO PSD-US 220 NORTH",
+        "Population Served": 156,
+        "City": "FRANKLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3311531,
+          38.6428945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON CO PSD-UPPER TRACT",
+        "Population Served": 633,
+        "City": "FRANKLIN,UPPER TRACT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.28254,
+          38.78734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC 5 AND 20 MILE ROAD DISTRICT",
+        "Population Served": 78,
+        "City": "FRAZIERS BOTTOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9906931,
+          38.570365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADRIAN P S D",
+        "Population Served": 5327,
+        "City": "FRENCH CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2973054,
+          38.8856557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENS RUN INDUSTRIAL PARK WATER SYSTEM",
+        "Population Served": 673,
+        "City": "FRIENDLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0592766,
+          39.5159085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TYLER COUNTY PSD",
+        "Population Served": 3195,
+        "City": "FRIENDLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0592766,
+          39.5159085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALLIPOLIS FERRY",
+        "Population Served": 1056,
+        "City": "GALLIPOLIS FERRY (RR NAME GALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.204129,
+          38.774348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAP MILLS PSD",
+        "Population Served": 480,
+        "City": "GAP MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.408118,
+          37.5623469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARY CITY OF",
+        "Population Served": 1633,
+        "City": "GARY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5501063,
+          37.3637253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAW- GASSAWAY",
+        "Population Served": 2002,
+        "City": "GASSAWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7746622,
+          38.6732278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KANAWHA FALLS PSD",
+        "Population Served": 2273,
+        "City": "GAULEY BRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1946927,
+          38.1686824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY CO PSWD-GLENWOOD FOREST",
+        "Population Served": 1102,
+        "City": "GERRARDSTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.0955563,
+          39.3703778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILBERT WATER WORKS",
+        "Population Served": 1840,
+        "City": "GILBERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8665068,
+          37.6142758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN DALE WATER WORKS",
+        "Population Served": 2495,
+        "City": "GLEN DALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7542517,
+          39.9492409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGER RUN PARK LLC",
+        "Population Served": 150,
+        "City": "GLENGARY,HEDGESVILLE,INWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.376655,
+          37.73086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILMER CO PSD",
+        "Population Served": 803,
+        "City": "GLENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8376033,
+          38.9342573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILMER CO PSD - ROUTE 33/119",
+        "Population Served": 425,
+        "City": "GLENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8376033,
+          38.9342573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILMER COUNTY PSD - FEDERAL PRISON",
+        "Population Served": 1884,
+        "City": "GLENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8376033,
+          38.9342573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENVILLE UTILITY",
+        "Population Served": 1751,
+        "City": "GLENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8376033,
+          38.9342573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAFTON CITY OF",
+        "Population Served": 6250,
+        "City": "GRAFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0189659,
+          39.3409249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAYMOND PSD",
+        "Population Served": 1325,
+        "City": "GRAFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0189659,
+          39.3409249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAYLOR COUNTY PSD",
+        "Population Served": 1322,
+        "City": "GRAFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0189659,
+          39.3409249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANT TOWN, TOWN OF",
+        "Population Served": 1224,
+        "City": "GRANT TOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1817437,
+          39.5581383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANTSVILLE MUNICIPAL",
+        "Population Served": 596,
+        "City": "GRANTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0959456,
+          38.9234195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT ZION P S D",
+        "Population Served": 1113,
+        "City": "GRANTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0959456,
+          38.9234195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL HAMPSHIRE PSD GREEN SPRING",
+        "Population Served": 1046,
+        "City": "GREEN SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6164037,
+          39.5317584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN CO PSD-GREENVILLE SYSTEM",
+        "Population Served": 3611,
+        "City": "GREENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6825744,
+          37.5434555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN PSD - ROUTE 3",
+        "Population Served": 2226,
+        "City": "GRIFFITHSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9892984,
+          38.2387052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMRICK PSD",
+        "Population Served": 1785,
+        "City": "HAMBLETON,HENDRICKS,ST. GEORGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.70229,
+          39.16677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARMAN TOWN OF",
+        "Population Served": 528,
+        "City": "HARMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5251648,
+          38.9224357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORPORATION OF HARPERS FERRY",
+        "Population Served": 2122,
+        "City": "HARPERS FERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7319766,
+          39.323418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK HILL MOBILE HOME COMMUNITY LLC",
+        "Population Served": 172,
+        "City": "HARPERS FERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7319766,
+          39.323418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAW - THE MOUNTAIN WATER SYSTEM",
+        "Population Served": 976,
+        "City": "HARPERS FERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.7319766,
+          39.323418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRISVILLE",
+        "Population Served": 2347,
+        "City": "HARRISVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0523249,
+          39.2098909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUGHES RIVER WATER",
+        "Population Served": 1,
+        "City": "HARRISVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0523249,
+          39.2098909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTFORD TOWN OF",
+        "Population Served": 745,
+        "City": "HARTFORD CITY (CORPORATE NAME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.988772,
+          38.989855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD HAVACO",
+        "Population Served": 370,
+        "City": "HAVACO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5778662,
+          37.4102695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUDY LYNN MHP",
+        "Population Served": 53,
+        "City": "HEDGESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9949993,
+          39.5534303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGAN VILLAGE MHP",
+        "Population Served": 98,
+        "City": "HEDGESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9949993,
+          39.5534303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODS HOA, THE",
+        "Population Served": 1087,
+        "City": "HEDGESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9949993,
+          39.5534303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODS HOME OWNERS ASSOCIATION 2",
+        "Population Served": 2213,
+        "City": "HEDGESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9949993,
+          39.5534303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD HEMPHILL",
+        "Population Served": 322,
+        "City": "HEMPHILLL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN COUNTY PSD - NORTHERN REGIONAL",
+        "Population Served": 16921,
+        "City": "HENLAWSON,LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.988181,
+          37.9023246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENLARGED HEPZIBAH PSD",
+        "Population Served": 1912,
+        "City": "HEPZIBAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1689715,
+          39.3500891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIAWATHA WATER",
+        "Population Served": 63,
+        "City": "HIAWATHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2439885,
+          37.4401161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DENMAR CORRECTIONAL CENTER",
+        "Population Served": 297,
+        "City": "HILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2131296,
+          38.1354376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLSBORO TOWN OF",
+        "Population Served": 262,
+        "City": "HILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2131296,
+          38.1354376
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC BLUESTONE PLANT",
+        "Population Served": 20562,
+        "City": "HINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.889254,
+          37.674008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNDRED LITTLETON PSD",
+        "Population Served": 638,
+        "City": "HUNDRED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4589785,
+          39.6838042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC - HUNTINGTON DIST",
+        "Population Served": 84004,
+        "City": "HUNTINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.445154,
+          38.4192496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HURRICANE CITY OF",
+        "Population Served": 9075,
+        "City": "HURRICANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0201368,
+          38.4325896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUTTONSVILLE TOWN OF",
+        "Population Served": 188,
+        "City": "HUTTONSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.978777,
+          38.7133626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "G AND E MHP",
+        "Population Served": 235,
+        "City": "INWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.040009,
+          39.3579068
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JANE LEW PSD",
+        "Population Served": 1440,
+        "City": "JANE LEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4065446,
+          39.1100763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUNIOR TOWN OF",
+        "Population Served": 987,
+        "City": "JUNIOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.949519,
+          38.9787148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUSTICE PSD",
+        "Population Served": 504,
+        "City": "JUSTICE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8368167,
+          37.5888881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEIGHTS MHP",
+        "Population Served": 78,
+        "City": "KEARNEYSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8855516,
+          39.3881556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELLS MHP",
+        "Population Served": 75,
+        "City": "KEARNEYSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8855516,
+          39.3881556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAW - VALLEY WATER AND SEWER-DEERWOOD",
+        "Population Served": 219,
+        "City": "KEARNEYSVILLE,MARTINSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.97451,
+          39.461195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENOVA MUNICIPAL WATER",
+        "Population Served": 9991,
+        "City": "KENOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5761685,
+          38.3993426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KERMIT WATER WORKS",
+        "Population Served": 1237,
+        "City": "KERMIT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4093134,
+          37.8437074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEYSER CITY OF",
+        "Population Served": 4796,
+        "City": "KEYSER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9739156,
+          39.4409277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD KIMBALL",
+        "Population Served": 432,
+        "City": "KIMBALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5066898,
+          37.425754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARMSTRONG PSD",
+        "Population Served": 1870,
+        "City": "KIMBERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2895194,
+          39.693691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGWOOD WATER BOARD",
+        "Population Served": 6652,
+        "City": "KINGWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6833884,
+          39.4717557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON CO PSD-LAKIN DIST",
+        "Population Served": 4494,
+        "City": "LAKIN (LAKIN STATE HOSPITAL),POINT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.084185,
+          38.954372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAVALETTE PSD",
+        "Population Served": 7293,
+        "City": "LAVALETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4468201,
+          38.3228619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAVALETTE PSD - EASTERN DISTRICT",
+        "Population Served": 1220,
+        "City": "LAVALETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4468201,
+          38.3228619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAVALETTE PSD-ROUTE 52 NORTH DISTRICT",
+        "Population Served": 1065,
+        "City": "LAVALETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4468201,
+          38.3228619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINGO COUNTY PSD - MARROWBONE",
+        "Population Served": 292,
+        "City": "LENORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2868078,
+          37.7989878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LESTER MUNICIPAL WATER WORKS",
+        "Population Served": 750,
+        "City": "LESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2996339,
+          37.7352787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON CO PSD-LETART",
+        "Population Served": 3182,
+        "City": "LETART,POINT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1168732,
+          38.8723655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVIS STUART INC",
+        "Population Served": 100,
+        "City": "LEWISBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4456303,
+          37.8017879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEWISBURG",
+        "Population Served": 12065,
+        "City": "LEWISBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4456303,
+          37.8017879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN OF RENICK",
+        "Population Served": 79,
+        "City": "LEWISBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4456303,
+          37.8017879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARSHALL COUNTY PSD 3",
+        "Population Served": 2694,
+        "City": "LIMESTONE,PLEASANT VALLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.62619,
+          39.91674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN CO P S D - CRAWLEY CREEK",
+        "Population Served": 2145,
+        "City": "LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9932151,
+          37.8487778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN CO PSD-RUM CREEK",
+        "Population Served": 881,
+        "City": "LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9932151,
+          37.8487778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN CO PSD - STOLLINGS",
+        "Population Served": 876,
+        "City": "LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9932151,
+          37.8487778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN WATER BOARD CITY OF",
+        "Population Served": 3535,
+        "City": "LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9932151,
+          37.8487778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST LOGAN WATER CO",
+        "Population Served": 885,
+        "City": "LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9932151,
+          37.8487778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANNINGTON PSD - LOGANSPORT",
+        "Population Served": 293,
+        "City": "LOGANSPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4136987,
+          39.5192509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUMBERPORT TOWN OF",
+        "Population Served": 1519,
+        "City": "LUMBERPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3484217,
+          39.3739761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD FITZPATRICK",
+        "Population Served": 197,
+        "City": "MACARTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2165775,
+          37.7549514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT VALLEY PSD",
+        "Population Served": 2235,
+        "City": "MAIDSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9800626,
+          39.6884134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT VALLEY PSD - NORTH CASSVILLE",
+        "Population Served": 114,
+        "City": "MAIDSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9800626,
+          39.6884134
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BINGAMON PSD",
+        "Population Served": 1179,
+        "City": "MANNINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.343418,
+          39.5309169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANNINGTON CITY OF",
+        "Population Served": 1946,
+        "City": "MANNINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.343418,
+          39.5309169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANNINGTON PSD",
+        "Population Served": 955,
+        "City": "MANNINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.343418,
+          39.5309169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARLINTON TOWN OF",
+        "Population Served": 1930,
+        "City": "MARLINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0945099,
+          38.2234533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY COUNTY PSWD-POTOMAC RIVER",
+        "Population Served": 34786,
+        "City": "MARTINSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9639604,
+          39.4562528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY ESTATES",
+        "Population Served": 94,
+        "City": "MARTINSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9639604,
+          39.4562528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHESTNUT RIDGE WATER SYSTEM",
+        "Population Served": 104,
+        "City": "MARTINSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9639604,
+          39.4562528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARTINSBURG CITY OF",
+        "Population Served": 16250,
+        "City": "MARTINSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9639604,
+          39.4562528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKY GLEN MANUFACTURED HOUSING COMMUNIT",
+        "Population Served": 861,
+        "City": "MARTINSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9639604,
+          39.4562528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VA MEDICAL CENTER",
+        "Population Served": 2175,
+        "City": "MARTINSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.9639604,
+          39.4562528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON WATER DEPT",
+        "Population Served": 1679,
+        "City": "MASON (RR NAME MASON CITY)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON CO PSD-FOGLESONG DIST",
+        "Population Served": 89,
+        "City": "MASON (RR NAME MASON CITY),POINT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.130851,
+          38.867039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASONTOWN WATER WORKS",
+        "Population Served": 2239,
+        "City": "MASONTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7978358,
+          39.552306
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MATEWAN WATER WORKS",
+        "Population Served": 2069,
+        "City": "MATEWAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1631894,
+          37.622049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD MAYBEURY",
+        "Population Served": 1648,
+        "City": "MAYBEURY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.366491,
+          37.3709489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANT CO PSD-NORTHFORK-MAYSVILLE",
+        "Population Served": 4559,
+        "City": "MAYSVILLE,PETERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.122524,
+          38.993535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINNACLE WATER ASSOCIATION",
+        "Population Served": 85,
+        "City": "MCCOMAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2914894,
+          37.390116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAVENCLIFF MCGRAWS SAULSVILLE PSD",
+        "Population Served": 3396,
+        "City": "MCGRAWS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4631599,
+          37.6709463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCMECHEN MUNICIPAL WATER",
+        "Population Served": 2212,
+        "City": "MCMECHEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7314718,
+          39.9881293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW BRIDGE TOWN OF",
+        "Population Served": 551,
+        "City": "MEADOW BRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8542568,
+          37.8590061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL BARBOUR PSD - BELINGTON",
+        "Population Served": 615,
+        "City": "MEADOWVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9095186,
+          39.1181569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANNINGTON PSD - METZ",
+        "Population Served": 221,
+        "City": "METZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3699634,
+          39.5802748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDDLEBOURNE WATER WORKS",
+        "Population Served": 1267,
+        "City": "MIDDLEBOURNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9037181,
+          39.4922999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUTTONSVILLE PSD",
+        "Population Served": 4758,
+        "City": "MILL CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9700699,
+          38.7314978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILL CREEK WATER DEPT",
+        "Population Served": 891,
+        "City": "MILL CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9700699,
+          38.7314978
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILTON WATER",
+        "Population Served": 5446,
+        "City": "MILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1323637,
+          38.4345321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINERAL WELLS PSD",
+        "Population Served": 5674,
+        "City": "MINERALWELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.51386116534809,
+          39.1810425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONONGAH TOWN OF",
+        "Population Served": 3200,
+        "City": "MONONGAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2181773,
+          39.4627794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC MONTGOMERY HEIGHTS DISTRICT",
+        "Population Served": 94,
+        "City": "MONTGOMERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3284452,
+          38.1803833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALEDONIA HEIGHTS SUBDIVISION",
+        "Population Served": 200,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDY COUNTY PSD 220 N",
+        "Population Served": 1442,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDY COUNTY PSD 220 SOUTH",
+        "Population Served": 1463,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDY COUNTY PSD BAKER",
+        "Population Served": 150,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDY COUNTY PSD MARVIN CHAPEL",
+        "Population Served": 90,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDY COUNTY PSD-ROUTE 55",
+        "Population Served": 908,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDY COUNTY PSD-SOUTH FORK",
+        "Population Served": 254,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOOREFIELD MUNICIPAL WATER",
+        "Population Served": 2328,
+        "City": "MOOREFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.9694723,
+          39.0623301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINTON WATER ASSOC - KINGWOOD PIKE",
+        "Population Served": 3100,
+        "City": "MORGANTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9559437,
+          39.6296809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINTON WATER ASSOC - ROUTE 119",
+        "Population Served": 5733,
+        "City": "MORGANTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9559437,
+          39.6296809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGANTOWN UTILITY BOARD",
+        "Population Served": 64644,
+        "City": "MORGANTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9559437,
+          39.6296809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARSHALL COUNTY PSD 2",
+        "Population Served": 1601,
+        "City": "MOUNDSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7432124,
+          39.920425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARSHALL COUNTY PSD 4",
+        "Population Served": 4063,
+        "City": "MOUNDSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7432124,
+          39.920425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNDSVILLE",
+        "Population Served": 9911,
+        "City": "MOUNDSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7432124,
+          39.920425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT HOPE WATER",
+        "Population Served": 1567,
+        "City": "MOUNT HOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1642682,
+          37.8953906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILDERNESS PSD",
+        "Population Served": 6106,
+        "City": "MOUNT NEBO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7078303,
+          39.6023047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN TOP PSD",
+        "Population Served": 2117,
+        "City": "MT STORM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2408725,
+          39.2773263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASTERN WYOMING PSD STEPHENSON WTP",
+        "Population Served": 3616,
+        "City": "MULLENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3804607,
+          37.5832541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINGO COUNTY PSD - NAUGATUCK",
+        "Population Served": 6348,
+        "City": "NAUGATUCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3490326,
+          37.7898205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NETTIE LEIVASY PSD",
+        "Population Served": 3343,
+        "City": "NETTIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6859251,
+          38.2184464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW CREEK WATER ASSOCIATION",
+        "Population Served": 3163,
+        "City": "NEW CREEK (NEWCREEK)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.09606,
+          37.363318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW CUMBERLAND, CITY OF",
+        "Population Served": 1326,
+        "City": "NEW CUMBERLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6067392,
+          40.4967329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKLAND PSD",
+        "Population Served": 1846,
+        "City": "NEW CUMBERLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6067392,
+          40.4967329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW HAVEN WATER DEPT",
+        "Population Served": 1610,
+        "City": "NEW HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9734718,
+          38.986468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOMLINSON PSD",
+        "Population Served": 2012,
+        "City": "NEW MANCHESTER (PUGHTOWN)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.58007,
+          40.53145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW MARTINSVILLE",
+        "Population Served": 5272,
+        "City": "NEW MARTINSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8575993,
+          39.6445214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWBURG TOWN OF",
+        "Population Served": 1116,
+        "City": "NEWBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8530351,
+          39.3886608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANT PSD",
+        "Population Served": 2086,
+        "City": "NEWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6042384,
+          40.6183976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWELL COMPANY",
+        "Population Served": 1377,
+        "City": "NEWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6042384,
+          40.6183976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILMER COUNTY PSD - NORMANTOWN STUMPTOWN",
+        "Population Served": 523,
+        "City": "NORMANTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9364955,
+          38.8517576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILMER COUNTY PSD - ROUTE 5 WEST",
+        "Population Served": 95,
+        "City": "NORMANTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9364955,
+          38.8517576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD GREENBRIER",
+        "Population Served": 165,
+        "City": "NORTHFORK (RR NAME NORTH FORK)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTON  HARDING JIMTOWN PSD",
+        "Population Served": 1632,
+        "City": "NORTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9656298,
+          38.9317711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER HARRISON PSD - QUIET DELL",
+        "Population Served": 2423,
+        "City": "NUTTER FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3197283,
+          39.2634213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NUTTER FORT TOWN OF",
+        "Population Served": 1845,
+        "City": "NUTTER FORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3197283,
+          39.2634213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAWC NEW RIVER REGIONAL WTR TRTMT PLT",
+        "Population Served": 25603,
+        "City": "OAK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1487136,
+          37.9723339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCEANA COMMUNITY OF",
+        "Population Served": 3796,
+        "City": "OCEANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.623752,
+          37.6920026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD ODD",
+        "Population Served": 575,
+        "City": "ODD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1939874,
+          37.5934493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PADEN CITY, CITY OF",
+        "Population Served": 3291,
+        "City": "PADEN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9343057,
+          39.6036324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL BOAZ PSD",
+        "Population Served": 1418,
+        "City": "PARKERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5620755,
+          39.2667309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAYWOOD PARK PSD",
+        "Population Served": 8141,
+        "City": "PARKERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5620755,
+          39.2667309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARKERSBURG UTILITY BOARD",
+        "Population Served": 34251,
+        "City": "PARKERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5620755,
+          39.2667309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARSONS CITY OF",
+        "Population Served": 1461,
+        "City": "PARSONS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6809332,
+          39.0968695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAW PAW ROUTE 19 PSD",
+        "Population Served": 1257,
+        "City": "PAW PAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4580286,
+          39.5326497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAW PAW WATER WORKS",
+        "Population Served": 524,
+        "City": "PAW PAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4580286,
+          39.5326497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAX WATER COMPANY",
+        "Population Served": 762,
+        "City": "PAX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2643923,
+          37.9096308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELLENBORO PSD",
+        "Population Served": 456,
+        "City": "PENNSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9684422,
+          39.2850799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENNSBORO",
+        "Population Served": 1254,
+        "City": "PENNSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9684422,
+          39.2850799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANT CO PSD-US 220 S",
+        "Population Served": 1865,
+        "City": "PETERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.123975,
+          38.9924886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANT COUNTY PSD WELTON ORCHARD",
+        "Population Served": 229,
+        "City": "PETERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.123975,
+          38.9924886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETERSBURG TOWN OF",
+        "Population Served": 2841,
+        "City": "PETERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.123975,
+          38.9924886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED SULPHUR PSD",
+        "Population Served": 5352,
+        "City": "PETERSTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7992431,
+          37.3973437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL BARBOUR PSD",
+        "Population Served": 2050,
+        "City": "PHILIPPI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03949,
+          39.1523474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHILIPPI CITY OF",
+        "Population Served": 3500,
+        "City": "PHILIPPI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03949,
+          39.1523474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHILIPPI CITY OF - WELLINGTON HEIGHTS",
+        "Population Served": 256,
+        "City": "PHILIPPI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.03949,
+          39.1523474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PICKAWAY TRAILER PARK",
+        "Population Served": 54,
+        "City": "PICKAWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5061812,
+          37.6384561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIEDMONT MUNICIPAL WTR WKS",
+        "Population Served": 847,
+        "City": "PIEDMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0478073,
+          39.4803706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE GROVE WATER",
+        "Population Served": 593,
+        "City": "PINE GROVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.678793,
+          39.5657026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEVILLE MUNICIPAL WATER",
+        "Population Served": 2162,
+        "City": "PINEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5379149,
+          37.5834814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON CO PSD-CRAB CREEK",
+        "Population Served": 2039,
+        "City": "POINT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1370889,
+          38.8445251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON COUNTY PSD-CAMP CONLEY",
+        "Population Served": 497,
+        "City": "POINT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1370889,
+          38.8445251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POINT PLEASANT WATER WORKS",
+        "Population Served": 5146,
+        "City": "POINT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1370889,
+          38.8445251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD PREMIER",
+        "Population Served": 122,
+        "City": "PREMIER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6437197,
+          37.4223352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN VALLEY GLENWOOD PSD BULLTAIL",
+        "Population Served": 2130,
+        "City": "PRINCETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1026607,
+          37.366328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN VALLEY GLENWOOD PSD GLENWOOD",
+        "Population Served": 4914,
+        "City": "PRINCETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1026607,
+          37.366328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY CO PSD-HARTLAND",
+        "Population Served": 1043,
+        "City": "PROCIOUS (CAMP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.20761,
+          38.49565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY CO P S D-TRIPLETT RIDGE",
+        "Population Served": 92,
+        "City": "PROCIOUS (CAMP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.20761,
+          38.49565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY-ROANE PSD (PROCIOUS DISTRICT)",
+        "Population Served": 2199,
+        "City": "PROCIOUS (CAMP)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.20761,
+          38.49565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANDVIEW - DOOLIN PSD",
+        "Population Served": 1942,
+        "City": "PROCTOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8237059,
+          39.7117436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW WATER ASSOC",
+        "Population Served": 2306,
+        "City": "PRUNTYTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.076746,
+          39.3339799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOWNS PSD",
+        "Population Served": 1024,
+        "City": "RACHEL (DOWNS)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3161956,
+          39.5175836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINGO CO PSD-RAGLAND DISTRICT",
+        "Population Served": 621,
+        "City": "RAGLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1273537,
+          37.7026039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAINELLE WATER DEPT",
+        "Population Served": 1381,
+        "City": "RAINELLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7671067,
+          37.9688103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAINELLE WATER TREATMENT PLANT 2",
+        "Population Served": 290,
+        "City": "RAINELLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7671067,
+          37.9688103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARLES TOWN UTL-GLEN HAVEN UTILITIES",
+        "Population Served": 195,
+        "City": "RANSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.8603829,
+          39.2952821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARLES TOWN UTL-CAVALAND  SUBDIVISION",
+        "Population Served": 107,
+        "City": "RANSON,SHEPHERDSTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.804334,
+          39.431917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHERN JACKSON COUNTY PSD",
+        "Population Served": 2506,
+        "City": "RAVENSWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7609912,
+          38.9483268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAVENSWOOD MUNICIPAL WATER WORKS",
+        "Population Served": 5047,
+        "City": "RAVENSWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7609912,
+          38.9483268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINGO COUNTY PSD - LICK CREEK",
+        "Population Served": 380,
+        "City": "RAWL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.219582,
+          37.6498252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WETZEL CO PSD 1",
+        "Population Served": 1378,
+        "City": "READER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7328765,
+          39.5689689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRESTON COUNTY PSD 1",
+        "Population Served": 3455,
+        "City": "REEDSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7983924,
+          39.5106408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REEDY WATER SERVICE TOWN OF",
+        "Population Served": 480,
+        "City": "REEDY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4248433,
+          38.8995287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUN VALLEY PSD",
+        "Population Served": 2905,
+        "City": "REYNOLDSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4348145,
+          39.2884222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RHODELL WATER WORKS",
+        "Population Served": 238,
+        "City": "RHODELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3052457,
+          37.6082031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHWOOD WATER DEPT",
+        "Population Served": 2430,
+        "City": "RICHWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5331411,
+          38.2248367
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARPENDALE, TOWN OF",
+        "Population Served": 937,
+        "City": "RIDGELEY (RR NAME RIDGELY)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KNOBLEY WATER SYSTEM",
+        "Population Served": 132,
+        "City": "RIDGELEY (RR NAME RIDGELY)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGELEY, TOWN OF",
+        "Population Served": 737,
+        "City": "RIDGELEY (RR NAME RIDGELY)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.649428,
+          38.720281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIPLEY CITY OF",
+        "Population Served": 5414,
+        "City": "RIPLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.711885,
+          38.8189684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHERN JACKSON COUNTY P S D",
+        "Population Served": 6107,
+        "City": "RIPLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.711885,
+          38.8189684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHERN JACKSON COUNTY PSD ROUTE 33",
+        "Population Served": 164,
+        "City": "RIPLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.711885,
+          38.8189684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON COUNTY PSD RIVERTON",
+        "Population Served": 188,
+        "City": "RIVERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4358806,
+          38.744002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINISTERS RUN WATER ASSOC",
+        "Population Served": 339,
+        "City": "RIVESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1167417,
+          39.5298059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVESVILLE TOWN OF",
+        "Population Served": 1267,
+        "City": "RIVESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1167417,
+          39.5298059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUGAR LANE WATER ASSOC",
+        "Population Served": 186,
+        "City": "RIVESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1167417,
+          39.5298059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL HAMPSHIRE PSD - RT 28",
+        "Population Served": 388,
+        "City": "ROMNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7564522,
+          39.3419698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLOBAL CAPITAL OF WORLD PEACE",
+        "Population Served": 80,
+        "City": "ROMNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7564522,
+          39.3419698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROMNEY WATER DEPT",
+        "Population Served": 1911,
+        "City": "ROMNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7564522,
+          39.3419698
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RONCEVERTE WATER",
+        "Population Served": 2091,
+        "City": "RONCEVERTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4628391,
+          37.7497542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROWLESBURG WATER WORKS",
+        "Population Served": 680,
+        "City": "ROWLESBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6708929,
+          39.348431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUPERT WATER",
+        "Population Served": 1170,
+        "City": "RUPERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6895314,
+          37.9631733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALEM WATER BOARD",
+        "Population Served": 1630,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5589856,
+          39.2828653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHINNSTON - SALTWELL ROAD",
+        "Population Served": 205,
+        "City": "SALTWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2711973,
+          39.3639765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUTNAM P S D",
+        "Population Served": 24020,
+        "City": "SCOTT DEPOT (RR NAME SCOTT)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9168,
+          38.44176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD PLUTO BRAGG",
+        "Population Served": 383,
+        "City": "SHADY SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0984293,
+          37.7056722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORPORATION OF SHEPHERDSTOWN",
+        "Population Served": 4300,
+        "City": "SHEPHERDSTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.804161,
+          39.4300996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARSHALL COUNTY PSD 1",
+        "Population Served": 3463,
+        "City": "SHERRARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6759131,
+          39.9872963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHINNSTON CITY OF",
+        "Population Served": 4959,
+        "City": "SHINNSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3008402,
+          39.3953654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SISTERSVILLE MUNICIPAL WATER",
+        "Population Served": 1892,
+        "City": "SISTERSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9959404,
+          39.564242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALEIGH COUNTY PSD SLAB FORK",
+        "Population Served": 550,
+        "City": "SLAB FORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3314915,
+          37.6870584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POCAHONTAS CO PSD - CHEAT MOUNTAIN WATER",
+        "Population Served": 1867,
+        "City": "SNOWSHOE RESORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.997146,
+          38.41661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPENCER WATER DEPT",
+        "Population Served": 4630,
+        "City": "SPENCER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3509777,
+          38.8021446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST ALBANS WATER",
+        "Population Served": 13696,
+        "City": "ST. ALBANS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.81193031452082,
+          38.3789601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANTS CO PSD",
+        "Population Served": 2357,
+        "City": "ST. MARYS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2051132,
+          39.391742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAINT MARYS",
+        "Population Served": 2711,
+        "City": "ST. MARYS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2051132,
+          39.391742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAR CITY TOWN OF",
+        "Population Served": 2207,
+        "City": "STAR CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9864689,
+          39.6583523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONEWOOD CITY OF",
+        "Population Served": 2236,
+        "City": "STONEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3123114,
+          39.2509238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMERSVILLE MUNICIPAL WATER",
+        "Population Served": 5574,
+        "City": "SUMMERSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8525981,
+          38.2812203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLATWOODS CANOE RUN PSD PURCHASER",
+        "Population Served": 339,
+        "City": "SUTTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7093066,
+          38.6641653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG BEND PSD",
+        "Population Served": 1350,
+        "City": "TALCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7542478,
+          37.6515095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPINE LAKE PUBLIC UTILITIES",
+        "Population Served": 1325,
+        "City": "TERRA ALTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5465646,
+          39.4457091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TERRA ALTA WATER WORKS",
+        "Population Served": 1856,
+        "City": "TERRA ALTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5465646,
+          39.4457091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THOMAS CITY OF",
+        "Population Served": 753,
+        "City": "THOMAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4979721,
+          39.1491974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIADELPHIA WATER DEPT",
+        "Population Served": 1215,
+        "City": "TRIADELPHIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6284097,
+          40.0525734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DENVER WATER ASSOC",
+        "Population Served": 360,
+        "City": "TUNNELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.748395,
+          39.3917601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUNNELTON TOWN OF",
+        "Population Served": 1128,
+        "City": "TUNNELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.748395,
+          39.3917601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION TOWN OF",
+        "Population Served": 758,
+        "City": "UNION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.038135,
+          39.100099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY GROVE WATER DEPT",
+        "Population Served": 686,
+        "City": "VALLEY GROVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5703508,
+          40.0875732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINGO COUNTY PSD PIGEON CREEK",
+        "Population Served": 2877,
+        "City": "VARNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1220755,
+          37.6692713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIENNA",
+        "Population Served": 12507,
+        "City": "VIENNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5512639,
+          39.3208866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD TIDEWATER",
+        "Population Served": 113,
+        "City": "VIVIAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4873265,
+          37.41817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTURY VOLGA PSD",
+        "Population Served": 2603,
+        "City": "VOLGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1353597,
+          39.0784311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHORTLINE PSD",
+        "Population Served": 2752,
+        "City": "WALLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6617932,
+          38.458983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALTON PSD",
+        "Population Served": 2208,
+        "City": "WALTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4020653,
+          38.6389816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAR WATER WORKS CITY REALTY",
+        "Population Served": 1220,
+        "City": "WAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6909425,
+          37.3012246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDY COUNTY PSD-TROUT RUN",
+        "Population Served": 245,
+        "City": "WARDENSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.594453,
+          39.0755642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARDENSVILLE, TOWN OF",
+        "Population Served": 788,
+        "City": "WARDENSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.594453,
+          39.0755642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUBECK PSD",
+        "Population Served": 10377,
+        "City": "WASHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6717956,
+          39.2611864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION WILLIAMS P S D",
+        "Population Served": 7252,
+        "City": "WAVERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3795628,
+          39.3381305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNE WATER TOWN OF",
+        "Population Served": 5732,
+        "City": "WAYNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4423747,
+          38.2214748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKLAND PSD GOLDEN KEY ACRES",
+        "Population Served": 506,
+        "City": "WEIRTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5899788,
+          40.4002396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEIRTON AREA WATER BOARD",
+        "Population Served": 18633,
+        "City": "WEIRTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5899788,
+          40.4002396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDOWELL COUNTY PSD BIG FOUR",
+        "Population Served": 363,
+        "City": "WELCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5844357,
+          37.4328886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WELCH CITY OF",
+        "Population Served": 2907,
+        "City": "WELCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5844357,
+          37.4328886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON PIKE PSD",
+        "Population Served": 2967,
+        "City": "WELLSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6126917,
+          40.2698157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WELLSBURG, CITY OF",
+        "Population Served": 4019,
+        "City": "WELLSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6126917,
+          40.2698157
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST HAMLIN, CITY OF",
+        "Population Served": 2465,
+        "City": "WEST HAMLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1956978,
+          38.2856444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OHIO COUNTY PSD",
+        "Population Served": 10220,
+        "City": "WEST LIBERTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5936851,
+          40.169794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER HARRISON PSD LOST CREEK MT CLARE",
+        "Population Served": 3771,
+        "City": "WEST MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4042579,
+          39.2009243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER HARRISON PSD VALLEY OF GOOD HOPE",
+        "Population Served": 2793,
+        "City": "WEST MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4042579,
+          39.2009243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST MILFORD WATER WORKS",
+        "Population Served": 645,
+        "City": "WEST MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4042579,
+          39.2009243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST UNION, TOWN OF",
+        "Population Served": 1895,
+        "City": "WEST UNION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7771097,
+          39.2965049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WVAW -  WESTON",
+        "Population Served": 14534,
+        "City": "WESTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.467313,
+          39.0384274
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHEELING WATER",
+        "Population Served": 29899,
+        "City": "WHEELING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7209149,
+          40.0639616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENBRIER HOTEL CORPORATION",
+        "Population Served": 3280,
+        "City": "WHITE SULPHUR SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2975734,
+          37.7965149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE SULPHUR SPRINGS WATER",
+        "Population Served": 3845,
+        "City": "WHITE SULPHUR SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2975734,
+          37.7965149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITMER PUBLIC WATER SYSTEM",
+        "Population Served": 246,
+        "City": "WHITMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5489418,
+          38.8128893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKFORT PSD WILEY FORD",
+        "Population Served": 1062,
+        "City": "WILEY FORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.7750188,
+          39.6145328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSON UTILITY BOARD",
+        "Population Served": 3100,
+        "City": "WILLIAMSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2773629,
+          37.6742682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSTOWN WATER DEPT",
+        "Population Served": 3363,
+        "City": "WILLIAMSTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4488545,
+          39.4000046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMMOND PSD",
+        "Population Served": 2186,
+        "City": "WINDSOR HEIGHTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6653556,
+          40.1911823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COALTON WATER SYSTEM",
+        "Population Served": 262,
+        "City": "WOMELSDORF (CORPORATE NAME FOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -149.807737,
+          61.203324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUTCHINSON COMMUNITY WATER ASSOC",
+        "Population Served": 353,
+        "City": "WORTHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2605049,
+          39.4519381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WORTHINGTON TOWN OF",
+        "Population Served": 689,
+        "City": "WORTHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2605049,
+          39.4519381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DODDRIDGE COUNTY PSD",
+        "Population Served": 48,
+        "City": "West Union"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7771097,
+          39.2965049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN PSD - LOWER MUD RIVER",
+        "Population Served": 177,
+        "City": "Alum Creek"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.83520769100348,
+          38.2690725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRI COUNTY CLARKSBURG",
+        "Population Served": 893,
+        "City": "Clarksburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3445341,
+          39.2806451
+        ]
+      }
+    }
+  ]
+}

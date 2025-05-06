@@ -1,0 +1,5390 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCPHERSON CO RWD 2",
+        "Population Served": 186,
+        "City": "MCPHERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6642087,
+          38.3708415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCPHERSON CO RWD 3",
+        "Population Served": 28,
+        "City": "MCPHERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6642087,
+          38.3708415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCPHERSON CO RWD 4",
+        "Population Served": 636,
+        "City": "MCPHERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6642087,
+          38.3708415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCPHERSON CO RWD 6",
+        "Population Served": 500,
+        "City": "LINDSBORG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6744838,
+          38.5736176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADE, CITY OF",
+        "Population Served": 1506,
+        "City": "MEADE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.340145,
+          37.2855796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW ACRES MHP HAYS KS, LLC",
+        "Population Served": 134,
+        "City": "HAYS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3267702,
+          38.8791783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEDICINE LODGE, CITY OF",
+        "Population Served": 1723,
+        "City": "MEDICINE LODGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.580361,
+          37.2811339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MELVERN, CITY OF",
+        "Population Served": 351,
+        "City": "MELVERN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6377619,
+          38.5069575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MENDOZA MOBILE HOME PARK",
+        "Population Served": 65,
+        "City": "GARDEN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8726618,
+          37.9716898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "METRO TOPEKA AIRPORT AUTHORITY",
+        "Population Served": 500,
+        "City": "TOPEKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIAMI CO RWD 2",
+        "Population Served": 10311,
+        "City": "HILLSDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8502396,
+          38.6597333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIAMI CO RWD 3",
+        "Population Served": 2435,
+        "City": "OSAWATOMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9521878,
+          38.5016051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIAMI CO RWD 4",
+        "Population Served": 875,
+        "City": "DREXEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6766234,
+          38.4764044
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDWEST CAMPS, LLC",
+        "Population Served": 340,
+        "City": "HALSTEAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5086518,
+          38.0014004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILFORD, CITY OF",
+        "Population Served": 400,
+        "City": "MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.90948044,
+          39.1752415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLER MOBILE HOME PARK",
+        "Population Served": 113,
+        "City": "MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.90948044,
+          39.1752415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILTONVALE, CITY OF",
+        "Population Served": 444,
+        "City": "MILTONVALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4490163,
+          39.3493671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINNEAPOLIS, CITY OF",
+        "Population Served": 1948,
+        "City": "MINNEAPOLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7087076,
+          39.1223968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINNEOLA, CITY OF",
+        "Population Served": 752,
+        "City": "MINNEOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.015135,
+          37.4433558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MITCHELL CO RWD 1",
+        "Population Served": 345,
+        "City": "GLEN ELDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3086214,
+          39.4985041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MITCHELL CO RWD 2",
+        "Population Served": 873,
+        "City": "GLEN ELDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.3086214,
+          39.4985041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MITCHELL CO RWD 3",
+        "Population Served": 2048,
+        "City": "SCOTTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.95230408,
+          39.542591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOLINE, CITY OF",
+        "Population Served": 331,
+        "City": "MOLINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.3039621,
+          37.3604368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTEZUMA, CITY OF",
+        "Population Served": 951,
+        "City": "MONTEZUMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.4428491,
+          37.5978219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 1",
+        "Population Served": 175,
+        "City": "INDEPENDENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7083131,
+          37.2242358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 12",
+        "Population Served": 756,
+        "City": "NEODESHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6802581,
+          37.4183929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 14",
+        "Population Served": 330,
+        "City": "COFFEYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6163634,
+          37.0372999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 1C",
+        "Population Served": 2450,
+        "City": "HAVANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.94282619,
+          37.0923595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 2",
+        "Population Served": 800,
+        "City": "INDEPENDENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7083131,
+          37.2242358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 2C A",
+        "Population Served": 1113,
+        "City": "COFFEYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6163634,
+          37.0372999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 2C B",
+        "Population Served": 428,
+        "City": "DEARING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.713312,
+          37.0586882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 4",
+        "Population Served": 745,
+        "City": "SYCAMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7155358,
+          37.3270085
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 6",
+        "Population Served": 1092,
+        "City": "INDEPENDENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7083131,
+          37.2242358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 8",
+        "Population Served": 340,
+        "City": "INDEPENDENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7083131,
+          37.2242358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO RWD 9",
+        "Population Served": 430,
+        "City": "ELK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9116515,
+          37.2892269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORAN, CITY OF",
+        "Population Served": 467,
+        "City": "MORAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1702546,
+          37.9161474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGANVILLE, CITY OF",
+        "Population Served": 183,
+        "City": "MORGANVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.20197,
+          39.466386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORLAND, CITY OF",
+        "Population Served": 115,
+        "City": "MORLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.075685,
+          39.349449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORRILL, CITY OF",
+        "Population Served": 217,
+        "City": "MORRILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.69193,
+          39.928335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORRIS CO RWD 1",
+        "Population Served": 1091,
+        "City": "DWIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.593337,
+          38.844447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORRIS CO RWD 2",
+        "Population Served": 25,
+        "City": "COUNCIL GROVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.491958,
+          38.6609239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORROWVILLE, CITY OF",
+        "Population Served": 115,
+        "City": "MORROWVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.171698,
+          39.844448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOSCOW, CITY OF",
+        "Population Served": 274,
+        "City": "MOSCOW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.205463,
+          37.324064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUND CITY, CITY OF",
+        "Population Served": 678,
+        "City": "MOUND CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8127444,
+          38.142773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNDRIDGE, CITY OF",
+        "Population Served": 1958,
+        "City": "MOUNDRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.519207,
+          38.203065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUND VALLEY, CITY OF",
+        "Population Served": 348,
+        "City": "MOUND VALLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4049746,
+          37.2053457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT HOPE, CITY OF",
+        "Population Served": 783,
+        "City": "MOUNT HOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.665047,
+          37.8686224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MULBERRY, CITY OF",
+        "Population Served": 411,
+        "City": "MULBERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6219034,
+          37.5569911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MULLINVILLE, CITY OF",
+        "Population Served": 188,
+        "City": "MULLINVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.475674,
+          37.5861307
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MULVANE, CITY OF",
+        "Population Served": 6587,
+        "City": "MULVANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2407207,
+          37.4780814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUNDEN, CITY OF",
+        "Population Served": 99,
+        "City": "MUNDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.538097,
+          39.913894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUSCOTAH, CITY OF",
+        "Population Served": 158,
+        "City": "MUSCOTAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5216451,
+          39.5527772
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NARKA, CITY OF",
+        "Population Served": 80,
+        "City": "NARKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.42681373,
+          39.9597489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NATOMA, CITY OF",
+        "Population Served": 300,
+        "City": "NATOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0239964,
+          39.1896507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEIGHBORS OF WALNUT GROVE, LLC",
+        "Population Served": 256,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5716694,
+          39.1836082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEMAHA CO RWD 1",
+        "Population Served": 350,
+        "City": "BERN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.971942,
+          39.962222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEMAHA CO RWD 3",
+        "Population Served": 2800,
+        "City": "SENECA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.064168,
+          39.834165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEMAHA CO RWD 4",
+        "Population Served": 448,
+        "City": "WETMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.811376,
+          39.63333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEODESHA, CITY OF",
+        "Population Served": 2246,
+        "City": "NEODESHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6802581,
+          37.4183929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 12",
+        "Population Served": 437,
+        "City": "CHANUTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4517985,
+          37.6816841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 1C",
+        "Population Served": 670,
+        "City": "ERIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2433113,
+          37.5681066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 2",
+        "Population Served": 1210,
+        "City": "STARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1430326,
+          37.6900455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 3",
+        "Population Served": 128,
+        "City": "ERIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2433113,
+          37.5681066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 4",
+        "Population Served": 2095,
+        "City": "PARSONS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2596295,
+          37.3407838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 6",
+        "Population Served": 314,
+        "City": "CHANUTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4517985,
+          37.6816841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 7",
+        "Population Served": 625,
+        "City": "CHANUTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4517985,
+          37.6816841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 8",
+        "Population Served": 323,
+        "City": "ST PAUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1760424,
+          37.517132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEOSHO CO RWD 9",
+        "Population Served": 200,
+        "City": "CHANUTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4517985,
+          37.6816841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NESS CITY, CITY OF",
+        "Population Served": 1303,
+        "City": "NESS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9065136,
+          38.4527935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NETAWAKA, CITY OF",
+        "Population Served": 141,
+        "City": "NETAWAKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.718317,
+          39.602774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW STRAWN, CITY OF",
+        "Population Served": 412,
+        "City": "NEW STRAWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7419311,
+          38.2625197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWTON, CITY OF",
+        "Population Served": 18433,
+        "City": "NEWTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3447244,
+          38.0469166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NICKERSON, CITY OF",
+        "Population Served": 1050,
+        "City": "NICKERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0836679,
+          38.1472334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NICODEMUS TOWNSHIP",
+        "Population Served": 24,
+        "City": "BOGUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.687336,
+          39.362507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORCATUR, CITY OF",
+        "Population Served": 159,
+        "City": "NORCATUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.187914,
+          39.83695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH NEWTON, CITY OF",
+        "Population Served": 1829,
+        "City": "NORTH NEWTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3455918,
+          38.0722333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTON, CITY OF",
+        "Population Served": 2758,
+        "City": "NORTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.891511,
+          39.833895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTON CO RWD 1",
+        "Population Served": 50,
+        "City": "NEW ALMELO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.1179098,
+          39.5941707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTONVILLE, CITY OF",
+        "Population Served": 599,
+        "City": "NORTONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3335839,
+          39.4166649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORWICH, CITY OF",
+        "Population Served": 433,
+        "City": "NORWICH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8489433,
+          37.4572405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKLEY, CITY OF",
+        "Population Served": 2026,
+        "City": "OAKLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.855611,
+          39.126385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OBERLIN, CITY OF",
+        "Population Served": 1639,
+        "City": "OBERLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.528201,
+          39.818338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OFFERLE, CITY OF",
+        "Population Served": 172,
+        "City": "OFFERLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5577585,
+          37.8908203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OGDEN, CITY OF",
+        "Population Served": 1721,
+        "City": "OGDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.706117,
+          39.111109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OKETO, CITY OF",
+        "Population Served": 65,
+        "City": "OKETO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.59897677,
+          39.962645
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLATHE, CITY OF",
+        "Population Served": 143014,
+        "City": "OLATHE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.81887,
+          38.8838856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLMITZ, CITY OF",
+        "Population Served": 91,
+        "City": "OLMITZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9364797,
+          38.516679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLPE, CITY OF",
+        "Population Served": 513,
+        "City": "OLPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.16694,
+          38.2625174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLSBURG, CITY OF",
+        "Population Served": 221,
+        "City": "OLSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.615564,
+          39.430553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ONAGA, CITY OF",
+        "Population Served": 671,
+        "City": "ONAGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.169999,
+          39.488885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ONEIDA, CITY OF",
+        "Population Served": 58,
+        "City": "ONEIDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9391621,
+          39.8638876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CITY, CITY OF",
+        "Population Served": 2809,
+        "City": "OSAGE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8258206,
+          38.6338982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CO RWD 2",
+        "Population Served": 220,
+        "City": "QUENEMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5269256,
+          38.5797331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CO RWD 3",
+        "Population Served": 900,
+        "City": "VASSAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6224828,
+          38.647231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CO RWD 4",
+        "Population Served": 500,
+        "City": "WAVERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6020989,
+          38.3934404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CO RWD 5",
+        "Population Served": 3186,
+        "City": "OVERBROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5572026,
+          38.7805607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CO RWD 6",
+        "Population Served": 370,
+        "City": "LYNDON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.684429,
+          38.6100099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CO RWD 7",
+        "Population Served": 1430,
+        "City": "OSAGE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8258206,
+          38.6338982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE CO RWD 8",
+        "Population Served": 2240,
+        "City": "BURLINGAME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8349868,
+          38.7538947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAWATOMIE, CITY OF",
+        "Population Served": 4280,
+        "City": "OSAWATOMIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9521878,
+          38.5016051
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSBORNE, CITY OF",
+        "Population Served": 1324,
+        "City": "OSBORNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6920384,
+          39.4386803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSBORNE CO RWD 1A",
+        "Population Served": 81,
+        "City": "ALTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9481551,
+          39.4709268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSBORNE CO RWD 2",
+        "Population Served": 55,
+        "City": "NATOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0239964,
+          39.1896507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSKALOOSA, CITY OF",
+        "Population Served": 1086,
+        "City": "OSKALOOSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3127203,
+          39.2150702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSWEGO, CITY OF",
+        "Population Served": 1680,
+        "City": "OSWEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1099645,
+          37.1675652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OTIS, CITY OF",
+        "Population Served": 297,
+        "City": "OTIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.0531508,
+          38.5347349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OTTAWA, CITY OF",
+        "Population Served": 12604,
+        "City": "OTTAWA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2678474,
+          38.6153828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OTTAWA CO RWD 1",
+        "Population Served": 198,
+        "City": "ADA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8892088,
+          39.1513917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OTTAWA CO RWD 2",
+        "Population Served": 1794,
+        "City": "SALINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6114237,
+          38.8402805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OVERBROOK, CITY OF",
+        "Population Served": 999,
+        "City": "OVERBROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5572026,
+          38.7805607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OXFORD, CITY OF",
+        "Population Served": 1048,
+        "City": "OXFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1689296,
+          37.2741908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OZAWKIE, CITY OF",
+        "Population Served": 636,
+        "City": "OZAWKIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4669194,
+          39.2333317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PALCO, CITY OF",
+        "Population Served": 210,
+        "City": "PALCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.562888,
+          39.252231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PALMER, CITY OF",
+        "Population Served": 125,
+        "City": "PALMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.140304,
+          39.631945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAOLA, CITY OF",
+        "Population Served": 5786,
+        "City": "PAOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8786484,
+          38.5723318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARADISE, CITY OF",
+        "Population Served": 34,
+        "City": "PARADISE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.91844897,
+          39.1145945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARADISE PARK MOBILE HOME COURT",
+        "Population Served": 110,
+        "City": "TONGANOXIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0877465,
+          39.109724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARK CITY, CITY OF",
+        "Population Served": 8503,
+        "City": "PARK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3183763,
+          37.8000123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARK, CITY OF",
+        "Population Served": 117,
+        "City": "PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.358747,
+          39.112507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARKER, CITY OF",
+        "Population Served": 236,
+        "City": "PARKER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9919123,
+          38.3283548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARK PLACE COMMUNITIES MGT LLC",
+        "Population Served": 200,
+        "City": "EMPORIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.181623,
+          38.4040054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARSONS, CITY OF",
+        "Population Served": 9479,
+        "City": "PARSONS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2596295,
+          37.3407838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAWNEE ROCK, CITY OF",
+        "Population Served": 190,
+        "City": "PAWNEE ROCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.9809292,
+          38.2652911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAXICO, CITY OF",
+        "Population Served": 212,
+        "City": "PAXICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.166383,
+          39.069443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEABODY, CITY OF",
+        "Population Served": 932,
+        "City": "PEABODY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1066965,
+          38.1694597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERRY, CITY OF",
+        "Population Served": 858,
+        "City": "PERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3933077,
+          39.0758335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERU, CITY OF",
+        "Population Served": 105,
+        "City": "PERU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0963758,
+          37.0813287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHILLIPSBURG, CITY OF",
+        "Population Served": 2254,
+        "City": "PHILLIPSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.323985,
+          39.756121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHILLIPS CO RWD 1",
+        "Population Served": 432,
+        "City": "PHILLIPSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.323985,
+          39.756121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PITTSBURG, CITY OF",
+        "Population Served": 20738,
+        "City": "PITTSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.70496,
+          37.4108841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLAINS, CITY OF",
+        "Population Served": 1023,
+        "City": "PLAINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.589819,
+          37.2639628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLAINVILLE, CITY OF",
+        "Population Served": 1762,
+        "City": "PLAINVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.298156,
+          39.234732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANTON, CITY OF",
+        "Population Served": 1238,
+        "City": "PLEASANTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7113471,
+          38.1778054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POMONA, CITY OF",
+        "Population Served": 890,
+        "City": "POMONA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4516456,
+          38.6083436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORTIS, CITY OF",
+        "Population Served": 86,
+        "City": "PORTIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.693405,
+          39.563622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTTAWATOMIE CO RWD 1",
+        "Population Served": 7535,
+        "City": "WAMEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.304998,
+          39.201941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTTAWATOMIE CO RWD 2",
+        "Population Served": 625,
+        "City": "OLSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.615564,
+          39.430553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTTAWATOMIE CO RWD 3",
+        "Population Served": 1455,
+        "City": "ONAGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.169999,
+          39.488885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTTAWATOMIE CO RWD 4",
+        "Population Served": 1125,
+        "City": "BELVUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.178051,
+          39.216664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTWIN, CITY OF",
+        "Population Served": 424,
+        "City": "POTWIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0197557,
+          37.9389063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POWHATTAN, CITY OF",
+        "Population Served": 68,
+        "City": "POWHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.63323279,
+          39.7598084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRAIRIE SCHOONER MOBILE HOME COURT",
+        "Population Served": 50,
+        "City": "MULVANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2407207,
+          37.4780814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRAIRIE VIEW, CITY OF",
+        "Population Served": 102,
+        "City": "PRAIRIE VIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.572607,
+          39.832508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRATT, CITY OF",
+        "Population Served": 6573,
+        "City": "PRATT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7375911,
+          37.6439071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRESCOTT, CITY OF",
+        "Population Served": 207,
+        "City": "PRESCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.6955145,
+          38.0636439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRESTON, CITY OF",
+        "Population Served": 120,
+        "City": "PRESTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.553138,
+          37.7589061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRETTY PRAIRIE, CITY OF",
+        "Population Served": 655,
+        "City": "PRETTY PRAIRIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0197792,
+          37.7800136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRINCETON, CITY OF",
+        "Population Served": 252,
+        "City": "PRINCETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.275252,
+          38.4889038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PROTECTION, CITY OF",
+        "Population Served": 503,
+        "City": "PROTECTION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4840075,
+          37.2014145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 11",
+        "Population Served": 1,
+        "City": "GIRARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8380215,
+          37.5111596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 12",
+        "Population Served": 1,
+        "City": "MELVERN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6377619,
+          38.5069575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 13",
+        "Population Served": 1,
+        "City": "LACYGNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.76279305,
+          38.3475005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 17",
+        "Population Served": 1,
+        "City": "NEWTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3447244,
+          38.0469166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 18",
+        "Population Served": 1,
+        "City": "HOLTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7366657,
+          39.4652865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 19",
+        "Population Served": 1,
+        "City": "COLUMBUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8441239,
+          37.1692278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 20",
+        "Population Served": 1,
+        "City": "SEDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1869361,
+          37.1267196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 23",
+        "Population Served": 1,
+        "City": "FREDONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8266483,
+          37.5339386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 25",
+        "Population Served": 1,
+        "City": "LAWRENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2359403,
+          38.9719137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 26",
+        "Population Served": 1,
+        "City": "COTTONWOOD FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5427845,
+          38.3722364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 27",
+        "Population Served": 1,
+        "City": "POWHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.63323279,
+          39.7598084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 4",
+        "Population Served": 1,
+        "City": "CHERRYVALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5524788,
+          37.270344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 5",
+        "Population Served": 1,
+        "City": "IOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.3999814,
+          37.9244799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUBLIC WHOLESALE WSD 8",
+        "Population Served": 1,
+        "City": "ROSALIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6197416,
+          37.8152985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUENEMO, CITY OF",
+        "Population Served": 287,
+        "City": "QUENEMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5269256,
+          38.5797331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUINTER, CITY OF",
+        "Population Served": 958,
+        "City": "QUINTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.2373225,
+          39.0683182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAMPART LLC",
+        "Population Served": 30,
+        "City": "HUTCHINSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9297743,
+          38.0608444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANDALL, CITY OF",
+        "Population Served": 80,
+        "City": "RANDALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.04531395,
+          39.640948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANDOLPH, CITY OF",
+        "Population Served": 167,
+        "City": "RANDOLPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.760011,
+          39.430553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANSOM, CITY OF",
+        "Population Served": 253,
+        "City": "RANSOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9337342,
+          38.6361254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANTOUL, CITY OF",
+        "Population Served": 168,
+        "City": "RANTOUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1002471,
+          38.5486246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAYMOND, CITY OF",
+        "Population Served": 85,
+        "City": "RAYMOND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.41356217,
+          38.276555
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "READING, CITY OF",
+        "Population Served": 182,
+        "City": "READING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9586015,
+          38.5194564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED BUD LAKE IMPROVEMENT DISTRICT",
+        "Population Served": 56,
+        "City": "ABILENE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.21377,
+          38.917252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RENO CO RWD 1",
+        "Population Served": 150,
+        "City": "HUTCHINSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9297743,
+          38.0608444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RENO CO RWD 101",
+        "Population Served": 200,
+        "City": "YODER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8687495,
+          37.940463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RENO CO RWD 3",
+        "Population Served": 450,
+        "City": "YODER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.8687495,
+          37.940463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RENO CO RWD 4",
+        "Population Served": 635,
+        "City": "HUTCHINSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9297743,
+          38.0608444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RENO CO WATER DISTRICT 8",
+        "Population Served": 260,
+        "City": "HUTCHINSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9297743,
+          38.0608444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REPUBLIC, CITY OF",
+        "Population Served": 83,
+        "City": "REPUBLIC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.82171,
+          39.923621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REPUBLIC CO RWD 1",
+        "Population Served": 396,
+        "City": "COURTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.894926,
+          39.783235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REPUBLIC CO RWD 2",
+        "Population Served": 1293,
+        "City": "BELLEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6325554,
+          39.8246673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RESERVE, CITY OF",
+        "Population Served": 70,
+        "City": "RESERVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.56505944,
+          39.976148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REXFORD, CITY OF",
+        "Population Served": 198,
+        "City": "REXFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.743482,
+          39.471671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICE CO RWD 1",
+        "Population Served": 900,
+        "City": "LITTLE RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0119966,
+          38.3980652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHMOND, CITY OF",
+        "Population Served": 442,
+        "City": "RICHMOND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2538631,
+          38.4027955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RILEY, CITY OF",
+        "Population Served": 977,
+        "City": "RILEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.830844,
+          39.298885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RILEY CO RWD 1",
+        "Population Served": 1512,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5716694,
+          39.1836082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERCHASE MOBILE HOME PARK",
+        "Population Served": 460,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5716694,
+          39.1836082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROBINSON, CITY OF",
+        "Population Served": 181,
+        "City": "ROBINSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4105347,
+          39.8166687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKY FORD MOBILE HOME COURT",
+        "Population Served": 120,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5716694,
+          39.1836082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROLLA, CITY OF",
+        "Population Served": 380,
+        "City": "ROLLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.6321828,
+          37.1188937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROLLING HILLS LANDOWNERS ASSN",
+        "Population Served": 130,
+        "City": "LIBERAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.920999,
+          37.0430812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROOKS CO RWD 1",
+        "Population Served": 55,
+        "City": "WOODSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095645,
+          39.455288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROOKS CO RWD 2",
+        "Population Served": 40,
+        "City": "CODELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.1773178,
+          39.1933439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROOKS CO RWD 3",
+        "Population Served": 380,
+        "City": "PLAINVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.298156,
+          39.234732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSE HILL, CITY OF",
+        "Population Served": 4269,
+        "City": "ROSE HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1350405,
+          37.5583517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSELAND, CITY OF",
+        "Population Served": 73,
+        "City": "ROSELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.84409136,
+          37.278847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSSVILLE, CITY OF",
+        "Population Served": 1099,
+        "City": "ROSSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.951656,
+          39.13611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROZEL, CITY OF",
+        "Population Served": 98,
+        "City": "ROZEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.4031691,
+          38.1958479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSH CENTER, CITY OF",
+        "Population Served": 144,
+        "City": "RUSH CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3101052,
+          38.4652912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSH CO RWD 1",
+        "Population Served": 150,
+        "City": "MCCRACKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.5708652,
+          38.5861508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL, CITY OF",
+        "Population Served": 4388,
+        "City": "RUSSELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.859806,
+          38.895289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL CO RWD 1",
+        "Population Served": 44,
+        "City": "RUSSELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.859806,
+          38.895289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL CO RWD 2",
+        "Population Served": 30,
+        "City": "RUSSELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.859806,
+          38.895289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL CO RWD 3",
+        "Population Served": 1300,
+        "City": "SUSANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.77451877,
+          38.6405493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL CO RWD 4",
+        "Population Served": 90,
+        "City": "RUSSELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.859806,
+          38.895289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SABETHA, CITY OF",
+        "Population Served": 2519,
+        "City": "SABETHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8018257,
+          39.9034278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINA, CITY OF",
+        "Population Served": 46481,
+        "City": "SALINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6114237,
+          38.8402805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINE CO RWD 1",
+        "Population Served": 80,
+        "City": "FALUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.7594855,
+          38.6711171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINE CO RWD 2",
+        "Population Served": 465,
+        "City": "GYPSUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4280856,
+          38.7055591
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINE CO RWD 3",
+        "Population Served": 936,
+        "City": "SMOLAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6844824,
+          38.7386158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINE CO RWD 4",
+        "Population Served": 768,
+        "City": "SALINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6114237,
+          38.8402805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINE CO RWD 7",
+        "Population Served": 355,
+        "City": "LINDSBORG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6744838,
+          38.5736176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALINE CO RWD 8",
+        "Population Served": 298,
+        "City": "ASSARIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6044806,
+          38.6802826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SATANTA, CITY OF",
+        "Population Served": 1045,
+        "City": "SATANTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.988276,
+          37.4370646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAWYER, CITY OF",
+        "Population Served": 91,
+        "City": "SAWYER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6823111,
+          37.4972417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCAMMON, CITY OF",
+        "Population Served": 370,
+        "City": "SCAMMON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8188877,
+          37.2778045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCANDIA, CITY OF",
+        "Population Served": 337,
+        "City": "SCANDIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.783654,
+          39.794452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCHOENCHEN, CITY OF",
+        "Population Served": 173,
+        "City": "SCHOENCHEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3323264,
+          38.7133459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTT CITY, CITY OF",
+        "Population Served": 3748,
+        "City": "SCOTT CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.907094,
+          38.4825192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCRANTON, CITY OF",
+        "Population Served": 651,
+        "City": "SCRANTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7385956,
+          38.7816717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEDAN, CITY OF",
+        "Population Served": 1005,
+        "City": "SEDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.1869361,
+          37.1267196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEDGWICK, CITY OF",
+        "Population Served": 1598,
+        "City": "SEDGWICK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4225411,
+          37.9166785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEDGWICK CO RWD 1",
+        "Population Served": 1275,
+        "City": "KECHI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.28088897,
+          37.800889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEDGWICK CO RWD 2",
+        "Population Served": 1460,
+        "City": "VALLEY CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3733759,
+          37.8347342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEDGWICK CO RWD 3",
+        "Population Served": 6045,
+        "City": "DERBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2689331,
+          37.5455735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEDGWICK CO RWD 4",
+        "Population Served": 2580,
+        "City": "GODDARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.5753256,
+          37.6597363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SELDEN, CITY OF",
+        "Population Served": 189,
+        "City": "SELDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.567644,
+          39.540837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SENECA, CITY OF",
+        "Population Served": 2130,
+        "City": "SENECA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.064168,
+          39.834165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEVERY, CITY OF",
+        "Population Served": 200,
+        "City": "SEVERY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2280527,
+          37.6222547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHARON, CITY OF",
+        "Population Served": 147,
+        "City": "SHARON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4206316,
+          37.2486335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHARON SPRINGS, CITY OF",
+        "Population Served": 744,
+        "City": "SHARON SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.7521158,
+          38.8977867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHAWNEE CO RWD 1C",
+        "Population Served": 4160,
+        "City": "AUBURN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.816097,
+          38.906114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHAWNEE CO RWD 2C",
+        "Population Served": 700,
+        "City": "TOPEKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHAWNEE CO RWD 3C",
+        "Population Served": 2675,
+        "City": "TOPEKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHAWNEE CO RWD 4C",
+        "Population Served": 12000,
+        "City": "TOPEKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHAWNEE CO RWD 8",
+        "Population Served": 6073,
+        "City": "TECUMSEH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.5791454,
+          39.0480559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER LAKE, CITY OF",
+        "Population Served": 1337,
+        "City": "SILVER LAKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.858598,
+          39.104166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIMMONS SUBDIVISION SANITATION SYSTEM",
+        "Population Served": 75,
+        "City": "ROSE HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1350405,
+          37.5583517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIMPSON, CITY OF",
+        "Population Served": 81,
+        "City": "SIMPSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.931432,
+          39.3852814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMITH CENTER, CITY OF",
+        "Population Served": 1572,
+        "City": "SMITH CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.785075,
+          39.779179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMITH CO RWD 1",
+        "Population Served": 380,
+        "City": "KENSINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.031751,
+          39.766956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOLDIER, CITY OF",
+        "Population Served": 102,
+        "City": "SOLDIER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.96416,
+          39.536106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOLOMON, CITY OF",
+        "Population Served": 993,
+        "City": "SOLOMON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3708366,
+          38.9202622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH HAVEN, CITY OF",
+        "Population Served": 325,
+        "City": "SOUTH HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.4013324,
+          37.049727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH HUTCHINSON, CITY OF",
+        "Population Served": 2498,
+        "City": "SOUTH HUTCHINSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9403303,
+          38.0280671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPEARVILLE, CITY OF",
+        "Population Served": 796,
+        "City": "SPEARVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.7567932,
+          37.8500191
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPEED, CITY OF",
+        "Population Served": 36,
+        "City": "SPEED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.42004413,
+          39.676799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPIVEY, CITY OF",
+        "Population Served": 59,
+        "City": "SPIVEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.16580038,
+          37.448524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING HILL, CITY OF",
+        "Population Served": 5694,
+        "City": "SPRING HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8255166,
+          38.7430646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAFFORD, CITY OF",
+        "Population Served": 936,
+        "City": "STAFFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.6006374,
+          37.9622372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STERLING, CITY OF",
+        "Population Served": 2318,
+        "City": "STERLING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2070059,
+          38.2100112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST FRANCIS, CITY OF",
+        "Population Served": 1292,
+        "City": "ST FRANCIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.799897,
+          39.7722151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST GEORGE, CITY OF",
+        "Population Served": 998,
+        "City": "ST GEORGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.41584382,
+          39.19110545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST JOHN, CITY OF",
+        "Population Served": 1176,
+        "City": "ST JOHN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.7601021,
+          38.0021145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST MARYS, CITY OF",
+        "Population Served": 2781,
+        "City": "ST MARYS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.0711041,
+          39.194164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STOCKTON, CITY OF",
+        "Population Served": 1380,
+        "City": "STOCKTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.2743686,
+          39.4367019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST PAUL, CITY OF",
+        "Population Served": 597,
+        "City": "ST PAUL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.1760424,
+          37.517132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STRONG CITY, CITY OF",
+        "Population Served": 455,
+        "City": "STRONG CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5369508,
+          38.3972359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUBLETTE, CITY OF",
+        "Population Served": 1376,
+        "City": "SUBLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.843773,
+          37.4816911
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUBURBAN WATER COMPANY",
+        "Population Served": 4700,
+        "City": "BASEHOR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9385763,
+          39.1416692
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMERFIELD, CITY OF",
+        "Population Served": 126,
+        "City": "SUMMERFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.350292,
+          39.997223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMNER CO RWD 1",
+        "Population Served": 280,
+        "City": "WELLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3999395,
+          37.2675076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMNER CO RWD 2",
+        "Population Served": 490,
+        "City": "WELLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3999395,
+          37.2675076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMNER CO RWD 3",
+        "Population Served": 80,
+        "City": "WELLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3999395,
+          37.2675076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMNER CO RWD 4",
+        "Population Served": 1157,
+        "City": "ARKANSAS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0388338,
+          37.0622562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMNER CO RWD 5",
+        "Population Served": 1429,
+        "City": "CONWAY SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6422723,
+          37.3902975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMNER CO RWD 6",
+        "Population Served": 298,
+        "City": "OXFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1689296,
+          37.2741908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNDOWNER, INC",
+        "Population Served": 220,
+        "City": "SALINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6114237,
+          38.8402805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET VALLEY MHP HAYS KS, LLC",
+        "Population Served": 60,
+        "City": "HAYS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.3267702,
+          38.8791783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUSANK, CITY OF",
+        "Population Served": 28,
+        "City": "SUSANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.77451877,
+          38.6405493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLVAN GROVE, CITY OF",
+        "Population Served": 285,
+        "City": "SYLVAN GROVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.394228,
+          39.009454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLVIA, CITY OF",
+        "Population Served": 210,
+        "City": "SYLVIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4084398,
+          37.9580938
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYRACUSE, CITY OF",
+        "Population Served": 1807,
+        "City": "SYRACUSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.752671,
+          37.9805686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TESCOTT, CITY OF",
+        "Population Served": 271,
+        "City": "TESCOTT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.875598,
+          39.008059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THAYER, CITY OF",
+        "Population Served": 433,
+        "City": "THAYER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4726393,
+          37.4886003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIMBER CREEK EAST WATER DISTRICT",
+        "Population Served": 850,
+        "City": "OLSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.615564,
+          39.430553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIMKEN, CITY OF",
+        "Population Served": 39,
+        "City": "TIMKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.17895739,
+          38.472055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIPTON, CITY OF",
+        "Population Served": 188,
+        "City": "TIPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.470897,
+          39.343065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TONGANOXIE, CITY OF",
+        "Population Served": 5702,
+        "City": "TONGANOXIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0877465,
+          39.109724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOPEKA, CITY OF",
+        "Population Served": 125963,
+        "City": "TOPEKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.677556,
+          39.049011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TORONTO, CITY OF",
+        "Population Served": 203,
+        "City": "TORONTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9491562,
+          37.7989253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWANDA, CITY OF",
+        "Population Served": 1445,
+        "City": "TOWANDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.999758,
+          37.797517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWNS RIVERVIEW SUBDIVISION",
+        "Population Served": 950,
+        "City": "GARDEN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8726618,
+          37.9716898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TREGO CO RWD 1",
+        "Population Served": 56,
+        "City": "RANSOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.9337342,
+          38.6361254
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TREGO CO RWD 2",
+        "Population Served": 1500,
+        "City": "WAKEENEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.879566,
+          39.025008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIBUNE, CITY OF",
+        "Population Served": 784,
+        "City": "TRIBUNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.752672,
+          38.4697378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TROY, CITY OF",
+        "Population Served": 954,
+        "City": "TROY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0895381,
+          39.7858014
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURON, CITY OF",
+        "Population Served": 304,
+        "City": "TURON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.4267424,
+          37.8072386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUTTLE CC MOBILE HOME PARK, LLC",
+        "Population Served": 50,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5716694,
+          39.1836082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UDALL, CITY OF",
+        "Population Served": 658,
+        "City": "UDALL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1142063,
+          37.3875221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ULYSSES, CITY OF",
+        "Population Served": 6410,
+        "City": "ULYSSES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.355169,
+          37.5814095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNIONTOWN, CITY OF",
+        "Population Served": 296,
+        "City": "UNIONTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9752495,
+          37.8472619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNIVERSITY OF KANSAS",
+        "Population Served": 35000,
+        "City": "LAWRENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2359403,
+          38.9719137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNIVERSITY PARK WATER DISTRICT",
+        "Population Served": 199,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5716694,
+          39.1836082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UTICA, CITY OF",
+        "Population Served": 101,
+        "City": "UTICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.169852,
+          38.6439032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY CENTER, CITY OF",
+        "Population Served": 7419,
+        "City": "VALLEY CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3733759,
+          37.8347342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY FALLS, CITY OF",
+        "Population Served": 1086,
+        "City": "VALLEY FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4597273,
+          39.343232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VERMILLION, CITY OF",
+        "Population Served": 78,
+        "City": "VERMILLION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.2664388,
+          39.7182722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VICTORIA, CITY OF",
+        "Population Served": 1149,
+        "City": "VICTORIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.147597,
+          38.85279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIOLA, CITY OF",
+        "Population Served": 115,
+        "City": "VIOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.6439386,
+          37.4830742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIRGIL, CITY OF",
+        "Population Served": 48,
+        "City": "VIRGIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.01027,
+          37.9808617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WABAUNSEE CO RWD 1",
+        "Population Served": 400,
+        "City": "MAPLE HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.028047,
+          39.084722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WABAUNSEE CO RWD 2",
+        "Population Served": 1400,
+        "City": "WAMEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.304998,
+          39.201941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAKEENEY, CITY OF",
+        "Population Served": 1790,
+        "City": "WAKEENEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.879566,
+          39.025008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAKEFIELD, CITY OF",
+        "Population Served": 846,
+        "City": "WAKEFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.0145406,
+          39.2168188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALDO, CITY OF",
+        "Population Served": 31,
+        "City": "WALDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.79795687,
+          39.1197755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALLACE, CITY OF",
+        "Population Served": 45,
+        "City": "WALLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.5930156,
+          38.9126435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALLACE CO RWD 1",
+        "Population Served": 165,
+        "City": "WESKAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.964343,
+          38.8666747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALNUT, CITY OF",
+        "Population Served": 189,
+        "City": "WALNUT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0780294,
+          37.6014373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALNUT GROVE MHC BROOKS",
+        "Population Served": 203,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.5716694,
+          39.1836082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALTON, CITY OF",
+        "Population Served": 217,
+        "City": "WALTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.2567001,
+          38.1177891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAMEGO, CITY OF",
+        "Population Served": 4860,
+        "City": "WAMEGO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.304998,
+          39.201941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON, CITY OF",
+        "Population Served": 1065,
+        "City": "WASHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.050861,
+          39.818059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON CO RWD 1",
+        "Population Served": 1093,
+        "City": "HANOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.87947,
+          39.893892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON CO RWD 2",
+        "Population Served": 567,
+        "City": "WASHINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.050861,
+          39.818059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATER DISTRICT 1 OF JOHNSON CO",
+        "Population Served": 480000,
+        "City": "KANSAS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.626497,
+          39.1134562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERVILLE, CITY OF",
+        "Population Served": 656,
+        "City": "WATERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.747519,
+          39.691112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATHENA, CITY OF",
+        "Population Served": 1242,
+        "City": "WATHENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9478024,
+          39.7599235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAVERLY, CITY OF",
+        "Population Served": 574,
+        "City": "WAVERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6020989,
+          38.3934404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEIR, CITY OF",
+        "Population Served": 566,
+        "City": "WEIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7719043,
+          37.3100548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WELLINGTON, CITY OF",
+        "Population Served": 7664,
+        "City": "WELLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3999395,
+          37.2675076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WELLSVILLE, CITY OF",
+        "Population Served": 1933,
+        "City": "WELLSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.0816354,
+          38.7183422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST HILLS SUBDIVISION",
+        "Population Served": 75,
+        "City": "NICKERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.0836679,
+          38.1472334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST MINERAL, CITY OF",
+        "Population Served": 150,
+        "City": "WEST MINERAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.9230182,
+          37.2842249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTMORELAND, CITY OF",
+        "Population Served": 716,
+        "City": "WESTMORELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.412993,
+          39.392991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WETMORE, CITY OF",
+        "Population Served": 348,
+        "City": "WETMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.811376,
+          39.63333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHEATLAND ELECTRIC COOPERATIVE INC",
+        "Population Served": 1,
+        "City": "GARDEN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8726618,
+          37.9716898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE CITY, CITY OF",
+        "Population Served": 581,
+        "City": "WHITE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.7358413,
+          38.7955599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE CLOUD, CITY OF",
+        "Population Served": 115,
+        "City": "WHITE CLOUD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2969223,
+          39.9763876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITEHURST TRAILER PARK",
+        "Population Served": 176,
+        "City": "GARDEN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.8726618,
+          37.9716898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITEWATER, CITY OF",
+        "Population Served": 666,
+        "City": "WHITEWATER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.1475347,
+          37.9647365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITING, CITY OF",
+        "Population Served": 196,
+        "City": "WHITING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.612759,
+          39.5897206
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WICHITA, CITY OF",
+        "Population Served": 395699,
+        "City": "WICHITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3375448,
+          37.6922361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSBURG, CITY OF",
+        "Population Served": 390,
+        "City": "WILLIAMSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.467544,
+          38.4787523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIS, CITY OF",
+        "Population Served": 38,
+        "City": "WILLIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.50522241,
+          39.7224872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSEY, CITY OF",
+        "Population Served": 139,
+        "City": "WILSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.6752855,
+          38.6361197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON, CITY OF",
+        "Population Served": 836,
+        "City": "WILSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.475344,
+          38.825011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 1",
+        "Population Served": 307,
+        "City": "FREDONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8266483,
+          37.5339386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 10",
+        "Population Served": 808,
+        "City": "CHANUTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4517985,
+          37.6816841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 11",
+        "Population Served": 833,
+        "City": "TORONTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9491562,
+          37.7989253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 12",
+        "Population Served": 123,
+        "City": "NEODESHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6802581,
+          37.4183929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 13",
+        "Population Served": 223,
+        "City": "FREDONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8266483,
+          37.5339386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 2",
+        "Population Served": 194,
+        "City": "FREDONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8266483,
+          37.5339386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 4",
+        "Population Served": 293,
+        "City": "NEODESHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6802581,
+          37.4183929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 5",
+        "Population Served": 110,
+        "City": "BENEDICT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.74455143,
+          37.627533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 6",
+        "Population Served": 30,
+        "City": "NEODESHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6802581,
+          37.4183929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 7",
+        "Population Served": 460,
+        "City": "FREDONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.8266483,
+          37.5339386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 8",
+        "Population Served": 32,
+        "City": "NEODESHA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.6802581,
+          37.4183929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO RWD 9",
+        "Population Served": 447,
+        "City": "TORONTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.9491562,
+          37.7989253
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINCHESTER, CITY OF",
+        "Population Served": 450,
+        "City": "WINCHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.2669155,
+          39.3222209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINDOM, CITY OF",
+        "Population Served": 93,
+        "City": "WINDOM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.9100492,
+          38.383898
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINFIELD, CITY OF",
+        "Population Served": 11726,
+        "City": "WINFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9955919,
+          37.2397486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINONA, CITY OF",
+        "Population Served": 184,
+        "City": "WINONA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -101.244325,
+          39.063341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODBINE, CITY OF",
+        "Population Served": 160,
+        "City": "WOODBINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.9586243,
+          38.7961151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODSON CO RWD 1",
+        "Population Served": 1773,
+        "City": "PIQUA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.535261,
+          37.922813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODSTON, CITY OF",
+        "Population Served": 95,
+        "City": "WOODSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -99.095645,
+          39.455288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YATES CENTER, CITY OF",
+        "Population Served": 1335,
+        "City": "YATES CENTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.7326925,
+          37.881541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ZENDA, CITY OF",
+        "Population Served": 69,
+        "City": "ZENDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.2820154,
+          37.442241
+        ]
+      }
+    }
+  ]
+}

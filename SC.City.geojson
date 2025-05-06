@@ -1,0 +1,8045 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ABBEVILLE CITY OF (0110001)",
+        "Population Served": 5640,
+        "City": "ABBEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3792463,
+          34.1779495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLONY EAST II (SC0150013)",
+        "Population Served": 30,
+        "City": "ABBEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3792463,
+          34.1779495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JERICHO TRAILER PARK (1060061)",
+        "Population Served": 103,
+        "City": "ADAMS RUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3481562,
+          32.7207343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AIKEN CITY OF (0210001)",
+        "Population Served": 45090,
+        "City": "AIKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7224579,
+          33.5616173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AIKEN-VALE SVC C CITY OF (SC0250009)",
+        "Population Served": 145,
+        "City": "AIKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7224579,
+          33.5616173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMERON MHP (SC0260038)",
+        "Population Served": 83,
+        "City": "AIKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7224579,
+          33.5616173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAXTON HILLVIEW MANOR (SC0260016)",
+        "Population Served": 47,
+        "City": "AIKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7224579,
+          33.5616173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLLEGE ACRES PUBLIC W/D (SC0220002)",
+        "Population Served": 1360,
+        "City": "AIKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7224579,
+          33.5616173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTMORENCI W/D (SC0220008)",
+        "Population Served": 3837,
+        "City": "AIKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7224579,
+          33.5616173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKHILL S/D (SC0250004)",
+        "Population Served": 243,
+        "City": "AIKEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7224579,
+          33.5616173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLENDALE INDUSTRIAL PARK (SC0320002)",
+        "Population Served": 2694,
+        "City": "ALLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3084405,
+          33.0079345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLENDALE TOWN OF (SC0310001)",
+        "Population Served": 3882,
+        "City": "ALLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3084405,
+          33.0079345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANDERSON REGIONAL JOINT WS (SC0420011)",
+        "Population Served": 25,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC BELLE MEAD ACRES (SC0450016)",
+        "Population Served": 175,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC BRIDGEWATER (0450033)",
+        "Population Served": 270,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CALHOUN ACRES (SC0450014)",
+        "Population Served": 196,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CLEARVIEW (SC0450026)",
+        "Population Served": 158,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC DOBBINS ESTATE (SC0450058)",
+        "Population Served": 196,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC EDGEBROOK (0450004)",
+        "Population Served": 48,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC FIELDCREST (SC0450032)",
+        "Population Served": 65,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC GREENFOREST (SC0450006)",
+        "Population Served": 173,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HAYNIE BUILDERS (SC0450063)",
+        "Population Served": 270,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HIDDEN LAKE (SC0450072)",
+        "Population Served": 227,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HILL AND DALE (SC0450036)",
+        "Population Served": 173,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LAKEWOOD (SC0450065)",
+        "Population Served": 183,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC NEVITT FOREST (SC0450007)",
+        "Population Served": 966,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC OAKWOOD ESTATES (0450076)",
+        "Population Served": 132,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SHERWOOD FOREST (SC0450029)",
+        "Population Served": 97,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SURFSIDE HEIGHTS (SC0450066)",
+        "Population Served": 61,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC TOWN CREEK (SC0450003)",
+        "Population Served": 275,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROADWAY W&S DISTRICT (SC0420008)",
+        "Population Served": 9586,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELECTRIC CITY UTILITIES (SC0410012)",
+        "Population Served": 38204,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMELAND PARK W/D (SC0420001)",
+        "Population Served": 7328,
+        "City": "ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6506264,
+          34.5068601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANDREWS TOWN OF (SC2210003)",
+        "Population Served": 3450,
+        "City": "ANDREWS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5608971,
+          33.451278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HUNTERS GLEN S/D (0250005)",
+        "Population Served": 97,
+        "City": "ANTREVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5423502,
+          34.3039983
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AWENDAW TOWN OF (SC1010504)",
+        "Population Served": 581,
+        "City": "AWENDAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.613127,
+          33.0376703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINDWOOD FARM HOME (SC1070963)",
+        "Population Served": 33,
+        "City": "AWENDAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.613127,
+          33.0376703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILTON SOUND (SC3250024)",
+        "Population Served": 50,
+        "City": "BALLENTINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2373187,
+          34.1243155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANDS POINT S/D (SC4050004)",
+        "Population Served": 50,
+        "City": "BALLENTINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2373187,
+          34.1243155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAMBERG PUBLIC WORKS (SC0510001)",
+        "Population Served": 3735,
+        "City": "BAMBERG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0348202,
+          33.2971012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARNWELL TOWN OF (SC0610001)",
+        "Population Served": 4693,
+        "City": "BARNWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3587178,
+          33.2448733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARRINEAU WATER SYSTEM (1420002)",
+        "Population Served": 1879,
+        "City": "BARRINEAU CROSSROADS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9089597,
+          33.8721057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATESBURG-LEESVILLE #2 (3210011)",
+        "Population Served": 595,
+        "City": "BATESBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5473262,
+          33.9079201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATESBURG LEESVILLE DPW (SC3210002)",
+        "Population Served": 6202,
+        "City": "BATESBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5473262,
+          33.9079201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW HOLLAND W/D (SC0220010)",
+        "Population Served": 301,
+        "City": "BATESBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5473262,
+          33.9079201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATH W&SD (SC0220003)",
+        "Population Served": 757,
+        "City": "BATH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8690018,
+          33.5045813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURNETTOWN W/D (SC0220007)",
+        "Population Served": 1090,
+        "City": "BATH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8690018,
+          33.5045813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAUFORT MHP (0760016)",
+        "Population Served": 107,
+        "City": "BEAUFORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6698286,
+          32.4315813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIARWOOD MHP (SC0760076)",
+        "Population Served": 39,
+        "City": "BEAUFORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6698286,
+          32.4315813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAYLOR MH ESTATE (SC0760015)",
+        "Population Served": 60,
+        "City": "BEAUFORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6698286,
+          32.4315813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEECH ISLAND W/D (SC0220004)",
+        "Population Served": 8935,
+        "City": "BEECH ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8909473,
+          33.4273614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMMOND W/D (SC0420007)",
+        "Population Served": 21193,
+        "City": "BELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4942948,
+          34.5228881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENNETTSVILLE CITY OF (SC3410001)",
+        "Population Served": 9070,
+        "City": "BENNETTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.684768,
+          34.6173516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARLBORO WATER CO (SC3420001)",
+        "Population Served": 5360,
+        "City": "BENNETTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.684768,
+          34.6173516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHUNE RURAL WATER (SC2820006)",
+        "Population Served": 3009,
+        "City": "BETHUNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3486166,
+          34.4147965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHUNE TOWN OF (SC2810002)",
+        "Population Served": 541,
+        "City": "BETHUNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3486166,
+          34.4147965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BISHOPVILLE TOWN OF (SC3110001)",
+        "Population Served": 3810,
+        "City": "BISHOPVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2484056,
+          34.2182107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACKSBURG TOWN OF (SC1110002)",
+        "Population Served": 4496,
+        "City": "BLACKSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5159246,
+          35.1212409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BJW&SA PALM KEY (2750031)",
+        "Population Served": 153,
+        "City": "BLUFFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8603868,
+          32.2371465
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOWMAN TOWN OF (SC3810004)",
+        "Population Served": 1274,
+        "City": "BOWMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6828713,
+          33.3487699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANCHVILLE TOWN OF (3810005)",
+        "Population Served": 1218,
+        "City": "BRANCHVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8156518,
+          33.2512711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRUNSON TOWN OF (SC2510004)",
+        "Population Served": 649,
+        "City": "BRUNSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1873276,
+          32.9254394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEVIEW MHP (SC0760001)",
+        "Population Served": 114,
+        "City": "BURTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7242883,
+          32.4357843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALHOUN FALLS TOWN OF (SC0110002)",
+        "Population Served": 2473,
+        "City": "CALHOUN FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5956875,
+          34.0923375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN CITY OF (2810001)",
+        "Population Served": 13993,
+        "City": "CAMDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6070391,
+          34.2464886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARLISLE TOWN OF (4410003)",
+        "Population Served": 555,
+        "City": "CARLISLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4625993,
+          34.5929168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTUCK HEBRON WATER CO (4420007)",
+        "Population Served": 3097,
+        "City": "CARLISLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4625993,
+          34.5929168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASSATT WTR KERSHAW-LEE CO RWA",
+        "Population Served": 25485,
+        "City": "CASSATT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4353898,
+          34.3647389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC MIDDLESTREAM (SC4650052)",
+        "Population Served": 88,
+        "City": "CATAWBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9111862,
+          34.8529233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR VALLEY MHP (SC4660009)",
+        "Population Served": 290,
+        "City": "CATAWBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9111862,
+          34.8529233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENSON MHP (4660111)",
+        "Population Served": 65,
+        "City": "CATAWBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9111862,
+          34.8529233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAYCE CITY OF (3210003)",
+        "Population Served": 17460,
+        "City": "CAYCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0739827,
+          33.9657091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL TOWN OF (SC3910005)",
+        "Population Served": 3495,
+        "City": "CENTRAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7804999,
+          34.7257424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AMICKS FERRY WTR SYSTEM (SC3250077)",
+        "Population Served": 3671,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC DUTCHMAN SHORES (SC3250021)",
+        "Population Served": 335,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC ESTATES AT HILTON (SC3250103)",
+        "Population Served": 67,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC INDIAN FORK-40 LOVE (3250066)",
+        "Population Served": 367,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LAKEWOOD ESTATES (SC3250005)",
+        "Population Served": 492,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC MILMONT SHORES (SC3250025)",
+        "Population Served": 57,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRYSTAL PINES (SC3250065)",
+        "Population Served": 69,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMERALD SHORES (SC3250088)",
+        "Population Served": 36,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHADY ACRES (SC3250060)",
+        "Population Served": 73,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STEPHENSON'S LAKE (SC3250018)",
+        "Population Served": 55,
+        "City": "CHAPIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3498212,
+          34.1659795
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARLESTON WATER SYSTEM (SC1010001)",
+        "Population Served": 327422,
+        "City": "CHARLESTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9399309,
+          32.7884363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHERAW TOWN OF (SC1310001)",
+        "Population Served": 6325,
+        "City": "CHERAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8833971,
+          34.6976564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY VILLAGE MHP (SC1360008)",
+        "Population Served": 96,
+        "City": "CHERAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8833971,
+          34.6976564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LCF WATER DISTRICT (SC4220010)",
+        "Population Served": 17659,
+        "City": "CHESNEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8609371,
+          35.1484549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHESTERFIELD CO RURAL WATER (SC1320003)",
+        "Population Served": 25691,
+        "City": "CHESTERFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0881194,
+          34.735989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHESTERFIELD TOWN OF (1310002)",
+        "Population Served": 1670,
+        "City": "CHESTERFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0881194,
+          34.735989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEMSON CITY OF (SC3910004)",
+        "Population Served": 17896,
+        "City": "CLEMSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8364111,
+          34.6850749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEMSON UNIVERSITY (SC3910006)",
+        "Population Served": 8320,
+        "City": "CLEMSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8364111,
+          34.6850749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLLEGE PLACE (SC3970301)",
+        "Population Served": 114,
+        "City": "CLEMSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8364111,
+          34.6850749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRAWFORD EDGE (SC3970303)",
+        "Population Served": 552,
+        "City": "CLEMSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8364111,
+          34.6850749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINTON CITY OF (3010002)",
+        "Population Served": 8938,
+        "City": "CLINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8806562,
+          34.4726277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIO TOWN OF (SC3410002)",
+        "Population Served": 788,
+        "City": "CLIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5465077,
+          34.5796653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC BROWN BOROUGH (SC4650061)",
+        "Population Served": 193,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CAMERON ACRES (SC4650059)",
+        "Population Served": 70,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC OLD FARM (SC4650042)",
+        "Population Served": 52,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC RIDGEWOOD (SC4650031)",
+        "Population Served": 175,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SHILOH QUARTERS (SC4660092)",
+        "Population Served": 157,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SOUTHBEND ESTATES (SC4660100)",
+        "Population Served": 111,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHUCKS MHP (SC4660077)",
+        "Population Served": 168,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOVER TOWN OF (SC4610006)",
+        "Population Served": 8400,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST ESTATES MHP (SC4660112)",
+        "Population Served": 40,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN AT CLOVER LLC THE (SC4660064)",
+        "Population Served": 300,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEHAVEN S/D (SC4650037)",
+        "Population Served": 81,
+        "City": "CLOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2265808,
+          35.1112886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAY CAPITAL WATER WORKS (SC4050031)",
+        "Population Served": 647,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CHARLESWOOD S/D (4050008)",
+        "Population Served": 484,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC FARROWWOOD ESTATES (SC4050012)",
+        "Population Served": 356,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WASHINGTON HEIGHTS (SC4050013)",
+        "Population Served": 190,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBIA CITY OF (SC4010001)",
+        "Population Served": 319500,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRESTHAVEN MHP (SC4060001)",
+        "Population Served": 37,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREEWAY MHP (SC4060005)",
+        "Population Served": 80,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEWOOD MHP (SC4060032)",
+        "Population Served": 110,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PALMETTO PARK (4060006)",
+        "Population Served": 132,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE VALLEY COMMUNITY (SC4060024)",
+        "Population Served": 21,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDY HILL MHP (SC4060064)",
+        "Population Served": 81,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER HILL MANUF HOME COMM. (SC4060019)",
+        "Population Served": 180,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINSOR VALLEY MHP (SC4060008)",
+        "Population Served": 68,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0331309,
+          34.0003117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUCKSPORT WATER COMPANY (SC2620003)",
+        "Population Served": 17123,
+        "City": "CONWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0478143,
+          33.8360035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONWAY CITY OF (SC2610008)",
+        "Population Served": 27005,
+        "City": "CONWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0478143,
+          33.8360035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONWAY RURAL (SC2620001)",
+        "Population Served": 12740,
+        "City": "CONWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0478143,
+          33.8360035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GSW&SA (SC2620004)",
+        "Population Served": 247550,
+        "City": "CONWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0478143,
+          33.8360035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COWARD TOWN OF (SC2110012)",
+        "Population Served": 2283,
+        "City": "COWARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7470111,
+          33.973217
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLERS MHP (SC0860063)",
+        "Population Served": 77,
+        "City": "CROSS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.148419,
+          33.3273879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DALZELL WATER DISTRICT (SC4320001)",
+        "Population Served": 3912,
+        "City": "DALZELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4300818,
+          34.0168213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGH HILLS RURAL WATER CO INC (4320003)",
+        "Population Served": 12545,
+        "City": "DALZELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4300818,
+          34.0168213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DARLINGTON CITY OF (SC1610001)",
+        "Population Served": 7142,
+        "City": "DARLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8761741,
+          34.2998762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DARLINGTON COUNTY W&SA (SC1620001)",
+        "Population Served": 52288,
+        "City": "DARLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8761741,
+          34.2998762
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAUFUSKIE ISL UTIL-MELROSE (SC0750043)",
+        "Population Served": 263,
+        "City": "DAUFUSKIE ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8710064,
+          32.11449575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DILLON CITY OF (SC1710001)",
+        "Population Served": 6998,
+        "City": "DILLON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3713948,
+          34.4165391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRICO WATER COMPANY (SC1720001)",
+        "Population Served": 17963,
+        "City": "DILLON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3713948,
+          34.4165391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASLEY CENTRAL W/D #1 (SC3920001)",
+        "Population Served": 2940,
+        "City": "EASLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5817053,
+          34.8269276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASLEY CENTRAL W/D #2 (SC3920007)",
+        "Population Served": 3234,
+        "City": "EASLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5817053,
+          34.8269276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASLEY COMBINED UTIL (SC3910002)",
+        "Population Served": 33356,
+        "City": "EASLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5817053,
+          34.8269276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POWDERSVILLE WATER DISTRICT (SC0420002)",
+        "Population Served": 34960,
+        "City": "EASLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5817053,
+          34.8269276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR CREEK MHP (4060035)",
+        "Population Served": 26,
+        "City": "EASTOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6922594,
+          33.8771147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASTOVER TOWN OF (SC4010002)",
+        "Population Served": 700,
+        "City": "EASTOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6922594,
+          33.8771147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDISTO BEACH TOWN OF (SC1510006)",
+        "Population Served": 5848,
+        "City": "EDISTO BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3348229,
+          32.4793551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FISHING CREEK POA (SC1550002)",
+        "Population Served": 98,
+        "City": "EDISTO BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3348229,
+          32.4793551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EHRHARDT TOWN OF (SC0510003)",
+        "Population Served": 507,
+        "City": "EHRHARDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0142681,
+          33.0968264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERCIVAL ESTATES MHP (SC4060021)",
+        "Population Served": 12,
+        "City": "ELGIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.794252,
+          34.1709826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKO TOWN OF (0610005)",
+        "Population Served": 340,
+        "City": "ELKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3795504,
+          33.3804267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELLOREE WATER SYSTEM (SC3810003)",
+        "Population Served": 1498,
+        "City": "ELLOREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5720319,
+          33.5309936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER CALHOUN (SC0920003)",
+        "Population Served": 504,
+        "City": "ELLOREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5720319,
+          33.5309936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESTILL TOWN OF (SC2510002)",
+        "Population Served": 2120,
+        "City": "ESTILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2420467,
+          32.754891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EUTAWVILLE TOWN OF (3810006)",
+        "Population Served": 555,
+        "City": "EUTAWVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3473115,
+          33.3946078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLORENCE CITY OF (SC2110001)",
+        "Population Served": 74204,
+        "City": "FLORENCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7671658,
+          34.1984435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOLLY BEACH CITY OF (1010005)",
+        "Population Served": 5086,
+        "City": "FOLLY BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9406093,
+          32.6549967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT JACKSON (SC4010501)",
+        "Population Served": 31000,
+        "City": "FORT JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9437,
+          34.0118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHESTER METROPOLITAN DISTRICT (1220002)",
+        "Population Served": 15668,
+        "City": "FORT LAWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8987618,
+          34.6983221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC FOXWOOD (SC4650008)",
+        "Population Served": 570,
+        "City": "FORT MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FERN FOREST MHP (SC4660001)",
+        "Population Served": 99,
+        "City": "FORT MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT MILL TOWN OF (SC4610003)",
+        "Population Served": 20783,
+        "City": "FORT MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERVIEW RURAL CWS (SC4620001)",
+        "Population Served": 2200,
+        "City": "FORT MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN LAKES ESTATES (SC4660007)",
+        "Population Served": 550,
+        "City": "FORT MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITLEY ESTATES (4660055)",
+        "Population Served": 93,
+        "City": "FORT MILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9450759,
+          35.0073697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FURMAN TOWN OF (SC2510007)",
+        "Population Served": 238,
+        "City": "FURMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1881598,
+          32.6815627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DANIEL MORGAN WATER DISTRICT (1120001)",
+        "Population Served": 5314,
+        "City": "GAFFNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6498195,
+          35.0717945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DRAYTONVILLE WATER DIST (SC1120003)",
+        "Population Served": 5347,
+        "City": "GAFFNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6498195,
+          35.0717945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAFFNEY BPW (1110001)",
+        "Population Served": 24290,
+        "City": "GAFFNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6498195,
+          35.0717945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRASSY POND WATER CO INC (SC1120002)",
+        "Population Served": 9458,
+        "City": "GAFFNEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6498195,
+          35.0717945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SANGAREE MHP (SC3260012)",
+        "Population Served": 174,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GASTON RURAL WATER DIST (SC3220002)",
+        "Population Served": 7550,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HALTER ACRES MHP (SC3260090)",
+        "Population Served": 90,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLANDS AT GASTON (SC3270011)",
+        "Population Served": 140,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEY LANE MHP (SC4060052)",
+        "Population Served": 32,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGE POINTE S/D (SC3250105)",
+        "Population Served": 170,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAND MOUNTAIN MHP (SC3260183)",
+        "Population Served": 40,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER CALHOUN/BELLEVILLE (0920001)",
+        "Population Served": 1779,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER CALHOUN/SANDY RUN (SC0920002)",
+        "Population Served": 1247,
+        "City": "GASTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1009286,
+          33.8170974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GEORGETOWN CITY OF (SC2210001)",
+        "Population Served": 9092,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2944965,
+          33.376834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GEORGETOWN RURAL COMM WA (2220001)",
+        "Population Served": 4941,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2944965,
+          33.376834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIFFORD TOWN OF (2510009)",
+        "Population Served": 260,
+        "City": "GIFFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.23804665,
+          32.860799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILBERT-SUMMIT WD (3220001)",
+        "Population Served": 7795,
+        "City": "GILBERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3937132,
+          33.9243121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESIDE FOREST 2 (SC3250030)",
+        "Population Served": 43,
+        "City": "GILBERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3937132,
+          33.9243121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MURRAY HILL ESTATES (SC3250014)",
+        "Population Served": 134,
+        "City": "GILBERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3937132,
+          33.9243121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIESTA COVE RV PARK MARINA (SC3270802)",
+        "Population Served": 40,
+        "City": "GILBERT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3937132,
+          33.9243121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TROLLEY RUN STATION DEVELOPMENT(0220016)",
+        "Population Served": 2592,
+        "City": "GLOVERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4934356,
+          32.9001726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY PSA (SC0220012)",
+        "Population Served": 7752,
+        "City": "GLOVERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4934356,
+          32.9001726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOOSE CREEK CITY OF (SC0810004)",
+        "Population Served": 40628,
+        "City": "GOOSE CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0387292,
+          32.9961038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BREEZY HILL W/D (SC0220006)",
+        "Population Served": 17822,
+        "City": "GRANITEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8078887,
+          33.5637483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAY COURT TOWN OF (SC3010003)",
+        "Population Served": 1069,
+        "City": "GRAY COURT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.113438,
+          34.6081774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREELEYVILLE TOWN OF (SC4510001)",
+        "Population Served": 850,
+        "City": "GREELEYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9889654,
+          33.5809988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENVILLE WATER (2310001)",
+        "Population Served": 396265,
+        "City": "GREENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3984882,
+          34.851354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY ACRES (SC2450057)",
+        "Population Served": 34,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1617883,
+          34.1954001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENWOOD CPW (2410001)",
+        "Population Served": 49632,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1617883,
+          34.1954001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HYDE PARK S/D (SC2450001)",
+        "Population Served": 234,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1617883,
+          34.1954001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MATHEWS HEIGHTS (SC2450021)",
+        "Population Served": 73,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1617883,
+          34.1954001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MITCHELL MHP (SC2460001)",
+        "Population Served": 43,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1617883,
+          34.1954001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE RIDGE WATER CO INC (SC2320003)",
+        "Population Served": 40006,
+        "City": "GREER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2272119,
+          34.9381361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREER CPW (SC2310005)",
+        "Population Served": 53602,
+        "City": "GREER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2272119,
+          34.9381361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMPTON TOWN OF (2510001)",
+        "Population Served": 3141,
+        "City": "HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1139447,
+          32.8701504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PALMETTO MHP 2 (SC2760013)",
+        "Population Served": 48,
+        "City": "HARDEEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0726108,
+          32.2802665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS I-95 (SC1870914)",
+        "Population Served": 102,
+        "City": "HARLEYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4478745,
+          33.2146069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARLEYVILLE TOWN OF (SC1810002)",
+        "Population Served": 846,
+        "City": "HARLEYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4478745,
+          33.2146069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTSVILLE CITY OF (SC1610003)",
+        "Population Served": 8711,
+        "City": "HARTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0734005,
+          34.3740431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HEATH SPRINGS TOWN OF (SC2910002)",
+        "Population Served": 947,
+        "City": "HEATH SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6761563,
+          34.5925625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARBOR ISLAND (SC0750013)",
+        "Population Served": 1039,
+        "City": "HELENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6409406,
+          34.282916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HEMINGWAY TOWN OF (SC4510004)",
+        "Population Served": 3191,
+        "City": "HEMINGWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4475566,
+          33.7537774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HICKORY GROVE TOWN OF (SC4610004)",
+        "Population Served": 654,
+        "City": "HICKORY GROVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4164751,
+          34.9831881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILDA TOWN OF (SC0610004)",
+        "Population Served": 318,
+        "City": "HILDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2470987,
+          33.2739262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HILTON PLACE (SC3250072)",
+        "Population Served": 87,
+        "City": "HILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3062093,
+          34.1370916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC INDIAN COVE S/D (SC3250020)",
+        "Population Served": 92,
+        "City": "HILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3062093,
+          34.1370916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC MURRAY LODGE (3250013)",
+        "Population Served": 146,
+        "City": "HILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3062093,
+          34.1370916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAUFUSKIE ISL UTIL-HAIG POINT (0750036)",
+        "Population Served": 608,
+        "City": "HILTON HEAD ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7512616,
+          32.1618488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILTON HEAD PSD 1 (0720006)",
+        "Population Served": 25558,
+        "City": "HILTON HEAD ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7512616,
+          32.1618488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH ISLAND PSD (SC0720001)",
+        "Population Served": 18299,
+        "City": "HILTON HEAD ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7512616,
+          32.1618488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATER OAK UTILITY CO (SC0750002)",
+        "Population Served": 2318,
+        "City": "HILTON HEAD ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7512616,
+          32.1618488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WELLS EAST S/D (SC0750026)",
+        "Population Served": 60,
+        "City": "HILTON HEAD ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7512616,
+          32.1618488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY HILL TOWN OF (SC3810002)",
+        "Population Served": 1710,
+        "City": "HOLLY HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4137038,
+          33.3226624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HONEA PATH TOWN OF (SC0410003)",
+        "Population Served": 4386,
+        "City": "HONEA PATH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3915122,
+          34.4465018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "611 HARMON LLC (SC4060012)",
+        "Population Served": 24,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELAIRE MHP (SC4060009)",
+        "Population Served": 34,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEVERLY HILLS INC (SC4060038)",
+        "Population Served": 90,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HARMON HILL ESTATES (SC4050011)",
+        "Population Served": 126,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC OAKRIDGE HUNT CLUB (SC4050019)",
+        "Population Served": 208,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SPRINGFIELD ACRES (SC4050006)",
+        "Population Served": 130,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOPKINS COMMUNITY WATER SYSTEM (4020002)",
+        "Population Served": 2200,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDONALDS MHP (SC4060010)",
+        "Population Served": 16,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW LANE MHP (SC4060014)",
+        "Population Served": 70,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHLAND CO/POND DRIVE (SC4050042)",
+        "Population Served": 55,
+        "City": "HOPKINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8770342,
+          33.9043212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INMAN CAMPOBELLO W/D (4220002)",
+        "Population Served": 36685,
+        "City": "INMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0906082,
+          35.047841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC RAINTREE ACRES (SC4050015)",
+        "Population Served": 799,
+        "City": "IRMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18021014,
+          34.08846885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC STONEGATE (SC4050014)",
+        "Population Served": 352,
+        "City": "IRMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.18021014,
+          34.08846885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ISLE OF PALMS W/S COMM (SC1010004)",
+        "Population Served": 9530,
+        "City": "ISLE OF PALMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7880359,
+          32.7867697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IVA TOWN OF (SC0410001)",
+        "Population Served": 1874,
+        "City": "IVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.663743,
+          34.3064967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAMESTOWN TOWN OF (SC0810003)",
+        "Population Served": 800,
+        "City": "JAMESTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.6925716,
+          33.2860005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON TOWN OF (SC1310005)",
+        "Population Served": 948,
+        "City": "JEFFERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3895397,
+          34.6498886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JENKINSVILLE WATER COMPANY (SC2020001)",
+        "Population Served": 2550,
+        "City": "JENKINSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2884285,
+          34.2673706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KIAWAH ISLAND UTILITY (SC1010008)",
+        "Population Served": 9432,
+        "City": "JOHNS ISLAND (STA.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10815,
+          32.7924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST JOHN'S WATER (SC1020002)",
+        "Population Served": 22592,
+        "City": "JOHNS ISLAND (STA.)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.10815,
+          32.7924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOHNSONVILLE CITY OF (SC2110011)",
+        "Population Served": 5083,
+        "City": "JOHNSONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4492228,
+          33.8179432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG CANE MHP (SC1960002)",
+        "Population Served": 48,
+        "City": "JOHNSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.8007982,
+          33.8320906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JONESVILLE TOWN OF (SC4410002)",
+        "Population Served": 1917,
+        "City": "JONESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6809327,
+          34.8359651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKY CREEK W/D (SC4420003)",
+        "Population Served": 2405,
+        "City": "JONESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6809327,
+          34.8359651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KERSHAW TOWN OF (SC2910003)",
+        "Population Served": 2567,
+        "City": "KERSHAW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5832479,
+          34.5517286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC ROCK BLUFF S/D (4550001)",
+        "Population Served": 45,
+        "City": "KINGSTREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8306265,
+          33.6676643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGSTREE TOWN OF (SC4510002)",
+        "Population Served": 6009,
+        "City": "KINGSTREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8306265,
+          33.6676643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WCWSA (SC4510007)",
+        "Population Served": 7099,
+        "City": "KINGSTREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8306265,
+          33.6676643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHWAY 88 W/D (SC0420004)",
+        "Population Served": 3990,
+        "City": "LA FRANCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7654934,
+          34.6122634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDY SPRINGS WATER CO INC (SC0420003)",
+        "Population Served": 17311,
+        "City": "LA FRANCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7654934,
+          34.6122634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BCWSA SINEATH MHP (0850018)",
+        "Population Served": 594,
+        "City": "LADSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1098123,
+          32.9857275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWA TRANQUIL ACRES (1820003)",
+        "Population Served": 858,
+        "City": "LADSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1098123,
+          32.9857275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS SOUTHERN PALMS (SC1850011)",
+        "Population Served": 1494,
+        "City": "LADSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1098123,
+          32.9857275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE CITY CITY OF (SC2110007)",
+        "Population Served": 9191,
+        "City": "LAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7553452,
+          33.8709959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAMAR TOWN OF (SC1610004)",
+        "Population Served": 1034,
+        "City": "LAMAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0625149,
+          34.1690224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANCASTER CITY OF (SC2910001)",
+        "Population Served": 14074,
+        "City": "LANCASTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7709015,
+          34.7204257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANCASTER COUNTY W&SD (SC2920001)",
+        "Population Served": 79107,
+        "City": "LANCASTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7709015,
+          34.7204257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIFFS AT GLASSY THE (SC2350023)",
+        "Population Served": 1195,
+        "City": "LANDRUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1892007,
+          35.1751148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWS-LANDRUM WTP (SC4210003)",
+        "Population Served": 4419,
+        "City": "LANDRUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1892007,
+          35.1751148
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANE TOWN OF (4510005)",
+        "Population Served": 585,
+        "City": "LANE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.878685,
+          33.5215548
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LATTA TOWN OF (SC1710002)",
+        "Population Served": 2076,
+        "City": "LATTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4321949,
+          34.337691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAURENS COUNTY W&S COMM (SC3020001)",
+        "Population Served": 36314,
+        "City": "LAURENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0156362,
+          34.4989248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAURENS CPW (SC3010001)",
+        "Population Served": 13902,
+        "City": "LAURENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0156362,
+          34.4989248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCH ROAD WATER (SC3050008)",
+        "Population Served": 40,
+        "City": "LAURENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0156362,
+          34.4989248
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AAA/PERRY WATER SYSTEM (SC4150007)",
+        "Population Served": 89,
+        "City": "LEESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5134368,
+          33.916532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC TANGLEWOOD S/D (SC4150011)",
+        "Population Served": 29,
+        "City": "LEESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5134368,
+          33.916532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LESSLIEDALE (SC4660095)",
+        "Population Served": 75,
+        "City": "LESLIE (LESSLIE)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.950909,
+          34.880053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BASIN ROCK MHP (SC3260164)",
+        "Population Served": 190,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC BELLEMEAD S/D (3250031)",
+        "Population Served": 367,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC EMMA TERRACE (SC3250022)",
+        "Population Served": 65,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC FOX TRAIL (SC3250038)",
+        "Population Served": 94,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LAKE VILLAGE (SC3250054)",
+        "Population Served": 197,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LEXINGTON ESTATES (SC3250050)",
+        "Population Served": 419,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC MURRAY PARK ESTATES (SC3250019)",
+        "Population Served": 122,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHASEHUNT FARMS (SC3250104)",
+        "Population Served": 75,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY PARK (SC3260187)",
+        "Population Served": 36,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HERMITAGE MHP (SC3260189)",
+        "Population Served": 100,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN OAKS MHP (SC3260140)",
+        "Population Served": 40,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDEAWAY MHP (3260127)",
+        "Population Served": 35,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLVIEW MHP (SC3260104)",
+        "Population Served": 96,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAKES LANDING (SC3260048)",
+        "Population Served": 79,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOINT MUNICIPAL WSC (SC3220003)",
+        "Population Served": 47838,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE LODGE APARTMENTS (3270301)",
+        "Population Served": 130,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEXINGTON TOWN OF (3210001)",
+        "Population Served": 24284,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDLAND HILLS MHP (SC3260182)",
+        "Population Served": 66,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLS MHP 1&2 (SC3260050)",
+        "Population Served": 25,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REGENCY SQUARE 2 (SC3260170)",
+        "Population Served": 99,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHEALY ESTATES III (3250102)",
+        "Population Served": 84,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNNYVALE MHP (SC3260138)",
+        "Population Served": 65,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILD MEADOWS S/D (SC3250097)",
+        "Population Served": 878,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2374167,
+          33.9804494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY CITY OF (SC3910003)",
+        "Population Served": 3349,
+        "City": "LIBERTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6936822,
+          34.7869865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHSIDE W/D (3920010)",
+        "Population Served": 9568,
+        "City": "LIBERTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6936822,
+          34.7869865
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLNVILLE TOWN OF (SC1010007)",
+        "Population Served": 1980,
+        "City": "LINCOLNVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1565076,
+          33.0105829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOCKHART TOWN OF (SC4420010)",
+        "Population Served": 520,
+        "City": "LOCKHART"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.4620402,
+          34.7865238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LODGE TOWN OF (1510001)",
+        "Population Served": 121,
+        "City": "LODGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9537124,
+          33.0679387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LORIS CITY OF (SC2610010)",
+        "Population Served": 3428,
+        "City": "LORIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8903044,
+          34.0562812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUGOFF ELGIN WATER AUTH (SC2820001)",
+        "Population Served": 22873,
+        "City": "LUGOFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6892487,
+          34.2273712
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SJWD MIDDLE TYGER WTP (4220006)",
+        "Population Served": 77019,
+        "City": "LYMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1233544,
+          34.9501765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYNCHBURG TOWN OF (SC3110002)",
+        "Population Served": 373,
+        "City": "LYNCHBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.07146,
+          34.0601571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLARENDON CO W&S HWY 260 (SC1450013)",
+        "Population Served": 3521,
+        "City": "MANNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2107811,
+          33.6952318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CYPRESS POINTE CONDOS (SC1470304)",
+        "Population Served": 154,
+        "City": "MANNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2107811,
+          33.6952318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANNING CITY OF (SC1410002)",
+        "Population Served": 5908,
+        "City": "MANNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2107811,
+          33.6952318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WYBOO WATER DEPT INC (SC1450009)",
+        "Population Served": 618,
+        "City": "MANNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2107811,
+          33.6952318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GSW&SA-MARION CITY OF (3310001)",
+        "Population Served": 9104,
+        "City": "MARION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4006069,
+          34.178216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARCO RURAL WATER CO (SC3320001)",
+        "Population Served": 17120,
+        "City": "MARION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.4006069,
+          34.178216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAYESVILLE TOWN OF (SC4310003)",
+        "Population Served": 665,
+        "City": "MAYSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1667643,
+          34.81124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLIGATOR RURAL WATER (SC1320004)",
+        "Population Served": 4743,
+        "City": "MCBEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2560046,
+          34.4687188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCBEE TOWN OF (SC1310004)",
+        "Population Served": 1239,
+        "City": "MCBEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2560046,
+          34.4687188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCCOLL TOWN OF (SC3410003)",
+        "Population Served": 2445,
+        "City": "MCCOLL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5453297,
+          34.6687714
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC FARM POND (SC4650056)",
+        "Population Served": 70,
+        "City": "MCCONNELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2275817,
+          34.8687483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC KIMS ACRES (SC4650041)",
+        "Population Served": 152,
+        "City": "MCCONNELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2275817,
+          34.8687483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC MALLARD LAKES (SC4650057)",
+        "Population Served": 137,
+        "City": "MCCONNELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2275817,
+          34.8687483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCCORMICK CO W&SA (SC3520002)",
+        "Population Served": 8500,
+        "City": "MCCORMICK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2934578,
+          33.9134582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCCORMICK CPW (3510001)",
+        "Population Served": 1818,
+        "City": "MCCORMICK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2934578,
+          33.9134582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MITFORD WATER DISTRICT (SC2020005)",
+        "Population Served": 1878,
+        "City": "MITFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9553603,
+          34.5273659
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BCWSA EAST COOPER (SC0820009)",
+        "Population Served": 11198,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BCWSA LAKE MOULTRIE ESTATES (0820004)",
+        "Population Served": 156,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BCWSA SANGAREE W/D (0820002)",
+        "Population Served": 79038,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARNETT MHP (SC0860058)",
+        "Population Served": 41,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE MOULTRIE REGIONAL WS (SC0820008)",
+        "Population Served": 25,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEPKIN ABBEY (SC0870972)",
+        "Population Served": 30,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONCKS CORNER CITY OF (SC0810001)",
+        "Population Served": 7440,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "O HAYNES SYSTEM (0850014)",
+        "Population Served": 205,
+        "City": "MONCKS CORNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0131374,
+          33.1960027
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT PLEASANT WATER WORKS (1010002)",
+        "Population Served": 91500,
+        "City": "MOUNT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8625851,
+          32.7940651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MULLINS CITY OF (3310002)",
+        "Population Served": 7366,
+        "City": "MULLINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.2559892,
+          34.2060587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GSW&SA-MYRTLE BEACH (SC2620009)",
+        "Population Served": 25,
+        "City": "MYRTLE BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEWOOD CAMPGROUND (SC2660049)",
+        "Population Served": 4415,
+        "City": "MYRTLE BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MYRTLE BEACH CITY OF (SC2610001)",
+        "Population Served": 50930,
+        "City": "MYRTLE BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCEAN LAKES LTD (SC2660048)",
+        "Population Served": 10727,
+        "City": "MYRTLE BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THOMPKINS MHP (SC2660045)",
+        "Population Served": 42,
+        "City": "MYRTLE BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8900409,
+          33.6956461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOYS FARM INC (SC3670108)",
+        "Population Served": 50,
+        "City": "NEWBERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6188633,
+          34.2753247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWBERRY CITY OF (3610001)",
+        "Population Served": 9573,
+        "City": "NEWBERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6188633,
+          34.2753247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWBERRY CO W&SA (3620002)",
+        "Population Served": 9941,
+        "City": "NEWBERRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6188633,
+          34.2753247
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GSW&SA-NICHOLS TOWN OF (3310003)",
+        "Population Served": 678,
+        "City": "NICHOLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1486504,
+          34.2337747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BULL SWAMP RURAL WTR CO (SC3820001)",
+        "Population Served": 2350,
+        "City": "NORTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1020414,
+          33.6157083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH TOWN OF (SC3810010)",
+        "Population Served": 1378,
+        "City": "NORTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1020414,
+          33.6157083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDGEFIELD CO W&SA (1920001)",
+        "Population Served": 29200,
+        "City": "NORTH AUGUSTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9705909,
+          33.4943487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS ASHLEY PHOSPHATE (SC1820008)",
+        "Population Served": 26076,
+        "City": "NORTH CHARLESTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9748103,
+          32.8546197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "N MYRTLE BEACH CITY OF (SC2610011)",
+        "Population Served": 40625,
+        "City": "NORTH MYRTLE BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.6800323,
+          33.8278405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORWAY TOWN OF (3810008)",
+        "Population Served": 775,
+        "City": "NORWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.125756,
+          33.4521264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLANTA TOWN OF (SC2110006)",
+        "Population Served": 801,
+        "City": "OLANTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9325705,
+          33.9354381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLAR GOVAN WATER SYSTEM (0510004)",
+        "Population Served": 296,
+        "City": "OLAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.185382,
+          33.1804338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORANGEBURG COUNTY (SC3810012)",
+        "Population Served": 280,
+        "City": "ORANGEBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8556476,
+          33.4918203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORANGEBURG DPU (SC3810001)",
+        "Population Served": 46896,
+        "City": "ORANGEBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8556476,
+          33.4918203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOUCHER WD (1120004)",
+        "Population Served": 5323,
+        "City": "PACOLET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7617679,
+          34.8990182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAGELAND CITY OF (SC1310003)",
+        "Population Served": 3467,
+        "City": "PAGELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3914661,
+          34.7719578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTSIDE ESTATES APTS (SC1370300)",
+        "Population Served": 87,
+        "City": "PAGELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3914661,
+          34.7719578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAMPLICO TOWN OF (SC2110010)",
+        "Population Served": 1734,
+        "City": "PAMPLICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.5700598,
+          33.9959952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GCWSD GARDEN CITY POINT (SC2220011)",
+        "Population Served": 1790,
+        "City": "PAWLEYS ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1215912,
+          33.4293486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GCWSD KILSOCK WATER SYS (SC2220002)",
+        "Population Served": 4417,
+        "City": "PAWLEYS ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1215912,
+          33.4293486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GCWSD PLANTERSVILLE SYS (2220004)",
+        "Population Served": 1079,
+        "City": "PAWLEYS ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1215912,
+          33.4293486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GCWSD RED HILL (2220007)",
+        "Population Served": 726,
+        "City": "PAWLEYS ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1215912,
+          33.4293486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GCWSD WACCAMAW NECK (SC2220010)",
+        "Population Served": 37790,
+        "City": "PAWLEYS ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1215912,
+          33.4293486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GCWSD WEDGEFIELD PLANTATION (2220006)",
+        "Population Served": 1132,
+        "City": "PAWLEYS ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1215912,
+          33.4293486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LEXINGTON FARMS (SC3250069)",
+        "Population Served": 335,
+        "City": "PELION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2445502,
+          33.7625708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LCJMWSC-PELION TOWN OF (SC3210010)",
+        "Population Served": 1001,
+        "City": "PELION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2445502,
+          33.7625708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC TROLLINGWOOD S/D (SC2350010)",
+        "Population Served": 180,
+        "City": "PELZER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4559598,
+          34.6423372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON TOWN OF (SC0410006)",
+        "Population Served": 5597,
+        "City": "PENDLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7820663,
+          34.6508092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHLEHEM-ROANOKE W/D (SC3920003)",
+        "Population Served": 6334,
+        "City": "PICKENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7073573,
+          34.8834489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DACUSVILLE-CEDAR ROCK WT CO (SC3920008)",
+        "Population Served": 8700,
+        "City": "PICKENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7073573,
+          34.8834489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAULEY FALLS 2 4 5 6 (SC3950008)",
+        "Population Served": 23,
+        "City": "PICKENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7073573,
+          34.8834489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAULEY FALLS W/S (SC3950004)",
+        "Population Served": 36,
+        "City": "PICKENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7073573,
+          34.8834489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PICKENS WTP (SC3910001)",
+        "Population Served": 10263,
+        "City": "PICKENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7073573,
+          34.8834489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCK POINT HOA (SC3950007)",
+        "Population Served": 70,
+        "City": "PICKENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7073573,
+          34.8834489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WOODMONT ESTATE (2350013)",
+        "Population Served": 59,
+        "City": "PIEDMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4645714,
+          34.7023389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CHARWOOD S/D (3250035)",
+        "Population Served": 683,
+        "City": "PINERIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0589669,
+          34.9387545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEWOOD TOWN OF (SC4310002)",
+        "Population Served": 455,
+        "City": "PINEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4634176,
+          33.7404382
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PROSPERITY TOWN OF (SC3610005)",
+        "Population Served": 1292,
+        "City": "PROSPERITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.5338576,
+          34.2098669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURBAGE MHP (SC1060063)",
+        "Population Served": 171,
+        "City": "RAVENEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2500986,
+          32.7632321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WA BURBAGE TRAILER PARK 1 (1060014)",
+        "Population Served": 81,
+        "City": "RAVENEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2500986,
+          32.7632321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WINDY HILL (SC3250057)",
+        "Population Served": 375,
+        "City": "RED BANK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2384,
+          33.9321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS REEVESVILLE (SC1820002)",
+        "Population Served": 300,
+        "City": "REEVESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6478749,
+          33.2057173
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGE SPRING TOWN OF (SC4110002)",
+        "Population Served": 1575,
+        "City": "RIDGE SPRING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6619012,
+          33.845478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGELAND TOWN OF (2710001)",
+        "Population Served": 2678,
+        "City": "RIDGELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.980386,
+          32.4807435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS EDISTO TRIBAL COUNCIL (1850010)",
+        "Population Served": 925,
+        "City": "RIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3152808,
+          33.0966193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIEBER CORRECTIONAL INSTITUTE (1870050)",
+        "Population Served": 1646,
+        "City": "RIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3152808,
+          33.0966193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MACDOUGALL CORRECTIONAL INST (SC0870050)",
+        "Population Served": 790,
+        "City": "RIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3152808,
+          33.0966193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRESERVE AT RIDGEVILLE (SC0870305)",
+        "Population Served": 660,
+        "City": "RIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3152808,
+          33.0966193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGEVILLE TOWN OF (SC1810004)",
+        "Population Served": 710,
+        "City": "RIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3152808,
+          33.0966193
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGEWAY MANOR  (SC2070002)",
+        "Population Served": 158,
+        "City": "RIDGEWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9603643,
+          34.3076471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGEWAY TOWN OF (SC2010002)",
+        "Population Served": 950,
+        "City": "RIDGEWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9603643,
+          34.3076471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADNAH HILLS MHP (SC4660115)",
+        "Population Served": 350,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC BARNEY RHETT (SC4650018)",
+        "Population Served": 114,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CAROWOOD (SC4650035)",
+        "Population Served": 212,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CARROLLTON PLACE S/D (SC4650062)",
+        "Population Served": 108,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC COUNTRY OAKS (SC4650020)",
+        "Population Served": 359,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HICKORY HILL (SC4650025)",
+        "Population Served": 95,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LESSLIEWOODS 2 (SC4650051)",
+        "Population Served": 41,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC RIVERBEND ESTATES (SC4660103)",
+        "Population Served": 93,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SILVER LAKES-WINDWOOD (SC4650034)",
+        "Population Served": 191,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WESLEYWOOD (SC4650016)",
+        "Population Served": 65,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WINDY RUN (SC4650048)",
+        "Population Served": 90,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WINTERCREST (SC4650017)",
+        "Population Served": 503,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WOODBRIDGE (SC4650028)",
+        "Population Served": 173,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CATAWBA INDIAN NATION CWS (SC4650063)",
+        "Population Served": 446,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUNCAN MHP (SC4660093)",
+        "Population Served": 60,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN EARTH PWS (SC4610009)",
+        "Population Served": 280,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAMBERT MHP (SC4660108)",
+        "Population Served": 50,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOST COLONY S/D (SC4650019)",
+        "Population Served": 54,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PECAN GROVE COMMONS (SC4660003)",
+        "Population Served": 58,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUAIL MEADOWS PARK LLC (SC4660063)",
+        "Population Served": 221,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCK HILL CITY OF (SC4610002)",
+        "Population Served": 82846,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTLAND YARD MHP (SC4660105)",
+        "Population Served": 53,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLWOOD S/D (4650004)",
+        "Population Served": 122,
+        "City": "ROCK HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0250784,
+          34.9248667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAY RIDGE S/D (SC3750027)",
+        "Population Served": 62,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9765364,
+          34.8898161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIFFS AT KEOWEE (SC3950009)",
+        "Population Served": 23,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9765364,
+          34.8898161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ISAQUEENA POINT UTIL SYS (SC3750008)",
+        "Population Served": 38,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9765364,
+          34.8898161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEOWEE BAY S/D (SC3750026)",
+        "Population Served": 115,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9765364,
+          34.8898161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEOWEE KEY UTILITY SYSTEM INC (3750023)",
+        "Population Served": 4108,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9765364,
+          34.8898161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALEM TOWN OF (SC3710001)",
+        "Population Served": 6444,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9765364,
+          34.8898161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURTLEHEAD AT KEOWEE S/D (SC3750022)",
+        "Population Served": 32,
+        "City": "SALEM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9765364,
+          34.8898161
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHARD DEASON MHP (SC4160011)",
+        "Population Served": 55,
+        "City": "SALUDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7720522,
+          34.0015232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALUDA CO W&S AUTHORITY (4120001)",
+        "Population Served": 4535,
+        "City": "SALUDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7720522,
+          34.0015232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALUDA CPW (SC4110001)",
+        "Population Served": 3390,
+        "City": "SALUDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7720522,
+          34.0015232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE MARION REGIONAL WATER SYS (3820003)",
+        "Population Served": 25,
+        "City": "SANTEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4864764,
+          33.4751634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCCORDS FERRY AT LAKE MARION(3850004)",
+        "Population Served": 20,
+        "City": "SANTEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4864764,
+          33.4751634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTEE TOWN OF (3810011)",
+        "Population Served": 2388,
+        "City": "SANTEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.4864764,
+          33.4751634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTIA TOWN OF (SC2510008)",
+        "Population Served": 161,
+        "City": "SCOTIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2434364,
+          32.6810063
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCRANTON TOWN OF (SC2110009)",
+        "Population Served": 1133,
+        "City": "SCRANTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.7439557,
+          33.9176621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEABROOK ISLAND TOWN OF (1010009)",
+        "Population Served": 5939,
+        "City": "SEABROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7664952,
+          32.5279652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTS COVE AND TORY POINTE (SC3750029)",
+        "Population Served": 560,
+        "City": "SENECA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9527288,
+          34.6865321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SENECA CITY OF (3710002)",
+        "Population Served": 37478,
+        "City": "SENECA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9527288,
+          34.6865321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIEW AT THE PIER THE (SC3770300)",
+        "Population Served": 864,
+        "City": "SENECA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9527288,
+          34.6865321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHARON TOWN OF (SC4610005)",
+        "Population Served": 573,
+        "City": "SHARON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.3409156,
+          34.9509674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC KINGSWOOD S/D (SC2350011)",
+        "Population Served": 77,
+        "City": "SIMPSONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2542834,
+          34.7370639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIX MILE W/D (SC3920002)",
+        "Population Served": 14845,
+        "City": "SIX MILE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8200507,
+          34.8073836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMOAKS TOWN OF (1510002)",
+        "Population Served": 176,
+        "City": "SMOAKS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8139879,
+          33.0896069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC DUTCHMAN ACRES (SC3250028)",
+        "Population Served": 60,
+        "City": "SOUTH CONGAREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1356517,
+          33.9109851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT RIDGE MHP (SC3260147)",
+        "Population Served": 22,
+        "City": "SOUTH CONGAREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1356517,
+          33.9109851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIPLE ACRES MHP 2 (SC3260029)",
+        "Population Served": 29,
+        "City": "SOUTH CONGAREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.1356517,
+          33.9109851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "METRO SUBDISTRICT B (4220003)",
+        "Population Served": 1905,
+        "City": "SPARTANBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9320157,
+          34.9498007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPARTANBURG WATER SYSTEM (4210001)",
+        "Population Served": 140024,
+        "City": "SPARTANBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.9320157,
+          34.9498007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGFIELD TOWN OF (SC3810009)",
+        "Population Served": 700,
+        "City": "SPRINGFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2792711,
+          33.4968163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS CONOFLOW (SC1820007)",
+        "Population Served": 150,
+        "City": "ST. GEORGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5756534,
+          33.1859958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST GEORGE TOWN OF (1810001)",
+        "Population Served": 2148,
+        "City": "ST. GEORGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5756534,
+          33.1859958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST MATTHEWS TOWN OF (SC0910001)",
+        "Population Served": 2644,
+        "City": "ST. MATTHEWS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.7778681,
+          33.664876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STARR-IVA W/D (SC0420005)",
+        "Population Served": 11125,
+        "City": "STARR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6956891,
+          34.3770509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STUCKEY TOWN OF (SC4510003)",
+        "Population Served": 317,
+        "City": "STUCKEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.51336313,
+          33.7322995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SULLIVANS ISLAND TOWN OF (1010003)",
+        "Population Served": 2521,
+        "City": "SULLIVANS ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8456405,
+          32.7593435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIN POND SHORES WATER CO (SC1450005)",
+        "Population Served": 72,
+        "City": "SUMMERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35126,
+          33.6082323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH SHORE WATER SYS (SC1470863)",
+        "Population Served": 272,
+        "City": "SUMMERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35126,
+          33.6082323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMERTON TOWN OF (SC1410003)",
+        "Population Served": 2096,
+        "City": "SUMMERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.35126,
+          33.6082323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWA CALOMET VALLEY (1850009)",
+        "Population Served": 275,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWA KNIGHTSVILLE (1820001)",
+        "Population Served": 34877,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS CALEB COURT (SC1850015)",
+        "Population Served": 156,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DCWS/CLAY FIELD DRIVE (SC1850014)",
+        "Population Served": 1648,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HERON'S WALK PHASE 1 (SC1850017)",
+        "Population Served": 231,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMECOMING SUBDIVISION (SC1850016)",
+        "Population Served": 25,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDY RUN MHP (SC0860037)",
+        "Population Served": 41,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMERVILLE CPW (SC1810003)",
+        "Population Served": 81750,
+        "City": "SUMMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.1762704,
+          33.0186699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC OAKLAND PLANTATION (SC4350006)",
+        "Population Served": 1180,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC POCALLA DEVELOPMENT (SC4350007)",
+        "Population Served": 327,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR HILL MHP (SC4360010)",
+        "Population Served": 128,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRESCENT MHP (SC4360011)",
+        "Population Served": 259,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANADA SUBDIVISION (SC4350008)",
+        "Population Served": 150,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KOKOMO PALMS (SC4360037)",
+        "Population Served": 280,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSWEGO RURAL WATER CO (SC4320006)",
+        "Population Served": 3282,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUAIL HOLLOW S/D (SC4350014)",
+        "Population Served": 36,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHAW MOBILE HOME PARK (SC4360012)",
+        "Population Served": 173,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHILOH WATER SYSTEM (SC4320005)",
+        "Population Served": 645,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMTER CITY OF (SC4310001)",
+        "Population Served": 53070,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMTER-WESSEX S/D (SC4350016)",
+        "Population Served": 412,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHISPERING PINES MHP (SC4360021)",
+        "Population Served": 80,
+        "City": "SUMTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.3414693,
+          33.9204354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWANSEA TOWN OF (SC3210006)",
+        "Population Served": 1923,
+        "City": "SWANSEA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0978734,
+          33.7382088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TEGA CAY CITY OF (SC4610008)",
+        "Population Served": 10500,
+        "City": "TEGA CAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.02263253,
+          35.038216000000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVER BLUFF S/D (SC3950005)",
+        "Population Served": 133,
+        "City": "TRAVELERS REST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4434548,
+          34.9676167
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURBEVILLE TOWN OF (SC1410004)",
+        "Population Served": 723,
+        "City": "TURBEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0189905,
+          33.8909666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROWNS CREEK W/D (SC4420002)",
+        "Population Served": 2781,
+        "City": "UNION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6237462,
+          34.7151939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEANSVILLE RILEY W/D (SC4420001)",
+        "Population Served": 7368,
+        "City": "UNION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6237462,
+          34.7151939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION CITY OF (SC4410001)",
+        "Population Served": 11873,
+        "City": "UNION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6237462,
+          34.7151939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CATAWBA RIVER WSP (2920002)",
+        "Population Served": 25,
+        "City": "VAN WYCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8459054,
+          34.8584802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VARNVILLE TOWN OF (2510005)",
+        "Population Served": 1865,
+        "City": "VARNVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0792239,
+          32.850471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALHALLA CITY OF (SC3710004)",
+        "Population Served": 18511,
+        "City": "WALHALLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0640417,
+          34.7648176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALLACE WATER COMPANY (SC3420002)",
+        "Population Served": 3552,
+        "City": "WALLACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8414522,
+          34.7201566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAITH CATHEDRAL FELLOWSHIP INC (1570924)",
+        "Population Served": 54,
+        "City": "WALTERBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6672631,
+          32.9021377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALTERBORO CITY OF (1510004)",
+        "Population Served": 11829,
+        "City": "WALTERBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.6672631,
+          32.9021377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARE SHOALS TOWN OF (SC2410003)",
+        "Population Served": 3174,
+        "City": "WARE SHOALS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2467121,
+          34.3983739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET POINTE S/D (SC3050013)",
+        "Population Served": 60,
+        "City": "WATERLOO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0592766,
+          34.3515126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMTER CO-WEDGEFIELD-STATEBURG WD",
+        "Population Served": 1200,
+        "City": "WEDGEFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5181403,
+          33.8926563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST ANDERSON W/D (0420006)",
+        "Population Served": 17430,
+        "City": "WEST ANDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.68819,
+          34.5020496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CEDARWOOD (SC3250047)",
+        "Population Served": 300,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC CREEKWOOD (3250042)",
+        "Population Served": 136,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC FALCON RANCHES (SC3250016)",
+        "Population Served": 278,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC GLENN VILLAGE II (SC3250058)",
+        "Population Served": 1116,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HARBORSIDE (3270302)",
+        "Population Served": 286,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HEATHERWOOD-BLUE RIDGE (SC3250015)",
+        "Population Served": 455,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HIDDEN VALLEY (SC3250073)",
+        "Population Served": 480,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC I-20 (SC3250012)",
+        "Population Served": 6637,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC IDLEWOOD (SC3250017)",
+        "Population Served": 134,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC INDIAN PINES (SC3250051)",
+        "Population Served": 43,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC LANDS END CONDOS (SC3270300)",
+        "Population Served": 359,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC MALLARD COVE (SC3250076)",
+        "Population Served": 78,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC PARKWOOD S/D (3250029)",
+        "Population Served": 311,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC PEACHTREE ACRES (3250045)",
+        "Population Served": 124,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC ROLLINGWOOD (SC3250052)",
+        "Population Served": 493,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC TANYA TERRACE (SC3250023)",
+        "Population Served": 54,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC THE LANDINGS (3250063)",
+        "Population Served": 430,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC VANARSDALE S/D (3250027)",
+        "Population Served": 509,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC WESTSIDE TERRACE (3250002)",
+        "Population Served": 172,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR RETIREMENT CENTER (SC3270010)",
+        "Population Served": 45,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN ACRES MHP (SC3260207)",
+        "Population Served": 74,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCGREGOR DOWNS (SC3260059)",
+        "Population Served": 626,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKFORD PLACE-CHARWOOD (3250099)",
+        "Population Served": 174,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROLLING MEADOWS MHP (3260027)",
+        "Population Served": 1056,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCENIC DRIVE MHP (SC3260081)",
+        "Population Served": 50,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER LAKE MHP (SC3260022)",
+        "Population Served": 122,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIPLE ACRES MHP 1 (SC3260049)",
+        "Population Served": 38,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST COLUMBIA CITY OF (3210004)",
+        "Population Served": 34028,
+        "City": "WEST COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0640341,
+          33.991869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST PELZER TOWN OF (SC0410009)",
+        "Population Served": 1236,
+        "City": "WEST PELZER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4701272,
+          34.644837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST UNION TOWN OF (3710005)",
+        "Population Served": 468,
+        "City": "WEST UNION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0429377,
+          34.7599491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHEROKEE CREEK BOYS SCHOOL (SC3770002)",
+        "Population Served": 40,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHICKASAW POINT (SC3750010)",
+        "Population Served": 823,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOXWOOD HILLS (SC3750025)",
+        "Population Served": 1703,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIONEER RURAL WATER DIST (SC3720001)",
+        "Population Served": 17121,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORT BASS II (SC3750012)",
+        "Population Served": 165,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORT BASS I (SC3750002)",
+        "Population Served": 681,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIMBER LAKE II (SC3750007)",
+        "Population Served": 93,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIMBER LAKE I (SC3750006)",
+        "Population Served": 283,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTMINSTER CITY OF (3710003)",
+        "Population Served": 8085,
+        "City": "WESTMINSTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0965425,
+          34.6648197
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITMIRE TOWN OF (3610004)",
+        "Population Served": 2256,
+        "City": "WHITMIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.6114932,
+          34.5029146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMS TOWN OF (SC1510003)",
+        "Population Served": 103,
+        "City": "WILLIAMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8426004,
+          33.0346074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSTON TOWN OF (0410010)",
+        "Population Served": 6693,
+        "City": "WILLIAMSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4779053,
+          34.6184471
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLISTON TOWN OF (SC0610002)",
+        "Population Served": 3251,
+        "City": "WILLISTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.42323,
+          33.4022393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDCOUNTY WATER DIST 1 (2020002)",
+        "Population Served": 1487,
+        "City": "WINNSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0864776,
+          34.3807012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDCOUNTY WATER DIST 2 (SC2020004)",
+        "Population Served": 3500,
+        "City": "WINNSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0864776,
+          34.3807012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINNSBORO TOWN OF (2010001)",
+        "Population Served": 7888,
+        "City": "WINNSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.0864776,
+          34.3807012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODRUFF ROEBUCK W/D (4220007)",
+        "Population Served": 28897,
+        "City": "WOODRUFF"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0370466,
+          34.7395701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YEMASSEE TOWN OF (SC2510006)",
+        "Population Served": 1270,
+        "City": "YEMASSEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8506626,
+          32.6901781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC BROWN NEAL (SC4650047)",
+        "Population Served": 52,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC HIDDEN LAKES (SC4650040)",
+        "Population Served": 121,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC OLYMPIC ACRES (SC4650053)",
+        "Population Served": 209,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC PEPPERIDGE (SC4660101)",
+        "Population Served": 142,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC POLLYS CIRCLE (SC4660073)",
+        "Population Served": 114,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SHANDON (SC4650009)",
+        "Population Served": 183,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC SPRINGLAKE ESTATES (SC4650012)",
+        "Population Served": 36,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BGWC VALLEYMERE MH (SC4650046)",
+        "Population Served": 59,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARROLL MHP 1 (SC4660087)",
+        "Population Served": 25,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARROLL MHP 2  (SC4660088)",
+        "Population Served": 35,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOODS MHP (SC4660098)",
+        "Population Served": 128,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE WYLIE MHP (SC4660081)",
+        "Population Served": 1225,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERLYNN DOWNS (SC4660045)",
+        "Population Served": 92,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YORK CITY OF (SC4610001)",
+        "Population Served": 9220,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YORK COUNTY EAST WD (SC4620002)",
+        "Population Served": 30225,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YORK COUNTY WEST WD (SC4620003)",
+        "Population Served": 18273,
+        "City": "YORK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.2421403,
+          34.9940654
+        ]
+      }
+    }
+  ]
+}

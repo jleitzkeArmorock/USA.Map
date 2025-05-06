@@ -1,0 +1,1805 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPINE MOBILE HOME PARK",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AMARGOSA WATER COMPANY",
+        "Population Served": 54,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANCHOR IN MHP",
+        "Population Served": 36,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERMUDA PALMS MANAGEMENT LLC",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG FIVE PARK",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG VALLEY MHP",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE DIAMOND WATER CO OP INC",
+        "Population Served": 85,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALVADA MEADOWS  GBWC",
+        "Population Served": 112,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANYON GID",
+        "Population Served": 1310,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.529362193,
+          39.4469307309
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARSON RIVER ESTATES",
+        "Population Served": 105,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335778874,
+          39.580876381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARVERS SMOKEY VALLEY RV AND MHP",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHIPMUNK RETREAT",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLD CREEK MHP",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.901684451,
+          39.4421951904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONESTOGA MHP",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY VIEW ESTATES GBWC",
+        "Population Served": 1072,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRESCENT VALLEY WATER SYSTEM",
+        "Population Served": 340,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.268559598,
+          39.9838920238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "C VALLEY MHP",
+        "Population Served": 54,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT MIRAGE HOMEOWNERS ASSOCIATION",
+        "Population Served": 230,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT SUNRISE WATER USERS ASSOC",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT UTILITIES",
+        "Population Served": 1086,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEVILS GATE GID DISTRICT 1",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.268559598,
+          39.9838920238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEVILS GATE WATER SYSTEM GID 2",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.268559598,
+          39.9838920238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOUGLAS COUNTY CARSON VALLEY SYSTEM",
+        "Population Served": 6152,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUTCHMAN ACRES",
+        "Population Served": 260,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.404438052,
+          40.4403578768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASTLAND HEIGHTS WATER ASSOCIATION",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKHORN WATER ASSOCIATION LLC",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELK POINT COUNTRY CLUB",
+        "Population Served": 325,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELY MAXIMUM SECURITY PRISON  NDOC",
+        "Population Served": 1099,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.901684451,
+          39.4421951904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EQUESTRIAN ESTATES CO OP WATER ASSOC",
+        "Population Served": 108,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESCAPEE CO OP OF NEVADA",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRGROUNDS/SUNRISE ESTATES",
+        "Population Served": 1011,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT APACHE ANN NE WATER ASSOC",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLD COUNTRY ESTATES",
+        "Population Served": 1695,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.111965828,
+          41.4068465707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANDVIEW TERRACE WATER DISTRICT",
+        "Population Served": 328,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREAT BASIN WATER CO  COLD SPRINGS",
+        "Population Served": 9650,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREAT BASIN WATER COMPANY",
+        "Population Served": 11322,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREAT BASIN WATER CO  SPANISH SPRINGS",
+        "Population Served": 1460,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREAT BASIN WATER CO  SPRING CREEK",
+        "Population Served": 9215,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREAT BASIN WATER CO  SPRING CREEK MHP",
+        "Population Served": 3637,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAWTHORNE ARMY DEPOT",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.435214254,
+          38.5388085859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLCREST MANOR WATER USERS ASSOCIATION",
+        "Population Served": 450,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INDIAN HILLS GID",
+        "Population Served": 5962,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KE TA MOBILE HOME PARK",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGS ROW TP",
+        "Population Served": 860,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGSTON TOWN WATER UTILITIES",
+        "Population Served": 350,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.037908401,
+          39.9338060484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KOA OF ELY CAMPGROUND",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.901684451,
+          39.4421951904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LARK MOBILE HOME PARK",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIGHTNING W",
+        "Population Served": 163,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN CREEK ESTATES GID",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOVELOCK CORRECTIONAL CENTER NDOC",
+        "Population Served": 1630,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.404438052,
+          40.4403578768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUNA VISTA",
+        "Population Served": 66,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN FALLS WATER SYSTEM GBWC",
+        "Population Served": 4198,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW MHP",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT ROSE BOWL PROPERTY OWNERS WATER CO",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NELLIS AIR FORCE BASE",
+        "Population Served": 19081,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEVADA STATE VETERANS HOME BOULDER CITY",
+        "Population Served": 708,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEVADA YOUTH TRAINING CENTER",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NPS BOULDER BEACH",
+        "Population Served": 690,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NPS CALLVILLE BAY",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NPS ECHO BAY",
+        "Population Served": 274,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OASIS MHP",
+        "Population Served": 46,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OK MOBILE HOME PARK",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335778874,
+          39.580876381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD RIVER WATER COMPANY",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335778874,
+          39.580876381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD WASHOE ESTATES",
+        "Population Served": 135,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PALM GARDENS WATER CO OP",
+        "Population Served": 42,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEVIEW ESTATES",
+        "Population Served": 450,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINION PINES MHP",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRIMM VALLEY CASINO RESORTS",
+        "Population Served": 7000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAINBOW GARDENS WATER USERS",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHO COOPERATIVE WATER COMPANY",
+        "Population Served": 112,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHO VISTA 4",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RENO SAHARA TRAILER PARK",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO VISTA NV LLC",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERVIEW MOBILE HOME PARK",
+        "Population Served": 59,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROARK ESTATES WATER ASSOC",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSEMOUNT WATER CO",
+        "Population Served": 54,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROUND HILL GID",
+        "Population Served": 1200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUBY DOME HOLDINGS DBA ELKO RV PARK",
+        "Population Served": 357,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAGE VALLEY MHP LLC",
+        "Population Served": 188,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335778874,
+          39.580876381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAGE VALLEY PARK ANNEX",
+        "Population Served": 130,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335778874,
+          39.580876381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHETLAND WATER DISTRICT",
+        "Population Served": 38,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHOSHONE ESTATES WATER CO INC",
+        "Population Served": 240,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIERRA COUNTRY ESTATES",
+        "Population Served": 47,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIERRA ESTATES GID",
+        "Population Served": 170,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIGNATURE TOWERS",
+        "Population Served": 2356,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER KNOLLS MUTUAL WATER COMPANY",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER PEAK WATER SYSTEM",
+        "Population Served": 138,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.632366036,
+          37.7846965493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER SPRINGS MUTUAL WATER COMPANY",
+        "Population Served": 3070,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.189196841,
+          39.020397715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SKY RANCH ESTATES",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH CRESTVIEW HOMEOWNERS",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHERN DESERT CORRECTIONAL CTR  NDOC",
+        "Population Served": 6200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHERN NEVADA WATER SYSTEM",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPIRIT MOUNTAIN UTILITY COMPANY",
+        "Population Served": 375,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING MOUNTAIN MOTOR SPORTS RANCH",
+        "Population Served": 62,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING MOUNTAIN YOUTH CAMP",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAGECOACH GID",
+        "Population Served": 1628,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.189196841,
+          39.020397715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAMPMILL",
+        "Population Served": 118,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAR CITY PROPERTIES",
+        "Population Served": 285,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.111965828,
+          41.4068465707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STEAMBOAT SPRINGS WATERWORKS INC",
+        "Population Served": 998,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNRISE ACRES WATER ASSOCIATION",
+        "Population Served": 231,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNRISE ESTATES",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET MHP",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUN VALLEY GID",
+        "Population Served": 17000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUTCLIFFE MOBILE PARK",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOLAS WATERWORKS CO OP",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.335778874,
+          39.580876381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TONOPAH PUBLIC UTILITIES",
+        "Population Served": 2853,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.471931336,
+          38.0423815985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOPAZ RANCH ESTATES GID AND WATER CO",
+        "Population Served": 1545,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TORREY PINES TINA LN WTR ASSOC",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN OF MINDEN",
+        "Population Served": 3500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TROUT CANYON LAND AND WATER USERS ASSOC",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.013561058,
+          36.2151963075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUSCARORA WATER SYSTEM",
+        "Population Served": 72,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPAWAY WATER SYSTEM",
+        "Population Served": 85,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.616372018,
+          38.9122413956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY VIEW RV PARK",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALMY STATION MOBILE HOME PARK",
+        "Population Served": 96,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.111965828,
+          41.4068465707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VERDI MEADOWS UTILITY COMPANY INC",
+        "Population Served": 510,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WADSWORTH MOBILE HOME PARK",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.664306118,
+          40.6655968327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALKER LAKE GID",
+        "Population Served": 450,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.435214254,
+          38.5388085859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEED HEIGHTS DEVELOPMENT",
+        "Population Served": 340,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.189196841,
+          39.020397715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST WENDOVER WATER SYSTEM",
+        "Population Served": 4535,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.35770071,
+          41.1457829623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YERINGTON CITY OF",
+        "Population Served": 5050,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.189196841,
+          39.020397715
+        ]
+      }
+    }
+  ]
+}

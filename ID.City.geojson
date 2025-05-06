@@ -1,0 +1,335 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERSTONE SUBDIVISION",
+        "Population Served": 50,
+        "City": "BLACKFOOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.348357,
+          43.190039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAYTON CITY OF",
+        "Population Served": 510,
+        "City": "DAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.993566,
+          42.1129787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DARBY WATER ASSN",
+        "Population Served": 58,
+        "City": "DRIGGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.110887,
+          43.7231753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRONWOOD",
+        "Population Served": 125,
+        "City": "DRIGGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.110887,
+          43.7231753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERVINE SUBDIVISION",
+        "Population Served": 25,
+        "City": "EAGLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.3540138,
+          43.6954424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHERRY GULCH BOYS RANCH",
+        "Population Served": 100,
+        "City": "EMMETT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.4993012,
+          43.8734979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANYON ESTATES WATER SYSTEM",
+        "Population Served": 50,
+        "City": "FISH HAVEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.3963177,
+          42.0368759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIONEER MOBILE HOME PARK LLC",
+        "Population Served": 53,
+        "City": "HOMEDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.9337599,
+          43.6176584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DJ PARK WELL",
+        "Population Served": 35,
+        "City": "IDAHO FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.03628,
+          43.4887907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHSIDE ESTATES WELL",
+        "Population Served": 30,
+        "City": "IDAHO FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.03628,
+          43.4887907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NUR WATER ASSN",
+        "Population Served": 60,
+        "City": "IDAHO FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.03628,
+          43.4887907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHO VIA WELL USERS ASSN INC",
+        "Population Served": 40,
+        "City": "IDAHO FALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.03628,
+          43.4887907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PELICAN POINT SUBDIVISION",
+        "Population Served": 142,
+        "City": "MINIDOKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -113.490282,
+          42.7537967
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKLEAF SUBDIVISION",
+        "Population Served": 71,
+        "City": "MOUNTAIN HOME"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.691197,
+          43.1329504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHSHORE WATER",
+        "Population Served": 30,
+        "City": "NAMPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.559631,
+          43.5737361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY VIEW WATER",
+        "Population Served": 57,
+        "City": "NAMPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.559631,
+          43.5737361
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POCATELLO CITY OF",
+        "Population Served": 57092,
+        "City": "POCATELLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -112.450627,
+          42.8620287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLVIEW SUBD",
+        "Population Served": 50,
+        "City": "REXBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.787022,
+          43.8235163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYRINGA PARK SUBD",
+        "Population Served": 35,
+        "City": "REXBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.787022,
+          43.8235163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY LIVING CENTER",
+        "Population Served": 30,
+        "City": "RIGBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.918002,
+          43.6751937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TETON WEST RV PARK",
+        "Population Served": 80,
+        "City": "RIGBY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.918002,
+          43.6751937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW COURT",
+        "Population Served": 40,
+        "City": "ST. ANTHONY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -111.682185,
+          43.966301
+        ]
+      }
+    }
+  ]
+}

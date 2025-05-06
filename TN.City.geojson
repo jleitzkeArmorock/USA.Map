@@ -1,0 +1,6725 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST ROBERTSON WATER AUTHORITY",
+        "Population Served": 5304.0,
+        "City": "ADAMS,CEDAR HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.001509,
+          36.551448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADAMSVILLE WATER SYSTEM",
+        "Population Served": 9750.0,
+        "City": "ADAMSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3905965,
+          35.2359146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALAMO WATER DEPARTMENT",
+        "Population Served": 3050.0,
+        "City": "ALAMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1172883,
+          35.7847949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTY WIDE UTILITY DISTRICT",
+        "Population Served": 8528.0,
+        "City": "ALAMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1172883,
+          35.7847949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROCKETT MILLS UTILITY DISTRICT",
+        "Population Served": 767.0,
+        "City": "ALAMO,CROCKET MILLS,CROCKETT MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.16923,
+          35.86757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALCOA WATER SYSTEM",
+        "Population Served": 30944.0,
+        "City": "ALCOA,MARYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.986599,
+          35.7847143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG CREEK UTILITY DISTRICT",
+        "Population Served": 9211.0,
+        "City": "ALTAMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7230316,
+          35.4295186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARDMORE WATER SYSTEM",
+        "Population Served": 1517.0,
+        "City": "ARDMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.85905655014949,
+          35.0063045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASHLAND CITY WATER DEPARTMENT",
+        "Population Served": 9173.0,
+        "City": "ASHLAND CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0641699,
+          36.2742207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVER ROAD UTILITY DISTRICT",
+        "Population Served": 3613.0,
+        "City": "ASHLAND CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0641699,
+          36.2742207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUNNINGHAM EAST-MONTG WTP",
+        "Population Served": 25.0,
+        "City": "ASHLAND CITY,CLARKSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3657979,
+          36.507662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATHENS UTILITIES BOARD",
+        "Population Served": 25851.0,
+        "City": "ATHENS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5930113,
+          35.4428864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POPLAR GROVE UTILITY DISTRICT",
+        "Population Served": 18664.0,
+        "City": "ATOKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7781379,
+          35.4411945
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATWOOD WATER SYSTEM",
+        "Population Served": 1311.0,
+        "City": "ATWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6781141,
+          35.9731207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTY LINE TRAILER PARK",
+        "Population Served": 61.0,
+        "City": "ATWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6781141,
+          35.9731207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION FORK-BAKEWELL U.D.",
+        "Population Served": 6021.0,
+        "City": "BAKEWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1330119,
+          35.3434025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARTLETT WATER SYSTEM",
+        "Population Served": 57129.0,
+        "City": "BARTLETT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8739753,
+          35.2045329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAXTER WATER DEPARTMENT",
+        "Population Served": 7463.0,
+        "City": "BAXTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.643399,
+          36.1537731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAN STATION UTILITY DISTRICT",
+        "Population Served": 10378.0,
+        "City": "BEAN STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2840492,
+          36.3436559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELLS PUBLIC UTILITY DISTRICT",
+        "Population Served": 2547.0,
+        "City": "BELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0876655,
+          35.7113362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELVIDERE RURAL U.D.",
+        "Population Served": 1716.0,
+        "City": "BELVIDERE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1866532,
+          35.1292509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENTON WATER SYSTEM",
+        "Population Served": 2482.0,
+        "City": "BENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6535468,
+          35.1742411
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHEL SPRINGS WATER SYSTEM",
+        "Population Served": 944.0,
+        "City": "BETHEL SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6064373,
+          35.2336933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG SANDY WATER DEPARTMENT",
+        "Population Served": 1170.0,
+        "City": "BIG SANDY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0853146,
+          36.2347791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARBOR UTILITY DISTRICT",
+        "Population Served": 750.0,
+        "City": "BIG SANDY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0853146,
+          36.2347791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUFF CITY WATER DEPARTMENT",
+        "Population Served": 2763.0,
+        "City": "BLUFF CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2609685,
+          36.4742705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOLIVAR WATER SYSTEM",
+        "Population Served": 6251.0,
+        "City": "BOLIVAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9878389,
+          35.2561937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRADFORD WATER SYSTEM",
+        "Population Served": 1259.0,
+        "City": "BRADFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8100617,
+          36.0764546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRENTWOOD WATER DEPARTMENT",
+        "Population Served": 30493.0,
+        "City": "BRENTWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7825235,
+          36.0325687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRISTOL-BLUFF CITY U.D.",
+        "Population Served": 5893.0,
+        "City": "BRISTOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1885212,
+          36.5945034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRISTOL DEPT OF UTILITIES",
+        "Population Served": 37457.0,
+        "City": "BRISTOL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1885212,
+          36.5945034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROWNSVILLE WATER DEPT",
+        "Population Served": 12900.0,
+        "City": "BROWNSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.262291,
+          35.5939671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STANTON WATER SYSTEM",
+        "Population Served": 655.0,
+        "City": "BROWNSVILLE,STANTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.402115,
+          35.461807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRUCETON WATER SYSTEM",
+        "Population Served": 1674.0,
+        "City": "BRUCETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2444874,
+          36.0381158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOON BAY P.O.A.",
+        "Population Served": 134.0,
+        "City": "BUMPUS MILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8375217,
+          36.6047727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARDERVIEW UTILITY DISTRICT",
+        "Population Served": 1130.0,
+        "City": "BUTLER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0323443,
+          36.3534506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BYRDSTOWN WATER DEPT",
+        "Population Served": 8428.0,
+        "City": "BYRDSTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1288435,
+          36.5745104
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN WATER DEPT",
+        "Population Served": 10013.0,
+        "City": "CAMDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0978151,
+          36.0589486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARTHAGE WATER SYSTEM",
+        "Population Served": 3171.0,
+        "City": "CARTAHAGE,CARTHAGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.944595,
+          36.25423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GROVE UTILITY DISTRICT",
+        "Population Served": 1492.0,
+        "City": "CEDAR GROVE,LAVINIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.66089,
+          35.84923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CELINA WATER SYSTEM",
+        "Population Served": 5510.0,
+        "City": "CELINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.505247,
+          36.5500611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTERVILLE WATER SYSTEM",
+        "Population Served": 11348.0,
+        "City": "CENTERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4669587,
+          35.7789565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAPEL HILL WATER SYSTEM",
+        "Population Served": 3100.0,
+        "City": "CHAPEL HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6933305,
+          35.6264581
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIWASSEE UTILITY COMMISSION",
+        "Population Served": 25.0,
+        "City": "CHARLESTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7575018,
+          35.2858415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVER LANDING CONDOMINIUM ASSOC",
+        "Population Served": 52.0,
+        "City": "CHARLESTON,CHATTANOOGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.234979,
+          35.091981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASTSIDE UTILITY DISTRICT",
+        "Population Served": 57939.0,
+        "City": "CHATTANOOGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3094883,
+          35.0457219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TENNESSEE AMERICAN WATER",
+        "Population Served": 211499.0,
+        "City": "CHATTANOOGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3094883,
+          35.0457219
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUCK CREEK WATER SYSTEM",
+        "Population Served": 650.0,
+        "City": "CHATTANOOGA,SODDY-DAISY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.169271,
+          35.25577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIRST U.D. OF HAWKINS COUNTY",
+        "Population Served": 20294.0,
+        "City": "CHURCH HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7134921,
+          36.5223207
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEARFORK UTILITY DISTRICT",
+        "Population Served": 1305.0,
+        "City": "CLAIRFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9502006,
+          36.5500803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH CARROLL UTILITY DISTRICT",
+        "Population Served": 1514.0,
+        "City": "CLARKSBURG,NEW TAZEWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.598984,
+          36.443143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLARKSVILLE WATER DEPARTMENT",
+        "Population Served": 251864.0,
+        "City": "CLARKSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3588703,
+          36.5277607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEVELAND UTILITIES",
+        "Population Served": 92151.0,
+        "City": "CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8766115,
+          35.1595182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCOEE UTILITY DISTRICT",
+        "Population Served": 20607.0,
+        "City": "CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8766115,
+          35.1595182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIFTON WATER DEPT",
+        "Population Served": 3421.0,
+        "City": "CLIFTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9953571,
+          35.3870124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINTON UTILITIES BOARD",
+        "Population Served": 18288.0,
+        "City": "CLINTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1318632,
+          36.1034126
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLLIERVILLE WATER DEPT",
+        "Population Served": 51320.0,
+        "City": "COLLIERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6645266,
+          35.042036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLLINWOOD WATER DEPT",
+        "Population Served": 3076.0,
+        "City": "COLLINWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7373411,
+          35.1743268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBIA POWER & WATER SYSTEMS",
+        "Population Served": 78630.0,
+        "City": "COLUMBIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0338464,
+          35.6148165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOKEVILLE WATER DEPT",
+        "Population Served": 48455.0,
+        "City": "COOKEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4997057,
+          36.1623886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHEROKEE HILLS U.D.",
+        "Population Served": 271.0,
+        "City": "COPPERHILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3700976,
+          34.9891567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHEAST KNOX U.D.",
+        "Population Served": 25558.0,
+        "City": "CORRYTON,KNOXVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.969472,
+          35.973011
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIRST U.D. OF HARDIN COUNTY",
+        "Population Served": 7388.0,
+        "City": "COUNCE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2733741,
+          35.0423075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COVINGTON WATER DEPT",
+        "Population Served": 14334.0,
+        "City": "COVINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6464672,
+          35.5642474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIRST U.D. OF TIPTON COUNTY",
+        "Population Served": 9017.0,
+        "City": "COVINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6464672,
+          35.5642474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COWAN BD OF PUBLIC UTILITIES",
+        "Population Served": 2587.0,
+        "City": "COWAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0105376,
+          35.1645273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRAB ORCHARD UTILITY DISTRICT",
+        "Population Served": 21011.0,
+        "City": "CROSSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0274835,
+          35.949684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROSSVILLE WATER DEPT",
+        "Population Served": 31973.0,
+        "City": "CROSSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0274835,
+          35.949684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND GAP WATER SERVICES",
+        "Population Served": 340.0,
+        "City": "CUMBERLAND GAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6685252,
+          36.599527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DANDRIDGE WATER MGMT FACILITY",
+        "Population Served": 9931.0,
+        "City": "DANDRIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4148895,
+          36.0153693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAYTON WATER DEPT",
+        "Population Served": 24565.0,
+        "City": "DAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0124535,
+          35.4939587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAURELBROOK SCHOOL",
+        "Population Served": 150.0,
+        "City": "DAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0124535,
+          35.4939587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DECATUR WATER DEPT",
+        "Population Served": 6281.0,
+        "City": "DECATUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7902223,
+          35.5147939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DECATURVILLE WATER SYSTEM",
+        "Population Served": 2347.0,
+        "City": "DECATURVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.119479,
+          35.5842372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DECHERD WATER DEPT",
+        "Population Served": 4613.0,
+        "City": "DECHERD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0794285,
+          35.2098048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATER AUTH OF DICKSON COUNTY",
+        "Population Served": 66725.0,
+        "City": "DICKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3870096,
+          36.0766534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOALNARA RESTORATION SOCI USA",
+        "Population Served": 123.0,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8383567,
+          36.4878291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVER WATER DEPT",
+        "Population Served": 4787.0,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8383567,
+          36.4878291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN HOLLOW WATER SYSTEM",
+        "Population Served": 79.0,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8383567,
+          36.4878291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH STEWART UTILITY DISTRICT",
+        "Population Served": 5983.0,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8383567,
+          36.4878291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST STEWART UTILITY DISTRICT",
+        "Population Served": 555.0,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8383567,
+          36.4878291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOWELLTOWN-LIBERTY W.S.",
+        "Population Served": 1065.0,
+        "City": "DOWELLTOWN,LIBERTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.971778,
+          36.006322
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DRESDEN WATER DEPT",
+        "Population Served": 3265.0,
+        "City": "DRESDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7081123,
+          36.2914512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUNLAP WATER SYSTEM",
+        "Population Served": 8520.0,
+        "City": "DUNLAP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3905209,
+          35.3714575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DYER WATER DEPT",
+        "Population Served": 2768.0,
+        "City": "DYER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9939549,
+          36.0667348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DYERSBURG SUBURBAN C.U.D.",
+        "Population Served": 3562.0,
+        "City": "DYERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3857496,
+          36.0346393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DYERSBURG WATER DEPT",
+        "Population Served": 19970.0,
+        "City": "DYERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3857496,
+          36.0346393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHWEST DYERSBURG U.D.",
+        "Population Served": 3996.0,
+        "City": "DYERSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3857496,
+          36.0346393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELIZABETHTON WATER DEPT",
+        "Population Served": 31956.0,
+        "City": "ELIZABETHTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2107617,
+          36.3487756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETERS HOLLOW WATER SYSTEM",
+        "Population Served": 201.0,
+        "City": "ELIZABETHTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2107617,
+          36.3487756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIAM UTILITY DISTRICT",
+        "Population Served": 2696.0,
+        "City": "ELIZABETHTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.2107617,
+          36.3487756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENGLEWOOD WATER DEPT",
+        "Population Served": 3742.0,
+        "City": "ENGLEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4874289,
+          35.4245184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ERIN WATER DEPARTMENT",
+        "Population Served": 8239.0,
+        "City": "ERIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.693898,
+          36.3185829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ERWIN UTILITIES AUTHORITY",
+        "Population Served": 12236.0,
+        "City": "ERWIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4168055,
+          36.1451082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTER GROVE-WINCHESTER SPGS",
+        "Population Served": 6916.0,
+        "City": "ESTILL SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1280417,
+          35.2706372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESTILL SPRINGS WATER DEPT",
+        "Population Served": 4317.0,
+        "City": "ESTILL SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1280417,
+          35.2706372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ETOWAH UTILITIES",
+        "Population Served": 12508.0,
+        "City": "ETOWAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5248279,
+          35.3236458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUREL MTN LAKES WATER ASSOC.",
+        "Population Served": 259.0,
+        "City": "ETOWAH,MADISONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.355636,
+          35.526681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TELLICO PLAINS WATER DEPT",
+        "Population Served": 7759.0,
+        "City": "ETOWAH,TELLICO PLAINS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.293169,
+          35.360681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAYETTEVILLE PUBLIC UTILITIES",
+        "Population Served": 13887.0,
+        "City": "FAYETTEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5705509,
+          35.1520267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN CO B.P.U. #1",
+        "Population Served": 23102.0,
+        "City": "FAYETTEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5705509,
+          35.1520267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN WATER DEPT",
+        "Population Served": 77411.0,
+        "City": "FRANKLIN,FRANKLIN PIKE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9058351,
+          35.9061754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAINESBORO WATER SYSTEM",
+        "Population Served": 1560.0,
+        "City": "GAINESBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6588652,
+          36.355428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALLATIN WATER DEPARTMENT",
+        "Population Served": 59612.0,
+        "City": "GALLATIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4475898,
+          36.3883031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALLAWAY WATER DEPT",
+        "Population Served": 1180.0,
+        "City": "GALLAWAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6161898,
+          35.3259187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GATES WATER DEPT",
+        "Population Served": 767.0,
+        "City": "GATES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4061836,
+          35.8384082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHALET VILLAGE NORTH",
+        "Population Served": 1074.0,
+        "City": "GATLINBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5101638,
+          35.714259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GATLINBURG WATER DEPT",
+        "Population Served": 8313.0,
+        "City": "GATLINBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5101638,
+          35.714259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTON CREEK WATER SYSTEM",
+        "Population Served": 107.0,
+        "City": "GATLINBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5101638,
+          35.714259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAVANNAH VALLEY U.D.",
+        "Population Served": 27065.0,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9460601,
+          35.2864608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GERMANTOWN WATER DEPT",
+        "Population Served": 37993.0,
+        "City": "GERMANTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8100858,
+          35.0867577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIBSON WATER DEPT",
+        "Population Served": 471.0,
+        "City": "GIBSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.846728,
+          35.8753458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEASON WATER DEPT",
+        "Population Served": 1753.0,
+        "City": "GLEASON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6125545,
+          36.2136731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND JUNCTION WATER DEPT",
+        "Population Served": 1019.0,
+        "City": "GRAND JUNCTION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1870119,
+          35.0489782
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAYSVILLE WATER DEPT",
+        "Population Served": 1888.0,
+        "City": "GRAYSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0844001,
+          35.4470137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENBRIER WATER & SEWER DEPT",
+        "Population Served": 9230.0,
+        "City": "GREENBRIER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8047199,
+          36.4275477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENEVILLE WATER & LIGHT COMM",
+        "Population Served": 25425.0,
+        "City": "GREENEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8309861,
+          36.1631575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH GREENE UTILITIES, INC",
+        "Population Served": 5604.0,
+        "City": "GREENEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8309861,
+          36.1631575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENFIELD WATER DEPT",
+        "Population Served": 2482.0,
+        "City": "GREENFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8006163,
+          36.1533982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HALLS WATER SYSTEM",
+        "Population Served": 5306.0,
+        "City": "HALLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3961835,
+          35.8756298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMPTON UTILITY DISTRICT",
+        "Population Served": 3529.0,
+        "City": "HAMPTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1726295,
+          36.2842787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND UTILITY DISTRICT",
+        "Population Served": 10957.0,
+        "City": "HARRIMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5524359,
+          35.9339639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRIMAN UTILITY BOARD",
+        "Population Served": 14915.0,
+        "City": "HARRIMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5524359,
+          35.9339639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATTS BAR UTILITY DISTRICT",
+        "Population Served": 15571.0,
+        "City": "HARRIMAN,KINGSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.511471,
+          35.869885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTHUR-SHAWANEE U.D.",
+        "Population Served": 9776.0,
+        "City": "HARROGATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6554159,
+          36.5798289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN MEMORIAL UNIVERSITY",
+        "Population Served": 1600.0,
+        "City": "HARROGATE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6554159,
+          36.5798289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTSVILLE-TROUSDALE W&S U.D.",
+        "Population Served": 10750.0,
+        "City": "HARTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1672107,
+          36.3908826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENDERSON WATER DEPT",
+        "Population Served": 8810.0,
+        "City": "HENDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6414411,
+          35.4392435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENDERSONVILLE U.D.",
+        "Population Served": 59138.0,
+        "City": "HENDERSONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.621443,
+          36.3049177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE HOUSE UTILITY DISTRICT",
+        "Population Served": 117039.0,
+        "City": "HENDERSONVILLE,WHITE HOUSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.668558,
+          36.467615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENNING WATER DEPT",
+        "Population Served": 1073.0,
+        "City": "HENNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5734096,
+          35.6728565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST TN STATE PENITENTIARY",
+        "Population Served": 3200.0,
+        "City": "HENNING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5734096,
+          35.6728565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENRY WATER SYSTEM",
+        "Population Served": 506.0,
+        "City": "HENRY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4197705,
+          36.2039488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIXSON UTILITY DISTRICT",
+        "Population Served": 68368.0,
+        "City": "HIXSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2327349,
+          35.1406267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOHENWALD WATER SYSTEM",
+        "Population Served": 10774.0,
+        "City": "HOHENWALD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5519629,
+          35.5478514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLOW ROCK WATER DEPT",
+        "Population Served": 908.0,
+        "City": "HOLLOW ROCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2736553,
+          36.038116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUMBOLDT UTILITIES-WATER DEPT",
+        "Population Served": 9908.0,
+        "City": "HUMBOLDT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9158953,
+          35.8197917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTINGDON WATER DEPT",
+        "Population Served": 6167.0,
+        "City": "HUNTINGDON,HUNTINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.422015,
+          36.00617
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTLAND WATER SYSTEM",
+        "Population Served": 1755.0,
+        "City": "HUNTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2697099,
+          35.0511972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTSVILLE UTILITY DISTRICT",
+        "Population Served": 11987.0,
+        "City": "HUNTSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4904939,
+          36.409801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARYVILLE-JACKSBORO UTILITIES #2",
+        "Population Served": 162.0,
+        "City": "JACKSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1838156,
+          36.3300793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARYVILLE-JACKSBORO UTILITIES COMMISSION",
+        "Population Served": 11060.0,
+        "City": "JACKSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1838156,
+          36.3300793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEERFIELD WATER SYSTEM, LLC",
+        "Population Served": 1288.0,
+        "City": "JACKSBORO,LA FOLLETTE,LAFOLLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.117999,
+          36.377853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON WATER SYSTEM",
+        "Population Served": 91111.0,
+        "City": "JACKSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8177418,
+          35.6144446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALTILLO UTILITY DISTRICT",
+        "Population Served": 2092.0,
+        "City": "JACKSON,SALTILLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.215527,
+          35.377602
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAMESTOWN WATER DEPT",
+        "Population Served": 4134.0,
+        "City": "JAMESTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9318919,
+          36.4275699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JASPER WATER DEPT",
+        "Population Served": 9550.0,
+        "City": "JASPER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6260789,
+          35.0742448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON CITY W&S COMM",
+        "Population Served": 9764.0,
+        "City": "JEFFERSON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4923961,
+          36.122311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JELLICO UTILITIES AUTHORITY",
+        "Population Served": 5129.0,
+        "City": "JELLICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1268634,
+          36.58776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOHNSON CITY WATER DEPT",
+        "Population Served": 106070.0,
+        "City": "JOHNSON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3534728,
+          36.3134398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JONESBOROUGH WATER DEPT",
+        "Population Served": 32983.0,
+        "City": "JONESBOROUGH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.4734089,
+          36.2944928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENTON WATER DEPT",
+        "Population Served": 1487.0,
+        "City": "KENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0122879,
+          36.2022892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON HALL DEVELOPMENT CORP",
+        "Population Served": 211.0,
+        "City": "KENTON,TRIMBLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.188766,
+          36.202687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOOMINGDALE UTILITY DISTRICT",
+        "Population Served": 13092.0,
+        "City": "KINGSPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5594293,
+          36.550238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGSPORT WATER DEPT",
+        "Population Served": 106765.0,
+        "City": "KINGSPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5594293,
+          36.550238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGSTON WATER SYSTEM",
+        "Population Served": 11348.0,
+        "City": "KINGSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5160916,
+          35.8713147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SECOND SOUTH CHEATHAM U.D.",
+        "Population Served": 9049.0,
+        "City": "KINGSTON SPRINGS,KINGSTON SPRINGS TN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.10520024073091,
+          36.10107165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIRST UTIL DIST OF KNOX COUNTY",
+        "Population Served": 95628.0,
+        "City": "KNOXVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HALLSDALE-POWELL U.D.",
+        "Population Served": 71376.0,
+        "City": "KNOXVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KNOX-CHAPMAN UTILITY DISTRICT",
+        "Population Served": 39780.0,
+        "City": "KNOXVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KNOXVILLE UTILITIES BOARD-KUB",
+        "Population Served": 254671.0,
+        "City": "KNOXVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST KNOX UTILITY DISTRICT",
+        "Population Served": 70666.0,
+        "City": "KNOXVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9210261,
+          35.9603948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAFOLLETTE UTILITIES BOARD",
+        "Population Served": 27637.0,
+        "City": "LA FOLLETTE,LAFOLLETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1199251,
+          36.3828571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAFAYETTE WATER SYSTEM",
+        "Population Served": 20784.0,
+        "City": "LAFAYETTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0260366,
+          36.5208223
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAGRANGE WATER DEPT",
+        "Population Served": 230.0,
+        "City": "LAGRANGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.806667,
+          41.673056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANDERSON COUNTY WATER AUTH",
+        "Population Served": 25700.0,
+        "City": "LAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1546452,
+          36.2178566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKY TOP WATER DEPT",
+        "Population Served": 1963.0,
+        "City": "LAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1546452,
+          36.2178566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA VERGNE WATER SYSTEM",
+        "Population Served": 38243.0,
+        "City": "LAVERGNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5551221,
+          36.041805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAWRENCEBURG UTILITY SYSTEMS",
+        "Population Served": 21603.0,
+        "City": "LAWRENCEBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3347389,
+          35.2423023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLADEVILLE UTILITY DISTRICT",
+        "Population Served": 19813.0,
+        "City": "LEBANON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2910945,
+          36.2079779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEBANON WATER SYSTEM",
+        "Population Served": 61074.0,
+        "City": "LEBANON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2910945,
+          36.2079779
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LENOIR CITY UTILITY BOARD",
+        "Population Served": 33675.0,
+        "City": "LENOIR CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2560299,
+          35.7972998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEOMA UTILITY DISTRICT",
+        "Population Served": 6218.0,
+        "City": "LEOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3480734,
+          35.1614699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEWISBURG WATER SYSTEM",
+        "Population Served": 22273.0,
+        "City": "LEWISBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7888887,
+          35.4492404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEXINGTON WATER SYSTEMS",
+        "Population Served": 25981.0,
+        "City": "LEXINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3933796,
+          35.650903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINDEN WATER DEPT",
+        "Population Served": 7062.0,
+        "City": "LINDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8394705,
+          35.6172918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIVINGSTON WATER DEPT",
+        "Population Served": 15733.0,
+        "City": "LIVINGSTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3230221,
+          36.3833961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOBELVILLE WATER DEPT",
+        "Population Served": 4272.0,
+        "City": "LOBELVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7839129,
+          35.7720103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LORETTO WATER DEPARTMENT",
+        "Population Served": 4773.0,
+        "City": "LORETTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.439743,
+          35.0778595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOUDON UTILITIES BOARD",
+        "Population Served": 15102.0,
+        "City": "LOUDON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.336174,
+          35.7410117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY ACRES FARM",
+        "Population Served": 111.0,
+        "City": "LOUISVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0479643,
+          35.8217479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUTTRELL-BLAINE-CORRYTON U.D.",
+        "Population Served": 9887.0,
+        "City": "LUTTRELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7418507,
+          36.1995269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BON AQUA-LYLES U.D.",
+        "Population Served": 12701.0,
+        "City": "LYLES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3450119,
+          35.9197867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "METRO LYNCHBURG/MOORE CO U.D. #1",
+        "Population Served": 6405.0,
+        "City": "LYNCHBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3739827,
+          35.2831727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISON SUBURBAN U.D.",
+        "Population Served": 81203.0,
+        "City": "MADISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7138861,
+          36.2561646
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISONVILLE WATER DEPT",
+        "Population Served": 15087.0,
+        "City": "MADISONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3635338,
+          35.5197984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STACEY ANN'S MHP",
+        "Population Served": 148.0,
+        "City": "MANCHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0887296,
+          35.4832001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUCK RIVER UTILITY COMMISSION",
+        "Population Served": 25.0,
+        "City": "MANCHESTER,TULLAHOMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1258417,
+          35.4074906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARTIN WATER DEPT",
+        "Population Served": 10632.0,
+        "City": "MARTIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8503514,
+          36.3432777
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITY OF MARYVILLE W&S DEPT",
+        "Population Served": 49135.0,
+        "City": "MARYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9704593,
+          35.7564719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH BLOUNT UTILITY DISTRICT",
+        "Population Served": 50648.0,
+        "City": "MARYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9704593,
+          35.7564719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MASON WATER DEPT",
+        "Population Served": 3642.0,
+        "City": "MASON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5328538,
+          35.4117501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAURY CITY WATER DEPT",
+        "Population Served": 1439.0,
+        "City": "MAURY CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2256244,
+          35.814796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAYNARDVILLE WATER DEPT",
+        "Population Served": 7149.0,
+        "City": "MAYNARDVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7974099,
+          36.2506364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCEWEN WATERWORKS",
+        "Population Served": 3149.0,
+        "City": "MCEWEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6349344,
+          36.1099172
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCKENZIE WATER DEPT",
+        "Population Served": 5495.0,
+        "City": "MCKENZIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5184356,
+          36.1322584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCLEMORESVILLE WATER DEPT",
+        "Population Served": 376.0,
+        "City": "MCLEMORESVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5745001,
+          35.987286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCMINNVILLE WATER DEPT",
+        "Population Served": 18767.0,
+        "City": "MCMINNVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7699816,
+          35.683404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARREN COUNTY UTILITY DISTRICT",
+        "Population Served": 27810.0,
+        "City": "MCMINNVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7699816,
+          35.683404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEMPHIS LIGHT, GAS, & WATER",
+        "Population Served": 659500.0,
+        "City": "MEMPHIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0517638,
+          35.1460249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEA-MERCER PLANT",
+        "Population Served": 168.0,
+        "City": "MERCER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.042286,
+          35.479245
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MICHIE WATER DEPT",
+        "Population Served": 2797.0,
+        "City": "MICHIE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.4353222,
+          35.0561963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIMESTONE UTILITY",
+        "Population Served": 308.0,
+        "City": "MIDDLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8908918,
+          35.0645319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDDLETON WATER DEPT",
+        "Population Served": 964.0,
+        "City": "MIDDLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8908918,
+          35.0645319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROGERS SPRINGS P.O.A.",
+        "Population Served": 168.0,
+        "City": "MIDDLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8908918,
+          35.0645319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODRUN LAKES W.S.",
+        "Population Served": 189.0,
+        "City": "MIDDLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8908918,
+          35.0645319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILAN ARSENAL #1",
+        "Population Served": 215.0,
+        "City": "MILAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7589489,
+          35.9197886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILAN WATER DEPT",
+        "Population Served": 10716.0,
+        "City": "MILAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.7589489,
+          35.9197886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLINGTON WATER DEPT",
+        "Population Served": 8615.0,
+        "City": "MILLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8973084,
+          35.3414745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NSA - MIDSOUTH",
+        "Population Served": 7000.0,
+        "City": "MILLINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8973084,
+          35.3414745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTEAGLE PUBLIC UTILITY BOARD",
+        "Population Served": 3645.0,
+        "City": "MONTEAGLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8349902,
+          35.2403119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HERITAGE ACADEMY",
+        "Population Served": 100.0,
+        "City": "MONTEREY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2683022,
+          36.1475642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTEREY WATER DEPT",
+        "Population Served": 4501.0,
+        "City": "MONTEREY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2683022,
+          36.1475642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOORESBURG UTILITY DISTRICT",
+        "Population Served": 1844.0,
+        "City": "MOORESBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2282266,
+          36.3464805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST WARREN-VIOLA U.D.",
+        "Population Served": 17947.0,
+        "City": "MORRISON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9197071,
+          35.602851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORRISTOWN UTILITIES COMMISSION",
+        "Population Served": 39883.0,
+        "City": "MORRISTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2948923,
+          36.2139814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOSCOW WATER DEPT",
+        "Population Served": 821.0,
+        "City": "MOSCOW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4039612,
+          35.0619984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHWEST CLAY COUNTY UTILITY",
+        "Population Served": 4368.0,
+        "City": "MOSS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6169166,
+          36.589226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST WILSON UTILITY DISTRICT",
+        "Population Served": 86978.0,
+        "City": "MOUNT JULIET,MT. JULIET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5186054,
+          36.200055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT PLEASANT WAT SYS #1",
+        "Population Served": 8610.0,
+        "City": "MOUNT PLEASANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.206954,
+          35.5342414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROWNLOW UTILITY DISTRICT",
+        "Population Served": 683.0,
+        "City": "MOUNTAIN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.804838,
+          36.4745636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLD SPRINGS UTILITY DISTRICT",
+        "Population Served": 897.0,
+        "City": "MOUNTAIN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.804838,
+          36.4745636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN CITY WATER DEPT",
+        "Population Served": 8507.0,
+        "City": "MOUNTAIN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.804838,
+          36.4745636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUNFORD WATER DEPT",
+        "Population Served": 10158.0,
+        "City": "MUNFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8150833,
+          35.44925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONSOLIDATED U.D. OF RUTHERFORD",
+        "Population Served": 208497.0,
+        "City": "MURFREESBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3921096,
+          35.8460396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MURFREESBORO WATER DEPARTMENT",
+        "Population Served": 111365.0,
+        "City": "MURFREESBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3921096,
+          35.8460396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARPETH VALLEY U.D.",
+        "Population Served": 64359.0,
+        "City": "NASHVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7742984,
+          36.1622767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "METRO WATER SERVICES",
+        "Population Served": 755890.0,
+        "City": "NASHVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7742984,
+          36.1622767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW JOHNSONVILLE WATER DEPT",
+        "Population Served": 2551.0,
+        "City": "NEW JOHNSONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9669765,
+          36.0211715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAVERLY WATER DEPARTMENT",
+        "Population Served": 8829.0,
+        "City": "NEW JOHNSONVILLE,WAVERLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.986845,
+          36.022227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW MARKET UTILITY DISTRICT",
+        "Population Served": 5679.0,
+        "City": "NEW MARKET"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5526751,
+          36.1039767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAIBORNE UTILITIES DISTRICT",
+        "Population Served": 15415.0,
+        "City": "NEW TAZEWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5996306,
+          36.4425828
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWBERN WATER DEPT",
+        "Population Served": 9535.0,
+        "City": "NEWBERN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2617954,
+          36.1132437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWPORT UTILITIES BOARD",
+        "Population Served": 32995.0,
+        "City": "NEWPORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.1876578,
+          35.9670412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NOLENSVILLE-COLLEGE GROVE U.D.",
+        "Population Served": 32335.0,
+        "City": "NOLENSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6694413,
+          35.9522852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORRIS WATER COMMISSION",
+        "Population Served": 2126.0,
+        "City": "NORRIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.067974,
+          36.1956343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK RIDGE DEPT OF PUBLIC WORKS",
+        "Population Served": 36392.0,
+        "City": "OAK RIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2696449,
+          36.0103562
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKLAND WATER DEPT",
+        "Population Served": 14957.0,
+        "City": "OAKLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5150764,
+          35.228976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELBRIDGE WATER ASSOCIATION",
+        "Population Served": 3239.0,
+        "City": "OBION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1917353,
+          36.2589567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OBION WATER DEPT",
+        "Population Served": 1615.0,
+        "City": "OBION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1917353,
+          36.2589567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLIVER SPRINGS WATER BOARD",
+        "Population Served": 5215.0,
+        "City": "OLIVER SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3432971,
+          36.0462576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ONEIDA W&S COMM",
+        "Population Served": 10688.0,
+        "City": "ONEIDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5127162,
+          36.4981341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURNEY CENTER",
+        "Population Served": 1610.0,
+        "City": "ONLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.691688,
+          35.8617315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARIS BD OF PUBLIC UTILITIES",
+        "Population Served": 12874.0,
+        "City": "PARIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3258578,
+          36.3019461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH U.D. OF DECATUR/BENTON CO.",
+        "Population Served": 3582.0,
+        "City": "PARSONS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1267025,
+          35.649791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARSONS WATER DEPARTMENT",
+        "Population Served": 4303.0,
+        "City": "PARSONS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1267025,
+          35.649791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIGEON FORGE WATER DEPARTMENT",
+        "Population Served": 14872.0,
+        "City": "PIGEON FORGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5543329,
+          35.7884241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIKEVILLE WATER SYSTEM",
+        "Population Served": 5346.0,
+        "City": "PIKEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1892276,
+          35.6054921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT VIEW UTILITY DISTRICT",
+        "Population Served": 18854.0,
+        "City": "PLEASANT VIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0366685,
+          36.3942164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORTLAND WATER SYSTEM",
+        "Population Served": 23509.0,
+        "City": "PORTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5163833,
+          36.5817089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PULASKI WATER SYSTEM",
+        "Population Served": 11358.0,
+        "City": "PULASKI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0308412,
+          35.1998023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PURYEAR WATER SYSTEM",
+        "Population Served": 833.0,
+        "City": "PURYEAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3343256,
+          36.4441842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED BOILING SPRINGS W.S.",
+        "Population Served": 6495.0,
+        "City": "RED BOILING SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8499798,
+          36.5333888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICEVILLE UTILITY DISTRICT",
+        "Population Served": 3727.0,
+        "City": "RICEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6929945,
+          35.3847951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGELY WATER SYSTEM",
+        "Population Served": 2059.0,
+        "City": "RIDGELY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4878528,
+          36.263401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUDERDALE CO WATER SYSTEM",
+        "Population Served": 9254.0,
+        "City": "RIPLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5297973,
+          35.7453551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIPLEY WATER SYSTEM",
+        "Population Served": 8030.0,
+        "City": "RIPLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5297973,
+          35.7453551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROAN MOUNTAIN UTILITY DISTRICT",
+        "Population Served": 1026.0,
+        "City": "ROAN MOUNTAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.0703999,
+          36.1962305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKWOOD WATER SYSTEM",
+        "Population Served": 10721.0,
+        "City": "ROCKWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.68494,
+          35.8656284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIRST U.D. OF HAWKINS CO #2",
+        "Population Served": 695.0,
+        "City": "ROGERSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0054423,
+          36.407317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEVIEW U.D. WEST",
+        "Population Served": 3328.0,
+        "City": "ROGERSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0054423,
+          36.407317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERSIA UTILITY DISTRICT",
+        "Population Served": 5312.0,
+        "City": "ROGERSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0054423,
+          36.407317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROGERSVILLE WATER DEPT",
+        "Population Served": 12915.0,
+        "City": "ROGERSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0054423,
+          36.407317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSSVILLE WATER SYSTEM",
+        "Population Served": 1297.0,
+        "City": "ROSSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5425786,
+          35.0484242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUTHERFORD WATER WORKS",
+        "Population Served": 1404.0,
+        "City": "RUTHERFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9858988,
+          36.1275674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUTLEDGE WATER SYSTEM",
+        "Population Served": 2102.0,
+        "City": "RUTLEDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.51477,
+          36.2808512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SARDIS WATER SYSTEM",
+        "Population Served": 1064.0,
+        "City": "SARDIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2936505,
+          35.4422975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND VALLEY LAKES P.O.A.",
+        "Population Served": 683.0,
+        "City": "SAULDBURY,SAULSBURY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.088104,
+          35.048469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARBERT HILLS ACADEMY N.H.",
+        "Population Served": 140.0,
+        "City": "SAVANNAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2492037,
+          35.2248034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAVANNAH UTILITY DEPT",
+        "Population Served": 19495.0,
+        "City": "SAVANNAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2492037,
+          35.2248034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTTS HILL WATER SYSTEM",
+        "Population Served": 4579.0,
+        "City": "SCOTTS HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.25196642075466,
+          35.5148765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SELMER WATER SYSTEM",
+        "Population Served": 20648.0,
+        "City": "SELMER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5923645,
+          35.1700744
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COVE MOUNTAIN MOBILE HOME PARK",
+        "Population Served": 91.0,
+        "City": "SEVIERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.561835,
+          35.8681455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST SEVIER COUNTY U.D.",
+        "Population Served": 815.0,
+        "City": "SEVIERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.561835,
+          35.8681455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERSIDE CAMPGROUND",
+        "Population Served": 450.0,
+        "City": "SEVIERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.561835,
+          35.8681455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEVIERVILLE WATER SYSTEM",
+        "Population Served": 36542.0,
+        "City": "SEVIERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.561835,
+          35.8681455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEARS VALLEY RANCH",
+        "Population Served": 75.0,
+        "City": "SEVIERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.561835,
+          35.8681455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEWANEE UTILITY DISTRICT",
+        "Population Served": 6033.0,
+        "City": "SEWANEE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9210899,
+          35.2031373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHARON WATER SYSTEM",
+        "Population Served": 1236.0,
+        "City": "SHARON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8252514,
+          36.2336118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEADMINE BEND WATER ASSOC.",
+        "Population Served": 120.0,
+        "City": "SHARPS CHAPEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8039128,
+          36.3436434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEDFORD COUNTY U.D.",
+        "Population Served": 22908.0,
+        "City": "SHELBYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4602717,
+          35.483406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHELBYVILLE WATER SYSTEM",
+        "Population Served": 34772.0,
+        "City": "SHELBYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4602717,
+          35.483406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALDEN'S RIDGE U.D.",
+        "Population Served": 9265.0,
+        "City": "SIGNAL MOUNTAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3436973,
+          35.1223478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMITHVILLE WATER SYSTEM",
+        "Population Served": 7049.0,
+        "City": "SMITHVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8141516,
+          35.9606186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMYRNA WATER SYSTEM",
+        "Population Served": 60876.0,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5199492,
+          35.9824598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SNEEDVILLE U.D.",
+        "Population Served": 2282.0,
+        "City": "SNEEDVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.217546,
+          36.5297243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH WEST UTILITY DISTRICT",
+        "Population Served": 20794.0,
+        "City": "SODDY-DAISY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1907904,
+          35.2359025
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOMERVILLE WATER SYSTEM",
+        "Population Served": 5020.0,
+        "City": "SOMERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.3500714,
+          35.2436969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMITH UTILITY DISTRICT",
+        "Population Served": 8797.0,
+        "City": "SOUTH CARTHAGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9519317,
+          36.2419991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH FULTON WATER SYSTEM",
+        "Population Served": 3932.0,
+        "City": "SOUTH FULTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.8759664,
+          36.4914943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH PITTSBURG WATER SYSTEM",
+        "Population Served": 7304.0,
+        "City": "SOUTH PATTSBURG,SOUTH PITTSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.707908,
+          35.027567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BON DE CROFT UTILITY DISTRICT",
+        "Population Served": 4372.0,
+        "City": "SPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4641342,
+          35.9258921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPARTA WATER SYSTEM",
+        "Population Served": 10735.0,
+        "City": "SPARTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4641342,
+          35.9258921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPENCER WATER SYSTEM",
+        "Population Served": 6022.0,
+        "City": "SPENCER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4666413,
+          35.7472893
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWPORT RESORT WATER SYSTEM",
+        "Population Served": 146.0,
+        "City": "SPRING CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8607801,
+          35.692015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING CITY WATER SYSTEM",
+        "Population Served": 2751.0,
+        "City": "SPRING CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8607801,
+          35.692015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING HILL WATER DEPT",
+        "Population Served": 60893.0,
+        "City": "SPRING HILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9300023,
+          35.751179
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGFIELD WATER SYSTEM",
+        "Population Served": 43338.0,
+        "City": "SPRINGFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8849984,
+          36.5092119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHEAST HENRY COUNTY U.D.",
+        "Population Served": 5155.0,
+        "City": "SPRINGVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1530946,
+          36.2492237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST JOSEPH WATER SYSTEM",
+        "Population Served": 1493.0,
+        "City": "ST JOSEPH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.50517119295057,
+          35.031402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAWN SHORES WATER DEPT",
+        "Population Served": 477.0,
+        "City": "SUGAR TREE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0361449,
+          35.8292308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMERTOWN WATER SYSTEM",
+        "Population Served": 5440.0,
+        "City": "SUMMERTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3127914,
+          35.4347992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE FARM WATER SYSTEM",
+        "Population Served": 210.0,
+        "City": "SUMMERTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3127914,
+          35.4347992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SURGOINSVILLE UTILITY DISTRICT",
+        "Population Served": 2609.0,
+        "City": "SURGOINSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.851829,
+          36.4709298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWEETWATER UTILITY BOARD",
+        "Population Served": 13825.0,
+        "City": "SWEETWATER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4610394,
+          35.6014636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TENNESSEE RIDGE WATER SYSTEM",
+        "Population Served": 4038.0,
+        "City": "TENNESSEE RIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.75447302941177,
+          36.32083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIPTONVILLE WATER SYSTEM",
+        "Population Served": 2726.0,
+        "City": "TIPTONVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4720193,
+          36.3783984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOONE WATER SYSTEM",
+        "Population Served": 720.0,
+        "City": "TOONE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9525607,
+          35.3523026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRACY CITY WATER SYSTEM",
+        "Population Served": 5343.0,
+        "City": "TRACY CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7360833,
+          35.2603569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIBSON CO MUN WATER DIST #1",
+        "Population Served": 2737.0,
+        "City": "TRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9416829,
+          35.9808073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIBSON CO MUN WATER DIST #3",
+        "Population Served": 1438.0,
+        "City": "TRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9416829,
+          35.9808073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIBSON CO MUN WATER DIST #4",
+        "Population Served": 3393.0,
+        "City": "TRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9416829,
+          35.9808073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GIBSON CO MUN WATER DIST #5",
+        "Population Served": 2227.0,
+        "City": "TRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9416829,
+          35.9808073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRENTON WATER SYSTEM",
+        "Population Served": 5295.0,
+        "City": "TRENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9416829,
+          35.9808073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TREZEVANT WATER SYSTEM",
+        "Population Served": 992.0,
+        "City": "TREZEVANT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6228349,
+          36.011453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TROY WATER SYSTEM",
+        "Population Served": 2067.0,
+        "City": "TROY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1639567,
+          36.338677
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COPPER BASIN UTILITY DISTRICT",
+        "Population Served": 2722.0,
+        "City": "TURTLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3535341,
+          35.1270224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION CITY WATER DEPT",
+        "Population Served": 16180.0,
+        "City": "UNION CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.0570096,
+          36.4242303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VANLEER WATER DEPARTMENT",
+        "Population Served": 3543.0,
+        "City": "VANLEER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4439002,
+          36.2350563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TELLICO AREA SERVICES SYSTEM",
+        "Population Served": 14836.0,
+        "City": "VONORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2418612,
+          35.590078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLATEAU UTILITY DISTRICT",
+        "Population Served": 12074.0,
+        "City": "WARTBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5973031,
+          36.1048089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARTRACE WATER SYSTEM",
+        "Population Served": 3983.0,
+        "City": "WARTRACE,WATRTACE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.333432,
+          35.527635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERTOWN WATER SYSTEM",
+        "Population Served": 1920.0,
+        "City": "WATERTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1319341,
+          36.1003358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNESBORO WATER SYSTEM",
+        "Population Served": 5354.0,
+        "City": "WAYNESBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7629269,
+          35.3198362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTMORELAND WATER SYSTEM",
+        "Population Served": 5873.0,
+        "City": "WESTMORELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2480443,
+          36.5619881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE PINE WATER SYSTEM",
+        "Population Served": 4171.0,
+        "City": "WHITE PINE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2868328,
+          36.1075936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITEVILLE WATER DEPT",
+        "Population Served": 1456.0,
+        "City": "WHITEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1505724,
+          35.3262451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TN AMERICAN-SEQUATCHIE VALLEY",
+        "Population Served": 7842.0,
+        "City": "WHITWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5191323,
+          35.2014631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINCHESTER WATER SYSTEM",
+        "Population Served": 24899.0,
+        "City": "WINCHESTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1118359,
+          35.1859901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODBURY WATER SYSTEM",
+        "Population Served": 11327.0,
+        "City": "WOODBURY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0716565,
+          35.8275672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": NaN,
+        "Population Served": NaN,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2820081,
+          35.7730076
+        ]
+      }
+    }
+  ]
+}

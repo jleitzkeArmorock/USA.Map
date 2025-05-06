@@ -1,0 +1,8360 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "10 4 WATER SYSTEM",
+        "Population Served": 160,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "5 81 MOTEL & CAMPGROUND",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AGAPE LAND MANAGEMENT",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8566135049,
+          37.7238515313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "A&H COUNTRY ESTATES",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AIRPORT HOMEOWNERS ASSN INC",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AIRPORT VILLAGE MHP",
+        "Population Served": 42,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8566135049,
+          37.7238515313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLEN ACRES",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANCHORS POINT COA",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANDREW COUNTY PWSD 4",
+        "Population Served": 588,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8020598986,
+          39.9835107818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANTHONIES MILL RESORT SUBDIVISION",
+        "Population Served": 214,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANTIRE VALLEY SUBD",
+        "Population Served": 260,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "APPLE VALLEY COURT",
+        "Population Served": 32,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARGYLE ESTATES WATER SUPPLY",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARROW POINT VILLAGE PWS",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARROW RIDGE SHORES",
+        "Population Served": 140,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATCHISON COUNTY WHOLESALE WATER COMM",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.4280934716,
+          40.4308475737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUBURN LAKE SUBDIVISION",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AVERY MOBILE HOME COURT",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAISCH NURSING CENTER",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAPTIST HOME",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.7734903178,
+          37.555148813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARTON DADE CEDAR JASP COUNTYCONS PWSD 1",
+        "Population Served": 9523,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.339996655,
+          38.2572922743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATES COUNTY PWSD 1",
+        "Population Served": 268,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.339996655,
+          38.2572922743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATES COUNTY PWSD 3",
+        "Population Served": 432,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.339996655,
+          38.2572922743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATES COUNTY PWSD 5",
+        "Population Served": 2690,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.339996655,
+          38.2572922743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATES COUNTY PWSD 6",
+        "Population Served": 1613,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.339996655,
+          38.2572922743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATES COUNTY PWSD 7",
+        "Population Served": 500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.339996655,
+          38.2572922743
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEACH CLUB CONDO ASSN",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENNINGTON ESTATES",
+        "Population Served": 185,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG COUNTRY ACRES SUBDIVISION",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG ISLAND WATER COMPANY",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG VALLEY COURT",
+        "Population Served": 23,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK FOREST HOA INC NO 2",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5079334292,
+          38.4408670947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK OAK WATER & SEWER CO",
+        "Population Served": 477,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOCK SIX WATER ASSN",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE ANCHOR BAY CONDOMINIUMS",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE RIDGE ESTATES SUBD",
+        "Population Served": 34,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE STEM ESTATES SUBD",
+        "Population Served": 36,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE WATER VILLAGE SUBDIVISION",
+        "Population Served": 93,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOGARD PWS",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.50517578,
+          39.4269814843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BONNE TERRE PRISON",
+        "Population Served": 3500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOURBEUSE MHP",
+        "Population Served": 125,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRADEN PARK VILLAGE",
+        "Population Served": 153,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANDY STATION",
+        "Population Served": 34,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANSON CREEK COMMUNITY ASSOCIATION",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANSON MOUNTAIN VILLAGE",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANSON VIEW ESTATES",
+        "Population Served": 113,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIARWOOD UTILITIES",
+        "Population Served": 210,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGEPORT 1ST ADDITION",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOK HILL SUBDIVISION",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRYANTS CREEK SUBDIVISION",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUELAH LAND ESTATES",
+        "Population Served": 67,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BULL CREEK VILLAGE",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURLINGTON JUNCTION PWS",
+        "Population Served": 630,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8834337255,
+          40.3607737937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLER COUNTY PWSD 1",
+        "Population Served": 11500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4065563831,
+          36.7164170862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLER COUNTY PWSD 104",
+        "Population Served": 498,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4065563831,
+          36.7164170862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALDWELL COUNTY PWSD 2",
+        "Population Served": 695,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9827993285,
+          39.6557509891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALDWELL COUNTY PWSD 3",
+        "Population Served": 1452,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9827993285,
+          39.6557509891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALVEY BROOK ESTATES",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN COUNTY PWSD 3",
+        "Population Served": 1650,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN COUNTY PWSD 4 HORSESHOE BEND",
+        "Population Served": 5613,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN COUNTY PWSD #4 SHAWNEE BEND",
+        "Population Served": 2065,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN COUNTY PWSD # 5 CEDAR HEIGHTS",
+        "Population Served": 485,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN COUNTY PWSD # 5 CLEARWATER CONDOS",
+        "Population Served": 550,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMELOT ESTATES MHP",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4065563831,
+          36.7164170862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANYON FOREST EAST AND WEST",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPE FAIR ESTATES WATER ASSOCIATION INC",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPS COVE SUBD",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARDWELL PWS",
+        "Population Served": 701,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0909046758,
+          36.2721371509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAROLINA OAKS PLANTATION",
+        "Population Served": 126,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARTER COUNTY PWSD 1",
+        "Population Served": 600,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9623104086,
+          36.941272036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASS BATES COUNTY PWSD 12",
+        "Population Served": 1335,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASS COUNTY PWSD 11",
+        "Population Served": 1948,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3548163135,
+          38.6469784457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CATAMOUNT RIDGE PROPERTY OWNERS ASSOC",
+        "Population Served": 113,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR COVE PARK SUBD",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GATE ESTATES",
+        "Population Served": 102,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GLEN CONDOMINIUMS",
+        "Population Served": 535,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GROVE VILLAGE SUBD",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR HILL ESTATES WATER",
+        "Population Served": 490,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR HILL LAKES VILLAGE",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR SHORES RANCH ESTATES",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR VALE MHP",
+        "Population Served": 142,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL CROSSING ACRES II",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAPEL HILL SUBD",
+        "Population Served": 32,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8566135049,
+          37.7238515313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARITY PWS",
+        "Population Served": 55,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2076625405,
+          37.8246250522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHELSEA ROSE SUBD",
+        "Population Served": 83,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHILHOWEE PWS",
+        "Population Served": 382,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8063674936,
+          38.7440854857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHRISTIAN ASSOC OF TABLE ROCK LAKE",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CIMMARON BAY SUBDIVISION",
+        "Population Served": 160,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CIRCLE C MHP",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITYDEL MHP",
+        "Population Served": 32,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITY OF COLUMBIA UTILITIES",
+        "Population Served": 126254,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.3096802497,
+          38.9906151273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLARENCE CANNON WHOLESALE WTR COMM",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.0007352464,
+          39.4954650301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEAR COVE LANDING",
+        "Population Served": 55,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEVENGER BRANCH MEMBERS CORP",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINTON COUNTY PWSD 3",
+        "Population Served": 3615,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.92602044,
+          38.8355168847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLUBB VILLA SENIOR LIVING",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLE COUNTY PWSD 4",
+        "Population Served": 7568,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2816072464,
+          38.5054099582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLE TURKEY ACRES",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONCEPTION JUNCTION PWS",
+        "Population Served": 231,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8834337255,
+          40.3607737937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONFLUENCE RIVERS FAWN LAKE WATER SYSTEM",
+        "Population Served": 72,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONFLUENCE RIVERS M & M MHP WTP",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8063674936,
+          38.7440854857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CONFLUENCE RIVERS STONE RIDGE MEADOWS",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY AIRE ESTATES",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY COVE",
+        "Population Served": 52,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY ESTATES",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY FARM ESTATES HOA INC",
+        "Population Served": 183,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY LAKES RV RESORT",
+        "Population Served": 46,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY MEADOWS ESTATES",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY TIME ESTATES",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY VILLAGE ESTATES SUBDIVISION",
+        "Population Served": 54,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRAWFORD COUNTY PWSD 1",
+        "Population Served": 160,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3039612785,
+          37.9763768738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRESTVIEW ACRES SUBD",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRESTVIEW MHP",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROSS CREEK SUBD",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRYSTAL BEACH SUBD",
+        "Population Served": 91,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRYSTAL COVE MHP",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CYPRESS POINT APARTMENTS",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVIESS COUNTY PWSD 3",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9854672168,
+          39.9607450135
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DD16 POA",
+        "Population Served": 39,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEER RUN APTS",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEER VALLEY SUBDIVISION",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESLOGE PWS",
+        "Population Served": 5034,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DIANAS BOARDING HOME 2",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0259472067,
+          37.322190727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DIGGINS PWS",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8758770268,
+          37.2809053404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOCS RETREAT UNIT 1",
+        "Population Served": 26,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOOLITTLE MHP",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUNKLIN COUNTY PWSD 1",
+        "Population Served": 4365,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.0909046758,
+          36.2721371509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAGLE BLUFF APARTMENTS",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2076625405,
+          37.8246250522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAGLE ESTATES",
+        "Population Served": 366,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAGLE WOODS SUBDIVISION",
+        "Population Served": 118,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST LYNNE PWS",
+        "Population Served": 350,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3548163135,
+          38.6469784457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ECHO VALLEY SUBDIVISION",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDGEWATER VILLAGE",
+        "Population Served": 57,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELMO SUBDIVISION 1 & 2 & 3",
+        "Population Served": 275,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELSBERRY HEALTH CARE CENTER",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMERALD GREEN ESTATES",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCLAVE APTS & AFFORDABLE MINI STORAGE",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ETHNOS360 INC",
+        "Population Served": 280,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVERGREEN LAKE ESTATES",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRWAYS WATER AND SEWER ASSN",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FALL CREEK HEIGHTS SUBD",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARMINGTON MANOR",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAWN VALLEY ESTATES",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FERNDALE RESIDENTIAL CARE II",
+        "Population Served": 28,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7923648921,
+          37.8771285847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FICKEN HILL SUBD",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST GLEN QUAIL RIDGE SUBD",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST PARK DEER PARK",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT LEONARD WOOD",
+        "Population Served": 34000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2076625405,
+          37.8246250522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOXBORO SUBDIVISION",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOXHEAD SHORES",
+        "Population Served": 134,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN COUNTY PWSD 1 CARDINAL MEADOWS",
+        "Population Served": 52,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN COUNTY PWSD 3 LAKE SERENE",
+        "Population Served": 600,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN COUNTY PWSD 3 ST ALBANS",
+        "Population Served": 1300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN COUNTY PWSD 4",
+        "Population Served": 760,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN COUNTY WATER COMPANY INC",
+        "Population Served": 350,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRIENDSHIP HILLS SUBD",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8566135049,
+          37.7238515313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRONTIER ESTATES",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FUGATE MOBILE HOME PARK",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3207208702,
+          37.9407856984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GASCONADE PWSD #1",
+        "Population Served": 450,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5079334292,
+          38.4408670947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GASCONY VILLAGE",
+        "Population Served": 202,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5079334292,
+          38.4408670947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GENTRY COUNTY PWSD 2",
+        "Population Served": 925,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4099168493,
+          40.2121076763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILMAN CITY PWS",
+        "Population Served": 387,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9920637276,
+          40.3546685834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLADLO WATER & SEWER INC",
+        "Population Served": 185,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7923648921,
+          37.8771285847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENBROOK ESTATES",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN MEADOWS",
+        "Population Served": 550,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN OAKS SUBD",
+        "Population Served": 29,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLDEN CITY PWS",
+        "Population Served": 764,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3471107747,
+          37.5023005833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLDEN GLADE WATER SYSTEM",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLDEN OAK VILLAGE SUBD",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLD RIDGE NORTH",
+        "Population Served": 28,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOOD SAMARITAN BOYS RANCH",
+        "Population Served": 87,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4005326616,
+          37.6164789768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANDVIEW PLAZA MHP",
+        "Population Served": 179,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN ACRES MHP",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENE HILLS WATER ASSN",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENFIELD MANOR MHP",
+        "Population Served": 307,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN HILLS MHC LLC",
+        "Population Served": 135,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7737543641,
+          39.3803407733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN SHORES SUBD",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN WOODS",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENWOOD VALLEY",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAPPY ACRES",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDIN PWS",
+        "Population Served": 569,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.9898835294,
+          39.3524140547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTVILLE PWS",
+        "Population Served": 655,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4687042487,
+          37.2701399985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HATTON HILLS MHP",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.92602044,
+          38.8355168847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAWK ISLAND ESTATES",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAWK POINT PWS",
+        "Population Served": 669,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAYFIELD WATER WORKS",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAYTI HEIGHTS PWS",
+        "Population Served": 520,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7853789263,
+          36.2114502716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENRY COUNTY PWSD 1",
+        "Population Served": 258,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7927500298,
+          38.385163021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENRYS MHP",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8865416662,
+          36.7740135585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HERMIT HOLLOW SUBD",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN HILLS ESTATES",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN OAKS ESTATES",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN RIDGE ESTATES MHP",
+        "Population Served": 343,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN SHORES SUBD",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN VALLEY FISHING CLUB",
+        "Population Served": 61,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN VALLEY MHP LLC",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDEAWAY MHP",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLAND MANOR",
+        "Population Served": 805,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3461007818,
+          39.008475666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLANDS SEWER & WATER ASSN INC",
+        "Population Served": 411,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGH RIDGE MANOR SUBD",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLSHINE ACRES SUBD",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLVIEW MHP LINDALE LLC",
+        "Population Served": 170,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8059357005,
+          39.6597402335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLIDAY HILLS 1 2 3 ADDITION",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLIDAY HILLS RESORT",
+        "Population Served": 2065,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLT COUNTY PWSD  1",
+        "Population Served": 1085,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.215512199,
+          40.0944306459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLTGREWE FARMS SUBDIVISION",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMETOWN COURT",
+        "Population Served": 152,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORIZON MHP",
+        "Population Served": 68,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORIZON WEST SUBDIVISION",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORSE SHOE BEND",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOUSE SPRINGS APT",
+        "Population Served": 48,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOWARD COUNTY REGIONAL WATER COMM",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.6962654763,
+          39.1424974869
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOWELL OREGON 2 WEST",
+        "Population Served": 1170,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8865416662,
+          36.7740135585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTERS GLEN",
+        "Population Served": 240,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTERS RIDGE SUBD",
+        "Population Served": 441,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "I 70 MOBILE CITY MHP",
+        "Population Served": 155,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7855426585,
+          39.0655884308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INDIAN HILLS UTILITIES OPERATING COMPANY",
+        "Population Served": 1770,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3039612785,
+          37.9763768738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INNSBROOK",
+        "Population Served": 810,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ISLA DEL SOL",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON COUNTY PWSD 16",
+        "Population Served": 4075,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3461007818,
+          39.008475666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAMES RIVER ESTATES SUBD",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JASPER COUNTY PWSD 3",
+        "Population Served": 1900,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3406053082,
+          37.2035472717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JCPSD SUMMER SET",
+        "Population Served": 1080,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFCO MHP",
+        "Population Served": 310,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON CO CONS PWSD C 1",
+        "Population Served": 36000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON COUNTY PWSD 1",
+        "Population Served": 21113,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON COUNTY PWSD 10",
+        "Population Served": 10000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON COUNTY PWSD 12",
+        "Population Served": 3000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON COUNTY PWSD 3",
+        "Population Served": 17000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON COUNTY PWSD  5",
+        "Population Served": 8000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON COUNTY PWSD 6",
+        "Population Served": 7500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON COUNTY PWSD  7",
+        "Population Served": 6100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "J&M MHP CAPITAL LLC",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOHNS BRANCH WATER CO",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4614294536,
+          37.1126355072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOHNSON BAY SUBDIVISION",
+        "Population Served": 126,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOYCE RENTALS",
+        "Population Served": 66,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8758770268,
+          37.2809053404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KAHALA ESTATES",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KIMBERLING AIRWAYS SUBD",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGDOM HEIGHTS",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGS RIVER BEACH WATER ASSOCIATION INC",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KK WATER SUPPLY",
+        "Population Served": 2500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KVC",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7923648921,
+          37.8771285847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAF JO SALINE COUNTY CONS PWSD 2",
+        "Population Served": 7180,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.1480723868,
+          40.1282548929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE ADELLE SUBD",
+        "Population Served": 380,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE COUNTRY VILLAGE POA",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE FOREST SUBDIVISION",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEHURST MHP",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE KAH TAN DA ESTATES INC",
+        "Population Served": 277,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8244110855,
+          37.7071366717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE LAFAYETTE PWS",
+        "Population Served": 327,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7855426585,
+          39.0655884308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE LORRAINE WATER CO",
+        "Population Served": 230,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE MEADOWS MHP",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4005326616,
+          37.6164789768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE NORTHWOODS UTILITY INC",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5079334292,
+          38.4408670947
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE SEVEN FALLS ASSN INC",
+        "Population Served": 475,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.1944237,
+          37.8944043802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE SHERWOOD SUBD",
+        "Population Served": 1100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESIDE AT CROSS CREEK",
+        "Population Served": 105,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESIDE COMMUNITY INC",
+        "Population Served": 160,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7923648921,
+          37.8771285847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESIDE ESTATES SUBD",
+        "Population Served": 82,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7923648921,
+          37.8771285847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESIDE LANDING",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESIDE MANOR",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE TAPAWINGO PWS",
+        "Population Served": 995,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3461007818,
+          39.008475666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEWOOD HILLS SUBD",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUREL ACRES MHP",
+        "Population Served": 124,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAZY J RV PARK",
+        "Population Served": 16,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8758770268,
+          37.2809053404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEONARDS MHP",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEVASY PWS",
+        "Population Served": 82,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3461007818,
+          39.008475666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY UTILITIES LAKEWAY",
+        "Population Served": 370,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY UTILITIES MIDLAND",
+        "Population Served": 240,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY UTILITIES MOORE BEND",
+        "Population Served": 183,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY UTILITIES VALLEY WOODS SUBD",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY UTILITIES VENICE",
+        "Population Served": 1100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY VILLAGE MHP",
+        "Population Served": 350,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4208652851,
+          39.3105207472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIFE STYLE MHP",
+        "Population Served": 321,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN COUNTY PWSD 1",
+        "Population Served": 14000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN COUNTY PWSD 2",
+        "Population Served": 875,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYNN ACRES MHP",
+        "Population Served": 27,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MACKENZIE RIDGE LLC",
+        "Population Served": 180,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAJESTIC LAKES",
+        "Population Served": 512,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAKALU ESTATES",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANDERLY MHP",
+        "Population Served": 114,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLE RIDGE MHP",
+        "Population Served": 140,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARIES COUNTY PWSD 1 NORTH",
+        "Population Served": 458,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9248859666,
+          38.1616348912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARIES COUNTY PWSD 1 SOUTH",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9248859666,
+          38.1616348912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MC DONALD COUNTY PWSD 1",
+        "Population Served": 2481,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3483586551,
+          36.628673995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MC DONALD COUNTY PWSD 2",
+        "Population Served": 1500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3483586551,
+          36.628673995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MC DONALD COUNTY PWSD 3",
+        "Population Served": 600,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3483586551,
+          36.628673995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW DRIVE SUBD",
+        "Population Served": 42,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW HILLS SUBDIVISION",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOWOOD ESTATES SUBD",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW RIDGE SUBDIVISION",
+        "Population Served": 710,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW VIEW MHC LLC",
+        "Population Served": 320,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3548163135,
+          38.6469784457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MELODY LAKE WATER & SEWER",
+        "Population Served": 230,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MELODY MANOR SUBDIVISION",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MERRIAM WOODS PWS",
+        "Population Served": 1839,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MID AMERICA TEEN CHALLENGE",
+        "Population Served": 135,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDWEST MHP LINDALE LLC",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3461007818,
+          39.008475666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLSTONE LUXURY CONDOMINIUMS",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLWOOD ESTATES PROP OWNERS ASSN",
+        "Population Served": 96,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINER PWS",
+        "Population Served": 921,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5685146862,
+          37.0530460164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINNOWBROOK ESTATES",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIRAMIGUOA PARK",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIRASOL SUBDIVISION",
+        "Population Served": 2012,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MISSIONARY ACRES",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4614294536,
+          37.1126355072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MISSISSIPPI COUNTY PWSD 1",
+        "Population Served": 3000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2911821185,
+          36.8280984725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN ANNA MEADOWS",
+        "Population Served": 412,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN EMERALD POINTE SUBD",
+        "Population Served": 1275,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN LAKE CARMEL",
+        "Population Served": 123,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2816072464,
+          38.5054099582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN MAPLEWOOD SUBDIVISION",
+        "Population Served": 1008,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN OZARK MTN WATER COMPANY  3",
+        "Population Served": 105,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN PEVELY FARMS",
+        "Population Served": 343,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4433975603,
+          38.6406885662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN POM O SA HEIGHTS SUBD",
+        "Population Served": 119,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN RANKIN ACRES SUBD",
+        "Population Served": 215,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN RED FIELD SUBDIVISION",
+        "Population Served": 105,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2816072464,
+          38.5054099582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN RIVERSIDE ESTATES",
+        "Population Served": 742,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN ROGUE CREEK UTILITIES",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN SADDLEBROOKE VILLAGE OF",
+        "Population Served": 315,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN SPOKANE HIGHLANDS",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN ST LOUIS ST CHARLES COUNTIES",
+        "Population Served": 1100000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.775975762,
+          38.0371780097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN STONEBRIDGE VILLAGE",
+        "Population Served": 2100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN WARREN COUNTY WATER & SEWER",
+        "Population Served": 1200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.107175708,
+          39.8702114727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO AMERICAN WHITEBRANCH SUBD",
+        "Population Served": 450,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MO EASTERN CORRECTIONAL CENTER",
+        "Population Served": 1100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4433975603,
+          38.6406885662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO PWSD 1",
+        "Population Served": 3850,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY COUNTY PWSD 1 JONESBURG",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4702087982,
+          38.941491042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY COUNTY PWSD 1 MONTGOMERY CITY",
+        "Population Served": 20,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4702087982,
+          38.941491042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGAN COUNTY PWSD # 2",
+        "Population Served": 1200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGAN COUNTY PWSD 3",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORNINGSIDE CHURCH RETREAT",
+        "Population Served": 360,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN ESTATES",
+        "Population Served": 76,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW HOPE RESIDENTIAL CARE INC",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW MADRID COUNTY PWSD 5",
+        "Population Served": 1800,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6518318853,
+          36.5946453006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW MADRID COUNTY PWSD # 6",
+        "Population Served": 500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6518318853,
+          36.5946453006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NIXA PWS TUSCANY",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH CENTRAL MO REGIONAL WATER COM",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1115222539,
+          40.2106416142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH HILLS ESTATES",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NW CASS COUNTY SEWER & WATER DISTRICT",
+        "Population Served": 938,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3548163135,
+          38.6469784457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKBRIER ESTATES",
+        "Population Served": 143,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4065563831,
+          36.7164170862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK BROOK ESTATES",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK CREEK PARKWAY SUBD",
+        "Population Served": 240,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK GROVE VILLAGE PWS",
+        "Population Served": 508,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK HILL FOREST SUBDIVISION",
+        "Population Served": 36,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK RIDGE ESTATES",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8758770268,
+          37.2809053404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKS HOMEOWNERS ASSN WATER DIST",
+        "Population Served": 85,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKWOOD WATER ASSN",
+        "Population Served": 28,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7927500298,
+          38.385163021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OASIS AT OZARK PARK LLC",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCWC BALD EAGLE WELL",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCWC LANTERN BAY",
+        "Population Served": 502,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCWC SWEETWATER BEACH",
+        "Population Served": 63,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCWC WILDERNESS PINEWOOD",
+        "Population Served": 218,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD KINDERHOOK COMMUNITY",
+        "Population Served": 700,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE BEACH EAST PWS",
+        "Population Served": 2611,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE BEACH HARBOR SUBD",
+        "Population Served": 230,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE BEACH WEST PWS",
+        "Population Served": 1740,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE HIGHLANDS",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OSAGE RIDGE APTS",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OVERLOOK SUBDIVISION",
+        "Population Served": 190,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OZARK HILLS MHP",
+        "Population Served": 230,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OZARK MOUNTAIN VILLAGE HOMES",
+        "Population Served": 38,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OZARK VILLA AT SHELL KNOB",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PALACE LANE ESTATES",
+        "Population Served": 84,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PALISADES VILLAGE",
+        "Population Served": 142,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARADISE ESTATES MHP",
+        "Population Served": 58,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARADISE LANDING KIMBERLING SHORES",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARADISE MHP",
+        "Population Served": 98,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARADISE POINT RESORT LLC",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARK PLACE MASTER ASSN",
+        "Population Served": 545,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARK WOODS WATER COMPANY INC",
+        "Population Served": 80,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8329365623,
+          37.106351208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PATTERSON DUCK CLUB POA",
+        "Population Served": 83,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEACE OF MIND ESTATES",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENINSULA SUBD",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PICKERING PLACE",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3548163135,
+          38.6469784457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PILOT KNOB RURAL WD 1  DOE RUN AREA",
+        "Population Served": 507,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE FORD VILLAGE MHP",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE LAKE ESTATES",
+        "Population Served": 115,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINNACLE SHORES SUBDIVISION",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIONEER POINT SUBD",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIPPINVILLE & OAK PARK OWNERS ASSN",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT OAK MHP",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT VALLEY ASSN 1",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POINTE SEVEN CONDOMINIUMS",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORT PERRY SERVICE",
+        "Population Served": 796,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8244110855,
+          37.7071366717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POTOSI EAST",
+        "Population Served": 900,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRAIRIE DELL MHP",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRAIRIE VIEW ACRES SUBD",
+        "Population Served": 135,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PWSD 2 OF HICKORY CO",
+        "Population Served": 1450,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3207208702,
+          37.9407856984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PWSD 2 OF STONE COUNTY 265",
+        "Population Served": 1535,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUAIL COVE SUBDIVISION",
+        "Population Served": 42,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUAIL CREEK MHP",
+        "Population Served": 26,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4005326616,
+          37.6164789768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUAIL RUN MHP",
+        "Population Served": 897,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUAIL RUN OF IMPERIAL",
+        "Population Served": 370,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAINTREE PLANTATION",
+        "Population Served": 2200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RALLS COUNTY PWSD 1",
+        "Population Served": 6755,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.5220242163,
+          39.5276701706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RATHBUN REGIONAL WATER ASSOCIATION",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0161267941,
+          40.478908401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED CEDAR PT HOMEOWNERS ASSN INC",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED OAK SUBDIVISION",
+        "Population Served": 46,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED TOP PARK",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0236553896,
+          37.6804065048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RESSELS WATER COOP",
+        "Population Served": 32,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5685146862,
+          37.0530460164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGE CREEK WATER COMPANY LLC",
+        "Population Served": 450,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2076625405,
+          37.8246250522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGECREST SUBDIVSION",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGETOP WATERWORKS CORP  SUBDIVISION",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4614294536,
+          37.1126355072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIPLEY COUNTY PWSD 1 EAST",
+        "Population Served": 2265,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8638843452,
+          36.6528169511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIPLEY COUNTY PWSD 2",
+        "Population Served": 2650,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8638843452,
+          36.6528169511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROARING RIVER HOMEOWNERS ASSN INC",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROBYN POINT",
+        "Population Served": 72,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKAWAY BEACH PWS",
+        "Population Served": 841,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKPORT SUBDIVISION",
+        "Population Served": 204,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKRIDGE ESTATES SUBD",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKY TOP MOBILE HOME COURT",
+        "Population Served": 51,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROLLING HILLS PWS",
+        "Population Served": 48,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2076625405,
+          37.8246250522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROUTE 66 HOMES",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3039612785,
+          37.9763768738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROXBOROUGH MHP",
+        "Population Served": 57,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROYAL LAKE ESTATES",
+        "Population Served": 52,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROY L UTILITIES",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.4702087982,
+          38.941491042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCHOONER BAY LANDING SUBDIVISION",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTSDALE SUBD",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTT COUNTY PWSD 1",
+        "Population Served": 788,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5685146862,
+          37.0530460164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTT COUNTY PWSD 2",
+        "Population Served": 600,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5685146862,
+          37.0530460164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTT COUNTY PWSD 3",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5685146862,
+          37.0530460164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTT COUNTY PWSD 4",
+        "Population Served": 3150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.5685146862,
+          37.0530460164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTTSDALE PARK PROPERTY OWNERS ASSN",
+        "Population Served": 62,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEGES MHP",
+        "Population Served": 285,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.92602044,
+          38.8355168847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SERENITY BAY SUBD",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEVEN SPRING SEWER & WATER LLC",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEVEN TRAILS WEST SUBD",
+        "Population Served": 435,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHADY LANE SUBDIVISION",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3392465045,
+          36.9055088424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHADY OAK RV & MOBILE PARK",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8758770268,
+          37.2809053404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHALOM MOUNTAIN",
+        "Population Served": 260,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.2076625405,
+          37.8246250522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHERWOOD SUBD OWNER ASSN",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHOW ME CHRISTIAN YOUTH HOME",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIBLEY PWS",
+        "Population Served": 375,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3461007818,
+          39.008475666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILO RIDGE",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.4005326616,
+          37.6164789768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER BELL MHP",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "S K & M WATER AND SEWER COMPANY",
+        "Population Served": 750,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.8244110855,
+          37.7071366717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SKY BLUE WATER INC",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3483586551,
+          36.628673995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHFIELD SUBDIVISION",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHFORK MHP",
+        "Population Served": 795,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3548163135,
+          38.6469784457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH PINE ESTATES",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHPORT CONDOMINIUMS",
+        "Population Served": 74,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH SHORE WATER ASSN",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHVIEW RV PARK",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHWAY TERRACE MHP",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHWEST RURAL WATER DISTRICT 1",
+        "Population Served": 1800,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHWOOD ACRES SUBD",
+        "Population Served": 35,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING BRANCH WATER",
+        "Population Served": 273,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING LAKE SUBDIVISION",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING MEADOWS MHP",
+        "Population Served": 135,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING VALLEY APARTMENTS",
+        "Population Served": 36,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STARLIGHT VILLAGE",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STARLING MHP",
+        "Population Served": 342,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STARRLITE VILLAGE 4TH ADDITION",
+        "Population Served": 55,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STARRVILLE PARK",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST CHARLES CO PWSD 2 AUGUSTA",
+        "Population Served": 881,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST CHARLES CO PWSD 2 - SUMAC RIDGE",
+        "Population Served": 103,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST CHARLES COUNTY PWSD 2",
+        "Population Served": 100587,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST CHARLES COUNTY PWSD 2 DUTZOW",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST CHARLES COUNTY PWSD 2 NORTH OAK DR",
+        "Population Served": 673,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST CHARLES COUNTY PWSD 2 WARREN",
+        "Population Served": 1192,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STEELVILLE SENIOR LIVING FACILITY",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3039612785,
+          37.9763768738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STERETT CREEK VILLAGE",
+        "Population Served": 505,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STODDARD COUNTY PWSD 7",
+        "Population Served": 525,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9443100866,
+          36.8556222182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONE COUNTY PWSD 1",
+        "Population Served": 2052,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONECROFT CONFERENCE CENTER",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONE RIDGE VILLAS",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONES MHP",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONEY RIDGE VILLAGE",
+        "Population Served": 54,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST PAUL PWS",
+        "Population Served": 1700,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STREAMLINE THE OAKS",
+        "Population Served": 72,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3039612785,
+          37.9763768738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST TROPEZ SUBDIVISION",
+        "Population Served": 79,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUGAR CREEK ESTATES MHP",
+        "Population Served": 500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMER PLACE ON THE LAKE",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMERS CROSSING SUBDIVISION",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNDOWN WATER SYSTEM INC",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4446635679,
+          36.6493218817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNRISE BEACH VILLAGE OF PWS",
+        "Population Served": 812,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNRISE LAKES SUBD",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET MHP",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.428407769,
+          38.2145295036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSHINE APARTMENTS",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUSSEX PARK SUBD",
+        "Population Served": 130,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWAN LAKE ESTATES",
+        "Population Served": 115,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.7855426585,
+          39.0655884308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYCAMORE GREEN ACRES MHP",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYCAMORE RIDGE SUBDIVISION",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYCAMORE SPRINGS",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYCAMORE VALLEY SUBD",
+        "Population Served": 245,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLVAN BAY SUBDIVISION",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLVAN MANOR SUBD",
+        "Population Served": 240,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TABLE ROCK HEIGHTS WATER COMPANY",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TABLE ROCK VILLAGE",
+        "Population Served": 273,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALL OAKS MHP",
+        "Population Served": 120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TANEYCOMO HIGHLANDS SUBD  INC",
+        "Population Served": 85,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TANEY COUNTY PWSD 2 CEDAR MEADOWS",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TARA OAKS MANOR ASSN",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.6748987038,
+          38.781907067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TARA VALLEY HOMEOWNERS ASSN",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TERRE DU LAC",
+        "Population Served": 3217,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TERRISAN",
+        "Population Served": 240,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4433975603,
+          38.6406885662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE FALLS CONDOMINIUMS",
+        "Population Served": 275,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE KNOLLS",
+        "Population Served": 725,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE LANDING SUBDIVISION",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE LEGACY RANCH",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE MISSING WELL",
+        "Population Served": 163,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIMBERLAKE MASTER ASSN INC",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TONYS POINT",
+        "Population Served": 75,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN OF CHARMWOOD",
+        "Population Served": 28,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN OF MARTIN",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.9248859666,
+          38.1616348912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRI COUNTY WATER AUTHORITY",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRI LEVEL MHP LINDALE LLC",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.8059357005,
+          39.6597402335
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURNER ESTATES SUBD",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUSCANY CONDOMINIUMS",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWILITE HOME SITES",
+        "Population Served": 28,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.0411071081,
+          36.6547348009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN ISLAND ESTATES",
+        "Population Served": 525,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN ISLAND HGTS HOME OWNERS ASSN",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN LAKES MHP",
+        "Population Served": 78,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.4208652851,
+          39.3105207472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN LAKES MOBILE HOME AND RV PARK LLC",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN OAKS HARBOR",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.775975762,
+          38.0371780097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN RIDGES PARK INC",
+        "Population Served": 125,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.1888539044,
+          36.969571697
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN RIVERS SUBD",
+        "Population Served": 72,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8290683344,
+          36.7099124483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWMP LLC",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7923648921,
+          37.8771285847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION STAR PWS",
+        "Population Served": 437,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.404709492,
+          39.8931762515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER BEND ROAD SUBDIVISION",
+        "Population Served": 28,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "USACE MINGO JOB CORPS CCC",
+        "Population Served": 160,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.9443100866,
+          36.8556222182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLE ACRES MHP",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLE LAKE SUBD",
+        "Population Served": 625,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY LAKE ESTATES",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.1606930888,
+          38.7646163949
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY VIEW MHC LLC",
+        "Population Served": 320,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.3461007818,
+          39.008475666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE GREENS",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE OF MC CORD BEND",
+        "Population Served": 270,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE OF WEST SULLIVAN PWS",
+        "Population Served": 343,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.3039612785,
+          37.9763768738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAS AT FOX RUN",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WADSWORTH PARK UNIT 4 AND 5",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3419904743,
+          37.258049088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALKER HILL MHP",
+        "Population Served": 30,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALNUT GROVE MHP",
+        "Population Served": 210,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4722676012,
+          37.8102830478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARE LAKE SUBD",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARRENS OAKLAND PARK",
+        "Population Served": 52,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARREN WOODS SUBD",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON COUNTY PWSD 1",
+        "Population Served": 700,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON COUNTY PWSD 2",
+        "Population Served": 175,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.8774245019,
+          37.9616839121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATKINS SUBDIVISION",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNE & BUTLER COUNTY PWSD 4",
+        "Population Served": 1400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4614294536,
+          37.1126355072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNE COUNTY PWSD 2",
+        "Population Served": 950,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4614294536,
+          37.1126355072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNE COUNTY PWSD 3",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4614294536,
+          37.1126355072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEATHERBY LAKE PWS",
+        "Population Served": 2077,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.7737543641,
+          39.3803407733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTLAKE MEADOWS SUBDIVISION",
+        "Population Served": 40,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTMIER SUBDIVISION",
+        "Population Served": 90,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.9600453966,
+          39.0580193147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHISPERING HILLS SUBD",
+        "Population Served": 190,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.7660468541,
+          38.0270346749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHISPERING HILLS SUBDIVISION",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.4614294536,
+          37.1126355072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITEMAN AIR BASE",
+        "Population Served": 10106,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8063674936,
+          38.7440854857
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITESIDE HIDDEN ACRES",
+        "Population Served": 92,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.3207208702,
+          37.9407856984
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILDERNESS MOUNTAIN LODGE",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILDFLOWER HOA",
+        "Population Served": 60,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.455980976,
+          36.7470190976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILDWOOD LOT OWNERS ASSN",
+        "Population Served": 78,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.92602044,
+          38.8355168847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINDWOOD ESTATES SUBD",
+        "Population Served": 150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINEGARS TEAL BEND SUBD",
+        "Population Served": 400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2879464988,
+          38.2948490453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINFIELD POINTE ESTATES",
+        "Population Served": 33,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.6844539015,
+          37.3840412342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINTERWOOD ESTATES",
+        "Population Served": 250,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.92602044,
+          38.8355168847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAND HILLS SUBD",
+        "Population Served": 110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.0749938771,
+          38.4111443545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODRIDGE APARTMENTS",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.5376891038,
+          38.2610713047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOOLERY MHP",
+        "Population Served": 45,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.2850962929,
+          38.7282893735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WRIGHT COUNTY PWSD 1",
+        "Population Served": 483,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.4687042487,
+          37.2701399985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YOUNGBERG ESTATES MHP",
+        "Population Served": 70,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.8329365623,
+          37.106351208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ZWANZIG MHP",
+        "Population Served": 50,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -92.8859845551,
+          38.4237395729
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,1070 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALAMO SEWER AND WATER GID",
+        "Population Served": 900,
+        "City": "ALAMO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.1644614,
+          37.3649613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANDER CO SEWER AND WATER DIST 2  AUSTIN",
+        "Population Served": 350,
+        "City": "AUSTIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0695386,
+          39.4932592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAKER WATER AND SEWER GID",
+        "Population Served": 85,
+        "City": "BAKER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.123326,
+          39.0121773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANDER CO SEWER AND WATER DIST 1  BM",
+        "Population Served": 3635,
+        "City": "BATTLE MOUNTAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.938478,
+          40.6418373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEATTY WATER AND SANITATION DISTRICT",
+        "Population Served": 1024,
+        "City": "BEATTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.759275,
+          36.9084224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE DIAMOND WATER COMPANY",
+        "Population Served": 527,
+        "City": "BLUE DIAMOND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.405633,
+          36.0463715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOULDER CITY",
+        "Population Served": 15000,
+        "City": "BOULDER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.8377351,
+          35.9776606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALIENTE PUBLIC UTILITIES",
+        "Population Served": 1100,
+        "City": "CALIENTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.5105439,
+          37.6149601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARLIN UTILITIES",
+        "Population Served": 2500,
+        "City": "CARLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -116.1070877,
+          40.713059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARSON CITY PUBLIC WORKS",
+        "Population Served": 59000,
+        "City": "CARSON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7670374,
+          39.1663259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIOCHE PUBLIC UTILITIES   CASTLETON",
+        "Population Served": 60,
+        "City": "CASELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.4852707,
+          37.9191297
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLD CREEK CANYON HOMEOWNERS",
+        "Population Served": 180,
+        "City": "COLD CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.740281,
+          36.4140688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAYTON VALLEY WATER SYSTEM",
+        "Population Served": 15830,
+        "City": "DAYTON,MOUNDHOUSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.591674,
+          39.258872
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKO CITY OF",
+        "Population Served": 20451,
+        "City": "ELKO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.7630942,
+          40.83269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELY MUNICIPAL WATER DEPARTMENT",
+        "Population Served": 5000,
+        "City": "ELY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.891718,
+          39.2480588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMPIRE MINING COMPANY",
+        "Population Served": 350,
+        "City": "EMPIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.342583,
+          40.5787234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EUREKA WATER ASSOCIATION",
+        "Population Served": 450,
+        "City": "EUREKA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.960898,
+          39.5124951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FALLON CITY OF",
+        "Population Served": 9184,
+        "City": "FALLON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.777895,
+          39.4745166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FALLON NAVAL AIR STATION",
+        "Population Served": 3000,
+        "City": "FALLON NAVAL AIR STATION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.7066316,
+          39.4240575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FERNLEY PUBLIC WORKS",
+        "Population Served": 23064,
+        "City": "FERNLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.2508406,
+          39.6075249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GABBS WATER SYSTEM",
+        "Population Served": 411,
+        "City": "GABBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.930861,
+          38.8613923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARDNERVILLE WATER COMPANY",
+        "Population Served": 6000,
+        "City": "GARDNERVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.749351,
+          38.9415062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARDNERVILLE RANCHOS GID",
+        "Population Served": 11300,
+        "City": "GARDNERVILLE RANCHOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7419547,
+          38.8958109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GERLACH GID",
+        "Population Served": 180,
+        "City": "GERLACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.356261,
+          40.651812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENBROOK WATER COOPERATIVE INC",
+        "Population Served": 1000,
+        "City": "GLENBROOK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.939072,
+          39.0893525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLCONDA GID",
+        "Population Served": 60,
+        "City": "GOLCONDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.4895253,
+          40.9565989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLDFIELD TOWN WATER",
+        "Population Served": 350,
+        "City": "GOLDFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.234065,
+          37.7077702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRIS SPRINGS RANCH",
+        "Population Served": 40,
+        "City": "HARRIS SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.543267,
+          36.2390769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAWTHORNE UTILITIES",
+        "Population Served": 2700,
+        "City": "HAWTHORNE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.624578,
+          38.5246441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENDERSON CITY OF",
+        "Population Served": 336534,
+        "City": "HENDERSON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9822486,
+          36.0319843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLBROOK STATION RV AND MHP",
+        "Population Served": 180,
+        "City": "HOLBROOK JUNCTION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.554891,
+          38.7337959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IMLAY WATER SYSTEM",
+        "Population Served": 200,
+        "City": "IMLAY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.149015,
+          40.6594711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INCLINE VILLAGE GID",
+        "Population Served": 9313,
+        "City": "INCLINE VILLAGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.951909,
+          39.2501246
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INDIAN SPRINGS WATER CO INC",
+        "Population Served": 900,
+        "City": "INDIAN SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6701485,
+          36.5767153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKPOT WATER SYSTEM",
+        "Population Served": 1240,
+        "City": "JACKPOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.673186,
+          41.9838732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JARBIDGE WATER SYSTEM",
+        "Population Served": 200,
+        "City": "JARBIDGE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.430533,
+          41.874658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEAN UTILITY SERVICES INC",
+        "Population Served": 560,
+        "City": "JEAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.324314,
+          35.7790078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINGSBURY GID",
+        "Population Served": 3839,
+        "City": "KINGSBURY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.88808,
+          38.9737106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KYLE CANYON WATER DISTRICT",
+        "Population Served": 1040,
+        "City": "KYLE CANYON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.3163669,
+          36.3268169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAMOILLE WATER USERS ASSOC",
+        "Population Served": 200,
+        "City": "LAMOILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.478392,
+          40.7279826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS VEGAS VALLEY WATER DISTRICT",
+        "Population Served": 1539277,
+        "City": "LAS VEGAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.148516,
+          36.1672559
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG BEND WATER DISTRICT",
+        "Population Served": 9000,
+        "City": "LAUGHLIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.57302,
+          35.1677771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOVELOCK MEADOWS WATER DISTRICT",
+        "Population Served": 3562,
+        "City": "LOVELOCK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.4747268,
+          40.1801273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINA LUNING WATER SYSTEM",
+        "Population Served": 280,
+        "City": "LUNING,MINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.18151,
+          38.50631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANHATTAN TOWN WATER",
+        "Population Served": 40,
+        "City": "MANHATTAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.0739503,
+          38.5386613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCDERMITT WATER SYSTEM",
+        "Population Served": 200,
+        "City": "MCDERMITT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7174963,
+          41.9978323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCGILL WATER AND SEWER DIST",
+        "Population Served": 1200,
+        "City": "MCGILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.778721,
+          39.4051875
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIRGIN VALLEY WATER DISTRICT",
+        "Population Served": 26000,
+        "City": "MESQUITE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.067141,
+          36.8035642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOAPA VALLEY WATER DISTRICT",
+        "Population Served": 8500,
+        "City": "MOAPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.584977,
+          36.6673648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SNWA COYOTE SPRING VALLEY-MOAPA PWS",
+        "Population Served": 25,
+        "City": "MOAPA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.584977,
+          36.6673648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTELLO WATER SYSTEM",
+        "Population Served": 287,
+        "City": "MONTELLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.1937987,
+          41.261793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN CITY WATER AND SEWER",
+        "Population Served": 30,
+        "City": "MOUNTAIN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.965369,
+          41.8385141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT CHARLESTON WATER COMPANY",
+        "Population Served": 335,
+        "City": "MT CHARLESTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.6451164,
+          36.2594812
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH LAS VEGAS UTILITIES",
+        "Population Served": 376515,
+        "City": "NORTH LAS VEGAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.121584,
+          36.2005843
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OROVADA WATER DISTRICT",
+        "Population Served": 200,
+        "City": "OROVADA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.7853458,
+          41.569702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAHRUMP UTILITY COMPANY INC",
+        "Population Served": 985,
+        "City": "PAHRUMP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -115.984614,
+          36.2087301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PANACA FARMSTEAD ASSOCIATION",
+        "Population Served": 900,
+        "City": "PANACA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.389433,
+          37.79052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAND CREEK",
+        "Population Served": 953,
+        "City": "PINE GROVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.1244934,
+          38.6790128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIOCHE PUBLIC UTILITIES",
+        "Population Served": 700,
+        "City": "PIOCHE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.452214,
+          37.9296851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT VALLEY",
+        "Population Served": 110,
+        "City": "PLEASANT VALLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.7760191,
+          39.3524107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRUCKEE MEADOWS WATER AUTHORITY",
+        "Population Served": 442000,
+        "City": "RENO,SPARKS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.806347,
+          39.530395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROUND MOUNTAIN PUC",
+        "Population Served": 1200,
+        "City": "ROUND MOUNTAIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.1614405,
+          38.6942734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUTH WATER DISTRICT",
+        "Population Served": 470,
+        "City": "RUTH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.985365,
+          39.2805441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEARCHLIGHT WATER COMPANY",
+        "Population Served": 760,
+        "City": "SEARCHLIGHT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.9189503,
+          35.4643868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOOTHILL WATER SYSTEM",
+        "Population Served": 346,
+        "City": "SHERIDAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.8226784,
+          38.8979624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAVE ROCK SKYLAND",
+        "Population Served": 1267,
+        "City": "SKYLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.9482,
+          39.0224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOPAZ LAKE WATER CO INC",
+        "Population Served": 40,
+        "City": "TOPAZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.5479969,
+          38.6954092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STOREY COUNTY WATER DISTRICT",
+        "Population Served": 1420,
+        "City": "VIRGINIA CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.649517,
+          39.3108133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WELLS MUNICIPAL WATER DEPARTMENT",
+        "Population Served": 1300,
+        "City": "WELLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -114.963144,
+          41.1107264
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINNEMUCCA CITY OF",
+        "Population Served": 8066,
+        "City": "WINNEMUCCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.734802,
+          40.9724295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ZEPHYR COVE WATER UTILITY DISTR",
+        "Population Served": 1209,
+        "City": "ZEPHYR COVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.947238,
+          39.0060103
+        ]
+      }
+    }
+  ]
+}

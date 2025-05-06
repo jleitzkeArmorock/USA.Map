@@ -1,0 +1,770 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALEXANDRIA, CITY OF",
+        "Population Served": 159200,
+        "City": "ALEXANDRIA CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.77737117,
+          35.1155082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BVU AUTHORITY",
+        "Population Served": 20000,
+        "City": "BRISTOL CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.18124811,
+          36.598695750000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUENA VISTA, CITY OF",
+        "Population Served": 6650,
+        "City": "BUENA VISTA CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.354692,
+          37.73417
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHARLOTTESVILLE, CITY OF",
+        "Population Served": 48019,
+        "City": "CHARLOTTESVILLE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.4765384,
+          38.02975475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITY OF CHESAPEAKE - NORTHWEST RIVER SYS",
+        "Population Served": 165240,
+        "City": "CHESAPEAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22857998,
+          36.7503719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITY OF CHESAPEAKE - WESTERN BRANCH SYS",
+        "Population Served": 32326,
+        "City": "CHESAPEAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22857998,
+          36.7503719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NAVAL SUPPORT ACTIVITY-NW",
+        "Population Served": 1400,
+        "City": "CHESAPEAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22857998,
+          36.7503719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST. BRIDES CORRECTIONAL CENTER",
+        "Population Served": 2354,
+        "City": "CHESAPEAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22857998,
+          36.7503719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNRAY ARTESIAN WATER SUPPLY",
+        "Population Served": 45,
+        "City": "CHESAPEAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22857998,
+          36.7503719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNRAY WATER CO., INC.",
+        "Population Served": 60,
+        "City": "CHESAPEAKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.22857998,
+          36.7503719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLONIAL HEIGHTS, CITY OF",
+        "Population Served": 18273,
+        "City": "COLONIAL HEIGHTS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.8267377,
+          35.2055789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COVINGTON, CITY OF",
+        "Population Served": 5961,
+        "City": "COVINGTON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9939,
+          37.7935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DANVILLE, CITY OF",
+        "Population Served": 43055,
+        "City": "DANVILLE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.3920409,
+          36.5863941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMPORIA, CITY OF",
+        "Population Served": 5600,
+        "City": "EMPORIA CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.5357141,
+          36.6937606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN, CITY OF",
+        "Population Served": 9000,
+        "City": "FRANKLIN CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3835302,
+          38.0078996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREDERICKSBURG, CITY OF",
+        "Population Served": 28350,
+        "City": "FREDERICKSBURG CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4722011,
+          38.3155209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALAX, CITY OF",
+        "Population Served": 6837,
+        "City": "GALAX CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.9240989,
+          36.6619009
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT MONROE",
+        "Population Served": 600,
+        "City": "HAMPTON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.319456,
+          37.03393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANGLEY AIR FORCE BASE",
+        "Population Served": 10886,
+        "City": "HAMPTON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.319456,
+          37.03393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRISONBURG, CITY OF",
+        "Population Served": 53016,
+        "City": "HARRISONBURG CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.91028672,
+          38.44278475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIRGINIA-AMERICAN WATER CO.",
+        "Population Served": 30317,
+        "City": "HOPEWELL CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.28277427,
+          37.2906485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEXINGTON, CITY OF",
+        "Population Served": 7500,
+        "City": "LEXINGTON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.75265882,
+          35.34693415
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYNCHBURG, CITY OF",
+        "Population Served": 80995,
+        "City": "LYNCHBURG CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.1422464,
+          37.4137536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANASSAS, CITY OF",
+        "Population Served": 41757,
+        "City": "MANASSAS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.47501342,
+          38.7372343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANASSAS PARK, CITY OF",
+        "Population Served": 14051,
+        "City": "MANASSAS PARK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4418344,
+          38.7661876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARTINSVILLE, CITY OF",
+        "Population Served": 13600,
+        "City": "MARTINSVILLE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.8725,
+          36.6915
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT EUSTIS",
+        "Population Served": 16900,
+        "City": "NEWPORT NEWS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4730082,
+          37.0873163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWPORT NEWS, CITY OF",
+        "Population Served": 407300,
+        "City": "NEWPORT NEWS CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.4730082,
+          37.0873163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NAVAL STATION NORFOLK",
+        "Population Served": 48826,
+        "City": "NORFOLK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30473937,
+          36.85855115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORFOLK, CITY OF",
+        "Population Served": 234220,
+        "City": "NORFOLK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30473937,
+          36.85855115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NSA HAMPTON ROADS, MAIN BASE",
+        "Population Served": 7533,
+        "City": "NORFOLK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.30473937,
+          36.85855115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTON, CITY OF",
+        "Population Served": 3958,
+        "City": "NORTON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.63522372,
+          36.93325905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETERSBURG, CITY OF",
+        "Population Served": 33394,
+        "City": "PETERSBURG CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.4019,
+          37.2279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORFOLK NAVAL SHIPYARD",
+        "Population Served": 17000,
+        "City": "PORTSMOUTH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37006109,
+          36.8313802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NSA HAMPTON ROADS, PORTSMOUTH ANNEX",
+        "Population Served": 6072,
+        "City": "PORTSMOUTH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37006109,
+          36.8313802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORTSMOUTH, CITY OF",
+        "Population Served": 97915,
+        "City": "PORTSMOUTH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.37006109,
+          36.8313802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RADFORD, CITY OF",
+        "Population Served": 17420,
+        "City": "RADFORD CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.5820096,
+          37.13131515
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHMOND, CITY OF",
+        "Population Served": 229395,
+        "City": "RICHMOND CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.43444287,
+          37.54463655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN VIRGINIA WATER AUTHORITY",
+        "Population Served": 182700,
+        "City": "ROANOKE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.9349644,
+          37.2367523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALEM, CITY OF",
+        "Population Served": 25643,
+        "City": "SALEM CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.0570773,
+          37.2919366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAUNTON, CITY OF",
+        "Population Served": 24400,
+        "City": "STAUNTON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.0384661,
+          38.1608626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUFFOLK, CITY OF",
+        "Population Served": 69822,
+        "City": "SUFFOLK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58896142,
+          36.7300689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHALEYVILLE WATER WKS",
+        "Population Served": 698,
+        "City": "SUFFOLK CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.58896142,
+          36.7300689
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAM NECK - U.S. NAVY",
+        "Population Served": 3000,
+        "City": "VIRGINIA BEACH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08949866,
+          36.78045925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT STORY",
+        "Population Served": 2510,
+        "City": "VIRGINIA BEACH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08949866,
+          36.78045925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLE CREEK AMPHIBIOUS BASE - U.S. NAVY",
+        "Population Served": 9782,
+        "City": "VIRGINIA BEACH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08949866,
+          36.78045925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "N A S OCEANA",
+        "Population Served": 7300,
+        "City": "VIRGINIA BEACH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08949866,
+          36.78045925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIRGINIA BEACH, CITY OF",
+        "Population Served": 437994,
+        "City": "VIRGINIA BEACH CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.08949866,
+          36.78045925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNESBORO, CITY OF",
+        "Population Served": 22630,
+        "City": "WAYNESBORO CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.8741901,
+          38.0709693
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSBURG, CITY OF",
+        "Population Served": 16300,
+        "City": "WILLIAMSBURG CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.7098,
+          37.2757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINCHESTER, CITY OF",
+        "Population Served": 28248,
+        "City": "WINCHESTER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.77811859,
+          35.3428572
+        ]
+      }
+    }
+  ]
+}

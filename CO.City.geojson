@@ -1,0 +1,815 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUBURBAN ESTATES MHP",
+        "Population Served": 115,
+        "City": "AURORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830994,
+          39.7405111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE MEADOWS",
+        "Population Served": 758,
+        "City": "AURORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.830994,
+          39.7405111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN MAN WATER SERVICE",
+        "Population Served": 200,
+        "City": "BAYFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.598112,
+          37.2255593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SERENITY RIDGE VAULT CONNECTION",
+        "Population Served": 157,
+        "City": "BERTHOUD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1028544,
+          40.326064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA VILLAGE MHP",
+        "Population Served": 750,
+        "City": "BOULDER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.270545,
+          40.0149856
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOMFIELD CITY AND COUNTY OF",
+        "Population Served": 106153,
+        "City": "BROOMFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.05208,
+          39.9403995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANON CITY MHP AND SELF STORAGE",
+        "Population Served": 166,
+        "City": "CANON CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2348795,
+          38.4422506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANTERBURY PARK",
+        "Population Served": 1240,
+        "City": "COLORADO SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANYON RIDGE",
+        "Population Served": 625,
+        "City": "COLORADO SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRESTLINE MANOR",
+        "Population Served": 505,
+        "City": "COLORADO SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMERALD ACRES MOBILE HOME PARK",
+        "Population Served": 280,
+        "City": "COLORADO SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAMPLIGHTER RHP",
+        "Population Served": 643,
+        "City": "COLORADO SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHANGRILA MHP",
+        "Population Served": 260,
+        "City": "COLORADO SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE SPRINGS MHP",
+        "Population Served": 1229,
+        "City": "COLORADO SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.825348,
+          38.8339578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA VERDE VILLAGE",
+        "Population Served": 200,
+        "City": "CORTEZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.584073,
+          37.3494528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVER GREEN POA",
+        "Population Served": 47,
+        "City": "CRESTED BUTTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.984043,
+          38.8698201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADVENIR FRENCH QUARTER",
+        "Population Served": 3447,
+        "City": "DENVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARDEN MEADOWS",
+        "Population Served": 250,
+        "City": "DENVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.984862,
+          39.7392364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAVE CREEK",
+        "Population Served": 1025,
+        "City": "EVANS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6977634,
+          40.3772168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENDALE CITY OF",
+        "Population Served": 4400,
+        "City": "GLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.933508,
+          39.7048155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOX RUN MEADOWS HOA",
+        "Population Served": 36,
+        "City": "GLENWOOD SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3246941,
+          39.5466381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINYON MESA HOA",
+        "Population Served": 125,
+        "City": "GLENWOOD SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3246941,
+          39.5466381
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLDEN TERRACE SOUTH",
+        "Population Served": 425,
+        "City": "GOLDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.22058,
+          39.7546349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOLDEN TERRACE WEST",
+        "Population Served": 825,
+        "City": "GOLDEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.22058,
+          39.7546349
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN RIVERS MHP, LLC",
+        "Population Served": 67,
+        "City": "GRAND JUNCTION"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.56448,
+          39.0672568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASY WATER LLC",
+        "Population Served": 154,
+        "City": "HESPERUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0395165,
+          37.2861114
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOMINION WSD",
+        "Population Served": 0,
+        "City": "LITTLETON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.016649,
+          39.613321
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRYSIDE OF LONGMONT",
+        "Population Served": 775,
+        "City": "LONGMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.101928,
+          40.1672117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST VRAIN MHP LLC",
+        "Population Served": 544,
+        "City": "LONGMONT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.101928,
+          40.1672117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAGO VISTA MOBILE HOME PARK",
+        "Population Served": 842,
+        "City": "LOVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.0443613,
+          40.385549
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK CANYON ESTATES MHP",
+        "Population Served": 188,
+        "City": "MONTROSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.876277,
+          38.4781927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CIMARRON CREEK",
+        "Population Served": 560,
+        "City": "MONTROSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.876277,
+          38.4781927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN LAKE COMMUNITY",
+        "Population Served": 83,
+        "City": "MONTROSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.876277,
+          38.4781927
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURGESS WATER COMPANY",
+        "Population Served": 57,
+        "City": "PAONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5920018,
+          38.8683205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN VALLEY HOA WATER COMPANY",
+        "Population Served": 120,
+        "City": "PAONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5920018,
+          38.8683205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINNESOTA PIPELINE",
+        "Population Served": 72,
+        "City": "PAONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5920018,
+          38.8683205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH LAMBORN MESA WATER COMPANY",
+        "Population Served": 47,
+        "City": "PAONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5920018,
+          38.8683205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN EXTENSION DOMESTIC WATER COMPANY",
+        "Population Served": 37,
+        "City": "PAONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5920018,
+          38.8683205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST PAONIA DOMESTIC WATER COMPANY",
+        "Population Served": 57,
+        "City": "PAONIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.5920018,
+          38.8683205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SADDLEBACK RV",
+        "Population Served": 425,
+        "City": "PARACHUTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.052961,
+          39.4536891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUEBLO GRANDE VILLAGE",
+        "Population Served": 504,
+        "City": "PUEBLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6141867,
+          38.263995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUEBLO POINTE MHC, LLC",
+        "Population Served": 289,
+        "City": "PUEBLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6141867,
+          38.263995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMS CREEK WATER",
+        "Population Served": 60,
+        "City": "SILT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.65617,
+          39.5485917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AVILLA EASTLAKE",
+        "Population Served": 410,
+        "City": "THORNTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.985181,
+          39.8695516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAPARRAL VILLAGE MHP",
+        "Population Served": 303,
+        "City": "THORNTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.985181,
+          39.8695516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REDWOOD ESTATES",
+        "Population Served": 1500,
+        "City": "THORNTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.985181,
+          39.8695516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE GROVE AT ALTA RIDGE",
+        "Population Served": 1300,
+        "City": "THORNTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.985181,
+          39.8695516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THORNTON ESTATES",
+        "Population Served": 300,
+        "City": "THORNTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.985181,
+          39.8695516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAND HILLS",
+        "Population Served": 1740,
+        "City": "THORNTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.985181,
+          39.8695516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHICOSA WATER USERS ASSOCIATION",
+        "Population Served": 40,
+        "City": "TRINIDAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.500541,
+          37.169397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COKEDALE TOWN OF",
+        "Population Served": 120,
+        "City": "TRINIDAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.500541,
+          37.169397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINON WSD",
+        "Population Served": 50,
+        "City": "TRINIDAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.500541,
+          37.169397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STARKVILLE TOWN OF",
+        "Population Served": 66,
+        "City": "TRINIDAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.500541,
+          37.169397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NATIVE WATER",
+        "Population Served": 100,
+        "City": "WOODLAND PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.057045,
+          38.9938016
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,5615 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADAIRVILLE WATER WORKS",
+        "Population Served": 787,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8789382363,
+          36.8596987837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALBANY WATER WORKS",
+        "Population Served": 9042,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1360135602,
+          36.7274816255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLEN COUNTY WATER DISTRICT",
+        "Population Served": 16398,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1904186693,
+          36.7513165534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARLINGTON WATER DEPARTMENT",
+        "Population Served": 301,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9710587868,
+          36.8532163803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASHLAND WATER WORKS",
+        "Population Served": 44402,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6877258112,
+          38.3595724655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUBURN MUN WATER WORKS",
+        "Population Served": 1931,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8789382363,
+          36.8596987837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUGUSTA REGIONAL WTP",
+        "Population Served": 1690,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0901906655,
+          38.688812974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARBOURVILLE UTILITIES",
+        "Population Served": 16420,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.854045282,
+          36.8906660574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARDSTOWN MUNICIPAL WATER DEPT",
+        "Population Served": 31185,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4659885855,
+          37.805131267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARDWELL CITY UTILITIES",
+        "Population Served": 1227,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9710587868,
+          36.8532163803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARKLEY LAKE WATER DISTRICT",
+        "Population Served": 14284,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8733713765,
+          36.8063197395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARLOW WATER SYSTEM",
+        "Population Served": 1040,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9993411296,
+          37.0584319295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BATH COUNTY WATER DISTRICT",
+        "Population Served": 10083,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.74266722,
+          38.1449736906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEATTYVILLE WATER WORKS",
+        "Population Served": 8428,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.7162777687,
+          37.5947979696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAVER DAM MUNICIPAL WATER & SEWER",
+        "Population Served": 3901,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8488901965,
+          37.478191684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEECH FORK WATER COMMISSION",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.823774583,
+          37.8311453235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEECH GROVE WATER SYSTEM",
+        "Population Served": 1461,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2636042463,
+          37.5291899516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELL COUNTY FORESTRY CAMP",
+        "Population Served": 275,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6740950601,
+          36.7306482485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENHAM WATER PLANT",
+        "Population Served": 855,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BENTON WATER & SEWER",
+        "Population Served": 7981,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3293805253,
+          36.8834465874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEREA MUNICIPAL UTILITIES",
+        "Population Served": 9972,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2779980048,
+          37.7201835062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG SANDY WATER DISTRICT",
+        "Population Served": 13044,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6877258112,
+          38.3595724655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK MTN UTILITY/COXTON",
+        "Population Served": 356,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK MTN UTILITY/DAYHOIT",
+        "Population Served": 1954,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK MTN UTILITY/KENVIR",
+        "Population Served": 1396,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK MTN UTILITY/LOUELLEN",
+        "Population Served": 520,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK MTN UTILITY/ROSSPOINT",
+        "Population Served": 1889,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK MTN UTILITY/SUKEY RIDGE",
+        "Population Served": 740,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK MTN UTILITY/WALLINS",
+        "Population Served": 1485,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOOMFIELD WATER & SEWER DEPT",
+        "Population Served": 5771,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4659885855,
+          37.805131267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOONE CO WATER & SEWER DISTRICT",
+        "Population Served": 66300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727848116,
+          38.969864478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOONE-FLORENCE WATER COMMISSION",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727848116,
+          38.969864478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOONEVILLE WATER AND SEWER",
+        "Population Served": 5346,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6831118762,
+          37.4192050035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOWLING GREEN MUNICIPAL UTILITIES",
+        "Population Served": 53601,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4237993498,
+          36.9935767676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRACKEN COUNTY WATER DISTRICT",
+        "Population Served": 6456,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0901906655,
+          38.688812974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANDENBURG WATER WORKS",
+        "Population Served": 2880,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2171786433,
+          37.9698391666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BREATHITT CO WATER DISTRICT",
+        "Population Served": 5068,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3240853027,
+          37.5216171391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRODHEAD WATER WORKS",
+        "Population Served": 1613,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3159414648,
+          37.3651781719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRONSTON WATER ASSOCIATON INC",
+        "Population Served": 5114,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOKSVILLE UTILITY",
+        "Population Served": 977,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0901906655,
+          38.688812974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROWNSVILLE MUNICIPAL WATER SYSTEM",
+        "Population Served": 1441,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2386201495,
+          37.2088402055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUFFALO TRAIL WATER ASSOC",
+        "Population Served": 4514,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8242451537,
+          38.5951729912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BULLOCK PEN WATER DISTRICT",
+        "Population Served": 20048,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6246133807,
+          38.6488155619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURGIN WATER DEPARTMENT",
+        "Population Served": 1426,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8744366862,
+          37.8110307874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURKESVILLE WATER WORKS",
+        "Population Served": 2566,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3884485912,
+          36.7865296888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURNSIDE WATER COMPANY",
+        "Population Served": 2284,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLER COUNTY WATER SYSTEM INC",
+        "Population Served": 14256,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68175556,
+          37.2072808133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLER WATER WORKS",
+        "Population Served": 980,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3602721797,
+          38.6956276543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CADIZ MUNICIPAL WATER CO",
+        "Population Served": 6165,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8733713765,
+          36.8063197395
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALDWELL COUNTY WATER DISTRICT",
+        "Population Served": 6000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8679057735,
+          37.1453332323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALHOUN WATER WORKS",
+        "Population Served": 966,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2636042463,
+          37.5291899516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALVERT CITY MUNICIPAL WATER DEPARTMENT",
+        "Population Served": 4381,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3293805253,
+          36.8834465874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMPBELLSVILLE MUNICIPAL WATER",
+        "Population Served": 24874,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3278346717,
+          37.3664545067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMPTON WATER SYSTEM",
+        "Population Served": 6600,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4931751504,
+          37.7393195914
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANNONSBURG WATER DISTRICT",
+        "Population Served": 8953,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.6877258112,
+          38.3595724655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARLISLE WATER DEPARTMENT",
+        "Population Served": 2059,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0153305006,
+          38.3355978163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARROLL CO WATER DISTRICT #1",
+        "Population Served": 5934,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.123590032,
+          38.6678584122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARROLLTON UTILITIES",
+        "Population Served": 6851,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.123590032,
+          38.6678584122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAVELAND ENVIRONMENTAL AUTHORITY, INC.",
+        "Population Served": 3264,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9336633247,
+          36.9655811681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAVE RUN REGIONAL WT COMM",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5988719199,
+          37.9413779683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAWOOD WATER DISTRICT",
+        "Population Served": 4428,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAWOOD WATER-PATHFORK",
+        "Population Served": 463,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTER RIDGE WATER DISTRICT #2",
+        "Population Served": 377,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTER RIDGE WATER DISTRICT #3",
+        "Population Served": 208,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTER RIDGE WATER DISTRICT #4",
+        "Population Served": 105,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTER RIDGE WATER SYSTEM",
+        "Population Served": 273,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTERTOWN WATER SYSTEM",
+        "Population Served": 1485,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8488901965,
+          37.478191684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL CITY WATER & SEWER",
+        "Population Served": 5601,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.142041664,
+          37.2157922672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHRISTIAN CO WATER DISTRICT",
+        "Population Served": 15841,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4903805625,
+          36.8941807353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITY OF SOUTH SHORE WATER WORKS",
+        "Population Served": 6798,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9222922454,
+          38.5456646906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY CITY WATER SYSTEM",
+        "Population Served": 2153,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.823774583,
+          37.8311453235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY WATER WORKS",
+        "Population Served": 1287,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6831570963,
+          37.5184174771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOVERPORT WATER & SEWER SYSTEM",
+        "Population Served": 1560,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4292775361,
+          37.7732676848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBIA/ADAIR UTILITIES DISTRICT",
+        "Population Served": 22113,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2806497629,
+          37.1041534526
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBUS WATER WORKS",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9762156953,
+          36.6781704977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORBIN UTILITIES COMMISSION",
+        "Population Served": 16065,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.145177727,
+          36.7580732628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORINTH WATER DISTRICT",
+        "Population Served": 3139,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6246133807,
+          38.6488155619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRAB ORCHARD WATER DISTRICT",
+        "Population Served": 1488,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6608453633,
+          37.4553667663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CRITTENDEN-LIVINGSTON CO WATER DISTRICT",
+        "Population Served": 9571,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3538137781,
+          37.2097032695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND CO WATER DISTRICT",
+        "Population Served": 7099,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3884485912,
+          36.7865296888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND FALLS HIGHWAY WATER DISTRICT",
+        "Population Served": 9498,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.145177727,
+          36.7580732628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND MUNICIPAL WATER WORKS",
+        "Population Served": 3505,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUNNINGHAM WATER DISTRICT",
+        "Population Served": 475,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9710587868,
+          36.8532163803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CYNTHIANA MUNICIPAL WATER WORKS",
+        "Population Served": 7263,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3313958343,
+          38.4418035091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DANVILLE CITY WATER WORKS",
+        "Population Served": 32600,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8668203815,
+          37.6243602285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVIESS CO WATER DISTRICT",
+        "Population Served": 33655,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0872269242,
+          37.731772508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAWSON SPRINGS WATER & SEWER",
+        "Population Served": 2631,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEXTER ALMO HEIGHTS WATER DISTRICT",
+        "Population Served": 2275,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DIXON WATER DEPARTMENT",
+        "Population Served": 1253,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6831570963,
+          37.5184174771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOE VALLEY UTILITIES INC",
+        "Population Served": 2260,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2171786433,
+          37.9698391666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DRAKESBORO WATER DEPARTMENT",
+        "Population Served": 888,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.142041664,
+          37.2157922672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DRY RIDGE WATER WORKS COMMISSION",
+        "Population Served": 2400,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6246133807,
+          38.6488155619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EARLINGTON WATER & SEWER",
+        "Population Served": 1708,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST CASEY CO WATER DISTRICT",
+        "Population Served": 12460,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9283681524,
+          37.3222824489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST CLARK CO WATER DISTRICT",
+        "Population Served": 7366,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1473994082,
+          37.9708518682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST LAUREL WATER DISTRICT",
+        "Population Served": 16062,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11780032,
+          37.1106705529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST LOGAN WATER DISTRICT",
+        "Population Served": 9060,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8789382363,
+          36.8596987837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST PENDLETON WATER DISTRICT",
+        "Population Served": 5515,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3602721797,
+          38.6956276543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "E DAVIESS CO WATER ASSOC INC",
+        "Population Served": 11997,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0872269242,
+          37.731772508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDDYVILLE WATER DEPARTMENT",
+        "Population Served": 3843,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0832815032,
+          37.0191301368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDMONSON CO WATER DISTRICT",
+        "Population Served": 17848,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2386201495,
+          37.2088402055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDMONTON WATER WORKS",
+        "Population Served": 8515,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6292510918,
+          36.9905417852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKHORN CITY WATER DEPT",
+        "Population Served": 1723,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3958631537,
+          37.4690483094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKHORN WATER DISTRICT",
+        "Population Served": 1590,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8770681668,
+          38.2391477444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELKTON WATER WORKS",
+        "Population Served": 2780,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1791532892,
+          36.8355562279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EMINENCE WATER WORKS",
+        "Population Served": 2554,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1189299735,
+          38.448468036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESTILL CO WATER DISTRICT",
+        "Population Served": 9501,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9643302311,
+          37.6924814699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EUBANK WATER SYSTEM",
+        "Population Served": 12492,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVARTS MUNICIPAL WATER PLANT",
+        "Population Served": 3059,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FALMOUTH WATER DEPARTMENT",
+        "Population Served": 3861,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3602721797,
+          38.6956276543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARMDALE WATER DISTRICT",
+        "Population Served": 8203,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8770681668,
+          38.2391477444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLATWOODS WATER COMPANY",
+        "Population Served": 9649,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9222922454,
+          38.5456646906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLEMING CO WATER ASSOCIATION",
+        "Population Served": 9693,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6966440772,
+          38.3701068106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLEMING-NEON WATER COMPANY",
+        "Population Served": 3212,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8552822542,
+          37.1211921397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLEMINGSBURG UTILITY SYSTEM",
+        "Population Served": 4583,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6966440772,
+          38.3701068106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLORENCE WATER & SEWER",
+        "Population Served": 29351,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727848116,
+          38.969864478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FONDE WATER SYSTEM",
+        "Population Served": 65,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6740950601,
+          36.7306482485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORDSVILLE WATER DISTRICT",
+        "Population Served": 927,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8488901965,
+          37.478191684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT CAMPBELL",
+        "Population Served": 22000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4903805625,
+          36.8941807353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOUNTAIN RUN WATER DISTRICT #1",
+        "Population Served": 1485,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7165195846,
+          36.712180279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANCIS WATER COMPANY",
+        "Population Served": 459,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7457041434,
+          37.5571085124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKFORT PLANT BOARD",
+        "Population Served": 52153,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8770681668,
+          38.2391477444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN WATER WORKS",
+        "Population Served": 15150,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.582320534,
+          36.7419423399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREDONIA WATER DEPARTMENT",
+        "Population Served": 1040,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8679057735,
+          37.1453332323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRENCHBURG WATER COMPANY",
+        "Population Served": 5401,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5988719199,
+          37.9413779683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FULTON MUNICIPAL WATER SYSTEM",
+        "Population Served": 4662,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1875965868,
+          36.5540721406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALLATIN COUNTY WATER DISTRICT",
+        "Population Served": 5860,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8593123857,
+          38.7568746647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARRARD CO WATER ASSOC INC",
+        "Population Served": 14806,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5376342293,
+          37.6395779036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARRISON QUINCY HEIGHTS WATER DISTRICT",
+        "Population Served": 2908,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3780560683,
+          38.5315416285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GEORGETOWN MUNICIPAL WATER SERVICE",
+        "Population Served": 35714,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5839338937,
+          38.291547316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLASGOW WATER COMPANY",
+        "Population Served": 36766,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9336633247,
+          36.9655811681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND RIVERS WATER SYSTEM",
+        "Population Served": 3980,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3538137781,
+          37.2097032695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAVES CO WATER DIST - CONSUMERS",
+        "Population Served": 5016,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAVES CO WATER DIST - FANCY FARM",
+        "Population Served": 1301,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAVES CO WATER DIST - HARDEMAN",
+        "Population Served": 1006,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAVES CO WATER DIST - HICKORY",
+        "Population Served": 4069,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAVES CO WATER DIST - SEDALIA",
+        "Population Served": 371,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAVES CO WATER DIST - SOUTH GRAVES",
+        "Population Served": 1844,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAYSON COUNTY WATER DISTRICT",
+        "Population Served": 20033,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3438765333,
+          37.4608189464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAYSON UTILITY COMMISSION",
+        "Population Served": 10950,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0495338272,
+          38.318172839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER FLEMING CO WT COMM",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6966440772,
+          38.3701068106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN HILLS WATER DISTRICT",
+        "Population Served": 1443,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN RIVER VALLEY WATER DISTRICT",
+        "Population Served": 17431,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8847094016,
+          37.29992674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENSBURG WATER WORKS",
+        "Population Served": 2396,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5531056748,
+          37.2641094188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN TAYLOR WATER DISTRICT",
+        "Population Served": 15497,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5531056748,
+          37.2641094188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENUP WATER SYSTEM",
+        "Population Served": 12193,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9222922454,
+          38.5456646906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENVILLE UTILITIES COMMISSION",
+        "Population Served": 5649,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.142041664,
+          37.2157922672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GUTHRIE WATER WORKS",
+        "Population Served": 2421,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1791532892,
+          36.8355562279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HANSON WATER SYSTEM",
+        "Population Served": 2157,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDIN COUNTY WATER DISTRICT #1",
+        "Population Served": 30230,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9633719015,
+          37.6979246033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDIN COUNTY WATER DISTRICT #2",
+        "Population Served": 76326,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9633719015,
+          37.6979246033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDIN CO. WATER DIST #1/FT. KNOX",
+        "Population Served": 23600,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9633719015,
+          37.6979246033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDINSBURG RO WTP",
+        "Population Served": 17418,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4292775361,
+          37.7732676848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDIN WATER DEPARTMENT",
+        "Population Served": 1606,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3293805253,
+          36.8834465874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARLAN MUNICIPAL WATER WORKS",
+        "Population Served": 4574,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRISON CO WATER ASSOC",
+        "Population Served": 16736,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3313958343,
+          38.4418035091
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRODSBURG MUNICIPAL WATER DEPARTMENT",
+        "Population Served": 8310,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8744366862,
+          37.8110307874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTFORD MUNICIPAL WATER WORKS",
+        "Population Served": 3119,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8488901965,
+          37.478191684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAWESVILLE WATER WORKS",
+        "Population Served": 3225,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7779252067,
+          37.8415087294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAZARD WATER DEPARTMENT",
+        "Population Served": 26730,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2214816028,
+          37.2442933233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENDERSON COUNTY WATER DISTRICT",
+        "Population Served": 19008,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5731516422,
+          37.7958423573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENDERSON WATER UTILITY/NORTH",
+        "Population Served": 31705,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5731516422,
+          37.7958423573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENDERSON WATER UTILITY/SOUTH",
+        "Population Served": 54,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5731516422,
+          37.7958423573
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENRY COUNTY WATER DISTRICT #2",
+        "Population Served": 17716,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1189299735,
+          38.448468036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HICKMAN WATER DEPARTMENT",
+        "Population Served": 3191,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1875965868,
+          36.5540721406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HINDMAN MUN WATER WORKS",
+        "Population Served": 1883,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9541313398,
+          37.3540523996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HODGENVILLE WATER WORKS",
+        "Population Served": 4629,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6979139347,
+          37.5457980664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOPKINSVILLE WATER ENVIRONMENT AUTHORITY",
+        "Population Served": 41350,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4903805625,
+          36.8941807353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORSE CAVE WATER SYSTEM",
+        "Population Served": 2744,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8847094016,
+          37.29992674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUSTONVILLE WATER WORKS",
+        "Population Served": 5420,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6608453633,
+          37.4553667663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HYDEN LESLIE CO WATER DISTRICT",
+        "Population Served": 9614,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3811399511,
+          37.0940663146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRVINE MUNICIPAL UTILITIES",
+        "Population Served": 5649,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9643302311,
+          37.6924814699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRVINGTON WATER SYSTEM",
+        "Population Served": 1627,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4292775361,
+          37.7732676848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ISLAND WATER DEPARTMENT",
+        "Population Served": 1512,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2636042463,
+          37.5291899516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON CO WATER ASSOCIATION",
+        "Population Served": 13629,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0057660473,
+          37.4197763873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON MUNICIPAL WATER WORKS",
+        "Population Served": 4704,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3240853027,
+          37.5216171391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAMESTOWN MUNICIPAL WATER WORKS",
+        "Population Served": 7402,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0586875538,
+          36.991034312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSONVILLE WATER SYSTEM",
+        "Population Served": 5335,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.913088975,
+          38.0335228018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JENKINS WATER SYSTEM",
+        "Population Served": 2609,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8552822542,
+          37.1211921397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JESSAMINE CO WATER DISTRICT #1",
+        "Population Served": 6831,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5809372528,
+          37.872051318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JESSAMINE S ELKHORN WATER DIST",
+        "Population Served": 8826,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5809372528,
+          37.872051318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JONATHAN CREEK WATER DISTRICT",
+        "Population Served": 7182,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3293805253,
+          36.8834465874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUDY WATER ASSOCIATION",
+        "Population Served": 5539,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.913088975,
+          38.0335228018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENTUCKY-AMERICAN WATER CO",
+        "Population Served": 299501,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4587221937,
+          38.0423302608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENTUCKY AMERICAN WATER - EASTERN ROCKCA",
+        "Population Served": 1732,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3159414648,
+          37.3651781719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENTUCKY AMERICAN WATER- MILLERSBURG",
+        "Population Served": 1366,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171399549,
+          38.2067299514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENTUCKY STATE PENITENTIARY",
+        "Population Served": 1200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0832815032,
+          37.0191301368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEVIL WATER DEPARTMENT",
+        "Population Served": 1782,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9993411296,
+          37.0584319295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KIRKSVILLE WATER ASSOCIATION",
+        "Population Served": 5940,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2779980048,
+          37.7201835062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KNOTT CO WATER & SEWER DISTRICT",
+        "Population Served": 7056,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9541313398,
+          37.3540523996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KNOX COUNTY UTILITY COMMISSION",
+        "Population Served": 8313,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.854045282,
+          36.8906660574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KUTTAWA WATER DEPARTMENT",
+        "Population Served": 1143,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0832815032,
+          37.0191301368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LACENTER MUNICIPAL WATER CO",
+        "Population Served": 1291,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9993411296,
+          37.0584319295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAGRANGE UTILITIES COMMISSION",
+        "Population Served": 10067,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4483655316,
+          38.3994422236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE VILLAGE WATER ASSOCIATION",
+        "Population Served": 6855,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8744366862,
+          37.8110307874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANCASTER WATER WORKS",
+        "Population Served": 4573,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5376342293,
+          37.6395779036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LARUE COUNTY WATER DISTRICT #1",
+        "Population Served": 9062,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6979139347,
+          37.5457980664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUREL CO WATER DISTRICT #2",
+        "Population Served": 16899,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11780032,
+          37.1106705529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAWRENCEBURG WATER & SEWER DEPT",
+        "Population Served": 14748,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9910045711,
+          38.0039134141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEBANON JUNCTION WATER WORKS",
+        "Population Served": 2866,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6958570326,
+          37.9700757707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEBANON WATER WORKS CO INC",
+        "Population Served": 7642,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2696313766,
+          37.5525344711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEDBETTER WATER DISTRICT",
+        "Population Served": 2729,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3538137781,
+          37.2097032695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEITCHFIELD WATER WORKS",
+        "Population Served": 8438,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3438765333,
+          37.4608189464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LETCHER COUNTY WATER DISTRICT",
+        "Population Served": 2673,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8552822542,
+          37.1211921397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEVEE RD WATER ASSOCIATION INC",
+        "Population Served": 2471,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.913088975,
+          38.0335228018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEWISBURG WATER WORKS",
+        "Population Served": 3119,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8789382363,
+          36.8596987837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEWISPORT MUNICIPAL WATER WORKS",
+        "Population Served": 3249,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7779252067,
+          37.8415087294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY WATER WORKS",
+        "Population Served": 2302,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9283681524,
+          37.3222824489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIVERMORE WATER WORKS",
+        "Population Served": 2138,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2636042463,
+          37.5291899516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIVINGSTON MUNICIPAL WATER WORKS",
+        "Population Served": 529,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3159414648,
+          37.3651781719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOCUST VALLEY MOBILE EST",
+        "Population Served": 94,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.71271926,
+          37.0540793189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN-TODD REGIONAL WATER COMMISSION",
+        "Population Served": 36,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1791532892,
+          36.8355562279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONDON UTILITY COMMISSION",
+        "Population Served": 8855,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11780032,
+          37.1106705529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOUISA WATER DEPARTMENT",
+        "Population Served": 8236,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7347546613,
+          38.0678786159
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOUISVILLE WATER COMPANY",
+        "Population Served": 764769,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6591577058,
+          38.1871910002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYNCH WATER WORKS",
+        "Population Served": 1078,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2179510399,
+          36.8569745004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYON COUNTY WATER DISTRICT",
+        "Population Served": 6744,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0832815032,
+          37.0191301368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISON CO UTILITIES DISTRICT",
+        "Population Served": 25120,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2779980048,
+          37.7201835062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISONVILLE LIGHT & WATER",
+        "Population Served": 28102,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAGOFFIN COUNTY WATER DISTRICT",
+        "Population Served": 8925,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0649145355,
+          37.7064741502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAMMOTH CAVE/CENTRAL SYSTEM",
+        "Population Served": 5000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2386201495,
+          37.2088402055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCHESTER WATER WORKS",
+        "Population Served": 11349,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.714662683,
+          37.1596975589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARION COUNTY WATER DISTRICT",
+        "Population Served": 16311,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2696313766,
+          37.5525344711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARION WATER DEPARTMENT",
+        "Population Served": 3039,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0972226536,
+          37.3527152683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARTIN CO WATER DISTRICT #1",
+        "Population Served": 9003,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.5132925147,
+          37.8015772072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARTIN WATER DEPARTMENT",
+        "Population Served": 1167,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7457041434,
+          37.5571085124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAYFIELD ELECTRIC & WATER",
+        "Population Served": 12379,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAYSVILLE UTILITY COMMISSION",
+        "Population Served": 11263,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8242451537,
+          38.5951729912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCCREARY COUNTY WATER DISTRICT",
+        "Population Served": 34439,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.4841745377,
+          36.7371415587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCKEE WATER WORKS",
+        "Population Served": 1331,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0057660473,
+          37.4197763873
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCKINNEY WATER DISTRICT",
+        "Population Served": 5423,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6608453633,
+          37.4553667663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCLEAN COUNTY REGIONAL WATER COMMISSION",
+        "Population Served": 25,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2636042463,
+          37.5291899516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADE COUNTY WATER DISTRICT",
+        "Population Served": 33313,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2171786433,
+          37.9698391666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDWAY MUNICIPAL WATER WORKS",
+        "Population Served": 2174,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7436031459,
+          38.0423908286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILBURN WATER DISTRICT",
+        "Population Served": 500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9710587868,
+          36.8532163803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILTON WATER & SEWER DEPARTMENT",
+        "Population Served": 3861,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3375681071,
+          38.6130327476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONROE COUNTY WATER DISTRICT",
+        "Population Served": 9608,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7165195846,
+          36.712180279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY CO WATER DISTRICT #1",
+        "Population Served": 2082,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.913088975,
+          38.0335228018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTICELLO WATER & SEWER COMMISSION",
+        "Population Served": 21000,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.828631199,
+          36.8012652397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOREHEAD STATE UNIVERSITY",
+        "Population Served": 6500,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4210754055,
+          38.1962558627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOREHEAD UTILITY PLANT BOARD",
+        "Population Served": 9052,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4210754055,
+          38.1962558627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGAN COUNTY WATER DISTRICT",
+        "Population Served": 7502,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2588931268,
+          37.9222809093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGANFIELD WATER WORKS",
+        "Population Served": 5170,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9453835494,
+          37.6584480026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORGANTOWN WATER SYSTEM",
+        "Population Served": 2628,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.68175556,
+          37.2072808133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORTONS GAP WATER DEPARTMENT",
+        "Population Served": 1485,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN WATER DIST",
+        "Population Served": 48286,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3958631537,
+          37.4690483094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT CARMEL HIGH BOARDING SCHOOL",
+        "Population Served": 100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3240853027,
+          37.5216171391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT OLIVET WATER DEPARTMENT",
+        "Population Served": 775,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0520241975,
+          38.5188144389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT STERLING WATER WORKS",
+        "Population Served": 16391,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.913088975,
+          38.0335228018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT VERNON WATER WORKS",
+        "Population Served": 4951,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3159414648,
+          37.3651781719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT WASHINGTON WATER COMPANY",
+        "Population Served": 23760,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6958570326,
+          37.9700757707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUHLENBERG CO WATER DISTRICT",
+        "Population Served": 16845,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.142041664,
+          37.2157922672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUHLENBERG CO WATER DISTRICT #3",
+        "Population Served": 7075,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.142041664,
+          37.2157922672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MULDRAUGH WATER DEPARTMENT",
+        "Population Served": 1411,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2171786433,
+          37.9698391666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUNFORDVILLE WATER DEPT",
+        "Population Served": 2109,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8847094016,
+          37.29992674
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MURRAY WATER SYSTEM",
+        "Population Served": 26302,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEBO WATER DISTRICT",
+        "Population Served": 4702,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW CASTLE WATER WORKS",
+        "Population Served": 2100,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1189299735,
+          38.448468036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW HAVEN MUNICIPAL WATER WORKS",
+        "Population Served": 1357,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4659885855,
+          37.805131267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NE WOODFORD CO WATER DISTRICT",
+        "Population Served": 2644,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7436031459,
+          38.0423908286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NICHOLAS CO WATER DISTRICT",
+        "Population Served": 4089,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0153305006,
+          38.3355978163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NICHOLASVILLE WATER DEPARTMENT",
+        "Population Served": 35266,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5809372528,
+          37.872051318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHERN KENTUCKY WATER DISTRICT",
+        "Population Served": 199460,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5333168381,
+          38.9334528592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH HOPKINS WATER DISTRICT",
+        "Population Served": 3725,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH LOGAN WATER DISTRICT",
+        "Population Served": 1649,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8789382363,
+          36.8596987837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH MANCHESTER WATER ASSOC",
+        "Population Served": 5332,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.714662683,
+          37.1596975589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH MARSHALL WATER DISTRICT #1",
+        "Population Served": 16276,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3293805253,
+          36.8834465874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH MCLEAN CO WATER DISTRICT",
+        "Population Served": 2934,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0872269242,
+          37.731772508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH MERCER WATER DISTRICT",
+        "Population Served": 9775,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8744366862,
+          37.8110307874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH NELSON WATER DISTRICT",
+        "Population Served": 13365,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4659885855,
+          37.805131267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH SHELBY WATER DISTRICT",
+        "Population Served": 14660,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1947770123,
+          38.2154382436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTONVILLE WATER WORKS",
+        "Population Served": 2611,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK GROVE UTILITIES OFFICE",
+        "Population Served": 8762,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4903805625,
+          36.8941807353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OHIO COUNTY WATER DISTRICT",
+        "Population Served": 16511,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8488901965,
+          37.478191684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLDHAM COUNTY WATER DISTRICT",
+        "Population Served": 38409,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4483655316,
+          38.3994422236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLIVE HILL MUNICIPAL WATER WORKS",
+        "Population Served": 6192,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0495338272,
+          38.318172839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OWENSBORO MUNICIPAL UTILITIES",
+        "Population Served": 60473,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0872269242,
+          37.731772508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OWINGSVILLE WATER WORKS",
+        "Population Served": 2307,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.74266722,
+          38.1449736906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PADUCAH WATER WORKS",
+        "Population Served": 65004,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.71271926,
+          37.0540793189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAINTSVILLE MUNICIPAL WATER WORKS",
+        "Population Served": 24354,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8315397747,
+          37.8466393565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARIS WATER WORKS",
+        "Population Served": 14479,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2171399549,
+          38.2067299514
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARKSVILLE WATER DISTRICT",
+        "Population Served": 4261,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8668203815,
+          37.6243602285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEAKS MILL WATER DISTRICT",
+        "Population Served": 3268,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8770681668,
+          38.2391477444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON CO WATER DISTRICT #1 / NORTH",
+        "Population Served": 1485,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3602721797,
+          38.6956276543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDLETON CO WATER DISTRICT #1/SOUTH",
+        "Population Served": 3713,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3602721797,
+          38.6956276543
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERRY COUNTY WATER & SEWER",
+        "Population Served": 2642,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2214816028,
+          37.2442933233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHOENIX PROPERTY OWNERS ASSOC",
+        "Population Served": 300,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9541313398,
+          37.3540523996
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIKEVILLE WATER DEPARTMENT",
+        "Population Served": 9638,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3958631537,
+          37.4690483094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEVILLE WATER SYSTEM",
+        "Population Served": 16573,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6740950601,
+          36.7306482485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POWELL VALLEY WATER DISTRICT",
+        "Population Served": 7128,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.823774583,
+          37.8311453235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRESTONSBURG CITY UTILITIES",
+        "Population Served": 26788,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7457041434,
+          37.5571085124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRINCETON WATER & SEWER COMMISSION",
+        "Population Served": 7007,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8679057735,
+          37.1453332323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PROVIDENCE WATER WORKS",
+        "Population Served": 4538,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6831570963,
+          37.5184174771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RACELAND WATER SYSTEM",
+        "Population Served": 3201,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9222922454,
+          38.5456646906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RATTLESNAKE RIDGE WATER DISTRICT",
+        "Population Served": 11397,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0495338272,
+          38.318172839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REID VILLAGE WATER DISTRICT",
+        "Population Served": 2545,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.913088975,
+          38.0335228018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RICHMOND UTILITIES",
+        "Population Served": 35640,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2779980048,
+          37.7201835062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERSIDE 25 LLC",
+        "Population Served": 49,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727848116,
+          38.969864478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROWAN WATER INC",
+        "Population Served": 18765,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4210754055,
+          38.1962558627
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL SPRINGS WATER & SEWER",
+        "Population Served": 9409,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0586875538,
+          36.991034312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELLVILLE MUN WATER WORKS",
+        "Population Served": 8613,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8789382363,
+          36.8596987837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL WATER COMPANY",
+        "Population Served": 5181,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9222922454,
+          38.5456646906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SACRAMENTO WATER WORKS",
+        "Population Served": 2435,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2636042463,
+          37.5291899516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALEM MUNICIPAL WATER SYSTEM",
+        "Population Served": 1241,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3538137781,
+          37.2097032695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALYERSVILLE MUNICIPAL WATER",
+        "Population Served": 3029,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0649145355,
+          37.7064741502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDY HOOK WATER DISTRICT",
+        "Population Served": 3528,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.0976163428,
+          38.1178916805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCIENCE HILL WATER WORKS",
+        "Population Served": 5940,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTTSVILLE WATER DEPARTMENT",
+        "Population Served": 6864,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1904186693,
+          36.7513165534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEBREE WATER DEPARTMENT",
+        "Population Served": 1743,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6831570963,
+          37.5184174771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHARPSBURG WATER DISTRICT",
+        "Population Served": 4332,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.74266722,
+          38.1449736906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHELBYVILLE WATER & SEWER COMMISSION",
+        "Population Served": 23760,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1947770123,
+          38.2154382436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIMPSON COUNTY WATER DISTRICT",
+        "Population Served": 8946,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.582320534,
+          36.7419423399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SLAUGHTERS WATER WORKS",
+        "Population Served": 808,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6831570963,
+          37.5184174771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMITHLAND WATER & SEWER",
+        "Population Served": 989,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3538137781,
+          37.2097032695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SO ANDERSON WATER DISTRICT",
+        "Population Served": 8417,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9910045711,
+          38.0039134141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOMERSET WATER SERVICE",
+        "Population Served": 29700,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH 641 WATER DISTRICT",
+        "Population Served": 1160,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHEASTERN WATER ASSOC/NELSON VALLEY",
+        "Population Served": 21895,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHERN MADISON WATER DISTRICT",
+        "Population Served": 14707,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2779980048,
+          37.7201835062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHERN WATER & SEWER DISTRICT",
+        "Population Served": 15110,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7457041434,
+          37.5571085124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH HOPKINS WATER DISTRICT",
+        "Population Served": 8440,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH LOGAN WATER ASSOCIATION",
+        "Population Served": 5198,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8789382363,
+          36.8596987837
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SO WOODFORD CO WATER DISTRICT",
+        "Population Served": 4218,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7436031459,
+          38.0423908286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGFIELD WATER WORKS",
+        "Population Served": 13205,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1747465425,
+          37.753378564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STANFORD WATER WORKS",
+        "Population Served": 9284,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6608453633,
+          37.4553667663
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STANTON WATER WORKS",
+        "Population Served": 6611,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.823774583,
+          37.8311453235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STELLA TRAILER PARK",
+        "Population Served": 74,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2722011175,
+          36.6211012796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STURGIS WATER WORKS",
+        "Population Served": 3490,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9453835494,
+          37.6584480026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYMSONIA WATER DISTRICT",
+        "Population Served": 1810,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAYLORSVILLE WATER WORKS",
+        "Population Served": 22286,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3278488189,
+          38.0325101344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TODD COUNTY WATER DISTRICT",
+        "Population Served": 9801,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1791532892,
+          36.8355562279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOMPKINSVILLE WATER WORKS",
+        "Population Served": 2404,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7165195846,
+          36.712180279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRAPPS WATER COMPANY",
+        "Population Served": 200,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727848116,
+          38.969864478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRENTON WATER WORKS",
+        "Population Served": 950,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1791532892,
+          36.8355562279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIMBLE CO WATER DISTRICT #1",
+        "Population Served": 4146,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3375681071,
+          38.6130327476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION COUNTY WATER DISTRICT",
+        "Population Served": 6117,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9453835494,
+          37.6584480026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNIONTOWN WATER & SEWER DEPT",
+        "Population Served": 1496,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9453835494,
+          37.6584480026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "US 60 WATER DISTRICT",
+        "Population Served": 7892,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1947770123,
+          38.2154382436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VANCEBURG ELECTRIC PLANT BOARD",
+        "Population Served": 6921,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.3780560683,
+          38.5315416285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VERSAILLES WATER SYSTEM",
+        "Population Served": 17822,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.7436031459,
+          38.0423908286
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE OF BUCKHORN",
+        "Population Served": 875,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2214816028,
+          37.2442933233
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VINE GROVE WATER DEPARTMENT",
+        "Population Served": 6703,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9633719015,
+          37.6979246033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALTON WATERWORKS DEPARTMENT",
+        "Population Served": 4173,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.727848116,
+          38.969864478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARREN COUNTY WATER DISTRICT",
+        "Population Served": 74096,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4237993498,
+          36.9935767676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARSAW WATER WORKS",
+        "Population Served": 1988,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.8593123857,
+          38.7568746647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATER SERVICE CORP OF KENTUCKY",
+        "Population Served": 1633,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9762156953,
+          36.6781704977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATER SERVICE CORPORATION OF KENTUCKY",
+        "Population Served": 12022,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.6740950601,
+          36.7306482485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEBSTER CO WATER DISTRICT",
+        "Population Served": 5940,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6831570963,
+          37.5184174771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST CARROLL WATER DISTRICT- HENRY CO #2",
+        "Population Served": 116,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.123590032,
+          38.6678584122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST CARROLL WATER DISTRICT - MILTON",
+        "Population Served": 86,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.123590032,
+          38.6678584122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN FLEMING WATER DISTRICT",
+        "Population Served": 4262,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.0153305006,
+          38.3355978163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN LEWIS RECTORVILLE WATER DISTRICT",
+        "Population Served": 6534,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8242451537,
+          38.5951729912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN MASON CO WATER DISTRICT",
+        "Population Served": 2994,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8242451537,
+          38.5951729912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN PULASKI CO WATER DISTRICT",
+        "Population Served": 23264,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN ROCKCASTLE WATER ASSOC",
+        "Population Served": 12623,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3159414648,
+          37.3651781719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST LAUREL WATER ASSOC INC",
+        "Population Served": 14878,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11780032,
+          37.1106705529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST LIBERTY WATER COMPANY",
+        "Population Served": 2367,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2588931268,
+          37.9222809093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST SHELBY WATER DISTRICT",
+        "Population Served": 6994,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1947770123,
+          38.2154382436
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHEELWRIGHT UTILITY COMMISSION",
+        "Population Served": 834,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.7457041434,
+          37.5571085124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE PLAINS WATER SYSTEM",
+        "Population Served": 1871,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.540842137,
+          37.3088201365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITESBURG WATER WORKS",
+        "Population Served": 3861,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8552822542,
+          37.1211921397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITESVILLE WATER WORKS",
+        "Population Served": 3672,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0872269242,
+          37.731772508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITLEY CO WATER DISTRICT",
+        "Population Served": 9825,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.145177727,
+          36.7580732628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITLEY CO. WATER DISTRICT 92 WEST",
+        "Population Served": 321,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.145177727,
+          36.7580732628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WICKLIFFE MUNICIPAL WATER SYSTEM",
+        "Population Served": 1264,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9993411296,
+          37.0584319295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSBURG WATER DEPARTMENT",
+        "Population Served": 5554,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.145177727,
+          36.7580732628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLIAMSTOWN MUNICIPAL WATER DEPT",
+        "Population Served": 5495,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6246133807,
+          38.6488155619
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILMORE WATER WORKS",
+        "Population Served": 5762,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5809372528,
+          37.872051318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINCHESTER MUNICIPAL UTILITIES",
+        "Population Served": 29823,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.1473994082,
+          37.9708518682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINGO WATER & SEWER DEPARTMENT",
+        "Population Served": 965,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.6512057677,
+          36.7231381944
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOOD CREEK WATER DISTRICT",
+        "Population Served": 14892,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.11780032,
+          37.1106705529
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODSON BEND PROPERTY OWNERS ASSOC",
+        "Population Served": 1455,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5771762961,
+          37.1039268916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WORTHINGTON MUNICIPAL WATER WORKS",
+        "Population Served": 1673,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9222922454,
+          38.5456646906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WURTLAND WATER DEPARTMENT",
+        "Population Served": 1815,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9222922454,
+          38.5456646906
+        ]
+      }
+    }
+  ]
+}

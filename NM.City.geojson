@@ -1,0 +1,8450 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ABIQUIU MDWCA",
+        "Population Served": 420,
+        "City": "ABIQUIU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.318628,
+          36.2070977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AGUA FRIA WATER ASSOCIATION",
+        "Population Served": 611,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AGUA NEGRA MDWCA",
+        "Population Served": 242,
+        "City": "HOLMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3836245,
+          36.0383655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AGUA PURA MDWCA",
+        "Population Served": 357,
+        "City": "CHACON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3677238,
+          36.1441968
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AGUA SANA WUA",
+        "Population Served": 1514,
+        "City": "HERNANDEZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1194685,
+          36.0628001
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALAMEDA ACRES MHP",
+        "Population Served": 291,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALAMO HEIGHTS WUA",
+        "Population Served": 52,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALAMOGORDO DOMESTIC WATER SYSTEM",
+        "Population Served": 36828,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALBUQUERQUE WATER SYSTEM",
+        "Population Served": 659736,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALCALDE MDWCA",
+        "Population Served": 927,
+        "City": "ALCALDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.053634,
+          36.0889116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALGODONES WUA",
+        "Population Served": 411,
+        "City": "ALGODONES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4792491,
+          35.3806512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPINE VILLAGE W AND SD",
+        "Population Served": 253,
+        "City": "RUIDOSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALTO DE LAS FLORES MDWCA",
+        "Population Served": 716,
+        "City": "SAN MIGUEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1605804,
+          36.961402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALTO LAKES WATER AND SANITATION DISTRICT",
+        "Population Served": 3406,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALTO MOUNTAIN VILLAGE",
+        "Population Served": 343,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALTO NORTH WATER COOP",
+        "Population Served": 127,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANASAZI TRAILS WATER CO-OP",
+        "Population Served": 400,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANCONES MDWWCA",
+        "Population Served": 60,
+        "City": "LA MADERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3707889,
+          35.222785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANGEL NEST APARTMENTS",
+        "Population Served": 60,
+        "City": "ANGEL FIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.285009,
+          36.3930879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANTHONY W&SD",
+        "Population Served": 8691,
+        "City": "ANTHONY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5968574,
+          32.0059076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "APODACA MDWCA",
+        "Population Served": 129,
+        "City": "DIXON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.888322,
+          36.1988113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "APPLE ORCHARD MDWCA",
+        "Population Served": 460,
+        "City": "BLOOMFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.984511,
+          36.7111165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARAGON MDWCA",
+        "Population Served": 47,
+        "City": "ARAGON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1322861,
+          35.1092033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARENAS VALLEY MDWCA",
+        "Population Served": 1204,
+        "City": "ARENAS VALLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.184206,
+          32.7939907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARROYO SECO MDWCA",
+        "Population Served": 444,
+        "City": "ARROYO SECO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5699891,
+          36.5160231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTESIA MUNICIPAL WATER SYSTEM",
+        "Population Served": 15176,
+        "City": "ARTESIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4032963,
+          32.8423345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTESIA RURAL WATER COOPERATIVE",
+        "Population Served": 1880,
+        "City": "ARTESIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4032963,
+          32.8423345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASI LA MAR TRAILER PARK",
+        "Population Served": 61,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AZTEC DOMESTIC WATER SYSTEM",
+        "Population Served": 9673,
+        "City": "AZTEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.992899,
+          36.8220629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARCELONA MOBILE HOME PARK",
+        "Population Served": 429,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARRANCO MDWCA",
+        "Population Served": 97,
+        "City": "ABIQUIU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.318628,
+          36.2070977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYARD MUNICIPAL WATER SYSTEM",
+        "Population Served": 2616,
+        "City": "BAYARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.130584,
+          32.7617982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEARCAT HOMEOWNERS ASSOCIATION",
+        "Population Served": 60,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELEN WATER SYSTEM",
+        "Population Served": 8385,
+        "City": "BELEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7762,
+          34.6627495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERNALILLO WATER SYSTEM",
+        "Population Served": 10948,
+        "City": "BERNALILLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.551425,
+          35.3009305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERRENDO COOPERATIVE WUA",
+        "Population Served": 4304,
+        "City": "ROSWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5229518,
+          33.3943282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIBO MUTUAL DOMESTIC WATER ASSOC",
+        "Population Served": 257,
+        "City": "BIBO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3886585,
+          35.1742064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG MESA WATER MDWCA",
+        "Population Served": 265,
+        "City": "CONCHAS DAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.190844,
+          35.4033106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BISHOPS LODGE",
+        "Population Served": 450,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLANCO MDWCA",
+        "Population Served": 1148,
+        "City": "BLANCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8246316,
+          36.7243787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOCK A WELL CO-OP",
+        "Population Served": 92,
+        "City": "GALLUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.743907,
+          35.5283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOOMFIELD WATER SUPPLY SYSTEM",
+        "Population Served": 9536,
+        "City": "BLOOMFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.984511,
+          36.7111165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUEWATER ACRES WUA",
+        "Population Served": 302,
+        "City": "THOREAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.219785,
+          35.402653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUEWATER LAKE MDWCA",
+        "Population Served": 135,
+        "City": "BLUEWATER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1860958,
+          33.5578642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUEWATER WATER AND SANITATION DISTRICT",
+        "Population Served": 492,
+        "City": "BLUEWATER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1860958,
+          33.5578642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BMG TRAILER PARK",
+        "Population Served": 30,
+        "City": "RANCHOS DE TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6085234,
+          36.3594292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOLES ACRES WATER SYSTEM",
+        "Population Served": 657,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BONITA PARK NAZARENE CONFERENCE CENTER",
+        "Population Served": 466,
+        "City": "CAPITAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.572087,
+          33.5453808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOSQUE FARMS WATER SUPPLY SYSTEM",
+        "Population Served": 4259,
+        "City": "BOSQUE FARMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7051477,
+          34.8547713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOSQUE GARDENS MDWCA",
+        "Population Served": 138,
+        "City": "PERALTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6908587,
+          34.837038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUCKMAN REGIONAL WATER TREATMENT PLANT",
+        "Population Served": 0,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUENA VISTA MDWCA",
+        "Population Served": 225,
+        "City": "BUENA VISTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2491778,
+          35.91365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURRO MOUNTAIN HOMESTEAD",
+        "Population Served": 415,
+        "City": "SILVER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2764164,
+          32.7711825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CABALLO LAKE MDWCA",
+        "Population Served": 95,
+        "City": "CABALLO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.3079139,
+          32.9757461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMINO REAL REGIONAL UTILITY AUTHORITY",
+        "Population Served": 19466,
+        "City": "SUNLAND PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.579989,
+          31.796496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANADA DE LOS ALAMOS MDWCA",
+        "Population Served": 68,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANJILON WATER SYSTEM",
+        "Population Served": 469,
+        "City": "CANJILON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4375317,
+          36.4803391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANNON AIR FORCE BASE WATER SYSTEM",
+        "Population Served": 7832,
+        "City": "CANNON AFB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.316328,
+          34.38639125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANON MDWCA",
+        "Population Served": 200,
+        "City": "CANON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3700132,
+          35.9430899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANON MDWCA",
+        "Population Served": 320,
+        "City": "CANON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3700132,
+          35.9430899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANON PLAZA MDWCA",
+        "Population Served": 60,
+        "City": "VALLECITOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1166881,
+          36.4950177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANONCITO AT APACHE CANYON",
+        "Population Served": 250,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANONES MDWCA",
+        "Population Served": 150,
+        "City": "CANONES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4390179,
+          36.1882302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANYON HILLS AREA WUA",
+        "Population Served": 53,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPITAN WATER SYSTEM",
+        "Population Served": 2162,
+        "City": "CAPITAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.572087,
+          33.5453808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPROCK WATER COMPANY",
+        "Population Served": 200,
+        "City": "LOCO HILLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9777301,
+          32.8190055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPULIN MDWCA",
+        "Population Served": 203,
+        "City": "CAPULIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9936067,
+          36.7410771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARISBROOK PROPERTY OWNERS ASSOCIATION",
+        "Population Served": 47,
+        "City": "RATON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4354816,
+          36.8979234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARLOS LUCERO SUBDIVISION",
+        "Population Served": 67,
+        "City": "Estancia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.05585,
+          34.7583935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARLSBAD MUNICIPAL WATER SYSTEM",
+        "Population Served": 33626,
+        "City": "CARLSBAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.237612,
+          32.4257456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARRIZOZO WATER SYSTEM",
+        "Population Served": 1758,
+        "City": "CARRIZOZO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8775111,
+          33.6451866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASAS ADOBES MDWCA",
+        "Population Served": 354,
+        "City": "MIMBRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7544701,
+          31.8006564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASSANDRA WATER SYSTEM",
+        "Population Served": 34,
+        "City": "MORIARTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0494876,
+          34.9972037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAUSEY WATER SYSTEM",
+        "Population Served": 78,
+        "City": "CAUSEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.123953,
+          33.864513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CBG WATER COMPANY",
+        "Population Served": 1229,
+        "City": "CHAPARRAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.40895,
+          32.0238696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CDS RAINMAKERS UTIL LLC  RANCHO RUIDOSO",
+        "Population Served": 996,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEBOLLA MDWCA",
+        "Population Served": 350,
+        "City": "CEBOLLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.4864216,
+          36.5383495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR CREEK MUTUAL WATER CONSUMERS ASSOC",
+        "Population Served": 536,
+        "City": "RUIDOSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR CREEK WATER COOPERATIVE INC",
+        "Population Served": 151,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR CREST MDWC & SWA",
+        "Population Served": 50,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR RIDGE TRAILER PARK",
+        "Population Served": 65,
+        "City": "GALLUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.743907,
+          35.5283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CERRO REGIONAL MDWCA/SWA",
+        "Population Served": 232,
+        "City": "CERRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.612724,
+          36.7539438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHALET CAMPER VILLAGE",
+        "Population Served": 233,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAMA WATER SYSTEM",
+        "Population Served": 1573,
+        "City": "CHAMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.579887,
+          36.9036557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAMA WEST WATER USERS ASSOCIATION",
+        "Population Served": 92,
+        "City": "CHAMA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.579887,
+          36.9036557
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAMBERINO MDWC & SA",
+        "Population Served": 668,
+        "City": "CHAMBERINO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.68618,
+          32.0370072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAMISA MOBILE HOME PARK",
+        "Population Served": 58,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAMISAL MDWCA",
+        "Population Served": 550,
+        "City": "CHAMISAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.737873,
+          36.1657216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAMITA MDWCA",
+        "Population Served": 902,
+        "City": "CHAMITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0969681,
+          36.0703003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHAPELLE MDWCA",
+        "Population Served": 60,
+        "City": "SERAFINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3236201,
+          35.3975451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHILILI WATER USERS ASSN",
+        "Population Served": 175,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHIPPEWAY PARK WATER ASSOCIATION",
+        "Population Served": 210,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHRIST IN THE DESERT MONASTERY",
+        "Population Served": 30,
+        "City": "ABIQUIU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.318628,
+          36.2070977
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHUPADERO MDWCA",
+        "Population Served": 131,
+        "City": "TESUQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9323157,
+          35.7624272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CIDER MILL FARMS MDWCA",
+        "Population Served": 74,
+        "City": "HIGH ROLLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.835542,
+          32.950923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CIELO LINDO",
+        "Population Served": 38,
+        "City": "POJOAQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.022563,
+          35.8928461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CIMARRON WATER SYSTEM",
+        "Population Served": 1260,
+        "City": "CIMARRON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.915592,
+          36.5110288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITY OF RATON/RATON WATER WORKS",
+        "Population Served": 9733,
+        "City": "RATON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4354816,
+          36.8979234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAYTON MUNICIPAL SUPPLY",
+        "Population Served": 3250,
+        "City": "CLAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.184797,
+          36.4507836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEVELAND MDWCA",
+        "Population Served": 270,
+        "City": "CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.370569,
+          35.9933664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINES CORNERS WATER SYSTEM",
+        "Population Served": 450,
+        "City": "CLINES CORNERS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.66918,
+          35.0094982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOUD COUNTRY ESTATES WUA",
+        "Population Served": 361,
+        "City": "MAYHILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4780381,
+          32.8895419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOUD COUNTRY WEST WATER SYSTEM",
+        "Population Served": 702,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOUDCROFT WATER SYSTEM",
+        "Population Served": 2865,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOVIS WEST LLC",
+        "Population Served": 50,
+        "City": "CLOVIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2050709,
+          34.405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COAL BASIN DWUA",
+        "Population Served": 116,
+        "City": "GALLUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.743907,
+          35.5283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBUS WATER SYSTEM",
+        "Population Served": 2200,
+        "City": "COLUMBUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.640227,
+          31.8327963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORDOVA MDWCA",
+        "Population Served": 325,
+        "City": "CORDOVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8609673,
+          36.0069616
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORONA WATER SYSTEM",
+        "Population Served": 371,
+        "City": "CORONA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.596737,
+          34.2511176
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORONADO HIGH SCHOOL",
+        "Population Served": 263,
+        "City": "GALLINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8527748,
+          36.2303073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORONADO VILLAGE COUNTRY CLUB",
+        "Population Served": 802,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORREO WATER ASSOCIATION",
+        "Population Served": 201,
+        "City": "LAGUNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.387405,
+          35.035175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COSTILLA MDWCA",
+        "Population Served": 244,
+        "City": "COSTILLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.530822,
+          36.9754052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COTTONWOOD WATER MDWCA",
+        "Population Served": 1781,
+        "City": "ARTESIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4032963,
+          32.8423345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY MOBILE MANOR",
+        "Population Served": 205,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COVERED WAGON MOBILE HOME MANOR",
+        "Population Served": 100,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COYOTE CREEK MUTUAL DOMESTIC WUA",
+        "Population Served": 133,
+        "City": "QUEMADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4983057,
+          34.3435973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COYOTE MDWCA",
+        "Population Served": 45,
+        "City": "COYOTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8235989,
+          33.812572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUATRO VILLAS MDWCA",
+        "Population Served": 420,
+        "City": "ESPANOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.080835,
+          35.9910962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUBA WATER SYSTEM",
+        "Population Served": 2264,
+        "City": "CUBA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.958428,
+          36.0219333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND COOPERATIVE WUA",
+        "Population Served": 606,
+        "City": "ROSWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5229518,
+          33.3943282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUNDIYO MDWCA",
+        "Population Served": 58,
+        "City": "CUNDIYO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8964091,
+          35.9591922
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "D & S TRAILER RANCH",
+        "Population Served": 109,
+        "City": "GALLUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.743907,
+          35.5283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DE LA TE MOBILE MANOR",
+        "Population Served": 149,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELANCEY STREET FOUNDATION",
+        "Population Served": 83,
+        "City": "ALCALDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.053634,
+          36.0889116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEMING MUNICIPAL WATER SYSTEM",
+        "Population Served": 16236,
+        "City": "DEMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7581979,
+          32.2627416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DES MOINES WATER SYSTEM",
+        "Population Served": 218,
+        "City": "DES MOINES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.833141,
+          36.7633643
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT AIRE MDW AND SWA",
+        "Population Served": 759,
+        "City": "CHAPARRAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.40895,
+          32.0238696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT PALMS MOBILE HOME PARK",
+        "Population Served": 270,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT RANCH MDWCA",
+        "Population Served": 89,
+        "City": "CLOVIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2050709,
+          34.405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT SKY MOUNTAIN WATER COOPERATIVE",
+        "Population Served": 187,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT VILLAGE RV & MOBILE HOME PARK",
+        "Population Served": 223,
+        "City": "CLOVIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2050709,
+          34.405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERT VISTA RV VILLAGE",
+        "Population Served": 222,
+        "City": "DEMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7581979,
+          32.2627416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DESERTAIRE WATER COMPANY",
+        "Population Served": 48,
+        "City": "TRUTH OR CONSEQUENCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.2529059,
+          33.1283485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEXTER MUNICIPAL WATER SYSTEM",
+        "Population Served": 1550,
+        "City": "DEXTER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.373036,
+          33.1973123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DIXON MDWCA",
+        "Population Served": 500,
+        "City": "DIXON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.888322,
+          36.1988113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DONA ANA MDWCA",
+        "Population Served": 17067,
+        "City": "DONA ANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.814013,
+          32.3894359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DORA WATER SYSTEM",
+        "Population Served": 161,
+        "City": "DORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.336619,
+          33.9386985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVE CANYON LLC",
+        "Population Served": 448,
+        "City": "MESILLA PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7666698,
+          32.2759279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DUNGAN MDWCA",
+        "Population Served": 42,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DURANES Y GAVILAN MDWCA",
+        "Population Served": 215,
+        "City": "OJO CALIENTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.046624,
+          36.3040449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAGLE ROCK VILLAGE",
+        "Population Served": 35,
+        "City": "QUESTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5949,
+          36.7042198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST PECOS MDWCA",
+        "Population Served": 413,
+        "City": "PECOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6752624,
+          35.5745273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ECHO VALLEY WATER COMPANY",
+        "Population Served": 465,
+        "City": "MORIARTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0494876,
+          34.9972037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDGEWOOD MEADOWS WATER CORP.",
+        "Population Served": 100,
+        "City": "EDGEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1911055,
+          35.0613019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EILEEN ACRES",
+        "Population Served": 462,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL ANCON MDWCA",
+        "Population Served": 112,
+        "City": "RIBERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4486228,
+          35.3736554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL CORUCO MDWCA",
+        "Population Served": 93,
+        "City": "RIBERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4486228,
+          35.3736554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL CRESTON MDWCA",
+        "Population Served": 50,
+        "City": "LAS VEGAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.223896,
+          35.5939325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL PATIO MHP #2",
+        "Population Served": 99,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL PRADO WATER & SANITATION DISTRICT",
+        "Population Served": 1076,
+        "City": "EL PRADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5751437,
+          36.4322586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL RANCHO MHP TAOS",
+        "Population Served": 72,
+        "City": "EL PRADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5751437,
+          36.4322586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL RITO CANYON MDWCA",
+        "Population Served": 300,
+        "City": "EL RITO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5677842,
+          36.8000251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL RITO REGIONAL WATER & WASTE WATER ASN",
+        "Population Served": 1200,
+        "City": "EL RITO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5677842,
+          36.8000251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL SALTO MDWCA AND SA",
+        "Population Served": 232,
+        "City": "ARROYO SECO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5699891,
+          36.5160231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL SHADDAI WATER CO OP",
+        "Population Served": 87,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL VADITO DE LOS CERRILLOS WATER ASSOC",
+        "Population Served": 461,
+        "City": "CERRILLOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1260256,
+          35.4372052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EL VALLE DE LOS RANCHOS W & SD",
+        "Population Served": 48,
+        "City": "RANCHOS DE TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6085234,
+          36.3594292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELDORADO AREA WATER AND SANITATION DIST.",
+        "Population Served": 7082,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELEPHANT BUTTE WATER SYSTEM",
+        "Population Served": 2082,
+        "City": "ELEPHANT BUTTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.224159,
+          33.1975054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELEPHANT BUTTE, CITY OF",
+        "Population Served": 933,
+        "City": "ELEPHANT BUTTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.224159,
+          33.1975054
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELIDA WATER SYSTEM",
+        "Population Served": 419,
+        "City": "ELIDA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6552871,
+          33.9472288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCHANTED FOREST WATER MDWCA",
+        "Population Served": 292,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCHANTED MESA MOBILE HOME PARK",
+        "Population Served": 145,
+        "City": "ESPANOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.080835,
+          35.9910962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCHANTED MOBILE HOME PARK",
+        "Population Served": 150,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCHANTED VALLEY WUA",
+        "Population Served": 41,
+        "City": "ALAMOGORDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9602081,
+          32.8998822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCINO WATER SYSTEM",
+        "Population Served": 185,
+        "City": "ENCINO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.462671,
+          34.6539409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENSENADA MDWCA",
+        "Population Served": 300,
+        "City": "TIERRA AMARILLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.54974,
+          36.7001374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENTRANOSA WATER ASSOCIATION",
+        "Population Served": 8500,
+        "City": "EDGEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1911055,
+          35.0613019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EPCOR WATER NEW MEXICO INC  CLOVIS",
+        "Population Served": 41066,
+        "City": "CLOVIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2050709,
+          34.405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EPCOR WATER NEW MEXICO INC., EDGEWOOD",
+        "Population Served": 6795,
+        "City": "EDGEWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1911055,
+          35.0613019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESPANOLA WATER SYSTEM",
+        "Population Served": 12012,
+        "City": "ESPANOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.080835,
+          35.9910962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESTANCIA WATER SYSTEM",
+        "Population Served": 1305,
+        "City": "ESTANCIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.05585,
+          34.7583935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EUNICE WATER SUPPLY SYSTEM",
+        "Population Served": 4523,
+        "City": "EUNICE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.159002,
+          32.4388224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAMBROUGH MDWCA",
+        "Population Served": 463,
+        "City": "HAGERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.327155,
+          33.11503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARMINGTON WATER SYSTEM",
+        "Population Served": 47655,
+        "City": "FARMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.205445,
+          36.7291152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLORA VISTA MUTUAL DOMESTIC",
+        "Population Served": 3726,
+        "City": "FARMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.205445,
+          36.7291152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLOYD WS VILLAGE OF",
+        "Population Served": 122,
+        "City": "FLOYD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.5787392,
+          34.2273155
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST PARK PROPERTY OWNERS COOP",
+        "Population Served": 189,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT STANTON HISTORIC SITE",
+        "Population Served": 102,
+        "City": "FORT STANTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5229019,
+          33.4960572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT SUMNER MUNICIPAL WATER SYSTEM",
+        "Population Served": 1911,
+        "City": "FORT SUMNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.245509,
+          34.4716695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOX HILLS WATER USERS ASSOC",
+        "Population Served": 69,
+        "City": "SANDIA PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.365385,
+          35.1679513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREEPORT MCMORAN CHINO MINES",
+        "Population Served": 1050,
+        "City": "HURLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.131981,
+          32.6992773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRENCH MDWCA/SWA",
+        "Population Served": 150,
+        "City": "SPRINGER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5949166,
+          36.3612049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GABALDON MDWCA",
+        "Population Served": 47,
+        "City": "LAS VEGAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.223896,
+          35.5939325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALISTEO MDWCA",
+        "Population Served": 215,
+        "City": "GALISTEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.947079,
+          35.3952637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALLINA WATER SYSTEM",
+        "Population Served": 99,
+        "City": "GALLINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8527748,
+          36.2303073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GALLUP WATER SYSTEM",
+        "Population Served": 20880,
+        "City": "GALLUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.743907,
+          35.5283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAMERCO WATER & SANITATION",
+        "Population Served": 1744,
+        "City": "GAMERCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.763993,
+          35.5711137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARFIELD MDWCA",
+        "Population Served": 2504,
+        "City": "GARFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.2646892,
+          32.7570017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GAVILAN HILLS WATER SYSTEM",
+        "Population Served": 56,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN ACRES WATER COOP",
+        "Population Served": 180,
+        "City": "LORDSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.708434,
+          32.3504143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLORIETA CAMPS",
+        "Population Served": 2700,
+        "City": "GLORIETA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.770002,
+          35.5830311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLORIETA EAST WATER SUPPLY",
+        "Population Served": 59,
+        "City": "GLORIETA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.770002,
+          35.5830311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GONZALES RANCH MDWCA",
+        "Population Served": 114,
+        "City": "GONZALES RANCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4605666,
+          35.2458805
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRADY WATER SYSTEM",
+        "Population Served": 207,
+        "City": "GRADY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.319702,
+          34.821649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANTS DOMESTIC WATER SYSTEM",
+        "Population Served": 8700,
+        "City": "GRANTS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.851446,
+          35.14726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER CHIMAYO MDWCA",
+        "Population Served": 1050,
+        "City": "CHIMAYO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9468664,
+          36.0039088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER GLORIETA REGIONAL MDC",
+        "Population Served": 153,
+        "City": "GLORIETA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.770002,
+          35.5830311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN ACRES MOBILE HOME VILLAGE",
+        "Population Served": 200,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN RIDGE MDWCA, INC.",
+        "Population Served": 154,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENFIELD MDWCA",
+        "Population Served": 178,
+        "City": "HAGERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.327155,
+          33.11503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRENVILLE WATER SYSTEM",
+        "Population Served": 45,
+        "City": "GRENVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6134358,
+          36.5935205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GUADALUPITA MDWCA",
+        "Population Served": 82,
+        "City": "GUADALUPITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2386772,
+          36.1374861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HACHITA MDWCA",
+        "Population Served": 83,
+        "City": "HACHITA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3229631,
+          31.9168638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HACIENDA ACRES WATER SYSTEM (LCU)",
+        "Population Served": 2837,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HACIENDA DEL SOL #1",
+        "Population Served": 152,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HACIENDA DEL SOL #2",
+        "Population Served": 68,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAGERMAN WATER SYSTEM",
+        "Population Served": 1292,
+        "City": "HAGERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.327155,
+          33.11503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HANOVER MDWCA",
+        "Population Served": 203,
+        "City": "HANOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.0911492,
+          32.8134398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAPPY VALLEY COOPERATIVE WATER WORKS",
+        "Population Served": 638,
+        "City": "CARLSBAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.237612,
+          32.4257456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HATCH WATER SUPPLY SYSTEM",
+        "Population Served": 2329,
+        "City": "HATCH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.153438,
+          32.6651718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HI MESA WATER SYSTEM",
+        "Population Served": 244,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGH ROLLS COMMUNITY WATER USERS COOP",
+        "Population Served": 364,
+        "City": "HIGH ROLLS MOUNTAIN PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8247087,
+          32.9506455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGH SIERRA ESTATES WATER ASSN",
+        "Population Served": 117,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLAND MEADOWS ESTATES MDWCA",
+        "Population Served": 43,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLS VILLAGE WATER SYSTEM",
+        "Population Served": 126,
+        "City": "TUCUMCARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.72504,
+          35.1719425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLSBORO MDWCA",
+        "Population Served": 148,
+        "City": "HILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.566974,
+          32.9209072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOBBS MUNICIPAL WATER SUPPLY",
+        "Population Served": 39700,
+        "City": "HOBBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1311314,
+          32.707667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOFHEINS/MARCEL THOMAS ASSOC COOP INC",
+        "Population Served": 70,
+        "City": "JEMEZ SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6921555,
+          35.76851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLOMAN AIR FORCE BASE",
+        "Population Served": 13000,
+        "City": "HOLLOMAN AIR FORCE BASE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1051045,
+          32.8621768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY GARDEN MHP",
+        "Population Served": 292,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLYWOOD RANCH DOMESTIC WUA",
+        "Population Served": 79,
+        "City": "SANTA ROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.682489,
+          34.93867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMESTEAD LANDOWNERS ASSOCIATION",
+        "Population Served": 170,
+        "City": "DATIL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8433562,
+          34.1450333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMESTEAD MOBILE HOME COMMUNITY",
+        "Population Served": 127,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMESTEAD WATER COMPANY",
+        "Population Served": 199,
+        "City": "MORIARTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0494876,
+          34.9972037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOPE WATER SYSTEM",
+        "Population Served": 272,
+        "City": "HOPE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.73276,
+          32.810414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOUSE WATER SYSTEM",
+        "Population Served": 144,
+        "City": "HOUSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9005022,
+          34.656400500000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HURLEY, TOWN OF",
+        "Population Served": 1577,
+        "City": "HURLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.131981,
+          32.6992773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HYDE PARK ESTATES WATER USERS ASSOC",
+        "Population Served": 178,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ILFELD MDWCA",
+        "Population Served": 400,
+        "City": "ILFELD,SAN JOSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.103318,
+          36.038397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INDIAN HILLS WATER SYSTEM",
+        "Population Served": 729,
+        "City": "MORIARTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0494876,
+          34.9972037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INTREPID POTASH  WEST",
+        "Population Served": 71,
+        "City": "CARLSBAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.237612,
+          32.4257456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JAL WATER SUPPLY SYSTEM",
+        "Population Served": 3233,
+        "City": "JAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1934615,
+          32.112125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEMEZ SPRINGS DWUA",
+        "Population Served": 1157,
+        "City": "JEMEZ SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6921555,
+          35.76851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUNIPER HILLS MHP",
+        "Population Served": 56,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUNIPER HILLS RANCH",
+        "Population Served": 65,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JUNIPER MOBILE PARK",
+        "Population Served": 77,
+        "City": "HIGH ROLLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.835542,
+          32.950923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KARR CANYON ESTATES",
+        "Population Served": 108,
+        "City": "HIGH ROLLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.835542,
+          32.950923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KIRTLAND AIR FORCE BASE",
+        "Population Served": 22500,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA ASOCIACION DE AGUA DE LOS BRAZOS",
+        "Population Served": 32,
+        "City": "LOS OJOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5703406,
+          36.729208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA BAJADA MDWCA",
+        "Population Served": 40,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA CIENEGA MDWCA",
+        "Population Served": 525,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA CUEVA MDWCA",
+        "Population Served": 48,
+        "City": "PECOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6752624,
+          35.5745273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA JARA WATER USERS ASSOCIATION",
+        "Population Served": 458,
+        "City": "LA JARA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1833428,
+          36.049759
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA JOYA MDWCA",
+        "Population Served": 246,
+        "City": "LAJOYA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.848657,
+          34.342829
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA LAMA MDWCA",
+        "Population Served": 45,
+        "City": "QUESTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5949,
+          36.7042198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA LOMITA TRAILER PARK",
+        "Population Served": 97,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA LUZ MDWCA",
+        "Population Served": 1917,
+        "City": "LA LUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.941933,
+          32.9778652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA MADERA MDWCA",
+        "Population Served": 124,
+        "City": "LA MADERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3707889,
+          35.222785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA MESA VILLA MOBILE HOME PARK, LLC",
+        "Population Served": 90,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA MESA WATER COOP",
+        "Population Served": 650,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA PASADA MDWCA",
+        "Population Served": 191,
+        "City": "PECOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6752624,
+          35.5745273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA UNION MDS & WA",
+        "Population Served": 1272,
+        "City": "ANTHONY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5968574,
+          32.0059076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA VIDA MISSION COMMUNITY WATER SUPPLY",
+        "Population Served": 28,
+        "City": "FARMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.205445,
+          36.7291152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LA VISTA HOMEOWNERS ASSOCIATION",
+        "Population Served": 50,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LABORCITA WATER USERS ASSOCIATION",
+        "Population Served": 70,
+        "City": "LA LUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.941933,
+          32.9778652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE ARTHUR WATER DEPARTMENT",
+        "Population Served": 520,
+        "City": "LAKE ARTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.366629,
+          32.9981657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE SECTION WATER COMPANY",
+        "Population Served": 13083,
+        "City": "CHAPARRAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.40895,
+          32.0238696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAMY MUTUAL DOMESTIC WATER ASSOCIATION",
+        "Population Served": 132,
+        "City": "LAMY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.880191,
+          35.4806651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS ACEQUIAS DE PLACITAS",
+        "Population Served": 596,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS ALTURAS ESTATES (LCU)",
+        "Population Served": 936,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS CAMPANAS WATER SYSTEM",
+        "Population Served": 1937,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS COLONIAS MHP",
+        "Population Served": 49,
+        "City": "EL PRADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5751437,
+          36.4322586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS CRUCES MOBILE HOME PARK",
+        "Population Served": 163,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS CRUCES MUNICIPAL WATER SYSTEM",
+        "Population Served": 87389,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS HACIENDAS HOMEOWNERS WUA",
+        "Population Served": 72,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAS VEGAS (CITY OF)",
+        "Population Served": 14530,
+        "City": "LAS VEGAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.223896,
+          35.5939325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEASBURG MDWCA",
+        "Population Served": 918,
+        "City": "RADIUM SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9117665,
+          32.484919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEDOUX MDWCA",
+        "Population Served": 168,
+        "City": "LEDOUX"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3579302,
+          35.9191387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEE HAMMOND WATER",
+        "Population Served": 8817,
+        "City": "BLOOMFIELD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.984511,
+          36.7111165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEISURE MOUNTAIN MHP",
+        "Population Served": 161,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIBERTY MDWCA",
+        "Population Served": 266,
+        "City": "TUCUMCARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.72504,
+          35.1719425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN HILLS WATER CO-OP",
+        "Population Served": 102,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN MDWCA",
+        "Population Served": 120,
+        "City": "LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3838546,
+          33.4919917
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINDRITH COMMUNITY WATER COOP INC",
+        "Population Served": 100,
+        "City": "LINDRITH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.0447382,
+          36.3045897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LLANO QUEMADO MDWCA",
+        "Population Served": 800,
+        "City": "RANCHOS DE TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6085234,
+          36.3594292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOGAN WATER SYSTEM",
+        "Population Served": 2840,
+        "City": "LOGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.4107155,
+          35.3665221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOMA ESCONDIDA WATER ASSOCIATION",
+        "Population Served": 89,
+        "City": "BELEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7762,
+          34.6627495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOMA GRANDE ESTATES WATER ASSOCIATION",
+        "Population Served": 102,
+        "City": "NOGAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7077626,
+          33.5581325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONE STAR TRAILER RANCH",
+        "Population Served": 77,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONGHORN ESTATES WATER SYSTEM",
+        "Population Served": 264,
+        "City": "CLOVIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2050709,
+          34.405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LORDSBURG WATER SUPPLY SYSTEM",
+        "Population Served": 3213,
+        "City": "LORDSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.708434,
+          32.3504143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOS ALAMOS MUNICIPAL WATER SYSTEM",
+        "Population Served": 25000,
+        "City": "LOS ALAMOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.298959,
+          35.88137
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOS LUNAS WATER SYSTEM",
+        "Population Served": 19400,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOS OJOS MDWCA",
+        "Population Served": 237,
+        "City": "LOS OJOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.5703406,
+          36.729208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOST HORIZON COOP ASSOCIATION",
+        "Population Served": 95,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOVING WATER SYSTEM",
+        "Population Served": 1872,
+        "City": "LOVING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.095773,
+          32.2862317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOVINGTON MUNICIPAL WATER SUPPLY",
+        "Population Served": 13539,
+        "City": "LOVINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3487454,
+          32.9440685
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER ARROYO HONDO MDWCA",
+        "Population Served": 180,
+        "City": "ARROYO HONDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.669725,
+          36.5358733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER COLONIAS MDWCA",
+        "Population Served": 40,
+        "City": "PECOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6752624,
+          35.5745273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER DES MONTES MDWCA",
+        "Population Served": 319,
+        "City": "ARROYO HONDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.669725,
+          36.5358733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER RIO GRANDE PWWA EAST MESA",
+        "Population Served": 2169,
+        "City": "ORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6019878,
+          32.4259166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER RIO GRANDE PWWA HIGH VALLEY",
+        "Population Served": 63,
+        "City": "VADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.662495,
+          32.1117649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER RIO GRANDE PWWA RINCON",
+        "Population Served": 582,
+        "City": "RINCON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.064942,
+          32.6736424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER RIO GRANDE PWWA SOUTH VALLEY",
+        "Population Served": 11542,
+        "City": "VADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.662495,
+          32.1117649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER RIO GRANDE PWWA VALLE DEL RIO",
+        "Population Served": 252,
+        "City": "LA MESA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.707775,
+          32.1220424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER VALLEY WATER USERS ASSOCIATION",
+        "Population Served": 7615,
+        "City": "KIRTLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3553087,
+          36.7424605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUMBERTON MDWCA",
+        "Population Served": 223,
+        "City": "LUMBERTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9367299,
+          36.9300664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYBROOK MDWCA",
+        "Population Served": 175,
+        "City": "NAGEEZI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.745577,
+          36.2667656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADRID MHP",
+        "Population Served": 67,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADRID WATER",
+        "Population Served": 315,
+        "City": "Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1522134,
+          35.4067261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAGDALENA VILLAGE OF",
+        "Population Served": 1571,
+        "City": "MAGDALENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.243372,
+          34.1169903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MALAGA MDWC  SWA",
+        "Population Served": 868,
+        "City": "MALAGA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.0723371,
+          32.2241446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANUELITO NAVAJO CHILDRENS HOME",
+        "Population Served": 45,
+        "City": "GALLUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.743907,
+          35.5283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANZANO MDWCA",
+        "Population Served": 57,
+        "City": "TAJIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.287752,
+          34.7517373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAXWELL COOPERATIVE WATER USERS ASSOC",
+        "Population Served": 274,
+        "City": "MAXWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5435225,
+          36.5401199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAXWELL WATER SYSTEM",
+        "Population Served": 354,
+        "City": "MAXWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5435225,
+          36.5401199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAYHILL MDWCA",
+        "Population Served": 143,
+        "City": "MAYHILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4780381,
+          32.8895419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOW LAKE WATER SYSTEM",
+        "Population Served": 2760,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MELODY RANCH WATER CO",
+        "Population Served": 236,
+        "City": "MORIARTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0494876,
+          34.9972037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MELROSE WATER SYSTEM",
+        "Population Served": 1332,
+        "City": "MELROSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.6322705,
+          34.4306023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESCALERO RIDGE WATER CO-OP",
+        "Population Served": 89,
+        "City": "MALJAMAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.7627277,
+          32.8562301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESILLA WATER SYSTEM",
+        "Population Served": 2167,
+        "City": "MESILLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7952056,
+          32.2741174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIAMI WATER USERS ASSOCIATION",
+        "Population Served": 135,
+        "City": "MIAMI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.7930509,
+          36.3500355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILAN COMMUNITY WATER SYSTEM",
+        "Population Served": 3669,
+        "City": "MILAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.8908919,
+          35.1697175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONARCHY COUNTRY ESTATES",
+        "Population Served": 52,
+        "City": "HOBBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1311314,
+          32.707667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTEREY WATER COMPANY INC.",
+        "Population Served": 1472,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONUMENT MDWCA",
+        "Population Served": 279,
+        "City": "MONUMENT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2650948,
+          32.6241242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOONGATE WATER SYSTEM",
+        "Population Served": 8554,
+        "City": "ORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6019878,
+          32.4259166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOONGATE WEST",
+        "Population Served": 10708,
+        "City": "ORGAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6019878,
+          32.4259166
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOQUINO WATER SYSTEM",
+        "Population Served": 59,
+        "City": "SEBOYETA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.389152,
+          35.2010487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORA MDWCA",
+        "Population Served": 1100,
+        "City": "MORA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.329942,
+          35.9741536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORIARTY WATER SYSTEM",
+        "Population Served": 2825,
+        "City": "MORIARTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0494876,
+          34.9972037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORNINGSIDE WATER USERS COOPERATIVE",
+        "Population Served": 364,
+        "City": "ARTESIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4032963,
+          32.8423345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORNINGSTAR WATER SYSTEM",
+        "Population Served": 5694,
+        "City": "FARMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.205445,
+          36.7291152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORWEST CORPORATION",
+        "Population Served": 0,
+        "City": "ARTESIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4032963,
+          32.8423345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOSQUERO WATER SYSTEM",
+        "Population Served": 293,
+        "City": "MOSQUERO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.9567775,
+          35.7764858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN ORCHARD MDWCA",
+        "Population Served": 103,
+        "City": "HIGH ROLLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.835542,
+          32.950923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW MHP",
+        "Population Served": 111,
+        "City": "BOSQUE FARMS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7051477,
+          34.8547713
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN VIEW MOBILE HOME PARK",
+        "Population Served": 75,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAINAIR WATER SYSTEM",
+        "Population Served": 1523,
+        "City": "MOUNTAINAIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2407657,
+          34.5203535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NARA VISA MDWCA",
+        "Population Served": 59,
+        "City": "NARA VISA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.100101,
+          35.6069825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NATIONAL SOLAR OBSERVATORY",
+        "Population Served": 26,
+        "City": "SUNSPOT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.81857,
+          32.7892103
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NAVAJO DAM DOMESTIC WATER CONSUMERS INC",
+        "Population Served": 545,
+        "City": "NAVAJO DAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.69778,
+          36.8048994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW MEXICO BOYS AND GIRLS RANCH",
+        "Population Served": 60,
+        "City": "LAS NUTRIAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7705812,
+          34.4767305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW MEXICO STATE UNIVERSITY",
+        "Population Served": 24000,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NGWSP CUTTER LATERAL",
+        "Population Served": 0,
+        "City": "OJO ENCINO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.348831,
+          35.955144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NOGAL MDWCA",
+        "Population Served": 82,
+        "City": "NOGAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.7077626,
+          33.5581325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH CLEVELAND MDWCA",
+        "Population Served": 82,
+        "City": "CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.370569,
+          35.9933664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH COURT MOBILE HOME PARK",
+        "Population Served": 120,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH HURLEY MDWCA",
+        "Population Served": 318,
+        "City": "HURLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.131981,
+          32.6992773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH RANCHOS DE PLACITAS W&SD",
+        "Population Served": 592,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH SAN YSIDRO MDWCA",
+        "Population Served": 110,
+        "City": "SAN YSIDRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7707882,
+          35.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHSTAR MDWCA",
+        "Population Served": 3784,
+        "City": "AZTEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.992899,
+          36.8220629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKLAND HEIGHTS HOMEOWNERS ASSOCIATION",
+        "Population Served": 26,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OJO CALIENTE MDWCA",
+        "Population Served": 226,
+        "City": "OJO CALIENTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.046624,
+          36.3040449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OJO FELIZ MDWCA",
+        "Population Served": 60,
+        "City": "OJO FELIZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1183407,
+          36.0578149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OJO SARCO MDWCA",
+        "Population Served": 225,
+        "City": "OJO SARCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.783344,
+          36.1225442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD SANDIA PARK SERVICE CO-OP",
+        "Population Served": 200,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORCHARD ESTATES FLMDWC & SW",
+        "Population Served": 40,
+        "City": "CORRALES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6069727,
+          35.2382346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORGAN VIEW ESTATES",
+        "Population Served": 97,
+        "City": "FAIRACRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8466728,
+          32.3039821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OROGRANDE MDWCA",
+        "Population Served": 92,
+        "City": "OROGRANDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.091571,
+          32.3766785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OTIS MDWCA",
+        "Population Served": 4592,
+        "City": "CARLSBAD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.237612,
+          32.4257456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OVERLOOK WATER CO-OP INC",
+        "Population Served": 209,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAAKWEREE VILLAGE WATER CO-OP ASSOC, INC",
+        "Population Served": 126,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PAJARITO MESA MDWCA",
+        "Population Served": 175,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PECAN PARK MDWCA",
+        "Population Served": 110,
+        "City": "DEMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7581979,
+          32.2627416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PECOS WATER SYSTEM",
+        "Population Served": 2133,
+        "City": "PECOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6752624,
+          35.5745273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENA BLANCA WATER & SANITATION DISTRICT",
+        "Population Served": 700,
+        "City": "PENA BLANCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3381903,
+          35.5708545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENASCO MDWCA",
+        "Population Served": 549,
+        "City": "PENASCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.686467,
+          36.1694499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENDARIES MDWCA",
+        "Population Served": 500,
+        "City": "ROCIADA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4207029,
+          35.8323112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEOPLES WATER COOP",
+        "Population Served": 76,
+        "City": "DEMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.7581979,
+          32.2627416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETE RAGAN MEMORIAL WUA",
+        "Population Served": 85,
+        "City": "MAYHILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4780381,
+          32.8895419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHILMONT BOY SCOUT RANCH - HEADQUARTERS",
+        "Population Served": 2000,
+        "City": "Cimarron"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.915592,
+          36.5110288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PICACHO MDWCA",
+        "Population Served": 847,
+        "City": "FAIRACRES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8466728,
+          32.3039821
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIE TOWN MDWCA",
+        "Population Served": 129,
+        "City": "PIE TOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1325424,
+          34.2996431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE RIVER MDCA",
+        "Population Served": 44,
+        "City": "NAVAJO DAM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.69778,
+          36.8048994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEYWOODS ESTATES WATER ASSOCIATION",
+        "Population Served": 290,
+        "City": "HIGH ROLLS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.835542,
+          32.950923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINON MDWCA",
+        "Population Served": 219,
+        "City": "PINON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3944224,
+          32.6181605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINOS ALTOS MDWCA",
+        "Population Served": 348,
+        "City": "PINOS ALTOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2214362,
+          32.8634067
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLACITAS TRAILS WATER COOP",
+        "Population Served": 355,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLACITAS WEST WATER CO-OP",
+        "Population Served": 126,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POJOAQUE TERRACES MHP",
+        "Population Served": 160,
+        "City": "POJOAQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.022563,
+          35.8928461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POLVADERA MDWCA",
+        "Population Served": 2470,
+        "City": "POLVADERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.9218797,
+          34.2048125
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PONDEROSA MDWCA",
+        "Population Served": 567,
+        "City": "PONDEROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6501766,
+          35.656127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PONDEROSA PINES PROPERTY OWNERS ASSOC",
+        "Population Served": 137,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PORTALES WATER SYSTEM",
+        "Population Served": 14284,
+        "City": "PORTALES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3373367,
+          34.1859636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUEBLO LOS CERROS",
+        "Population Served": 180,
+        "City": "CORRALES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6069727,
+          35.2382346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUERTO DE LUNA MDWCA",
+        "Population Served": 426,
+        "City": "PUERTO DE LUNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.6213767,
+          34.8320053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PUNTA DE AGUA MDWCA",
+        "Population Served": 45,
+        "City": "MOUNTAINAIR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.2407657,
+          34.5203535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUAIL HOLLOW MDWUA",
+        "Population Served": 28,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUEMADO LAKE WATER ASSOCIATION",
+        "Population Served": 344,
+        "City": "QUEMADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4983057,
+          34.3435973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUEMADO MUTUAL WATER & SWA",
+        "Population Served": 286,
+        "City": "QUEMADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4983057,
+          34.3435973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUESTA WATER SYSTEM",
+        "Population Served": 2337,
+        "City": "QUESTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5949,
+          36.7042198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAD WATER USERS COOP",
+        "Population Served": 754,
+        "City": "TUCUMCARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.72504,
+          35.1719425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAINSVILLE WATER & SANITATION DISTRICT",
+        "Population Served": 177,
+        "City": "RAINSVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2091769,
+          35.9786488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAMAH WATER & SANITATION DISTRICT",
+        "Population Served": 548,
+        "City": "RAMAH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.491741,
+          35.1330889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHITOS DE GALISTEO WUA",
+        "Population Served": 94,
+        "City": "GALISTEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.947079,
+          35.3952637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHO DAL PASO LLC DBA ADOBE VILLAGE",
+        "Population Served": 83,
+        "City": "HOBBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1311314,
+          32.707667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHO GRANDE WATER ASSOCIATION INC",
+        "Population Served": 215,
+        "City": "RESERVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.757861,
+          33.7133071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHOS DE PLACITAS SANITATION DISTRICT",
+        "Population Served": 374,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANCHOS DE TAOS MDWCA",
+        "Population Served": 750,
+        "City": "RANCHOS DE TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6085234,
+          36.3594292
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED RIVER WATER SYSTEM",
+        "Population Served": 679,
+        "City": "RED RIVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.407563,
+          36.7094826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REGINA MDWCA",
+        "Population Served": 713,
+        "City": "REGINA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.957113,
+          36.1843002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RESERVE WATER WORKS",
+        "Population Served": 601,
+        "City": "RESERVE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.757861,
+          33.7133071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIBERA MDWCA",
+        "Population Served": 113,
+        "City": "RIBERA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4486228,
+          35.3736554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO CHIQUITO MDWCA",
+        "Population Served": 152,
+        "City": "CHIMAYO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9468664,
+          36.0039088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO COMMUNITIES WATER SYSTEM",
+        "Population Served": 5374,
+        "City": "BELEN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7762,
+          34.6627495
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO DE ARENAS",
+        "Population Served": 205,
+        "City": "SILVER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2764164,
+          32.7711825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO DEL ORO WATER SYSTEM",
+        "Population Served": 3244,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO EMBUDO MDWCA",
+        "Population Served": 172,
+        "City": "DIXON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.888322,
+          36.1988113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO EN MEDIO MDWCA",
+        "Population Served": 130,
+        "City": "TESUQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9323157,
+          35.7624272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO LUCIO MDWCA",
+        "Population Served": 342,
+        "City": "PENASCO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.686467,
+          36.1694499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO PECOS VILLA MDWCA",
+        "Population Served": 35,
+        "City": "SANTA ROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.682489,
+          34.93867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIO RANCHO WATER & WW SERVICES",
+        "Population Served": 107350,
+        "City": "RIO RANCHO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6329806,
+          35.2702448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERAS MDWUA",
+        "Population Served": 60,
+        "City": "SANTA ROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.682489,
+          34.93867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERSIDE MDWA",
+        "Population Served": 227,
+        "City": "ARTESIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4032963,
+          32.8423345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROBINHOOD WATER USERS ASSOCIATION",
+        "Population Served": 432,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RODARTE MDWCA",
+        "Population Served": 115,
+        "City": "RODARTE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6731679,
+          36.1517256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RODEO MDW & MSWA",
+        "Population Served": 118,
+        "City": "RODEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -109.030309,
+          31.8364383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROLLING HILLS WUA",
+        "Population Served": 42,
+        "City": "LA LUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.941933,
+          32.9778652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROOSEVELT COUNTY WUA",
+        "Population Served": 4680,
+        "City": "PORTALES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3373367,
+          34.1859636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSA JOINT VENTURES WATER SYSTEM",
+        "Population Served": 456,
+        "City": "AZTEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.992899,
+          36.8220629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSEDALE MDWCA",
+        "Population Served": 254,
+        "City": "SILVER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2764164,
+          32.7711825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSWELL CORRECTIONAL CENTER",
+        "Population Served": 280,
+        "City": "HAGERMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.327155,
+          33.11503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROSWELL MUNICIPAL WATER SYSTEM",
+        "Population Served": 54025,
+        "City": "ROSWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5229518,
+          33.3943282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROWE MDWCA",
+        "Population Served": 100,
+        "City": "ROWE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6752853,
+          35.4916541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROY (VILLAGE OF)",
+        "Population Served": 463,
+        "City": "ROY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.1927815,
+          35.9446709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUIDOSO DOWNS WATER SYSTEM",
+        "Population Served": 2955,
+        "City": "RUIDOSO DOWNS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.60442,
+          33.3292691
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUIDOSO WATER SYSTEM",
+        "Population Served": 19195,
+        "City": "RUIDOSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUTHERON MUTUAL WATER ASSOCIATION",
+        "Population Served": 90,
+        "City": "LOS OJOS,RUTHERON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6117,
+          36.71863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAFE HAVEN RV PARK",
+        "Population Served": 58,
+        "City": "RUIDOSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAGEBRUSH WATER CO-OP",
+        "Population Served": 54,
+        "City": "MENTMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.845221,
+          35.5149551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN ACACIA MDWCA",
+        "Population Served": 284,
+        "City": "SAN ACACIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8994837,
+          34.2553521
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN ANDRES ESTATES WATER SYSTEM (LCU)",
+        "Population Served": 747,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN ANTONIO DE CLEVELAND MDWCA",
+        "Population Served": 269,
+        "City": "CLEVELAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.370569,
+          35.9933664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN ANTONIO MDWCA",
+        "Population Served": 1239,
+        "City": "SAN ANTONIO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8677064,
+          33.9176747
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN CRISTOBAL MDWCA",
+        "Population Served": 165,
+        "City": "SAN CRISTOBAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.639453,
+          36.5965293
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN JON WATER SUPPLY",
+        "Population Served": 453,
+        "City": "SAN JON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3309382,
+          35.1064347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN JOSE MDWCA",
+        "Population Served": 200,
+        "City": "SAN JOSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4756569,
+          35.3972397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN JUAN MDWCA",
+        "Population Served": 136,
+        "City": "SAN JOSE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4756569,
+          35.3972397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN LUIS CABEZON MDWCA",
+        "Population Served": 320,
+        "City": "SAN YSIDRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7707882,
+          35.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN MATEO MDWCA",
+        "Population Served": 182,
+        "City": "SAN MATEO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.6423905,
+          35.3326409
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN MIGUEL DEL VADO MDWCA",
+        "Population Served": 79,
+        "City": "SAN MIGUEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1605804,
+          36.961402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN PABLO MDWCA",
+        "Population Served": 548,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN RAFAEL WATER & SANITATION DISTRICT",
+        "Population Served": 1060,
+        "City": "SAN RAFAEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4563719,
+          35.49199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAN YSIDRO WATER SUPPLY SYSTEM",
+        "Population Served": 198,
+        "City": "SAN YSIDRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7707882,
+          35.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANCHEZ MOBILE HOME PARK",
+        "Population Served": 80,
+        "City": "EL PRADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5751437,
+          36.4322586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDIA KNOLLS WATER SYSTEM",
+        "Population Served": 1098,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDIA PEAK UTILITY",
+        "Population Served": 6079,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANGRE DE CRISTO REGIONAL MDWCA",
+        "Population Served": 346,
+        "City": "ANTON CHICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1417172,
+          35.2000554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTA CLARA WATER SYSTEM",
+        "Population Served": 1682,
+        "City": "CENTRAL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1544888,
+          32.7764644
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTA CRUZ WATER ASSOCIATION",
+        "Population Served": 394,
+        "City": "SANTA CRUZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.047302,
+          35.9922268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTA FE COUNTY SOUTH SECTOR",
+        "Population Served": 6775,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTA FE COUNTY WEST SECTOR",
+        "Population Served": 3150,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTA FE WATER SYSTEM (CITY OF)",
+        "Population Served": 90810,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANTA ROSA WATER SUPPLY",
+        "Population Served": 2681,
+        "City": "SANTA ROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.682489,
+          34.93867
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEBOYETA WATER SYSTEM",
+        "Population Served": 209,
+        "City": "SEBOYETA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.389152,
+          35.2010487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SENA MDWCA",
+        "Population Served": 180,
+        "City": "SENA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3926268,
+          35.298757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SENIOR LIVING SYSTEMS INC.",
+        "Population Served": 50,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHALOM MOBILE HOME PARK",
+        "Population Served": 72,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHIRK MOBILE HOME PARK",
+        "Population Served": 39,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIERRA LOS PINOS HOA",
+        "Population Served": 300,
+        "City": "JEMEZ SPRINGS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6921555,
+          35.76851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIERRA VISTA MUTUAL DOMESTIC ASSOCIATION",
+        "Population Served": 342,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIERRA VISTA SOUTH WATER COOP",
+        "Population Served": 128,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILE MDWCA",
+        "Population Served": 154,
+        "City": "PENA BLANCA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3381903,
+          35.5708545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER CITY WATER SYSTEM",
+        "Population Served": 14400,
+        "City": "SILVER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2764164,
+          32.7711825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER CLOUD WATER ASSOCIATION",
+        "Population Served": 222,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER SPUR MOBILE HOME COURTS",
+        "Population Served": 145,
+        "City": "MESILLA PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7666698,
+          32.2759279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SKY COUNTRY ESTATES MDWCA",
+        "Population Served": 71,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOCORRO WATER SYSTEM",
+        "Population Served": 11953,
+        "City": "SOCORRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.8930799,
+          34.0572858
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOLACITO MDWCA",
+        "Population Served": 29,
+        "City": "ESPANOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.080835,
+          35.9910962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SONTERA ACRES MOBILE MANOR",
+        "Population Served": 161,
+        "City": "MESILLA PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7666698,
+          32.2759279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH HILLS WATER COMPANY",
+        "Population Served": 506,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH HOLMAN MDWCA",
+        "Population Served": 35,
+        "City": "HOLMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3836245,
+          36.0383655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH SAN YSIDRO MDWCA",
+        "Population Served": 35,
+        "City": "SAN YSIDRO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7707882,
+          35.563576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHSIDE MUTUAL DOMESTIC WATER",
+        "Population Served": 1523,
+        "City": "AZTEC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.992899,
+          36.8220629
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING CANYON RANCH",
+        "Population Served": 116,
+        "City": "QUEMADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4983057,
+          34.3435973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGER WATER SYSTEM",
+        "Population Served": 1170,
+        "City": "SPRINGER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5949166,
+          36.3612049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST JOHNS MHP",
+        "Population Served": 445,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST WILLIAMS MOBILE HOME PARK",
+        "Population Served": 84,
+        "City": "MENTMORE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.845221,
+          35.5149551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMER WIND MOBILE HOME PARK",
+        "Population Served": 451,
+        "City": "MESILLA PARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7666698,
+          32.2759279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUN VALLEY WATER AND SANITATION DISTRICT",
+        "Population Served": 474,
+        "City": "ALTO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6799324,
+          33.3990673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNLIT HILLS WATER SYSTEM",
+        "Population Served": 1018,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET ACRES WATER COMPANY",
+        "Population Served": 323,
+        "City": "MORIARTY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0494876,
+          34.9972037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUNSET HILLS ESTATES HOA",
+        "Population Served": 76,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAJIQUE MDWCA",
+        "Population Served": 187,
+        "City": "TAJIQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.287752,
+          34.7517373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALAVERA MDWCA",
+        "Population Served": 166,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALL PINES WATER ASSOCIATION",
+        "Population Served": 84,
+        "City": "RUIDOSO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.673099,
+          33.3315804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALPA MDWCA",
+        "Population Served": 700,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAOS MUNICIPAL WATER SYSTEM",
+        "Population Served": 5528,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TATUM MUNICIPAL WATER SYSTEM",
+        "Population Served": 992,
+        "City": "TATUM"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.3175664,
+          33.2569924
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TECOLOTE MDWCA",
+        "Population Served": 126,
+        "City": "LAS VEGAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.223896,
+          35.5939325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TECOLOTITO MDWCA",
+        "Population Served": 246,
+        "City": "TECOLOTITO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.1594474,
+          35.2344939
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TESUQUE MDWCA",
+        "Population Served": 258,
+        "City": "TESUQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9323157,
+          35.7624272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TEXICO WATER SYSTEM",
+        "Population Served": 1331,
+        "City": "TEXICO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.047733,
+          34.3928788
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE RINCON WATER COOPERATIVE",
+        "Population Served": 276,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THOREAU WATER & SANITATION DISTRICT",
+        "Population Served": 1173,
+        "City": "THOREAU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.219785,
+          35.402653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIERRA AMARILLA MDWCA",
+        "Population Served": 470,
+        "City": "TIERRA AMARILLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.54974,
+          36.7001374
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIERRA MONTE WATER USERS ASSOCIATION",
+        "Population Served": 78,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIERRA WEST ESTATES MHP",
+        "Population Served": 1447,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIJERAS (VILLAGE OF)",
+        "Population Served": 541,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIJERAS WATER COOPERATIVE",
+        "Population Served": 139,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIMBERON W AND SD",
+        "Population Served": 1502,
+        "City": "TIMBERON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.694144,
+          32.6209314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOP OF THE WORLD WATER ASSOCIATION CORP",
+        "Population Served": 150,
+        "City": "CONTINENTAL DIVIDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3061051,
+          35.4195441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TORREON MDWCA",
+        "Population Served": 253,
+        "City": "TORREON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.239415,
+          35.7792358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRAILER RANCH SENIOR MOBILE HOME COMMUN.",
+        "Population Served": 200,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRAILS END MHP",
+        "Population Served": 85,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRAMPAS MDWCA",
+        "Population Served": 132,
+        "City": "TRAMPAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.758875,
+          36.1311187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRANQUILLO PINES WATER USERS COOP",
+        "Population Served": 670,
+        "City": "TIJERAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3879441,
+          35.0796355
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRES PIEDRAS MDWCA",
+        "Population Served": 350,
+        "City": "TRES PIEDRAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.966803,
+          36.64722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRINITY MOBILE HOME PARK",
+        "Population Served": 51,
+        "City": "PERALTA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.6908587,
+          34.837038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIPLE J MHP",
+        "Population Served": 184,
+        "City": "HOBBS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.1311314,
+          32.707667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRUCHAS MDWCA",
+        "Population Served": 629,
+        "City": "TRUCHAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.8118541,
+          36.0437326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRUTH OR CONSEQUENCES",
+        "Population Served": 7640,
+        "City": "TRUTH OR CONSEQUENCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -107.2529059,
+          33.1283485
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUCUMCARI WATER SYSTEM",
+        "Population Served": 6064,
+        "City": "TUCUMCARI"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.72504,
+          35.1719425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TULAROSA WATER SYSTEM",
+        "Population Served": 3458,
+        "City": "TULAROSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.018602,
+          33.073973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURQUOISE ESTATES WATER COOP",
+        "Population Served": 168,
+        "City": "CLOVIS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -103.2050709,
+          34.405472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN FORKS MDWCA",
+        "Population Served": 1308,
+        "City": "MAYHILL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4780381,
+          32.8895419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TYRONE MDWCA",
+        "Population Served": 70,
+        "City": "TYRONE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3019925,
+          32.7097986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TYRONE TOWNSITE",
+        "Population Served": 782,
+        "City": "TYRONE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.3019925,
+          32.7097986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION DEL LLANO MDWCA",
+        "Population Served": 400,
+        "City": "LLANO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.681682,
+          36.1400257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNIVERSITY ESTATES WATER SYSTEM (LCU)",
+        "Population Served": 4526,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNIVERSITY OF NEW MEXICO",
+        "Population Served": 35000,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER ARROYO HONDO MDWCA",
+        "Population Served": 195,
+        "City": "ARROYO HONDO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.669725,
+          36.5358733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER DES MONTES MDWCA",
+        "Population Served": 222,
+        "City": "DES MONTES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.58887,
+          36.445033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER HOLMAN MDWCA",
+        "Population Served": 325,
+        "City": "HOLMAN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3836245,
+          36.0383655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER LA PLATA WATER USERS ASSOCIATION",
+        "Population Served": 2265,
+        "City": "LA PLATA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.1902273,
+          36.9282818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER RANCHITOS MDWCASW",
+        "Population Served": 222,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VADITO MDWCA",
+        "Population Served": 122,
+        "City": "VADITO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.6707221,
+          36.1910021
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VAL VERDE 5 PROPERTY OWNERS ASSOCIATION",
+        "Population Served": 100,
+        "City": "ANGEL FIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.285009,
+          36.3930879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALDEZ MDWCA",
+        "Population Served": 100,
+        "City": "VALDEZ"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.5838984,
+          36.5344701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALENCIA STORAGE AND MHP",
+        "Population Served": 39,
+        "City": "LOS LUNAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.7613067,
+          34.8142093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLE ESCONDIDO HOMEOWNERS ASSOCIATION",
+        "Population Served": 354,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLECITOS MDWCA",
+        "Population Served": 84,
+        "City": "VALLECITOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.1166881,
+          36.4950177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY ESTATES WATER & SEWER ASSOCIATION",
+        "Population Served": 194,
+        "City": "ESPANOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.080835,
+          35.9910962
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY MDWCA",
+        "Population Served": 454,
+        "City": "FORT SUMNER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.245509,
+          34.4716695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALVERDE MOBILE HOME PARK",
+        "Population Served": 160,
+        "City": "DONA ANA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.814013,
+          32.3894359
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VAUGHN DURAN WATER SYSTEM",
+        "Population Served": 785,
+        "City": "VAUGHN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.208319,
+          34.6017226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VELARDE MDWCA",
+        "Population Served": 543,
+        "City": "VELARDE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9747115,
+          36.158879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VENTURA ESTATES HOA",
+        "Population Served": 100,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VERMEJO PARK  -  HEADQUARTERS",
+        "Population Served": 140,
+        "City": "RATON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.4354816,
+          36.8979234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIGILS TRAILER PARK",
+        "Population Served": 105,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLA DEL SOL MOBILE HOME PARK",
+        "Population Served": 551,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE MOBILE HOME PARK",
+        "Population Served": 99,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE OF ANGEL FIRE",
+        "Population Served": 6045,
+        "City": "ANGEL FIRE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.285009,
+          36.3930879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE OF EAGLE NEST",
+        "Population Served": 726,
+        "City": "EAGLE NEST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.2636384,
+          36.5547285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE OF TAOS SKI VALLEY",
+        "Population Served": 1025,
+        "City": "TAOS SKI VALLEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.4545,
+          36.596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLANUEVA MDWCA",
+        "Population Served": 268,
+        "City": "VILLANUEVA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.3607462,
+          35.2667589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VIRDEN WATER SYSTEM",
+        "Population Served": 133,
+        "City": "LORDSBURG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.708434,
+          32.3504143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA BONITA WATER COOP",
+        "Population Served": 38,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA DE MANANA",
+        "Population Served": 63,
+        "City": "CEDAR CREST"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.3734262,
+          35.107553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA DE ORO DE PLACITAS WATER USERS COO",
+        "Population Served": 158,
+        "City": "PLACITAS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.424655,
+          35.3069101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA DEL REY ESTATES MDWCA",
+        "Population Served": 49,
+        "City": "VADO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.662495,
+          32.1117649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA REAL MHP",
+        "Population Served": 127,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VISTA REDONDA MDWCA",
+        "Population Served": 132,
+        "City": "TESUQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.9323157,
+          35.7624272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAGON MOUND WATER SYSTEM",
+        "Population Served": 300,
+        "City": "WAGON MOUND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.70362,
+          36.0107113
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERFALL COMMUNITY WUA",
+        "Population Served": 290,
+        "City": "CLOUDCROFT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.742721,
+          32.9576648
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATROUS MDWCA",
+        "Population Served": 135,
+        "City": "WATROUS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.9816685,
+          35.790597
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEED WATER USERS ASSOCIATION",
+        "Population Served": 77,
+        "City": "WEED"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.517481,
+          32.8025991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST RIM MDWUA",
+        "Population Served": 113,
+        "City": "TAOS"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.573284,
+          36.4072377
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTERN TERRACE",
+        "Population Served": 76,
+        "City": "ALBUQUERQUE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.650985,
+          35.0841034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHISKEY CREEK PROPERTIES",
+        "Population Served": 97,
+        "City": "SILVER CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.2764164,
+          32.7711825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHISPERING CEDARS WATER ASSOCIATION",
+        "Population Served": 425,
+        "City": "JAMESTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.4570,
+          35.4373
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE CLIFFS MDWUA",
+        "Population Served": 303,
+        "City": "GALLUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.743907,
+          35.5283506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE SANDS MISSILE RANGE (MAIN POST)-FF",
+        "Population Served": 4300,
+        "City": "WHITE SANDS MISSILE RANG"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.384585,
+          32.351069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITES CITY WATER SYSTEM",
+        "Population Served": 67,
+        "City": "WHITES CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.376613,
+          32.1756724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILD AND WOOLEY TRAILER RANCH",
+        "Population Served": 59,
+        "City": "SANTA FE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -105.938456,
+          35.6876096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILD WILLYS RV PARK",
+        "Population Served": 89,
+        "City": "ROSWELL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -104.5229518,
+          33.3943282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLARD VILLAGE OF",
+        "Population Served": 279,
+        "City": "WILLARD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.0337091,
+          34.5960552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINTERHAVEN MDWC AND SWA",
+        "Population Served": 152,
+        "City": "LAS CRUCES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -106.779807,
+          32.3140354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "YAH TA HEY W & SD",
+        "Population Served": 435,
+        "City": "YATAHEY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -108.78036,
+          35.62808
+        ]
+      }
+    }
+  ]
+}

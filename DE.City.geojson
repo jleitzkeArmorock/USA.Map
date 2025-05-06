@@ -1,0 +1,3005 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANGOLA BEACH ESTATES",
+        "Population Served": 1400,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANGOLA CREST II",
+        "Population Served": 159,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTESIAN NORTHERN KENT REGIONAL",
+        "Population Served": 7014,
+        "City": "CLAYTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6343727,
+          39.2906671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTESIAN NORTHERN SUSSEX REGIONAL",
+        "Population Served": 5511,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTESIAN SOUTHERN SUSSEX REGIONAL",
+        "Population Served": 18015,
+        "City": "BETHANY BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0588646,
+          38.5379676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARTESIAN WATER COMPANY",
+        "Population Served": 231114,
+        "City": "BEAR,HOCKESSIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.682244,
+          39.786268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AVALON WOODS OWNERS ASSOC INC",
+        "Population Served": 306,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARKERS LANDING",
+        "Population Served": 498,
+        "City": "MAGNOLIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4757444,
+          39.0715528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYSHORE MOBILE HOME PARK",
+        "Population Served": 533,
+        "City": "OCEAN VIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0881312,
+          38.5476327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYSIDE PUMP DISTRICT (TUI)",
+        "Population Served": 8400,
+        "City": "FENWICK ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0512922,
+          38.4623346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYVIEW IMPROVEMENT COMPANY (AWC)",
+        "Population Served": 214,
+        "City": "PORT PENN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5765926,
+          39.5167789
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYWOOD GREENS",
+        "Population Served": 909,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHANY BAY PUMP DISTRICT",
+        "Population Served": 37416,
+        "City": "MILLVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1232391,
+          38.5495569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHANY BEACH WATER DEPARTMENT",
+        "Population Served": 12000,
+        "City": "BETHANY BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0588646,
+          38.5379676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHANY CREST LLC",
+        "Population Served": 115,
+        "City": "MILLVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1232391,
+          38.5495569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLADES, TOWN OF",
+        "Population Served": 1200,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLANTON'S MANUFACTURED HOME COMMUNITY",
+        "Population Served": 75,
+        "City": "CHESWOLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5857596,
+          39.2192786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE HERON ESTATES",
+        "Population Served": 111,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIARWOOD MANOR MHP",
+        "Population Served": 296,
+        "City": "LAUREL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713141,
+          38.5565041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGEVILLE MALL (TUI)",
+        "Population Served": 550,
+        "City": "BRIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6032026,
+          38.7427231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGEVILLE PUMP DISTRICT",
+        "Population Served": 1542,
+        "City": "BRIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6032026,
+          38.7427231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGEVILLE WATER DEPARTMENT",
+        "Population Served": 2256,
+        "City": "BRIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6032026,
+          38.7427231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROADKILN BEACH WATER COMPANY (TUI)",
+        "Population Served": 3171,
+        "City": "MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4278733,
+          38.9130453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRUMBLEY'S FAMILY PARK",
+        "Population Served": 48,
+        "City": "MILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3101583,
+          38.7778049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURTONWOOD",
+        "Population Served": 1503,
+        "City": "CHESWOLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5857596,
+          39.2192786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN PUMP DISTRICT",
+        "Population Served": 17208,
+        "City": "CAMDEN-WYOMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55934201,
+          39.1111337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN WYOMING SEWER AND WATER AUTHORITY",
+        "Population Served": 5000,
+        "City": "CAMDEN-WYOMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55934201,
+          39.1111337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CANTERBURY CROSSING PUMP DISTRICT",
+        "Population Served": 471,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPE WINDSOR COMMUNITY ASSOCIATION INC",
+        "Population Served": 600,
+        "City": "FENWICK ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0512922,
+          38.4623346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPTAIN'S WAY",
+        "Population Served": 102,
+        "City": "ELLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.422335,
+          38.8067544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAREY ESTATES, LLC",
+        "Population Served": 312,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARPENTERS ROW",
+        "Population Served": 60,
+        "City": "MONTCHANIN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5890929,
+          39.7898344
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR LANDING",
+        "Population Served": 357,
+        "City": "OCEAN VIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0881312,
+          38.5476327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR VILLAGE LLC",
+        "Population Served": 600,
+        "City": "LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4229746,
+          38.8698352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHERRY CREEK VALLEY",
+        "Population Served": 78,
+        "City": "DEWEY BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0752724,
+          38.691184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHURCH CREEK (AWC)",
+        "Population Served": 8679,
+        "City": "MAGNOLIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4757444,
+          39.0715528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEARBROOKE ESTATES PUMP DISTRICT",
+        "Population Served": 768,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLONIAL ESTATES MOBILE HOME PARK",
+        "Population Served": 165,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOPER FARM PUMP DISTRICT",
+        "Population Served": 249,
+        "City": "LITTLE CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4482541,
+          39.167057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY CLUB VILLAGE (TUI)",
+        "Population Served": 192,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY GROVE",
+        "Population Served": 426,
+        "City": "DELMAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5771,
+          38.4565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY LIVING MOBILE COURT",
+        "Population Served": 255,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY REST HOME",
+        "Population Served": 65,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5913153,
+          38.8070579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRYSIDE ESTATES",
+        "Population Served": 50,
+        "City": "VIOLA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5718695,
+          39.0428907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRYSIDE HAMLET",
+        "Population Served": 66,
+        "City": "FRANKFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233764,
+          38.518038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTY SEAT GARDENS",
+        "Population Served": 297,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROSSWINDS MHP, LLC",
+        "Population Served": 210,
+        "City": "LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4229746,
+          38.8698352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAGSBORO WATER DEPT",
+        "Population Served": 934,
+        "City": "DAGSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2457443,
+          38.5492801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEER MEADOWS",
+        "Population Served": 534,
+        "City": "MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4278733,
+          38.9130453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELAWARE CITY WATER DEPARTMENT (AWC)",
+        "Population Served": 1872,
+        "City": "DELAWARE CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.588815,
+          39.5778901
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELAWARE CORRECTIONAL CENTER",
+        "Population Served": 2000,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELMAR UTILITY COMM  (TN OF DELMAR)",
+        "Population Served": 2027,
+        "City": "DELMAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5771,
+          38.4565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEWEY BEACH WATER DEPARTMENT",
+        "Population Served": 31000,
+        "City": "DEWEY BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0752724,
+          38.691184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVE ESTATES",
+        "Population Served": 111,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVER AIR FORCE BASE",
+        "Population Served": 11000,
+        "City": "DOVER AFB"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.46791932,
+          39.1283048
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVER AIR PARK",
+        "Population Served": 252,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVE RUN",
+        "Population Served": 909,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVER WATER DEPARTMENT",
+        "Population Served": 39491,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DRAWYERS CREEK PUMP DISTRICT",
+        "Population Served": 192,
+        "City": "ODESSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6613184,
+          39.457334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST NCC DISTRICT",
+        "Population Served": 5538,
+        "City": "ODESSA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6613184,
+          39.457334
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDS MOBILE HOME PARK",
+        "Population Served": 66,
+        "City": "LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4229746,
+          38.8698352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENCHANTED ACRES MHC LLC",
+        "Population Served": 225,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FELTON WATER DEPARTMENT",
+        "Population Served": 1591,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FISHERMANS VILLAGE (TUI)",
+        "Population Served": 129,
+        "City": "BOWERS BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.401415,
+          39.0599109
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FISH HOOK MOBILE HOME PARK",
+        "Population Served": 72,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLYING DUTCHMAN MOBILE HOME PARK 2",
+        "Population Served": 60,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLYING DUTCHMAN MOBILE HOME PARK 3",
+        "Population Served": 81,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST GROVE PUMP DISTRICT",
+        "Population Served": 330,
+        "City": "HARTLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7132641,
+          39.168723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST PARK",
+        "Population Served": 46,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOX POINTE SUBDIVISION",
+        "Population Served": 500,
+        "City": "CHESWOLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5857596,
+          39.2192786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREDERICA PUMP DISTRICT",
+        "Population Served": 861,
+        "City": "FREDERICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45935696,
+          39.00756855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREDERICA WATER DEPARTMENT",
+        "Population Served": 950,
+        "City": "FREDERICA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45935696,
+          39.00756855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREDERICK LODGE PUMP DISTRICT",
+        "Population Served": 204,
+        "City": "TOWNSEND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6915973,
+          39.3951115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRIENDSHIP CREEK",
+        "Population Served": 126,
+        "City": "FRANKFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233764,
+          38.518038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GANDER WOODS PUMP DISTRICT",
+        "Population Served": 42,
+        "City": "DAGSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2457443,
+          38.5492801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARRISON LAKE PUMP DISTRICT",
+        "Population Served": 13467,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GEORGETOWN WATER DEPARTMENT",
+        "Population Served": 7259,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANADA MOBILE HOME COURT",
+        "Population Served": 138,
+        "City": "MAGNOLIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4757444,
+          39.0715528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANTS WAY PUMP DISTRICT (TUI)",
+        "Population Served": 639,
+        "City": "MILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3101583,
+          38.7778049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREATER ELLENDALE WATER DISTRICT",
+        "Population Served": 350,
+        "City": "ELLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.422335,
+          38.8067544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN ACRES PUMP DISTRICT",
+        "Population Served": 213,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENWOOD COUNTRY RETIREMENT",
+        "Population Served": 50,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5913153,
+          38.8070579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENWOOD WATER DEPARTMENT",
+        "Population Served": 973,
+        "City": "GREENWOOD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5913153,
+          38.8070579
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRINGTON WATER DEPARTMENT",
+        "Population Served": 3562,
+        "City": "HARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5777033,
+          38.9237244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTLY MOBILE HOME PARK",
+        "Population Served": 90,
+        "City": "HARTLY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7132641,
+          39.168723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HEDGEROW HOLLOW",
+        "Population Served": 147,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENLOPEN ACRES, TOWN OF",
+        "Population Served": 700,
+        "City": "REHOBOTH BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0835107,
+          38.7164771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLTOP TRAILER PARK",
+        "Population Served": 65,
+        "City": "RISING SUN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5140781,
+          39.1003416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLIDAY ACRES, LLC",
+        "Population Served": 132,
+        "City": "DAGSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2457443,
+          38.5492801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY HILL ESTATES",
+        "Population Served": 831,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY OAK MOBILE HOME PARK",
+        "Population Served": 210,
+        "City": "DELMAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5771,
+          38.4565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY VIEW MOBILE HOME PARK",
+        "Population Served": 207,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOMESTEAD PARK",
+        "Population Served": 230,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOME TOWN VILLAGE OF COOL BRANCH",
+        "Population Served": 654,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTER MILL ESTATES PUMP DISTRICT",
+        "Population Served": 432,
+        "City": "HARBESON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2849123,
+          38.7248347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTERS POINTE PUMP DISTRICT",
+        "Population Served": 261,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INDIAN RIVER ACRES PUMP DISTRICT",
+        "Population Served": 300,
+        "City": "DAGSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2457443,
+          38.5492801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INGRAMS POINT (AWC)",
+        "Population Served": 87,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INGRAM VILLAGE (AWC)",
+        "Population Served": 135,
+        "City": "ELLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.422335,
+          38.8067544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "J & J MHP",
+        "Population Served": 84,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENTON PUMP DISTRICT",
+        "Population Served": 465,
+        "City": "KENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6629847,
+          39.2276115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KITTS HUMMOCK IMPROVEMENT ASSOC",
+        "Population Served": 305,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE FOREST ESTATES",
+        "Population Served": 225,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKELAND/BEECHWOOD PUMP DISTRICT",
+        "Population Served": 459,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESIDE HOME LLC",
+        "Population Served": 32,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUREL PUMP DISTRICT",
+        "Population Served": 81,
+        "City": "LAUREL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713141,
+          38.5565041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUREL VILLAGE MOBILE HOME PARK",
+        "Population Served": 918,
+        "City": "LAUREL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713141,
+          38.5565041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUREL WATER DEPARTMENT",
+        "Population Served": 3984,
+        "City": "LAUREL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713141,
+          38.5565041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAW MOBILE HOME PARK",
+        "Population Served": 50,
+        "City": "CAMDEN-WYOMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55934201,
+          39.1111337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEWES BOARD OF PUBLIC WORKS",
+        "Population Served": 9400,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG FARM ESTATES PUMP DISTRICT",
+        "Population Served": 123,
+        "City": "MARYDEL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7443761,
+          39.1123348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG NECK VILLAGE",
+        "Population Served": 345,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG NECK WATER COMPANY",
+        "Population Served": 11000,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOVE CREEK PARK",
+        "Population Served": 210,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAGNOLIA WATER DEPARTMENT",
+        "Population Served": 425,
+        "City": "MAGNOLIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4757444,
+          39.0715528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MALLARD LAKES",
+        "Population Served": 1500,
+        "City": "FENWICK ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0512922,
+          38.4623346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARANATHA COURT",
+        "Population Served": 54,
+        "City": "LEBANON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5005105,
+          39.1115618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOWS AT CUBBAGE POND",
+        "Population Served": 201,
+        "City": "LINCOLN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4229746,
+          38.8698352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESSICK'S MHC LLC SYSTEM 2",
+        "Population Served": 36,
+        "City": "HARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5777033,
+          38.9237244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESSICK'S MHC LLC SYSTEM 3",
+        "Population Served": 45,
+        "City": "HARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5777033,
+          38.9237244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESSICK'S MHC LLC SYSTEM 4",
+        "Population Served": 72,
+        "City": "HARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5777033,
+          38.9237244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESSICK'S MHC LLC SYSTEM 5",
+        "Population Served": 97,
+        "City": "HARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5777033,
+          38.9237244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MESSICK'S MHC LLC SYSTEM 6",
+        "Population Served": 63,
+        "City": "HARRINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5777033,
+          38.9237244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDDLETOWN WATER DEPARTMENT",
+        "Population Served": 17700,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILFORD WATER DEPARTMENT",
+        "Population Served": 9800,
+        "City": "MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4278733,
+          38.9130453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLSBORO WATER DEPARTMENT",
+        "Population Served": 6863,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILTON WATER DEPARTMENT",
+        "Population Served": 3200,
+        "City": "MILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3101583,
+          38.7778049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MISTY PINES PUMP DISTRICT",
+        "Population Served": 168,
+        "City": "MAGNOLIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4757444,
+          39.0715528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOBILE GARDENS I",
+        "Population Served": 476,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT PLEASANT TRAILER PARK",
+        "Population Served": 117,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUNICIPAL SERVICES COMMISSION",
+        "Population Served": 5364,
+        "City": "NEW CASTLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5663132,
+          39.6620572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWARK WATER DEPARTMENT",
+        "Population Served": 40000,
+        "City": "NEWARK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7515682,
+          39.6828358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW MARKET VILLAGE",
+        "Population Served": 321,
+        "City": "ELLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.422335,
+          38.8067544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH WEST PUMP DISTRICT",
+        "Population Served": 4149,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAK GROVE ESTATES",
+        "Population Served": 150,
+        "City": "LITTLE CREEK"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4482541,
+          39.167057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OCEAN VIEW WATER DEPARTMENT",
+        "Population Served": 2039,
+        "City": "OCEAN VIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0881312,
+          38.5476327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARADISE ESTATES",
+        "Population Served": 126,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARKSIDE",
+        "Population Served": 1467,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEPPER CREEK DISTRICT (TUI)",
+        "Population Served": 414,
+        "City": "DAGSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2457443,
+          38.5492801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PEPPER RIDGE PARK",
+        "Population Served": 209,
+        "City": "FRANKFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233764,
+          38.518038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE RIDGE MOBILE HOME PARK",
+        "Population Served": 222,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEWOOD ACRES",
+        "Population Served": 1200,
+        "City": "CHESWOLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5857596,
+          39.2192786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINNACLE REHABILITATION & HEALTH CENTER",
+        "Population Served": 256,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLEASANT ACRES, LLC",
+        "Population Served": 60,
+        "City": "BRIDGEVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6032026,
+          38.7427231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POINT FARM",
+        "Population Served": 270,
+        "City": "DAGSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2457443,
+          38.5492801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PONDS OF ODESSA (AWC)",
+        "Population Served": 216,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PONDS OF WILLOW GROVE",
+        "Population Served": 126,
+        "City": "CAMDEN-WYOMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55934201,
+          39.1111337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUILLENS POINT",
+        "Population Served": 150,
+        "City": "OCEAN VIEW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0881312,
+          38.5476327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REHOBOTH BAY COMMUNITY",
+        "Population Served": 1575,
+        "City": "REHOBOTH BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0835107,
+          38.7164771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REHOBOTH BEACH WATER DEPARTMENT",
+        "Population Served": 25000,
+        "City": "REHOBOTH BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0835107,
+          38.7164771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REHOBOTH PUMP DISTRICT (TUI)",
+        "Population Served": 73860,
+        "City": "REHOBOTH BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0835107,
+          38.7164771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIDGEWOOD MANOR C/O RHP PROPERTIES",
+        "Population Served": 310,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAND HILL ACRES",
+        "Population Served": 384,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAND HILL MOBILE HOME PARK",
+        "Population Served": 120,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANDY RIDGE PUMP DISTRICT",
+        "Population Served": 243,
+        "City": "LAUREL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713141,
+          38.5565041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTTSDALE MOBILE HOME PARK",
+        "Population Served": 300,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEAFORD WATER DEPARTMENT",
+        "Population Served": 6699,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEAGLASS AT REHOBOTH BEACH",
+        "Population Served": 674,
+        "City": "REHOBOTH BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0835107,
+          38.7164771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEA WINDS PUMP DISTRICT",
+        "Population Served": 141,
+        "City": "DAGSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2457443,
+          38.5492801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SELBYVILLE WATER DEPARTMENT",
+        "Population Served": 3502,
+        "City": "SELBYVILLE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2216048,
+          38.4606407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SERENITY MANOR ESTATES",
+        "Population Served": 110,
+        "City": "FELTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5779807,
+          39.0084464
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHADY ACRES MOBILE HOME PARK",
+        "Population Served": 152,
+        "City": "LAUREL"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5713141,
+          38.5565041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHADY OAK TRAILER COURT",
+        "Population Served": 108,
+        "City": "ELLENDALE"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.422335,
+          38.8067544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHAWNS HIDEAWAY SYSTEM #1",
+        "Population Served": 341,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER VIEW FARM",
+        "Population Served": 398,
+        "City": "REHOBOTH BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0835107,
+          38.7164771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SLAUGHTER BEACH PWS",
+        "Population Served": 846,
+        "City": "SLAUGHTER BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.304553,
+          38.9124404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMYRNA WATER DEPARTMENT",
+        "Population Served": 11813,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH EAST PUMP DISTRICT",
+        "Population Served": 936,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH SHORES (TUI)",
+        "Population Served": 402,
+        "City": "MILFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4278733,
+          38.9130453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHWOOD ACRES PUMP DISTRICT",
+        "Population Served": 591,
+        "City": "MAGNOLIA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4757444,
+          39.0715528
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAGE VILLAGE MHC",
+        "Population Served": 93,
+        "City": "DELMAR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5771,
+          38.4565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STOCKLEY CENTER",
+        "Population Served": 749,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STRIMEL'S MHP LLC.",
+        "Population Served": 40,
+        "City": "CHESWOLD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5857596,
+          39.2192786
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMIT POND PUMP DISTRICT",
+        "Population Served": 177,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUSSEX MANOR MOBILE HOME PARK",
+        "Population Served": 195,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUSSEX SHORES WATER COMPANY",
+        "Population Served": 12450,
+        "City": "BETHANY BEACH"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0588646,
+          38.5379676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWANN KEYS",
+        "Population Served": 1764,
+        "City": "FENWICK ISLAND"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0512922,
+          38.4623346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYCAMORE CHASE (AWC)",
+        "Population Served": 42,
+        "City": "FRANKFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.233764,
+          38.518038
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALL PINES RESORT COMMUNITY SYS1",
+        "Population Served": 538,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALL PINES RESORT COMMUNITY SYS2",
+        "Population Served": 53,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TEAL POINT (TUI)",
+        "Population Served": 117,
+        "City": "MILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3101583,
+          38.7778049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE VINES OF SANDHILL (AWC)",
+        "Population Served": 336,
+        "City": "MILTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3101583,
+          38.7778049
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TODDS MOBILE COURT",
+        "Population Served": 189,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN MAPLES TRAILER PARK",
+        "Population Served": 123,
+        "City": "KENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6629847,
+          39.2276115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPCOUNTRY MANUFACTURED HOME COMMUNITY",
+        "Population Served": 65,
+        "City": "SEAFORD"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6114584,
+          38.6413452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER DELAWARE, INC",
+        "Population Served": 100495,
+        "City": "NEW CASTLE,WILMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546589,
+          39.7459468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE OF GRANDVIEW",
+        "Population Served": 108,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VOSHELLS COVE PUMP DISTRICT",
+        "Population Served": 252,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEBBS LANDING PUMP DISTRICT",
+        "Population Served": 105,
+        "City": "LEWES"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1379574,
+          38.7733961
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST DOVER PUMP DISTRICT",
+        "Population Served": 1665,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE OAK SUBDIVISION",
+        "Population Served": 30,
+        "City": "KENTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6629847,
+          39.2276115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILD QUAIL PUMP DISTRICT",
+        "Population Served": 1017,
+        "City": "CAMDEN-WYOMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55934201,
+          39.1111337
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLOW GROVE MILL",
+        "Population Served": 3090,
+        "City": "MIDDLETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.7166345,
+          39.4497639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLOW LAKE PUMP DISTRICT",
+        "Population Served": 120,
+        "City": "GEORGETOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3858753,
+          38.6900507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLOW TREE PROPERTIES LLC",
+        "Population Served": 141,
+        "City": "DOVER"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5243682,
+          39.158168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILMINGTON WATER DEPARTMENT",
+        "Population Served": 107976,
+        "City": "WILMINGTON"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.546589,
+          39.7459468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINTERTHUR",
+        "Population Served": 687,
+        "City": "WINTERTHUR"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.5915934,
+          39.8028897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLANDS OF MILLSBORO PUMP DISTRICT",
+        "Population Served": 171,
+        "City": "MILLSBORO"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2913018,
+          38.5915023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAND TRAILER COURT",
+        "Population Served": 41,
+        "City": "SMYRNA"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.6046494,
+          39.2998339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODS EDGE MOBILE HOME PARK",
+        "Population Served": 45,
+        "City": "CAMDEN-WYOMING"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.55934201,
+          39.1111337
+        ]
+      }
+    }
+  ]
+}

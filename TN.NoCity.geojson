@@ -1,0 +1,1775 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALEXANDRIA WATER SYSTEM",
+        "Population Served": 2751,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.832751654,
+          35.9798606621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALGOOD WATER SYSTEM",
+        "Population Served": 8949,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.495190724,
+          36.1408328072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLARDT WATER WORKS",
+        "Population Served": 3946,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.932458522,
+          36.3804933554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPHA-TALBOTT UTILITY DISTRICT",
+        "Population Served": 19075,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2666627121,
+          36.2171519061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA UTILITIES",
+        "Population Served": 993,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1844851879,
+          35.1986760952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATOKA WATER SYSTEM",
+        "Population Served": 9012,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7592441298,
+          35.4968698745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BANGHAM UTILITY DISTRICT",
+        "Population Served": 7866,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.495190724,
+          36.1408328072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELL BUCKLE WATER SYSTEM",
+        "Population Served": 2633,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4588856967,
+          35.5137978753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOUNTVILLE UTILITY DISTRICT",
+        "Population Served": 15234,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3041428598,
+          36.5129154065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIGHTON WATER SYSTEM",
+        "Population Served": 4058,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.7592441298,
+          35.4968698745
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAGLE-FREDONIA U.D.",
+        "Population Served": 3002,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4105869053,
+          35.3711477472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALHOUN-CHARLESTON U.D.",
+        "Population Served": 2834,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6174748904,
+          35.4247444764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASTALIAN SPRINGS-BETHPAGE U.D.",
+        "Population Served": 14184,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4603553659,
+          36.4694088387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHUCKEY UTILITY DISTRICT",
+        "Population Served": 14128,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8458266599,
+          36.1753512461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOKEVILLE BOAT DOCK RD U.D.",
+        "Population Served": 8489,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.495190724,
+          36.1408328072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COPPERHILL WATER DEPT",
+        "Population Served": 1039,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5233230209,
+          35.1199026751
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORDELL HULL UTILITY DISTRICT",
+        "Population Served": 3893,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9567145693,
+          36.2505340956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROSS ANCHOR UTILITY DISTRICT",
+        "Population Served": 8607,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8458266599,
+          36.1753512461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND CITY WATER DEPT",
+        "Population Served": 1162,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8384575868,
+          36.5011043566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND HEIGHTS U.D.",
+        "Population Served": 3561,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.382887079,
+          36.4968580761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUNNINGHAM UTILITY DISTRICT",
+        "Population Served": 15755,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.382887079,
+          36.4968580761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEKALB UTILITY DISTRICT #1",
+        "Population Served": 17511,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.832751654,
+          35.9798606621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEKALB UTILITY DISTRICT #4",
+        "Population Served": 848,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.832751654,
+          35.9798606621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEWHITE UTILITY DISTRICT",
+        "Population Served": 8219,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4551771798,
+          35.926348429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOUBLE SPRINGS U.D.",
+        "Population Served": 6124,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.495190724,
+          36.1408328072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST FORK U.D.",
+        "Population Served": 3348,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2880811587,
+          36.3449979328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST MONTGOMERY U.D.",
+        "Population Served": 17931,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.382887079,
+          36.4968580761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EASTVIEW UTILITY DISTRICT",
+        "Population Served": 2134,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.5636398807,
+          35.1754531586
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRVIEW UTILITY DISTRICT",
+        "Population Served": 6787,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0347773688,
+          35.2021508952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FALL CREEK FALLS U.D.",
+        "Population Served": 5434,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2051550952,
+          35.5964202026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FALL RIVER RD UTILITY DISTRICT",
+        "Population Served": 3851,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3955844374,
+          35.2172743542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FENTRESS COUNTY U.D.",
+        "Population Served": 15909,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.932458522,
+          36.3804933554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT CAMPBELL WATER SYSTEM",
+        "Population Served": 43270,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.382887079,
+          36.4968580761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRIENDSHIP DISTRIBUTION WATER SYSTEM",
+        "Population Served": 904,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1395281511,
+          35.8135384798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRIENDSVILLE WATER WORKS",
+        "Population Served": 5437,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9255394315,
+          35.6872037952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GATEWAY UTILITY COMPANY, INC.",
+        "Population Served": 1070,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8986535599,
+          35.8938381553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN HILLS UTILITY DISTRICT",
+        "Population Served": 16839,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8458266599,
+          36.1753512461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANDVIEW UTILITY DISTRICT",
+        "Population Served": 2187,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9243960855,
+          35.6087114537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRIFFITH CREEK U.D.",
+        "Population Served": 1106,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6219924364,
+          35.1293327482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAYWOOD COUNTY U.D.",
+        "Population Served": 1384,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.2838357978,
+          35.5832218368
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "H.B.& T.S. UTILITY DISTRICT",
+        "Population Served": 37803,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8986535599,
+          35.8938381553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLSVILLE UTILITY DISTRICT",
+        "Population Served": 11308,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0747626426,
+          35.4906159935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORNBEAK UTILITY DISTRICT",
+        "Population Served": 1409,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1487992023,
+          36.3582326717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HORNSBY WATER DEPT",
+        "Population Served": 929,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9930848744,
+          35.2068682628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "INTERMONT UTILITY DISTRICT",
+        "Population Served": 1849,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3041428598,
+          36.5129154065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRON CITY UTILITY DISTRICT",
+        "Population Served": 729,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3955844374,
+          35.2172743542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON COUNTY U.D. #1",
+        "Population Served": 686,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6731507891,
+          36.3592115189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON COUNTY U.D. #2",
+        "Population Served": 2354,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6731507891,
+          36.3592115189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON COUNTY U.D. #3",
+        "Population Served": 3751,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6731507891,
+          36.3592115189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON COUNTY U.D. #4",
+        "Population Served": 2323,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6731507891,
+          36.3592115189
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JASPER HIGHLANDS WATER SYSTEM",
+        "Population Served": 1106,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6219924364,
+          35.1293327482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAGUARDO UTILITY DISTRICT",
+        "Population Served": 14801,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2977463556,
+          36.1548497851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEVIEW U.D. EAST",
+        "Population Served": 2052,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9446876646,
+          36.4411634364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEXINGTON W.D. RASCALTOWN COMMUNITY",
+        "Population Served": 212,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3955844374,
+          35.2172743542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN CO B.P.U. #2",
+        "Population Served": 2225,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5889416254,
+          35.1405167444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONE OAK UTILITY DISTRICT",
+        "Population Served": 599,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4105869053,
+          35.3711477472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYNNVILLE WATER DEPT",
+        "Population Served": 1348,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0347773688,
+          35.2021508952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MALLORY VALLEY U.D.",
+        "Population Served": 30347,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8986535599,
+          35.8938381553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCHESTER WATER DEPARTMENT",
+        "Population Served": 21898,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0747626426,
+          35.4906159935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARSHALL CO B.P.U. #1",
+        "Population Served": 12627,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7650174387,
+          35.4688611107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAURY CO WATER SYSTEM",
+        "Population Served": 23118,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0770139545,
+          35.6169396312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "METRO LYNCHBURG/MOORE CO U.D. #2",
+        "Population Served": 279,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3587711276,
+          35.284617402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILCROFTON UTILITY DISTRICT",
+        "Population Served": 33605,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8986535599,
+          35.8938381553
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINOR HILL WATER U.D.",
+        "Population Served": 7661,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0347773688,
+          35.2021508952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOSHEIM UTILITY DISTRICT",
+        "Population Served": 2089,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8458266599,
+          36.1753512461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN SIDE ESTATES",
+        "Population Served": 121,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.2528004804,
+          35.4426448889
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW CANTON UTILITY DISTRICT",
+        "Population Served": 557,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.9446876646,
+          36.4411634364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NIOTA WATER SYSTEM",
+        "Population Served": 3623,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.6174748904,
+          35.4247444764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHEAST LAWRENCE U.D.",
+        "Population Served": 3578,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3955844374,
+          35.2172743542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH ELIZABETHTON WATER CO-OP",
+        "Population Served": 1752,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1274783436,
+          36.2927208493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH OVERTON UTILITY DISTRICT",
+        "Population Served": 4246,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2880811587,
+          36.3449979328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH U.D. OF RHEA COUNTY",
+        "Population Served": 3172,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9243960855,
+          35.6087114537
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHWEST HENRY CO. U.D.",
+        "Population Served": 1116,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3012135686,
+          36.3318375802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "O'CONNOR UTILITY DISTRICT",
+        "Population Served": 9602,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4551771798,
+          35.926348429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD GAINESBORO ROAD U.D.",
+        "Population Served": 6214,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.495190724,
+          36.1408328072
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD HICKORY WAT CO-UNION COUNTY",
+        "Population Served": 342,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.8375139145,
+          36.2878738806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD KNOXVILLE HWY U.D.",
+        "Population Served": 9280,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.8458266599,
+          36.1753512461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERRYVILLE UTILITY DISTRICT",
+        "Population Served": 3399,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.108772783,
+          35.6030197595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETERSBURG WATER SYSTEM",
+        "Population Served": 1071,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5889416254,
+          35.1405167444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIPERTON WATER SYSTEM",
+        "Population Served": 2956,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.4143720339,
+          35.1970807469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUEBECK WALLING U.D.",
+        "Population Served": 5349,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4551771798,
+          35.926348429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REELFOOT WATER ASSOCIATION",
+        "Population Served": 644,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1487992023,
+          36.3582326717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROANE CENTRAL UTILITY DISTRICT",
+        "Population Served": 5317,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5232421788,
+          35.8478552218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELLVILLE WHITESBURG U.D.",
+        "Population Served": 20197,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2666627121,
+          36.2171519061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAMBURG UTILITY DISTRICT",
+        "Population Served": 736,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.1487992023,
+          36.3582326717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEVIER COUNTY WATER DEPARTMENT",
+        "Population Served": 6194,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5241923117,
+          35.7846556198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHADY GROVE UTILITY DISTRICT",
+        "Population Served": 25320,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.4463116121,
+          36.0509841883
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHELBYVILLE FLAT CREEK W.S.",
+        "Population Served": 620,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4588856967,
+          35.5137978753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIGNAL MOUNTAIN WATER SYSTEM",
+        "Population Served": 7714,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1647566085,
+          35.1808755183
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH CUMBERLAND U.D.",
+        "Population Served": 12233,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9983515819,
+          35.9503879058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH ELIZABETHTON U.D.",
+        "Population Served": 6154,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1274783436,
+          36.2927208493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH FORK UTILITY DISTRICT",
+        "Population Served": 7645,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.3041428598,
+          36.5129154065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH GILES UTILITY DISTRICT",
+        "Population Served": 3589,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0347773688,
+          35.2021508952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH PARIS WATER CO-OP",
+        "Population Served": 2141,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3012135686,
+          36.3318375802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH SIDE U.D. #1",
+        "Population Served": 4336,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9567145693,
+          36.2505340956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH SIDE U.D. #2",
+        "Population Served": 655,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9567145693,
+          36.2505340956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH SIDE U.D. #3",
+        "Population Served": 192,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9567145693,
+          36.2505340956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING CREEK UTILITY DISTRICT",
+        "Population Served": 2091,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.9930848744,
+          35.2068682628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGVILLE U.D.",
+        "Population Served": 1492,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3012135686,
+          36.3318375802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLVIA-TENN CITY-POND U.D.",
+        "Population Served": 6738,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3566550687,
+          36.1490481181
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TARPLEY SHOP UTILITY DISTRICT",
+        "Population Served": 2947,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0347773688,
+          35.2021508952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TELLICO VILLAGE P.O.A.",
+        "Population Served": 13870,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3118676685,
+          35.7347792105
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUCKALEECHEE UTILITY DISTRICT",
+        "Population Served": 12028,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.9255394315,
+          35.6872037952
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TULLAHOMA UTILITIES AUTHORITY",
+        "Population Served": 29952,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0747626426,
+          35.4906159935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWENTY FIVE UTILITY DISTRICT",
+        "Population Served": 2125,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9567145693,
+          36.2505340956
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNICOI UTILITY DISTRICT",
+        "Population Served": 4336,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.432342828,
+          36.1107306366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VENTURE OUT AT GATLINBURG",
+        "Population Served": 328,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5241923117,
+          35.7846556198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VENUE @ 109",
+        "Population Served": 1890,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2977463556,
+          36.1548497851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATAUGA RIVER REG WATER AUTH",
+        "Population Served": 379,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.1274783436,
+          36.2927208493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATTS BAR EAST U.D.",
+        "Population Served": 3927,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.5232421788,
+          35.8478552218
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAYNE CO. B.P.U. #3",
+        "Population Served": 119,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7880131637,
+          35.2399169268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEBB CREEK UTILITY DISTRICT",
+        "Population Served": 1596,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.5241923117,
+          35.7846556198
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST CUMBERLAND U.D.",
+        "Population Served": 5546,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.9983515819,
+          35.9503879058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST OVERTON UTILITY DISTRICT",
+        "Population Served": 8628,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2880811587,
+          36.3449979328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST POINT U.D.",
+        "Population Served": 418,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3955844374,
+          35.2172743542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSON CO WATER & WASTEWATER",
+        "Population Served": 22680,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2977463556,
+          36.1548497851
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WITT UTILITY DISTRICT",
+        "Population Served": 5771,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -83.2666627121,
+          36.2171519061
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAWN UTILITY DISTRICT",
+        "Population Served": 12069,
+        "City": "N/A"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.382887079,
+          36.4968580761
+        ]
+      }
+    }
+  ]
+}

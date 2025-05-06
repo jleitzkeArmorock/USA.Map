@@ -1,0 +1,6785 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "A AND J MOBILE HOME PARK",
+        "Population Served": 86,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ABERDEEN - CLIFFWOOD/CLIFFWOOD BEACH",
+        "Population Served": 6775,
+        "City": "ABERDEEN TWP-1330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2216287,
+          40.4071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ABERDEEN - FRENEAU",
+        "Population Served": 286,
+        "City": "ABERDEEN TWP-1330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2216287,
+          40.4071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ABERDEEN- HIGH SCHOOL/OAKSHADE AREA",
+        "Population Served": 1992,
+        "City": "ABERDEEN TWP-1330"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2216287,
+          40.4071138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALBERT C WAGNER YOUTH CO",
+        "Population Served": 2500,
+        "City": "CHESTERFIELD TWP.-0307"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6412727,
+          40.1153966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLAMUCHY TWP WATER & SEWER",
+        "Population Served": 5423,
+        "City": "ALLAMUCHY TWP.-2101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80692183,
+          40.93022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLENTOWN WATER DEPT",
+        "Population Served": 2000,
+        "City": "ALLENTOWN BORO-1302"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58718,
+          40.17783
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLENWOOD ESTATES, LLC",
+        "Population Served": 135,
+        "City": "TABERNACLE TWP.-0335"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7101587,
+          39.8440047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALL SEASONS MOBILE HOME PARK",
+        "Population Served": 126,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPHA MUNICIPAL WATER WORKS",
+        "Population Served": 2530,
+        "City": "ALPHA BORO-2102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.010785,
+          39.856982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALPINE VILLAGE",
+        "Population Served": 70,
+        "City": "BUENA VISTA TWP-0105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89883561,
+          39.510354750000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANCORA PSYCHIATRIC HOSPI",
+        "Population Served": 2506,
+        "City": "WINSLOW TWP.-0436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8623868,
+          39.6573385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANDOVER BORO WATER DEPT",
+        "Population Served": 606,
+        "City": "ANDOVER BORO-1901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.719052,
+          41.023123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANGLE INN MOTOR COURT",
+        "Population Served": 354,
+        "City": "HOWELL TWP.-1319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2236618,
+          40.1413032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - BEAR BROOK",
+        "Population Served": 226,
+        "City": "FREDON TWP.-1907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8087781,
+          41.0392638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - BLACKWOOD",
+        "Population Served": 44396,
+        "City": "GLOUCESTER TWP.-0415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.04765196,
+          39.7892305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - BRAINARDS",
+        "Population Served": 135,
+        "City": "HARMONY TWP.-2110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13749481,
+          40.7519835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - BUNNVALE",
+        "Population Served": 252,
+        "City": "LEBANON TWP.-1019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.897122,
+          40.729147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - BYRAM",
+        "Population Served": 400,
+        "City": "BYRAM TWP.-1904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71829556,
+          40.960174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - CALIFON",
+        "Population Served": 936,
+        "City": "CALIFON BORO-1004"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.835576,
+          40.719171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - CALIFORNIA VILLAGE",
+        "Population Served": 300,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ CLIFFSIDE PARK",
+        "Population Served": 80,
+        "City": "WASHINGTON TWP.-1438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0761333,
+          39.7508974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - EASTERN DIVISION",
+        "Population Served": 12000,
+        "City": "BERKELEY TWP.-1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1807001,
+          39.8979458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - FOX HILL",
+        "Population Served": 172,
+        "City": "HOLLAND TWP.-1015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165452,
+          40.5720456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - HAMILTON SQUARE",
+        "Population Served": 39128,
+        "City": "HAMILTON TWP.-1103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7236162,
+          40.2307818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - HANOVER MOBILE VILLAGE",
+        "Population Served": 285,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - HARKERS HOLLOW",
+        "Population Served": 40,
+        "City": "HARMONY TWP.-2110"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13749481,
+          40.7519835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - LAWRENCE",
+        "Population Served": 8655,
+        "City": "LAWRENCE TWP.-1107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7349,
+          40.2728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - PHILLIPSBURG",
+        "Population Served": 26686,
+        "City": "PHILLIPSBURG TOWN-2119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.18391,
+          40.690244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - RIEGEL RIDGE",
+        "Population Served": 621,
+        "City": "HOLLAND TWP.-1015"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.165452,
+          40.5720456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - RIEGELSVILLE",
+        "Population Served": 62,
+        "City": "POHATCONG TWP.-2120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15066271,
+          40.6391205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - SEAVIEW HARBOR",
+        "Population Served": 300,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - SPARTAN VILLAGE",
+        "Population Served": 594,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - SUMMIT LAKE",
+        "Population Served": 177,
+        "City": "HARDYSTON TWP.-1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57171525,
+          41.1267665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - TRANQUILITY SPRINGS",
+        "Population Served": 599,
+        "City": "GREEN TWP.-1908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.78707478,
+          40.9659625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - VERNON",
+        "Population Served": 515,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - WALLKILL",
+        "Population Served": 1050,
+        "City": "HARDYSTON TWP.-1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57171525,
+          41.1267665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - WARREN GLEN",
+        "Population Served": 192,
+        "City": "POHATCONG TWP.-2120"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.15066271,
+          40.6391205
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AQUA NJ - WOOLWICH",
+        "Population Served": 6271,
+        "City": "WOOLWICH TWP.-0824"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.3480555,
+          39.7414825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASCOT PARK APTS",
+        "Population Served": 125,
+        "City": "ANDOVER TWP.-1902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7297505,
+          41.0156092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATLANTIC CITY MUA",
+        "Population Served": 152415,
+        "City": "ATLANTIC CITY-0102"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4229351,
+          39.3642852
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATLANTIC HIGHLANDS WATER",
+        "Population Served": 4385,
+        "City": "ATL. HIGHLANDS BORO-1304"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.410832,
+          39.391881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUBURN VILLAGE WATER SUP",
+        "Population Served": 200,
+        "City": "OLDMANS TWP.-1706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4301937,
+          39.7567804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AVALON WATER AND SEWERAGE UTILITIES",
+        "Population Served": 39839,
+        "City": "AVALON BORO-0501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.387458,
+          41.177404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AVON BY THE SEA WATER DE",
+        "Population Served": 5000,
+        "City": "AVON-BY-THE-SEA BORO-1305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.014914,
+          40.191658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AWM FOUR SEASONS AT CHESTER",
+        "Population Served": 280,
+        "City": "CHESTER TWP.-1407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.66720906,
+          40.78028655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AWO&M - PICATINNY ARSENAL",
+        "Population Served": 6011,
+        "City": "ROCKAWAY TWP.-1435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4871818,
+          40.9302182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BANCROFT NEURO HEALTH CENTER",
+        "Population Served": 142,
+        "City": "UPPER PITTSGROVE TWP.-1714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19839173,
+          39.61153705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARNEGAT LIGHT WATER DEP",
+        "Population Served": 4148,
+        "City": "BARNEGAT LIGHT BORO-1501"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.106821,
+          39.755438
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BARNEGAT TWP WATER SEWER",
+        "Population Served": 20000,
+        "City": "BARNEGAT TWP.-1533"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2229179,
+          39.7531754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAY BREEZE VILLAGE",
+        "Population Served": 105,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYSHORE MOBILE HOME PARK",
+        "Population Served": 81,
+        "City": "STOW CREEK TWP.-0612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4079255,
+          39.4251272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYVIEW WATER SYSTEM",
+        "Population Served": 771,
+        "City": "DOWNE TWP.-0604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1349629,
+          39.2950018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEACH HAVEN WATER DEPT",
+        "Population Served": 20000,
+        "City": "BEACH HAVEN BORO-1503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.244365,
+          39.56571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEACHWOOD WATER DEPT",
+        "Population Served": 10802,
+        "City": "BEACHWOOD BORO-1504"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.206426,
+          39.923204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELLEVILLE WATER DEPT",
+        "Population Served": 35129,
+        "City": "BELLEVILLE TOWN-0701"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.15014,
+          40.79371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELLMAWR WATER DEPT",
+        "Population Served": 9522,
+        "City": "BELLMAWR BORO-0404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.096307,
+          39.865835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELMAR WATER DEPT",
+        "Population Served": 20000,
+        "City": "BELMAR BORO-1306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.467243,
+          40.313606
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERKELEY TWP MUA",
+        "Population Served": 11235,
+        "City": "BERKELEY TWP.-1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1807001,
+          39.8979458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERLIN WATER DEPARTMENT",
+        "Population Served": 13001,
+        "City": "BERLIN BORO-0405"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95586,
+          39.830213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG OAK REHAB",
+        "Population Served": 259,
+        "City": "PITTSGROVE TWP.-1710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13114603,
+          39.528263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK HORSE MANOR",
+        "Population Served": 74,
+        "City": "HAMILTON TWP-0112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7236162,
+          40.2307818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOOMFIELD WATER DEPARTMENT",
+        "Population Served": 47315,
+        "City": "BLOOMFIELD TOWN-0702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.921667,
+          39.943393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOOMINGDALE WATER DEPT",
+        "Population Served": 7742,
+        "City": "BLOOMINGDALE BORO-1601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.654438,
+          40.502123
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUEBERRY ESTATES",
+        "Population Served": 75,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BNAI BRITH CHESILHURST HOUSE",
+        "Population Served": 49,
+        "City": "CHESILHURST BORO-0410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.884177,
+          39.729329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOGERTS RANCH ESTATES IN",
+        "Population Served": 225,
+        "City": "MAHWAH TWP-0233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14376,
+          41.08871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOONTON TWP WATER DEPT",
+        "Population Served": 305,
+        "City": "BOONTON TOWN-1401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.424683,
+          40.932315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOONTON WATER DEPT",
+        "Population Served": 9532,
+        "City": "BOONTON TOWN-1401"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.424683,
+          40.932315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOROUGH OF CLAYTON",
+        "Population Served": 8179,
+        "City": "CLAYTON BORO-0801"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.07893,
+          39.662771
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOROUGH OF SPRINGLAKE HEIGHTS",
+        "Population Served": 5000,
+        "City": "SPRING L HEIGHTS BORO-1349"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOROUGH OF WOODBINE",
+        "Population Served": 2650,
+        "City": "WOODBINE BORO-0516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.062636,
+          39.946527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANCHVILLE W DEPT",
+        "Population Served": 1500,
+        "City": "BRANCHVILLE BORO-1903"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.74973,
+          41.14637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANDYWINE ASSISTED LIVING AT COLTS NECK",
+        "Population Served": 85,
+        "City": "COLTS NECK TWP.-1309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1723652,
+          40.2876108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRICK TOWNSHIP MUA",
+        "Population Served": 86898,
+        "City": "BRICK TWP.-1506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1280562,
+          40.0707244
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGETON CITY WATER DEPT",
+        "Population Served": 22770,
+        "City": "BRIDGETON CITY-0601"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21269,
+          39.45289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIELLE WATER DEPT",
+        "Population Served": 4800,
+        "City": "BRIELLE BORO-1308"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.063698,
+          40.106099
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIGANTINE WATER DEPARTMENT",
+        "Population Served": 14450,
+        "City": "BRIGANTINE CITY-0103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.381828,
+          39.414073
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOKLAWN WATER DEPARTME",
+        "Population Served": 2300,
+        "City": "BROOKLAWN BORO-0407"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.887815,
+          40.042432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOKWOOD MUSCONETCONG RIVER POA",
+        "Population Served": 1087,
+        "City": "BYRAM TWP.-1904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71829556,
+          40.960174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUENA BOROUGH MUA",
+        "Population Served": 4880,
+        "City": "BUENA BORO-0104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.895568,
+          39.495201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUENA FAMILY MANOR MOBILE H P",
+        "Population Served": 64,
+        "City": "BUENA VISTA TWP-0105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89883561,
+          39.510354750000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURLINGTON CITY WATER DE",
+        "Population Served": 9835,
+        "City": "BURLINGTON CITY-0305"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.849847,
+          40.077342
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BURLINGTON TWP W DEPT",
+        "Population Served": 22594,
+        "City": "BURLINGTON TWP.-0306"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88700756,
+          40.072587
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLER WATER DEPT",
+        "Population Served": 7630,
+        "City": "BLOOMINGDALE BORO-1601,BUTLER BORO-1403,KINNELON BORO-1415,WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3395,
+          41.0024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTTONWOOD MOBILE HOME PARK",
+        "Population Served": 55,
+        "City": "BASS RIVER TWP.-0301"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4422373,
+          39.5870203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALDWELL WATER DEPT",
+        "Population Served": 9027,
+        "City": "CALDWELL BORO-0703"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.016177,
+          39.902877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMELOT AT SPRUCE RIDGE",
+        "Population Served": 85,
+        "City": "LEBANON TWP.-1019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.897122,
+          40.729147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPE MAY MOBILE ESTATES",
+        "Population Served": 420,
+        "City": "LOWER TWP.-0505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9249245,
+          38.973965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPE MAY POINT BORO WATE",
+        "Population Served": 4000,
+        "City": "CAPE MAY POINT BORO-0503"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.965254,
+          38.937131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAPE MAY WATER & SEWER U",
+        "Population Served": 35000,
+        "City": "CAPE MAY CITY-0502"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.90852,
+          38.937315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAROL LYNN RESORT, INC",
+        "Population Served": 550,
+        "City": "WOODBINE BORO-0516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.062636,
+          39.946527
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARRIAGE MOBILE HOMES INC",
+        "Population Served": 300,
+        "City": "HAMPTON TWP.-1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7801264,
+          41.0921316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GLEN LAKES WATER C",
+        "Population Served": 2126,
+        "City": "MANCHESTER TWP.-1518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3816966,
+          39.9734957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GLEN WEST WATER CO",
+        "Population Served": 1300,
+        "City": "MANCHESTER TWP.-1518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3816966,
+          39.9734957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GROVE APARTMENTS",
+        "Population Served": 96,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR GROVE WATER DEPT",
+        "Population Served": 12900,
+        "City": "CEDAR GROVE TWP.-0704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1684738,
+          39.9734511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR SPRINGS MHP WELL #",
+        "Population Served": 90,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHATHAM WATER DEPT",
+        "Population Served": 8962,
+        "City": "CHATHAM BORO-1404"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.428454,
+          40.724019
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITYOF BAYONNE",
+        "Population Served": 63000,
+        "City": "BAYONNE CITY-0901"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.11479,
+          40.668753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITY OF CAMDEN",
+        "Population Served": 46585,
+        "City": "CAMDEN CITY-0408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11261,
+          39.936906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEMENTON WATER DEPARTMENT",
+        "Population Served": 5000,
+        "City": "CLEMENTON BORO-0411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9713,
+          39.799974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLINTON W DEPT",
+        "Population Served": 12500,
+        "City": "CLINTON TOWN  -1005"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9097,
+          40.6365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLOVER REST HOME",
+        "Population Served": 64,
+        "City": "KNOWLTON TWP.-2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.027952,
+          40.9303752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLBY WATER CO",
+        "Population Served": 65,
+        "City": "BYRAM TWP.-1904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71829556,
+          40.960174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLLIER MILLS MOBILE HOME PARK INC",
+        "Population Served": 100,
+        "City": "PLUMSTEAD TWP.-1523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52771379,
+          40.06473295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLLINGSWOOD WATER DEPAR",
+        "Population Served": 24500,
+        "City": "COLLINGSWOOD BORO-0412"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.09295,
+          39.90622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COMPLETE CARE AT MILFORD MANOR LLC",
+        "Population Served": 165,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY ARCH CARE CENTER",
+        "Population Served": 190,
+        "City": "UNION TWP.-1025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9240573,
+          40.6695453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY CLUB ESTATES",
+        "Population Served": 300,
+        "City": "UPPER PITTSGROVE TWP.-1714"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.19839173,
+          39.61153705
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY MEADOWS RENTS AND SALES MHP LLC",
+        "Population Served": 250,
+        "City": "MILLVILLE CITY-0610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.056086,
+          39.391171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COUNTRY VIEW VILLAGE, LLC",
+        "Population Served": 310,
+        "City": "WHITE TWP.-2123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.03387382,
+          40.8222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CULVER LAKE WATER COMPANY",
+        "Population Served": 40,
+        "City": "FRANKFORD TWP.-1905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.73388535,
+          41.1662296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEEP RUN ADULT VILLAGE",
+        "Population Served": 400,
+        "City": "PLUMSTEAD TWP.-1523"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52771379,
+          40.06473295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELAWARE TOWNSHIP MUA",
+        "Population Served": 500,
+        "City": "DELAWARE TWP.-1007"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.94148642,
+          40.4482545
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELILAH TERRACE MHP",
+        "Population Served": 210,
+        "City": "PLEASANTVILLE CITY-0119"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.510316,
+          39.3918169
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DELSEA WOODS COMMUNITY LLC",
+        "Population Served": 95,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DENVILLE TWP WATER DEPT",
+        "Population Served": 15881,
+        "City": "DENVILLE TWP.-1408"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4774255,
+          40.8922694
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEPTFORD TWP MUA",
+        "Population Served": 30561,
+        "City": "DEPTFORD TWP.-0802"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1235892,
+          39.8271755
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOVER WATER COMMISSION",
+        "Population Served": 27806,
+        "City": "DOVER TOWN-1409"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.559985,
+          40.88463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST BRUNSWICK WATER UTILITY",
+        "Population Served": 48474,
+        "City": "EAST BRUNSWICK TWP.-1204"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.415984,
+          40.4278841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST GREENWICH TWP WATER DEPT",
+        "Population Served": 9900,
+        "City": "EAST GREENWICH TWP.-0803"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.24010931,
+          39.79203325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST HANOVER TWP WATER DEPT",
+        "Population Served": 11393,
+        "City": "EAST HANOVER TWP.-1410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36487,
+          40.8201
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST NEWARK W DEPT",
+        "Population Served": 2406,
+        "City": "EAST NEWARK BORO-0902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.161998,
+          40.74928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST ORANGE WATER COMMISSION",
+        "Population Served": 75000,
+        "City": "EAST ORANGE CITY-0705"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST WINDSOR MUA",
+        "Population Served": 25000,
+        "City": "EAST WINDSOR TWP.-1101"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5409597,
+          40.2682199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDGEWOOD VILLAGE M H PARK",
+        "Population Served": 300,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDISON WATER CO",
+        "Population Served": 35000,
+        "City": "EDISON TWP.-1205"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5676593,
+          41.063986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDNA MAHAN CORRECTIONAL",
+        "Population Served": 1080,
+        "City": "UNION TWP.-1025"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9240573,
+          40.6695453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELMER BORO W DEPT",
+        "Population Served": 1385,
+        "City": "ELMER BORO-1702"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.38736,
+          40.382727
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELMTOWNE VILLAGE  ASSOC SYS I",
+        "Population Served": 100,
+        "City": "WINSLOW TWP.-0436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8623868,
+          39.6573385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELMTOWNE VILLAGE ASSOC. SYS II",
+        "Population Served": 100,
+        "City": "WINSLOW TWP.-0436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8623868,
+          39.6573385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELMWOOD PARK WATER DEPT",
+        "Population Served": 20374,
+        "City": "ELMWOOD PARK BORO-0211"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENGLISH CREEK MANOR M H PARK",
+        "Population Served": 250,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENGLISHTOWN WATER DEPT",
+        "Population Served": 2504,
+        "City": "ENGLISHTOWN BORO-1312"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.359762,
+          40.297375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESSEX FELLS WATER DEPT",
+        "Population Served": 2200,
+        "City": "ESSEX FELLS BORO-0706"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.281245,
+          40.825313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESSEX FELLS WATER HILLTOP SYSTEM",
+        "Population Served": 354,
+        "City": "VERONA BORO-0720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24015,
+          40.82982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESTAUGH CORP T/A MEDFORD LEAS",
+        "Population Served": 450,
+        "City": "MEDFORD TWP.-0320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8234961,
+          39.9009472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVERGREEN ESTATES",
+        "Population Served": 450,
+        "City": "FAIRFIELD TWP.-0605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2141953,
+          39.3889618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVESHAM MUA",
+        "Population Served": 45538,
+        "City": "EVESHAM TWP.-0313"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.89174118,
+          39.851752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRFIELD WATER DEPT",
+        "Population Served": 7400,
+        "City": "FAIRFIELD BORO-0707"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.273639,
+          39.963163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIR LAWN WATER DEPT",
+        "Population Served": 34947,
+        "City": "FAIR LAWN BORO-0217"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.115284,
+          40.936231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRTON FEDERAL CORRECTIONAL",
+        "Population Served": 1841,
+        "City": "FAIRFIELD TWP.-0605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2141953,
+          39.3889618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRTON OAKS M H COMMUNITY",
+        "Population Served": 207,
+        "City": "FAIRFIELD TWP.-0605"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2141953,
+          39.3889618
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FARMINGDALE WATER DEPT",
+        "Population Served": 1500,
+        "City": "FARMINGDALE BORO-1314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.170675,
+          40.19918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAWN LAKE VILLAGE",
+        "Population Served": 300,
+        "City": "SHAMONG TWP.-0332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.73031678,
+          39.7824265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAYSON LAKES WATER COMPANY INC",
+        "Population Served": 3010,
+        "City": "KINNELON BORO-1415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.386233,
+          40.985398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FENIMORE TRAILER PARK",
+        "Population Served": 88,
+        "City": "EASTAMPTON TWP.-0311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7464824,
+          40.0006328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FENIMORE WOODS MHP",
+        "Population Served": 40,
+        "City": "EASTAMPTON TWP.-0311"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7464824,
+          40.0006328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIELDSBORO WATER DEPARTMENT",
+        "Population Served": 650,
+        "City": "FIELDSBORO BORO-0314"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.72988,
+          40.13613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLEMINGTON WATER DEPARTMENT",
+        "Population Served": 4581,
+        "City": "FLEMINGTON BORO-1009"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.83961,
+          40.53177
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLORENCE TWP W DEPT",
+        "Population Served": 11214,
+        "City": "FLORENCE TWP.-0315"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.791527,
+          40.1027969
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLORHAM PARK WATER DEPT",
+        "Population Served": 8846,
+        "City": "FLORHAM PARK BORO-1411"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.385611,
+          40.78096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST LAKES W CO",
+        "Population Served": 1410,
+        "City": "BYRAM TWP.-1904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71829556,
+          40.960174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOREST MANOR RETIREMENT HOME",
+        "Population Served": 224,
+        "City": "FRELINGHUYSEN TWP.-2106"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88762399,
+          40.9646546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOUNTAINHEAD PARKS INC",
+        "Population Served": 280,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN BOARD OF PUBLIC",
+        "Population Served": 5500,
+        "City": "FRANKLIN BORO-1906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5803069,
+          41.1073673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN TOWNSHIP DEPT OF PUBLIC WORKS",
+        "Population Served": 56300,
+        "City": "FRANKLIN TWP.-1808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5392118,
+          40.4784936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREEHOLD TWP WATER DEPT",
+        "Population Served": 29831,
+        "City": "COLTS NECK TWP.-1309,FREEHOLD TWP.-1316"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.17237,
+          40.28761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARFIELD WATER DEPARTMENT",
+        "Population Served": 30487,
+        "City": "GARFIELD CITY-0221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.87933,
+          40.02094
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GATEWAY NATIONAL REC ARE",
+        "Population Served": 500,
+        "City": "MIDDLETOWN TWP.-1331"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.089879,
+          40.384263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLASSBORO WATER DEPARTMENT",
+        "Population Served": 24244,
+        "City": "GLASSBORO BORO-0806"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11132,
+          39.710834
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN GARDNER W DEPT",
+        "Population Served": 1705,
+        "City": "GLEN GARDNER BORO-1012"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.93963,
+          40.70034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN RIDGE WATER DEPT",
+        "Population Served": 7681,
+        "City": "GLEN RIDGE BORO-0708"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.202965,
+          40.804709
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLOUCESTER CITY W DEPT",
+        "Population Served": 12460,
+        "City": "GLOUCESTER CITY-0414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1161897,
+          39.8918622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GORDONS CORNER WATER CO",
+        "Population Served": 46196,
+        "City": "MANALAPAN TWP.-1326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.333495,
+          40.2852895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANDE WOODS NORTH MHP",
+        "Population Served": 200,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRANDE WOODS SOUTH MOBILE H P",
+        "Population Served": 650,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN ACRES NJ MHC LLC",
+        "Population Served": 260,
+        "City": "HOWELL TWP.-1319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2236618,
+          40.1413032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN HILLS EST PROP OWN",
+        "Population Served": 175,
+        "City": "FREDON TWP.-1907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8087781,
+          41.0392638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENWICH TWP W DEPT",
+        "Population Served": 4921,
+        "City": "GREENWICH TWP.-0807"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13472389,
+          40.684731
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HACKETTSTOWN MUA",
+        "Population Served": 22000,
+        "City": "HACKETTSTOWN TOWN-2108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.829311,
+          40.854508
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HADDON TWP WATER DEPARTM",
+        "Population Served": 11938,
+        "City": "HADDON TWP.-0416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0960074,
+          39.8976132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMBURG BOARD OF PUBLIC",
+        "Population Served": 3382,
+        "City": "HAMBURG BORO-1909"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.574819,
+          41.148738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMILTON TOWNSHIP MUA",
+        "Population Served": 21720,
+        "City": "HAMILTON TWP-0112,WEYMOUTH TWP-.0123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79961,
+          41.21676
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMMONTON WATER DEPT",
+        "Population Served": 12153,
+        "City": "HAMMONTON TOWN-0113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.767806,
+          39.657308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMPTON BOROUGH WATER DEPART",
+        "Population Served": 1401,
+        "City": "HAMPTON BORO-1013"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.779701,
+          41.096981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HANDYS MOBILE PARK",
+        "Population Served": 90,
+        "City": "CARNEY'S POINT TWP.-1713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.45015768,
+          39.73291975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HANOVER EAST APARTMENTS",
+        "Population Served": 96,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDING WOODS MHP",
+        "Population Served": 1276,
+        "City": "PITTSGROVE TWP.-1710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13114603,
+          39.528263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDYSTON TWP MUA",
+        "Population Served": 769,
+        "City": "HARDYSTON TWP.-1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57171525,
+          41.1267665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARDYSTON TWP MUA",
+        "Population Served": 1963,
+        "City": "HARDYSTON TWP.-1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57171525,
+          41.1267665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRISONVILLE MOBILE HOME PARK",
+        "Population Served": 100,
+        "City": "SOUTH HARRISON TWP.-0816"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.26023441,
+          39.700469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARRISON W DEPT",
+        "Population Served": 14425,
+        "City": "HARRISON TOWN-0904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1562,
+          40.7466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARVEY CEDARS WATER DEPT",
+        "Population Served": 6360,
+        "City": "HARVEY CEDARS BORO-1509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14216,
+          39.698107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAWTHORNE WATER DEPARTMENT",
+        "Population Served": 19458,
+        "City": "FAIR LAWN BORO-0217,HAWTHORNE BORO-1604"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.115284,
+          40.936231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HELMETTA WATER DEPT",
+        "Population Served": 2000,
+        "City": "HELMETTA BORO-1206"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.423577,
+          40.380138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIDDEN VILLAGE CONDO ASSOCIATION",
+        "Population Served": 175,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGH BRIDGE W DEPT",
+        "Population Served": 3300,
+        "City": "HIGH BRIDGE BORO-1014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.888247,
+          40.692664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLANDER HILLS ESTATES",
+        "Population Served": 120,
+        "City": "OXFORD TWP.-2117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.99690149,
+          40.80416099999999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLAND PARK W DEPT",
+        "Population Served": 14000,
+        "City": "HIGHLAND PARK BORO-1207"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.425353,
+          40.496794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHTSTOWN WATER DEPARTMENT",
+        "Population Served": 5400,
+        "City": "HIGHTSTOWN BORO-1104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.525478,
+          40.267469
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLSIDE ESTATES AT FRANKLIN",
+        "Population Served": 300,
+        "City": "FRANKLIN BORO-1906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5803069,
+          41.1073673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLSIDE VILLAGE",
+        "Population Served": 75,
+        "City": "MANSFIELD TWP.-2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9135293,
+          40.8050699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HILLTOP MOBILE VILLAGE",
+        "Population Served": 200,
+        "City": "PEMBERTON TWP.-0329"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.59322386,
+          39.9548195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOBOKEN WATER UTILITY",
+        "Population Served": 52000,
+        "City": "HOBOKEN CITY-0905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.03275185,
+          40.7348847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOFFMAN HOMES",
+        "Population Served": 120,
+        "City": "ROCKAWAY TWP.-1435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4871818,
+          40.9302182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HO HO KUS WATER DEPT",
+        "Population Served": 4060,
+        "City": "HOHOKUS BORO-0228"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLAND CHRISTIAN HOME",
+        "Population Served": 250,
+        "City": "NORTH HALEDON BORO-1606"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.182637,
+          40.962638
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY GREEN CAMPGROUND",
+        "Population Served": 140,
+        "City": "FRANKLIN TWP.-0805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5392118,
+          40.4784936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLY TREE ACRES SYSTEM 1",
+        "Population Served": 300,
+        "City": "PITTSGROVE TWP.-1710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13114603,
+          39.528263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOPATCONG WATER DEPT",
+        "Population Served": 7224,
+        "City": "HOPATCONG BORO-1912"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.67072,
+          40.94399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOPEWELL BORO W DEPT",
+        "Population Served": 2035,
+        "City": "HOPEWELL BORO-1105"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.75705271,
+          40.391047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOPEWELL PLACE SENIOR APTS",
+        "Population Served": 100,
+        "City": "HOPEWELL TWP.-0607"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8166318,
+          40.3435303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTERDON CARE CENTER",
+        "Population Served": 284,
+        "City": "RARITAN TWP.-1021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8948569,
+          40.5042326
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IONA TRAILER PARK",
+        "Population Served": 72,
+        "City": "FRANKLIN TWP.-0805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5392118,
+          40.4784936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ISLAND HEIGHTS WATER DEP",
+        "Population Served": 1750,
+        "City": "ISLAND HEIGHTS BORO-1510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14445,
+          39.941496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON ESTATES MOBILE HOME PK",
+        "Population Served": 440,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON TWP MUA",
+        "Population Served": 35424,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JBMDL-DIX MAIN SYSTEM",
+        "Population Served": 12765,
+        "City": "NEW HANOVER TWP.-0325"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57868627,
+          40.0230115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JBMDL - LAKEHURST",
+        "Population Served": 2903,
+        "City": "LAKEHURST BORO-1513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.321473,
+          40.013336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JBMDL - MCGUIRE AFB",
+        "Population Served": 12227,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON TWP W U LK HOP",
+        "Population Served": 8500,
+        "City": "JEFFERSON TWP.-1414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79518705,
+          40.28538615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON TWP W U MILTON SYS",
+        "Population Served": 4500,
+        "City": "JEFFERSON TWP.-1414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79518705,
+          40.28538615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEFFERSON TWP W VASSAR ROAD",
+        "Population Served": 90,
+        "City": "JEFFERSON TWP.-1414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79518705,
+          40.28538615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JERSEY CITY MUA",
+        "Population Served": 262000,
+        "City": "JERSEY CITY-0906"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.047455,
+          40.7215682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEANSBURG WATER & SEWER DEPT.",
+        "Population Served": 10105,
+        "City": "KEANSBURG BORO-1321"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14403,
+          40.44261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEARNY WATER DEPARTMENT",
+        "Population Served": 41664,
+        "City": "KEARNY TOWN-0907"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.113386,
+          40.75664
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KEYPORT WATER DEPT",
+        "Population Served": 7500,
+        "City": "KEYPORT BORO-1322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.20134,
+          40.43269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINNELON WATER DEPT",
+        "Population Served": 1938,
+        "City": "KINNELON BORO-1415"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.386233,
+          40.985398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LACEY TWP MUA",
+        "Population Served": 29000,
+        "City": "LACEY TWP.-1512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2951444,
+          39.8726184
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE COMO WATER DEPT",
+        "Population Served": 3000,
+        "City": "SOUTH BELMAR BORO-1347"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEHURST WATER DEPT",
+        "Population Served": 2650,
+        "City": "LAKEHURST BORO-1513"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.321473,
+          40.013336
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE LENAPE WATER CO",
+        "Population Served": 1250,
+        "City": "ANDOVER TWP.-1902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7297505,
+          41.0156092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKESHORE COMPANY",
+        "Population Served": 270,
+        "City": "HARDING TWP.-1413"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.50209229,
+          40.743647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE STOCKHOLM INC",
+        "Population Served": 300,
+        "City": "HARDYSTON TWP.-1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57171525,
+          41.1267665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE TAMARACK W CO",
+        "Population Served": 1000,
+        "City": "HARDYSTON TWP.-1911"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.57171525,
+          41.1267665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKEWOOD TWP MUA",
+        "Population Served": 27614,
+        "City": "LAKEWOOD TWP.-1514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2176435,
+          40.0978929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAND O PINES MOBILE HOME PARK, INC",
+        "Population Served": 128,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAUX LAKEVIEW MOBILE H P INC",
+        "Population Served": 291,
+        "City": "ELK TWP.-0804"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.14992465,
+          39.6647035
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAVALLETTE WATER DEPT",
+        "Population Served": 25000,
+        "City": "LAVALETTE BORO-1515"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAWRENCEVILLE SCHOOL",
+        "Population Served": 1000,
+        "City": "LAWRENCE TWP.-1107"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7349,
+          40.2728
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEISURE ARMS COMPLEX",
+        "Population Served": 60,
+        "City": "LOWER ALLOWAYS CR.-1704"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIMECREST SUBACUTE AND REHAB CENTER",
+        "Population Served": 250,
+        "City": "ANDOVER TWP.-1902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7297505,
+          41.0156092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN PARK JACKSONVILLE SYST",
+        "Population Served": 300,
+        "City": "LINCOLN PARK BORO-1416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.299108,
+          40.652216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN PARK WATER DEPT",
+        "Population Served": 11000,
+        "City": "LINCOLN PARK BORO-1416"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.299108,
+          40.652216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLE BROOK NURSING CONVALESCENT HOME",
+        "Population Served": 36,
+        "City": "LEBANON TWP.-1019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.897122,
+          40.729147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLE EGG HARBOR TWP MU",
+        "Population Served": 24215,
+        "City": "LITTLE EGG HARBOR-1516"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.27891469,
+          39.57998605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIVINGSTON TWP DIV OF WATER",
+        "Population Served": 27391,
+        "City": "LIVINGSTON TWP.-0710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.316452,
+          40.78062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG BEACH TWP BRANT BEA",
+        "Population Served": 25295,
+        "City": "LONG BEACH TWP.-1517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1997058,
+          39.6162477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG BEACH TWP HIGH BAR HARBOR",
+        "Population Served": 1230,
+        "City": "LONG BEACH TWP.-1517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1997058,
+          39.6162477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG BEACH TWP LOVE LADIES NORTH",
+        "Population Served": 150,
+        "City": "LONG BEACH TWP.-1517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1997058,
+          39.6162477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG BEACH TWP LOVE LADIES SOUTH",
+        "Population Served": 150,
+        "City": "LONG BEACH TWP.-1517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1997058,
+          39.6162477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG BEACH TWP NORTH BEACH",
+        "Population Served": 800,
+        "City": "LONG BEACH TWP.-1517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1997058,
+          39.6162477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONG BEACH TWP WD HOLGAT",
+        "Population Served": 2000,
+        "City": "LONG BEACH TWP.-1517"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1997058,
+          39.6162477
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LONGPORT WATER DEPARTMENT",
+        "Population Served": 10777,
+        "City": "LONGPORT BORO-0115"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52495,
+          39.30864
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWER TWP MUA",
+        "Population Served": 10315,
+        "City": "LOWER TWP.-0505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9249245,
+          38.973965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOZIERS TRAILER PARK",
+        "Population Served": 50,
+        "City": "JEFFERSON TWP.-1414"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.79518705,
+          40.28538615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYNDHURST WATER DEPARTMENT",
+        "Population Served": 20500,
+        "City": "LYNDHURST TWP-0232"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.12431,
+          40.81204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISON WATER DEPT",
+        "Population Served": 15820,
+        "City": "MADISON BORO-1417"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.43182,
+          40.75371
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAHWAH WATER DEPARTMENT",
+        "Population Served": 26777,
+        "City": "MAHWAH TWP-0233"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.14376,
+          41.08871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MALAGA MOBILE HOME PARK",
+        "Population Served": 100,
+        "City": "FRANKLIN TWP.-0805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5392118,
+          40.4784936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MALAGA VILLA APARTMENTS",
+        "Population Served": 100,
+        "City": "FRANKLIN TWP.-0805"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5392118,
+          40.4784936
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANALAPAN TWP - KNOB HILL",
+        "Population Served": 6600,
+        "City": "MANALAPAN TWP.-1326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.333495,
+          40.2852895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANALAPAN TWP- MILLHURST",
+        "Population Served": 2100,
+        "City": "MANALAPAN TWP.-1326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.333495,
+          40.2852895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANALAPAN TWP WD TRACY STATION",
+        "Population Served": 800,
+        "City": "MANALAPAN TWP.-1326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.333495,
+          40.2852895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANASQUAN WATER DEPARTME",
+        "Population Served": 14000,
+        "City": "MANASQUAN BORO-1327,WALL TWP.-1352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07148,
+          40.127106
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCHESTER TWP WATER UTILITY - EASTERN",
+        "Population Served": 23100,
+        "City": "MANCHESTER TWP.-1518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3816966,
+          39.9734957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCHESTER TWP  WATER UTILITY - WESTERN",
+        "Population Served": 15613,
+        "City": "MANCHESTER TWP.-1518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3816966,
+          39.9734957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCHESTER UTILITIES AUTHORITY",
+        "Population Served": 12000,
+        "City": "HALEDON BORO-1603"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.176817,
+          40.933479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANCHESTER VILLAGE",
+        "Population Served": 208,
+        "City": "MANCHESTER TWP.-1518"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3816966,
+          39.9734957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANOR WATER ASSOCIATIONS",
+        "Population Served": 75,
+        "City": "MANTUA TWP.-0810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1721232,
+          39.7940026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MANTUA TOWNSHIP MUA",
+        "Population Served": 12600,
+        "City": "MANTUA TWP.-0810"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1721232,
+          39.7940026
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLE GLEN MOBILE HOME PARK",
+        "Population Served": 120,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLE SHADE WATER DEPARTMENT",
+        "Population Served": 19400,
+        "City": "MAPLE SHADE TWP.-0319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9923915,
+          39.9526127
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLEWOOD APARTMENTS",
+        "Population Served": 55,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARGATE CITY WATER DEPARTMENT",
+        "Population Served": 23500,
+        "City": "MARGATE CITY-0116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5034858,
+          39.327894
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARLBORO TOWNSHIP WATER UTILITY DIVISION",
+        "Population Served": 29480,
+        "City": "MARLBORO TWP.-1328"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2462564,
+          40.3153877
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MATAWAN BOROUGH WATER DE",
+        "Population Served": 9084,
+        "City": "ABERDEEN TWP-1330,MARLBORO TWP.-1328,MATAWAN BORO-1329,OLD BRIDGE TWP.-1209"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2162,
+          40.4057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEADOWBROOK CO-OP INC",
+        "Population Served": 150,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEDFORD TWP DEPT OF MUNI",
+        "Population Served": 17272,
+        "City": "MEDFORD TWP.-0320"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8234961,
+          39.9009472
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MERCER COUNTY CORRECTIONAL CENTER",
+        "Population Served": 860,
+        "City": "HOPEWELL TWP.1106-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2837718,
+          39.4400291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MERCHANTVILLE PENNSAUKEN",
+        "Population Served": 47144,
+        "City": "CAMDEN CITY-0408,CHERRY HILL TWP.-0409,MERCHANTVILLE BORO-0424,PENNSAUKEN TWP.-0427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.019862,
+          39.932799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDDLESEX WATER COMPANY",
+        "Population Served": 233376,
+        "City": "WOODBRIDGE TWP.-1225"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2845911,
+          40.5576045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDDLE TWP WATER DISTRICT",
+        "Population Served": 731,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDDLE TWP WATER DISTRICT 1",
+        "Population Served": 685,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILFORD W DEPT",
+        "Population Served": 1453,
+        "City": "MILFORD BORO-1020"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLSTONE MANOR",
+        "Population Served": 137,
+        "City": "MILLSTONE TWP.-1332"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7615047,
+          39.8218239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLSTREAM APTS",
+        "Population Served": 88,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLVILLE WATER DEPARTMENT",
+        "Population Served": 27500,
+        "City": "MILLVILLE CITY-0610"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.056086,
+          39.391171
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MINE HILL TWP WATER DEPT",
+        "Population Served": 4300,
+        "City": "MINE HILL TWP.-1420"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5937701,
+          40.8778769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOBILE ESTATES OF SOUTHA",
+        "Population Served": 700,
+        "City": "SOUTHAMPTON TWP.-0333"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7380885,
+          39.931466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONROE MUNICIPAL UTILITIES  AUTHORITY",
+        "Population Served": 26179,
+        "City": "MONROE TWP.-0811"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4334464,
+          40.335756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONROE TWP UTILITY DEPARTMENT",
+        "Population Served": 33402,
+        "City": "MONROE TWP.-1213"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4334464,
+          40.335756
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTAGUE WATER CO.",
+        "Population Served": 1983,
+        "City": "MONTAGUE TWP.-1914"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7934993,
+          41.3031498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTCLAIR WATER BUREAU",
+        "Population Served": 37669,
+        "City": "MONTCLAIR TOWN-0713"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.201489,
+          40.841757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTVILLE TWP MUA",
+        "Population Served": 22000,
+        "City": "MONTVILLE TWP.-1421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.383763,
+          40.9148209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOORESTOWN WATER DEPT",
+        "Population Served": 20700,
+        "City": "MOORESTOWN TWP.-0322"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9426677,
+          39.9670569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORRIS CHASE/MORRIS HUNT PCWS",
+        "Population Served": 1080,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MORRIS COUNTY MUA",
+        "Population Served": 0,
+        "City": "RANDOLPH TWP.-1432"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58572175,
+          40.844265
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNTAIN LAKES WATER DEP",
+        "Population Served": 4012,
+        "City": "BOONTON TWP.-1402,DENVILLE TWP.-1408,MOUNTAIN LAKES BORO-1425,PARSIPPANY TROY-HILLS-1429"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.407719,
+          40.866112
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT ARLINGTON BORO DPW MAIN",
+        "Population Served": 1978,
+        "City": "MOUNT ARLINGTON BORO-1426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.640344,
+          40.926702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT ARLINGTON DPW KADEL SYS",
+        "Population Served": 1053,
+        "City": "MOUNT ARLINGTON BORO-1426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.640344,
+          40.926702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT OLIVE TWP W D MAIN",
+        "Population Served": 7887,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT OLIVE TWP W D SAND",
+        "Population Served": 744,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT OLIVE WATER DEPT L",
+        "Population Served": 57,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNT OLIVE W.D. GOLDMINE SYSTEM",
+        "Population Served": 267,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT LAUREL TWP MUA",
+        "Population Served": 41743,
+        "City": "MOUNT LAUREL TWP.-0324"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8909988,
+          39.934002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT OLIVE TWP TINC FARM",
+        "Population Served": 597,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT OLIVE TWP W D CARLTON",
+        "Population Served": 267,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT OLIVE TWP WD PINECREST",
+        "Population Served": 648,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT OLIVE TWP W D VILLAGE",
+        "Population Served": 3600,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT OLIVE VILLAGES WATER",
+        "Population Served": 5000,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MULLICA WOODS MOBILE HOME PARK",
+        "Population Served": 150,
+        "City": "MULLICA TWP-0117"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7172708,
+          39.5777443
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NATIONAL PARK WATER DEPARTMENT",
+        "Population Served": 3144,
+        "City": "NATIONAL PARK BORO-0812"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.186258,
+          39.867822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NETCONG WATER DEPT",
+        "Population Served": 3342,
+        "City": "NETCONG BORO-1428"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.70518032,
+          40.8991437
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW BRUNSWICK W DEPT",
+        "Population Served": 55000,
+        "City": "NEW BRUNSWICK CITY-1214"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4457157,
+          40.4939229
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW LISBON DEVELOPMENT CTR",
+        "Population Served": 2014,
+        "City": "WOODLAND TWP.-0339"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52305759,
+          39.842075
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWTON WATER & SEWER UTILITY",
+        "Population Served": 8300,
+        "City": "NEWTON TOWN-1915"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.74973903,
+          41.0582503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - ATLANTIC COUNTY",
+        "Population Served": 120146,
+        "City": "ABSECON CITY-0101,EGG HARBOR TWP-0108,GALLOWAY TWP-0111,LINWOOD CITY-0114,NORTHFIELD CITY-0118,PLEASANTVILLE CITY-0119,SOMERS POINT CITY-0121"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.634334,
+          39.31824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - BELVIDERE",
+        "Population Served": 2854,
+        "City": "BELVIDERE TOWN-2103"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.072795,
+          40.829652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - BRIDGEPORT",
+        "Population Served": 855,
+        "City": "LOGAN TWP.-0809"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.34883104,
+          39.7947842
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - CAPE MAY COURT HOUSE",
+        "Population Served": 5625,
+        "City": "MIDDLE TWP.-0506"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8458744,
+          39.1190651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - COASTAL NORTH",
+        "Population Served": 335449,
+        "City": "ABERDEEN TWP-1330,ASBURY PARK CITY-1303,BAY HEAD BORO-1502,BRADLEY BEACH BORO-1307,BRICK TWP.-1506,EATONTOWN BORO-1311,FAIR HAVEN BORO-1313,FREEHOLD TWP.-1316,HOLMDEL TWP.-1318,HOWELL TWP.-1319,KEANSBURG BORO-1321,LAKEWOOD TWP.-1514,LAVALETTE BORO-1515,LITTLE SILVER BORO-1323,LONG BRANCH CITY-1325,MIDDLETOWN TWP.-1331,NEPTUNE CITY BORO-1335,NEPTUNE TWP.-1334,OCEAN TWP.-1337,OCEANPORT BORO-1338,RED BANK BORO-1340,RUMSON BORO-1342,SHREWSBURY BORO-1345,TINTON FALLS-1336,TOMS RIVER-1507,UNION BEACH BORO-1350,WEST LONG BRANCH BORO-1353"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2162,
+          40.4057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - FRENCHTOWN",
+        "Population Served": 1488,
+        "City": "FRENCHTOWN BORO-1011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - HARRISON",
+        "Population Served": 9193,
+        "City": "HARRISON TWP.-0808"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1562,
+          40.7466
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - HOMESTEAD",
+        "Population Served": 2420,
+        "City": "MANSFIELD TWP.-0318"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7137709,
+          40.0912221
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NJ AMERICAN WATER - ITC",
+        "Population Served": 6463,
+        "City": "MOUNT OLIVE TWP.-1427"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7432456,
+          40.8462043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAINT PAULS ABBEY",
+        "Population Served": 530,
+        "City": "ANDOVER TWP.-1902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7297505,
+          41.0156092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SALEM WATER DEPARTMENT",
+        "Population Served": 6199,
+        "City": "MANNINGTON TWP.-1705,QUINTON TWP.-1711,SALEM CITY-1712"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.4670,
+          39.5719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAYREVILLE W DEPT",
+        "Population Served": 43761,
+        "City": "SAYREVILLE BORO-1219"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.33043,
+          40.46538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEA GIRT WATER DEPT",
+        "Population Served": 2636,
+        "City": "SEA GIRT BORO-1344"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.033113,
+          40.129781
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEA ISLE CITY WATER DEPARTMENT",
+        "Population Served": 15800,
+        "City": "SEA ISLE CITY-0509"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6897791,
+          39.1548404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEASIDE HEIGHTS WATER DE",
+        "Population Served": 20000,
+        "City": "SEASIDE HEIGHTS BORO-1526"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.075643,
+          39.943036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SEASIDE PARK WATER DEPT",
+        "Population Served": 15000,
+        "City": "SEASIDE PARK BORO-1527"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.07815,
+          39.9258
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SENATOR G.W. HAGEDORN PSYCHIATRIC HOSPIT",
+        "Population Served": 200,
+        "City": "LEBANON TWP.-1019"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.897122,
+          40.729147
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHERWOOD VILLAGE",
+        "Population Served": 75,
+        "City": "WASHINGTON TWP.-1438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0761333,
+          39.7508974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHIP BOTTOM WATER DEPART",
+        "Population Served": 15000,
+        "City": "SHIP BOTTOM BORO-1528"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.18338,
+          39.6458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHORE ACRES MOBILE HOME",
+        "Population Served": 392,
+        "City": "UPPER TWP.-0511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7068931,
+          39.217999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHORE WATER COMPANY",
+        "Population Served": 6600,
+        "City": "BERKELEY TWP.-1505"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1807001,
+          39.8979458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHREWSBURY TWP - AVMA",
+        "Population Served": 499,
+        "City": "SHREWSBURY TWP.-1346"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0732274,
+          40.3120839
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIGNATURE CARE HOME @ MONTVILLE",
+        "Population Served": 46,
+        "City": "MONTVILLE TWP.-1421"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.383763,
+          40.9148209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVER PINE PARK LAND LLC",
+        "Population Served": 92,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SIMMONS W CO",
+        "Population Served": 180,
+        "City": "WANTAGE TWP.-1924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6147655,
+          41.2377434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SISTERS OF CHARITY OF SE",
+        "Population Served": 1100,
+        "City": "MORRIS TWP.-1422"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.52084688,
+          40.798799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH BRUNSWICK TWP W DI",
+        "Population Served": 45450,
+        "City": "FRANKLIN TWP.-1808,SOUTH BRUNSWICK TWP.-1221"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.5156,
+          40.4043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHEAST MORRIS COUNTY MUA",
+        "Population Served": 62349,
+        "City": "CHATHAM BORO-1404,HANOVER TWP.-1412,HARDING TWP.-1413,MENDHAM TWP.-1419,MORRIS PLAINS BORO-1423,MORRIS TWP.-1422,MORRISTOWN TOWN-1424"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.478907,
+          40.826636
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH ORANGE WATER DEPARTMENT",
+        "Population Served": 16964,
+        "City": "SOUTH ORANGE VILLAGE-0719"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.278752,
+          40.746339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH RIVER W DEPT",
+        "Population Served": 16000,
+        "City": "SOUTH RIVER BORO-1223"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.88226,
+          40.790897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHS MOBILE HOME PARK",
+        "Population Served": 110,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH WIND MOBILE HOME V",
+        "Population Served": 625,
+        "City": "JACKSON TWP.-1511"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.3647772,
+          40.1151766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPARTA TWP WATER UTILITY -- HIGHLANDS",
+        "Population Served": 1618,
+        "City": "SPARTA TWP.-1918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6310081,
+          41.0401567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPARTA TWP WATER UTILITY - LAKE MOHAWK",
+        "Population Served": 17628,
+        "City": "SPARTA TWP.-1918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6310081,
+          41.0401567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPARTA TWP WTR - SUNSET",
+        "Population Served": 342,
+        "City": "SPARTA TWP.-1918"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6310081,
+          41.0401567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPOTSWOOD W DEPT",
+        "Population Served": 8300,
+        "City": "SPOTSWOOD BORO-1224"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36432,
+          40.4115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING LAKE WATER DEPARTMENT",
+        "Population Served": 11270,
+        "City": "SPRING LAKE BORO-1348"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.02624,
+          40.15311
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAFFORD TWP MUA CEDAR B",
+        "Population Served": 224,
+        "City": "STAFFORD TWP.-1530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2779616,
+          39.7114651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAFFORD TWP MUA FAWN LA",
+        "Population Served": 1740,
+        "City": "STAFFORD TWP.-1530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2779616,
+          39.7114651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAFFORD TWP WATER - BEACH HAVEN WEST",
+        "Population Served": 28863,
+        "City": "STAFFORD TWP.-1530"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2779616,
+          39.7114651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STANHOPE W DEPT",
+        "Population Served": 3730,
+        "City": "STANHOPE BORO-1919"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.70242,
+          40.91387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STILLWATER WATER DISTRICT 1",
+        "Population Served": 1200,
+        "City": "STILLWATER TWP.-1920"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.878225,
+          41.0359303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STOCKTON WATER DEPARTMENT",
+        "Population Served": 650,
+        "City": "STOCKTON BORO-1023"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.97592,
+          40.40605
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONE HARBOR WATER DEPT",
+        "Population Served": 30850,
+        "City": "AVALON BORO-0501,STONE HARBOR BORO-0510"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.133387,
+          39.926578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STONEY FIELD MOBILE HOME PARK",
+        "Population Served": 200,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STRAWBERRY POINT POA",
+        "Population Served": 95,
+        "City": "BYRAM TWP.-1904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71829556,
+          40.960174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SURF CITY WATER DEPT",
+        "Population Served": 10000,
+        "City": "SURF CITY BORO-1531"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.170678,
+          39.665062
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUSSEX CNTY HLTH-THE HOMESTED",
+        "Population Served": 100,
+        "City": "FRANKFORD TWP.-1905"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.73388535,
+          41.1662296
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUSSEX W DEPT",
+        "Population Served": 2201,
+        "City": "SUSSEX BORO-1921"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.29995808,
+          38.5854525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWAN LAKE RESORT",
+        "Population Served": 70,
+        "City": "GALLOWAY TWP-0111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4986142,
+          39.4646097
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWEDESBORO WATER DEPARTMENT",
+        "Population Served": 2824,
+        "City": "SWEDESBORO BORO-0817"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.310335,
+          39.748299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TEEN CHALLENGE",
+        "Population Served": 40,
+        "City": "CLINTON TWP.-1006"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8503141,
+          40.63378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THE OAKS OF WEYMOUTH WATER CO.",
+        "Population Served": 750,
+        "City": "WEYMOUTH TWP-.0123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7824558,
+          39.4256288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TILTON TERRACE MHP",
+        "Population Served": 456,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOTOWA W DEPT",
+        "Population Served": 10804,
+        "City": "TOTOWA BORO-1612"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.185844,
+          40.926719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWER 1999 MOBILE HOME PARK",
+        "Population Served": 100,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWER EAST MOBILE HOME PARK",
+        "Population Served": 70,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWER MOBILE HOMES",
+        "Population Served": 245,
+        "City": "EGG HARBOR TWP-0108"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6171489,
+          39.3820672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN CENTER AT WANTAGE",
+        "Population Served": 122,
+        "City": "WANTAGE TWP.-1924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6147655,
+          41.2377434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN & COUNTRY MHP",
+        "Population Served": 200,
+        "City": "CHESILHURST BORO-0410"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.884177,
+          39.729329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWNSHIP OF BLAIRSTOWN DPW",
+        "Population Served": 800,
+        "City": "BLAIRSTOWN TWP.-2104"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.95869531,
+          40.9851955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWNSHIP OF WAYNE",
+        "Population Served": 55000,
+        "City": "WAYNE TWP.-1614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.27654,
+          40.92538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRANQUIL VALLEY RETREAT CENTER",
+        "Population Served": 232,
+        "City": "GREEN TWP.-1908"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.78707478,
+          40.9659625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRENTON WATER WORKS",
+        "Population Served": 217000,
+        "City": "EWING TWP.-1102,HAMILTON TWP.-1103,HOPEWELL TWP.1106-,LAWRENCE TWP.-1107,TRENTON CITY-1111"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7642,
+          40.2202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIPLE BROOK MOBILE HOME",
+        "Population Served": 32,
+        "City": "KNOWLTON TWP.-2113"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.027952,
+          40.9303752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUCKERTON WATER & SEWER DEPT",
+        "Population Served": 6285,
+        "City": "TUCKERTON BORO-1532"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.35348,
+          39.60151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNITED MOBILE HOMES OF VINELAND",
+        "Population Served": 1600,
+        "City": "VINELAND CITY-0614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.91934,
+          39.48095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER DEERFIELD TWP WATER DEPT",
+        "Population Served": 2463,
+        "City": "UPPER DEERFIELD TWP.-0613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.21500359,
+          39.49499095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "US NAVAL WEAPONS STATION",
+        "Population Served": 1200,
+        "City": "COLTS NECK TWP.-1309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1723652,
+          40.2876108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VENTNOR CITY WATER & SEWER UTILITY",
+        "Population Served": 22150,
+        "City": "VENTNOR CITY-0122"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4773916,
+          39.3405045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY ANDOVER",
+        "Population Served": 115,
+        "City": "ANDOVER TWP.-1902"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7297505,
+          41.0156092
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY ARLINGTON HILLS",
+        "Population Served": 1989,
+        "City": "MOUNT ARLINGTON BORO-1426"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.640344,
+          40.926702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY - AWOSTING",
+        "Population Served": 633,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY BARRY LAKES",
+        "Population Served": 136,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY - BIRCH HILL",
+        "Population Served": 180,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY CLIFFWOOD LAKES",
+        "Population Served": 72,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY COLTS NECK",
+        "Population Served": 640,
+        "City": "COLTS NECK TWP.-1309"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1723652,
+          40.2876108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY - CRESCENT PARK",
+        "Population Served": 700,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY DAVID CURTIS",
+        "Population Served": 53,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY EAST BROOKWOOD",
+        "Population Served": 612,
+        "City": "BYRAM TWP.-1904"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.71829556,
+          40.960174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY FRANKLIN LAKES",
+        "Population Served": 5038,
+        "City": "FRANKLIN LAKES BORO-0220"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.208345,
+          41.008539
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY HAMPTON",
+        "Population Served": 814,
+        "City": "HAMPTON TWP.-1910"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7801264,
+          41.0921316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY HIGHLAND LAKES",
+        "Population Served": 88,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY LAKE CONWAY",
+        "Population Served": 80,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY LAKE GLENWOOD",
+        "Population Served": 250,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY LAMBERTVILLE",
+        "Population Served": 3960,
+        "City": "LAMBERTVILLE CITY-1017"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.94043561,
+          40.36769765
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY MATCHAPONIX",
+        "Population Served": 0,
+        "City": "FREEHOLD TWP.-1316,MANALAPAN TWP.-1326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.298303,
+          40.232387
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY MONTVALE PD95",
+        "Population Served": 654,
+        "City": "MONTVALE BORO-0236"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.020968,
+          41.047363
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY - PARKWAY",
+        "Population Served": 92,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY PREDMORE ESTATES",
+        "Population Served": 45,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY SAMMIS ROAD",
+        "Population Served": 53,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY SUNSET RIDGE",
+        "Population Served": 208,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY SUSSEX HILLS",
+        "Population Served": 168,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY TOMS RIVER",
+        "Population Served": 123184,
+        "City": "TOMS RIVER-1507"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.1968257,
+          39.9526791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY VERNON VALLEY",
+        "Population Served": 5517,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEY WALNUT HILLS",
+        "Population Served": 53,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NEW JERSEYWOODRIDGE ESTATES",
+        "Population Served": 80,
+        "City": "WANTAGE TWP.-1924"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.6147655,
+          41.2377434
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ ALLENDALE WATER SYSTEM",
+        "Population Served": 6702,
+        "City": "ALLENDALE BORO-0201"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.558236,
+          39.414748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ BALD EAGLE COMMONS",
+        "Population Served": 1444,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ-BALD EAGLE VILLAGE",
+        "Population Served": 1258,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ GRANDVIEW ESTATES",
+        "Population Served": 59,
+        "City": "VERNON TWP.-1922"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.4832132,
+          41.1984287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ GREENBROOK ESTATES",
+        "Population Served": 600,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ INDEPENDENCE HIGHLAND",
+        "Population Served": 350,
+        "City": "INDEPENDENCE TWP.-2112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8756179,
+          40.882461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ INDEPENDENCE VALLEY VIEW",
+        "Population Served": 110,
+        "City": "INDEPENDENCE TWP.-2112"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8756179,
+          40.882461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VEOLIA WATER NJ - OLDE MILFORD EST",
+        "Population Served": 1577,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VERONA WATER DEPARTMENT",
+        "Population Served": 13641,
+        "City": "VERONA BORO-0720"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.24015,
+          40.82982
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VILLAGE I",
+        "Population Served": 43,
+        "City": "PITTSGROVE TWP.-1710"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.13114603,
+          39.528263
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VINELAND WATER & SEWER UTILITY",
+        "Population Served": 36250,
+        "City": "VINELAND CITY-0614"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.91934,
+          39.48095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WAGON WHEEL ESTATES",
+        "Population Served": 86,
+        "City": "NORTH HANOVER TWP.-0326"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.58573128,
+          40.08801
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALDWICK WATER DEPT",
+        "Population Served": 10208,
+        "City": "WALDWICK BORO-0264"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.123883,
+          41.013164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALLINGTON WATER DEPT",
+        "Population Served": 11583,
+        "City": "WALLINGTON BORO-0265"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.110391,
+          40.850903
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALL TWP WATER DEPT",
+        "Population Served": 26000,
+        "City": "WALL TWP.-1352"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.0902219,
+          40.1743052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WANAQUE W DEPT.",
+        "Population Served": 10266,
+        "City": "RINGWOOD BORO-1611,WANAQUE BORO-1613"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.428087,
+          39.35661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARREN HAVEN REHABILITATION & NURSING CT",
+        "Population Served": 430,
+        "City": "MANSFIELD TWP.-2116"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.9135293,
+          40.8050699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON CROSSING PARK ESTATES",
+        "Population Served": 356,
+        "City": "HOPEWELL TWP.1106-"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.2837718,
+          39.4400291
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON TOWNSHIP MUA",
+        "Population Served": 48000,
+        "City": "WASHINGTON TWP.-0818"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0761333,
+          39.7508974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON TWP MUA-HAGER",
+        "Population Served": 3458,
+        "City": "TEWKSBURY TWP.-1024,WASHINGTON TWP.-1438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7749,
+          40.7057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON TWP MUA-SCHOO",
+        "Population Served": 4866,
+        "City": "WASHINGTON TWP.-1438"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.0761333,
+          39.7508974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATERFORD TOWNSHIP WATER DEPT.",
+        "Population Served": 1184,
+        "City": "WATERFORD TWP.-0435"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.80109551,
+          39.7321715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WENONAH WATER DEPARTMENT",
+        "Population Served": 2357,
+        "City": "WENONAH BORO-0819"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.738208,
+          39.66502
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST CALDWELL WATER DEPARTMENT",
+        "Population Served": 10759,
+        "City": "WEST CALDWELL BORO-0721"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.303306,
+          40.847023
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST CAPE MAY WATER DEPT",
+        "Population Served": 4600,
+        "City": "WEST CAPE MAY BORO-0512"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.93773,
+          38.94232
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST DEPTFORD TWP WATER DEPT",
+        "Population Served": 22000,
+        "City": "WEST DEPTFORD TWP.-0820"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.1888708,
+          39.832362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WESTVILLE WATER DEPARTMENT",
+        "Population Served": 6000,
+        "City": "WESTVILLE BORO-0821"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.11768,
+          39.8565
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEYMOUTH TWSP MUA",
+        "Population Served": 720,
+        "City": "WEYMOUTH TWP-.0123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.7824558,
+          39.4256288
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHARTON WATER DEPT",
+        "Population Served": 6342,
+        "City": "MINE HILL TWP.-1420,WHARTON BORO-1439"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.781288,
+          40.86467
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILDWOOD CITY WATER DEPARTMENT",
+        "Population Served": 218472,
+        "City": "WILDWOOD CITY-0514"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.318363,
+          40.747567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLINGBORO MUA",
+        "Population Served": 35000,
+        "City": "WILLINGBORO TWP.-0338"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8808221,
+          40.0289423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINDING BROOK MHP SYS 1",
+        "Population Served": 80,
+        "City": "HOWELL TWP.-1319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2236618,
+          40.1413032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINDING BROOK MHP SYSTEM 2",
+        "Population Served": 184,
+        "City": "HOWELL TWP.-1319"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.2236618,
+          40.1413032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINDTRYST APTS",
+        "Population Served": 216,
+        "City": "WHITE TWP.-2123"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.03387382,
+          40.8222225
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINDY ACRES MOBILE HOME",
+        "Population Served": 100,
+        "City": "CHESTER BORO-1406"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.68455,
+          40.756074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINFIELD MUTUAL HOUSING",
+        "Population Served": 1600,
+        "City": "WINFIELD TWP.-2021"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.288255,
+          40.636366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINSLOW COURT HOMES INC",
+        "Population Served": 90,
+        "City": "WINSLOW TWP.-0436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8623868,
+          39.6573385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINSLOW TWP DMU",
+        "Population Served": 172,
+        "City": "WINSLOW TWP.-0436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8623868,
+          39.6573385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINSLOW TWP DMU",
+        "Population Served": 39174,
+        "City": "WINSLOW TWP.-0436"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.8623868,
+          39.6573385
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WONDER LAKE PROPERTIES I",
+        "Population Served": 105,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODBURY CITY W DEPT",
+        "Population Served": 9963,
+        "City": "WOODBURY CITY-0822"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.155154,
+          39.819517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODBURY HEIGHTS W UTILI",
+        "Population Served": 3008,
+        "City": "WOODBURY HEIGHTS BORO-0823"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.155154,
+          39.819517
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAND HEIGHTS HOMEOWNERS ASSOCIATION",
+        "Population Served": 55,
+        "City": "WEST MILFORD TWP.-1615"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.36737,
+          41.13121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAND PARK  WATER DEPARTMENT",
+        "Population Served": 6000,
+        "City": "WOODLAND PARK BORO-1616"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.958775,
+          40.913524
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODSTOWN WATER DEPARTMENT",
+        "Population Served": 4455,
+        "City": "WOODSTOWN"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.325324,
+          39.650362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WRIGHTSTOWN MUA",
+        "Population Served": 748,
+        "City": "WRIGHTSTOWN BORO-0340"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -74.618556,
+          40.031472
+        ]
+      }
+    }
+  ]
+}

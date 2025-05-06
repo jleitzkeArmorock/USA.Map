@@ -1,0 +1,7505 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ABBEVILLE WATER WORKS & SEWER BOARD",
+        "Population Served": 3933,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2503315,
+          31.5702088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ADDISON WATER WORKS",
+        "Population Served": 2601,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1814012,
+          34.2023243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AKRON WATER DEPARTMENT, TOWN OF",
+        "Population Served": 525,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7425105,
+          32.8765165
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALABASTER WATER BOARD",
+        "Population Served": 41061,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8163773,
+          33.2442813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALBERTVILLE, MUNICIPAL UB OF THE CITY OF",
+        "Population Served": 29367,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2088669,
+          34.2675937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALEXANDER CITY WATER DEPARTMENT",
+        "Population Served": 29565,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9538532,
+          32.944012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALICEVILLE, WATER & SB OF THE CITY OF",
+        "Population Served": 5655,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1517162,
+          33.1293544
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALLGOOD WATER WORKS, TOWN OF",
+        "Population Served": 861,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5094315,
+          33.9120429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ALTOONA WATER & SEWER BOARD",
+        "Population Served": 1068,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3258835,
+          34.025609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANDALUSIA, UTILITIES BOARD OF",
+        "Population Served": 15114,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.482424,
+          31.3080607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ANNISTON WATER WORKS & SEWER BOARD",
+        "Population Served": 56646,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8283224,
+          33.6624824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARAB WATER WORKS BOARD",
+        "Population Served": 34800,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4958219,
+          34.3181497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARDMORE WATER SYSTEM",
+        "Population Served": 3903,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.83832519,
+          34.98485675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARITON WATER WORKS",
+        "Population Served": 1263,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7188298,
+          31.6001655
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ARLEY WATER WORKS",
+        "Population Served": 8673,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2125687,
+          34.0800419
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASBURY WATER SYSTEM",
+        "Population Served": 3906,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2088669,
+          34.2675937
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASHFORD WATER WORKS",
+        "Population Served": 3816,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2359981,
+          31.1838101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASHLAND WATER & SEWER BOARD",
+        "Population Served": 2925,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8360741,
+          33.2737256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ASHVILLE WATER AND SEWER",
+        "Population Served": 4107,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2549799,
+          33.8369216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATHENS, THE WATERWORKS BD OF THE CITY OF",
+        "Population Served": 35982,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9711698,
+          34.8045487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ATTALLA WATER WORKS BOARD",
+        "Population Served": 8403,
+        "Primary Water Source Type": "GU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0885851,
+          34.0217639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUBURN WATER WORKS",
+        "Population Served": 65313,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4807825,
+          32.6098566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUTAUGA CO WATER AUTHORITY",
+        "Population Served": 7710,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4753174,
+          32.4600136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AUTAUGAVILLE WATER WORKS",
+        "Population Served": 1494,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6547019,
+          32.4340249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "AVON WATER SYSTEM",
+        "Population Served": 495,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2359981,
+          31.1838101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAKERHILL WATER AUTHORITY",
+        "Population Served": 7128,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3016983,
+          31.781203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BANKS WATER SYSTEM",
+        "Population Served": 1260,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8430034,
+          31.8151585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BAYOU LA BATRE UTILITIES",
+        "Population Served": 8100,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2486876,
+          30.4030511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAR CREEK WATER WORKS",
+        "Population Served": 3150,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEATRICE WATER SYSTEM",
+        "Population Served": 591,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2044746,
+          31.7328621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEAUREGARD WATER AUTHORITY",
+        "Population Served": 12270,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3782795,
+          32.6454116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELFOREST WATER SYSTEM",
+        "Population Served": 17268,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9036047,
+          30.6035255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BELK WATER SYSTEM",
+        "Population Served": 894,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9314109,
+          33.647611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BERRY, TOWN OF",
+        "Population Served": 4887,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6000098,
+          33.6598332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BESSEMER WATER SERVICE",
+        "Population Served": 86091,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.954437,
+          33.4017766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BETHEL WATER SYSTEM",
+        "Population Served": 4362,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4835916,
+          33.234281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BEULAH UTILITIES DISTRICT",
+        "Population Served": 10389,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIG WILLS WATER & FIRE PRO AUTHORITY",
+        "Population Served": 2301,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0885851,
+          34.0217639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BILLINGSLEY WATER SYSTEM",
+        "Population Served": 1440,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.717761,
+          32.659575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BIRMINGHAM, THE WW BOARD OF THE CITY OF",
+        "Population Served": 585000,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8024326,
+          33.5206824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLACK WATER WORKS",
+        "Population Served": 369,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7443772,
+          31.0093468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOUNT COUNTY WATER AUTHORITY",
+        "Population Served": 19074,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5774905,
+          33.9909316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLOUNTSVILLE, THE UB BD OF THE TOWN OF",
+        "Population Served": 4266,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5911027,
+          34.0814863
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE HOLE WATER COMPANY, INC., THE",
+        "Population Served": 246,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BLUE SPRINGS WATER WORKS",
+        "Population Served": 636,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6104972,
+          31.7087753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOAZ WATER & SEWER BOARD",
+        "Population Served": 15000,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1649421,
+          34.1983281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BOLDO WATER & FIRE PROT. AUTHORITY",
+        "Population Served": 4764,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2775053,
+          33.8312185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRANTLEY WATER WORKS",
+        "Population Served": 1485,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2571786,
+          31.5823832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRENT UTILITIES BOARD",
+        "Population Served": 6750,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1647184,
+          32.9373463
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BREWTON WATER WORKS",
+        "Population Served": 11430,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0722655,
+          31.1039239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRIDGEPORT UTILITIES BOARD",
+        "Population Served": 5505,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7144155,
+          34.9475808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRILLIANT, THE UB OF THE TOWN",
+        "Population Served": 1590,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7583574,
+          34.0253797
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BROOKSIDE WATER WORKS",
+        "Population Served": 2640,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9166612,
+          33.6378825
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BRUNDIDGE WATER DEPARTMENT",
+        "Population Served": 3672,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8160567,
+          31.7201615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUHL, ELROD & HOLMAN WATER AUTHORITY",
+        "Population Served": 3648,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7527902,
+          33.2570623
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLER COUNTY WATER AUTHORITY",
+        "Population Served": 14052,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6177517,
+          31.8295972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "BUTLER WATER SYSTEM",
+        "Population Served": 4590,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2219652,
+          32.0895908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALERA WATER WORKS",
+        "Population Served": 26982,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7505733,
+          33.1035045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CALHOUN COUNTY WATER AUTHORITY",
+        "Population Served": 32796,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.88067599,
+          33.768705800000006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMDEN WATER & SEWER DEPARTMENT",
+        "Population Served": 4170,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2905456,
+          31.9909813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CAMP HILL UTILITIES BOARD",
+        "Population Served": 1500,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6535659,
+          32.8004059
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARBON HILL UTILITIES BOARD",
+        "Population Served": 3159,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5294765,
+          33.8888252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARROLLS CREEK WATER AUTHORITY",
+        "Population Served": 16032,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5771286,
+          33.2292976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CARROLLTON, TOWN OF",
+        "Population Served": 1305,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CASTLEBERRY WATER SYSTEM",
+        "Population Served": 1095,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0224721,
+          31.2990599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CEDAR BLUFF UTILITIES BOARD",
+        "Population Served": 4875,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6077402,
+          34.2200942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL ELMORE WATER & SEWER AUTHORITY",
+        "Population Served": 39798,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2045442,
+          32.5378668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRAL TALLADEGA COUNTY WATER AUTHORITY",
+        "Population Served": 3420,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6102422,
+          34.5053635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTREVILLE WATER & SEWER",
+        "Population Served": 5985,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1386067,
+          32.9445682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CENTRE WATER & SEWER BOARD",
+        "Population Served": 7050,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6788531,
+          34.1520406
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHANDLER MTN/GREASY COVE WATER AUTHORITY",
+        "Population Served": 960,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2016435,
+          33.9398202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHATOM, THE UTILITIES BOARD OF THE TOWN",
+        "Population Served": 2037,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2544557,
+          31.4651653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHATTAHOOCHEE VALLEY WATER SUPPLY DIST",
+        "Population Served": 32,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1904971,
+          32.8687391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHEROKEE COUNTY WATER AUTHORITY",
+        "Population Served": 11013,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6113501,
+          33.9245454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHEROKEE WATER & GAS DEPARTMENT",
+        "Population Served": 1992,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6004514,
+          34.1142554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHILDERSBURG WATER & SEWER  BOARD",
+        "Population Served": 9744,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3549774,
+          33.2781686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHILTON WATER AUTHORITY",
+        "Population Served": 27681,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7158178,
+          32.9156796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHISHOLM HEIGHTS WATER & F P AUTHORITY",
+        "Population Served": 4881,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677251,
+          34.79981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CHOCTAW-EDNA WATER AUTHORITY, INC.",
+        "Population Served": 819,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0561287,
+          32.2070888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CITIZENS WATER SERVICE, INC.",
+        "Population Served": 13755,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3208336,
+          33.2556719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLANTON WATER DEPARTMENT",
+        "Population Served": 13500,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6309229,
+          32.8392013
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAY COUNTY WATER AUTHORITY",
+        "Population Served": 2751,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7544051,
+          33.3106696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLAYTON WATER WORKS & SEWER",
+        "Population Served": 2064,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4496627,
+          31.8782162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEBURNE COUNTY WATER AUTHORITY",
+        "Population Served": 8094,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5874584,
+          33.6489948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLEVELAND WATER WORKS",
+        "Population Served": 3516,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5774905,
+          33.9909316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CLIO WATER WORKS",
+        "Population Served": 2832,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6104972,
+          31.7087753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COALING WATER AUTHORITY",
+        "Population Served": 3747,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.340834,
+          33.1590078
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COFFEE COUNTY WATER AUTHORITY",
+        "Population Served": 6000,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9293861,
+          31.3857239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COFFEEVILLE WATER WORKS, TOWN OF",
+        "Population Served": 2730,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0897308,
+          31.7579353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COKER WATER AUTHORITY",
+        "Population Served": 4845,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6877882,
+          33.2459512
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLBERT COUNTY RURAL WATER SYSTEM",
+        "Population Served": 13395,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70253,
+          34.7312005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLLINSVILLE WATER WORKS",
+        "Population Served": 3885,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8608643,
+          34.2648308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBIANA, THE WW BOARD OF THE TOWN OF",
+        "Population Served": 11664,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6072054,
+          33.1781718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COLUMBIA WATER WORKS",
+        "Population Served": 1179,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1115416,
+          31.2928122
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOK SPRINGS WATER AUTHORITY",
+        "Population Served": 4569,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COOSA VALLEY WATER SUPPLY DISTRICT",
+        "Population Served": 25,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2549799,
+          33.8369216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COPELAND FERRY/PUMPKIN CENTER WA",
+        "Population Served": 1074,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2316677,
+          33.6689973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CORDOVA WATER WORKS & GAS BOARD",
+        "Population Served": 3903,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1831681,
+          33.759672
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COTTONWOOD WATER WORKS",
+        "Population Served": 3570,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3027654,
+          31.0520632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COVINGTON COUNTY WATER AUTHORITY",
+        "Population Served": 13224,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.482424,
+          31.3080607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COWARTS WATER SYSTEM",
+        "Population Served": 2262,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3047506,
+          31.2003319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "COWIKEE WATER AUTHORITY",
+        "Population Served": 1995,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1454876,
+          31.8912717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CROSSVILLE WATER BOARD",
+        "Population Served": 1998,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.99414,
+          34.2875925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUBA WATER BOARD",
+        "Population Served": 570,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3760788,
+          32.4275175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CULLMAN, CITY OF",
+        "Population Served": 35496,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8779268,
+          34.1335332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CULLMAN COUNTY WATER DEPARTMENT",
+        "Population Served": 55974,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CULLMAN UTILITIES BOARD",
+        "Population Served": 32,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8779268,
+          34.1335332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CUMBERLAND MOUNTAIN WATER",
+        "Population Served": 5880,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0338765,
+          34.6731323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CURRY WATER AUTHORITY",
+        "Population Served": 17784,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2775053,
+          33.8312185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "CWM WATER AUTHORITY",
+        "Population Served": 1749,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7105544,
+          31.7634884
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DADEVILLE WATER WORKS & SEWAGE BOARD",
+        "Population Served": 4020,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7635692,
+          32.831238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DALE COUNTY WATER AUTHORITY",
+        "Population Served": 7779,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6405865,
+          31.4584764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DALEVILLE, THE WWSB OF THE CITY OF",
+        "Population Served": 10014,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7129908,
+          31.3101719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DALLAS COUNTY WATER & SEWER AUTHORITY",
+        "Population Served": 4152,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0207473,
+          32.4078632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAPHNE, UTILITIES BOARD OF THE CITY OF",
+        "Population Served": 33372,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9036047,
+          30.6035255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAUPHIN ISLAND WATER & SEWER",
+        "Population Served": 5802,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1124817,
+          30.2542022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DAVISTON WATER SYSTEM, TOWN OF",
+        "Population Served": 693,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6396783,
+          33.0528992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DECATUR, MUNICIPAL UTILITIES BOARD OF",
+        "Population Served": 77103,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9838165,
+          34.6060203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEER PARK-VINEGAR BEND WATER & FPA",
+        "Population Served": 1467,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.32849189,
+          31.2200918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEKALB-JACKSON WATER SUPPLY DISTRICT",
+        "Population Served": 15531,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DEMOPOLIS WATER WORKS AND SEWER BOARD",
+        "Population Served": 10530,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8368201,
+          32.5178284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DETROIT WATER WORKS",
+        "Population Served": 435,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1700368,
+          34.0281608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DORA UTILITIES",
+        "Population Served": 4131,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0904188,
+          33.7286935
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOTHAN UTILITIES, CITY OF",
+        "Population Served": 97146,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3934375,
+          31.2237285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOUBLE SPRINGS, TOWN OF W&S BOARD",
+        "Population Served": 6030,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4022386,
+          34.1464916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOUGLAS WATER AUTHORITY",
+        "Population Served": 16632,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3235926,
+          34.1737065
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "DOZIER WATER WORKS",
+        "Population Served": 597,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3649582,
+          31.4921084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST ALABAMA WATER & FIRE PRO DISTRICT",
+        "Population Served": 17532,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST BREWTON WATER & SEWER BOARD",
+        "Population Served": 2994,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0627469,
+          31.0932339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST CENTRAL BALDWIN COUNTY WATER & FPA",
+        "Population Served": 5496,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7109526,
+          30.5552959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST CULLMAN WATER SYSTEM",
+        "Population Served": 13038,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8779268,
+          34.1335332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST LAUDERDALE COUNTY WATER AUTHORITY",
+        "Population Served": 10296,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2945325,
+          34.8256204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EAST LOWNDES WATER ASSOCIATION, INC.",
+        "Population Served": 459,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ECLECTIC WATER WORKS & SEWER BOARD",
+        "Population Served": 5094,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0344079,
+          32.6354093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EDWARDSVILLE WATER & FIRE PRO AUTHORITY",
+        "Population Served": 570,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5091235,
+          33.7073272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELBA WATER WORKS",
+        "Population Served": 5361,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0677243,
+          31.4146108
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELDRIDGE WATER SYSTEM",
+        "Population Served": 1674,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6172389,
+          33.9228835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ELMORE WATER & SEWER AUTHORITY",
+        "Population Served": 13680,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.125195,
+          32.5801231
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENGLEWOOD-HULLS WATER SYSTEM, INC.",
+        "Population Served": 7604,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5675258,
+          33.2095614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ENTERPRISE WATER WORKS",
+        "Population Served": 48000,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8552161,
+          31.3151708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ESCAMBIA COMMUNITY UTILITIES LLC",
+        "Population Served": 1500,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4619291,
+          31.2201734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EUFAULA WATER WORKS",
+        "Population Served": 17958,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1454876,
+          31.8912717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EUTAW WATER DEPARTMENT",
+        "Population Served": 4764,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8875144,
+          32.8406848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EVERGREEN WATER WORKS",
+        "Population Served": 4950,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9569176,
+          31.4334994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "EXCEL, TOWN OF",
+        "Population Served": 3600,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3413731,
+          31.4279433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRHOPE, CITY OF",
+        "Population Served": 59484,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9028458,
+          30.5231647
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAIRVIEW WATER SYSTEM, CONECUH",
+        "Population Served": 975,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9569176,
+          31.4334994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FALKVILLE WATER WORKS",
+        "Population Served": 1434,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.908616,
+          34.3684295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAUNSDALE WATER WORKS",
+        "Population Served": 414,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5938938,
+          32.4598585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAYETTE CO. WATER COORD. & F. P. A.",
+        "Population Served": 4386,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7419088,
+          33.7303493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAYETTEVILLE WATER  AUTHORITY",
+        "Population Served": 5865,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45162925,
+          33.1674592
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FAYETTE WATER WORKS BOARD",
+        "Population Served": 8142,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7419088,
+          33.7303493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FIVE STAR WATER SUPPLY DISTRICT",
+        "Population Served": 100,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4753174,
+          32.4600136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLOMATON WATER WORKS",
+        "Population Served": 2409,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2608071,
+          31.000182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLORALA WATER WORKS & SEWER BOARD",
+        "Population Served": 3051,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3280018,
+          31.00518
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FLORENCE, WATER DEPARTMENT, CITY OF",
+        "Population Served": 77766,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677251,
+          34.79981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOLEY, UTILITIES BOARD OF THE CITY OF",
+        "Population Served": 50919,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6835974,
+          30.4065868
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORDS VALLEY & HWY 278 WATER",
+        "Population Served": 5616,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6113501,
+          33.9245454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORKLAND WATER SYSTEM",
+        "Population Served": 1137,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8833858,
+          32.6483536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT DEPOSIT WATER & SEWER BOARD",
+        "Population Served": 2250,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5785856,
+          31.9845929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT PAYNE, THE WW BD OF THE CITY OF",
+        "Population Served": 25107,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7196893,
+          34.4442547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FORT RUCKER -AMERICAN WATER ENTERPRISES",
+        "Population Served": 16774,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FOSTERS-RALPH WATER AUTHORITY",
+        "Population Served": 6015,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7689003,
+          33.0420679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN COUNTY WATER SERVICE AUTHORITY",
+        "Population Served": 4932,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7290264,
+          34.5068228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKLIN, TOWN OF",
+        "Population Served": 150,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6908715,
+          32.4240535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRANKVILLE WATER & FIRE PRO AUTHORITY",
+        "Population Served": 945,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1475089,
+          31.6465492
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FREEMANVILLE WATER SYSTEM",
+        "Population Served": 3414,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4938708,
+          31.0237921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRIENDSHIP WATER WORKS",
+        "Population Served": 4425,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7902411,
+          33.5848282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRISCO CITY WATER SYSTEM",
+        "Population Served": 2100,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.401375,
+          31.4334985
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FRUITDALE WATER SYSTEM",
+        "Population Served": 1746,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2544557,
+          31.4651653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FSI EVERGREEN ESTATES PROPERTY, LLC",
+        "Population Served": 1584,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3091683,
+          32.37742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FSI GREEN PARK SOUTH PROPERTY LLC",
+        "Population Served": 966,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8099884,
+          33.285669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FT MITCHELL WATER SYSTEM",
+        "Population Served": 13509,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "FULTON, UTILITIES BOARD OF THE TOWN OF",
+        "Population Served": 534,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7272221,
+          31.7884881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GADSDEN WATER WORKS AND SEWER BOARD",
+        "Population Served": 44637,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0030251,
+          34.0128323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GANTT WATER SYSTEM",
+        "Population Served": 801,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4841273,
+          31.4068339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GARDEN CITY WATER DEPARTMENT",
+        "Population Served": 780,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7492195,
+          34.0124746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GENEVA WATER WORKS",
+        "Population Served": 8700,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.803014,
+          31.0862933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GEORGIANA, THE WW BOAD OF THE TOWN OF",
+        "Population Served": 2889,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7419175,
+          31.6371028
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GILBERTOWN, UTILITIES BOARD OF TOWN OF",
+        "Population Served": 8157,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3214089,
+          31.8770975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLEN ALLEN WATER SYSTEM",
+        "Population Served": 1500,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7400804,
+          33.9147418
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENCOE WATER WORKS BOARD",
+        "Population Served": 6465,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9324698,
+          33.957043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GLENWOOD WATER WORKS",
+        "Population Served": 318,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1713444,
+          31.6646032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOODWATER WTR WORKS & SEWER BD, CITY OF",
+        "Population Served": 2550,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0538692,
+          33.0637706
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GORDON, TOWN OF",
+        "Population Served": 414,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0965965,
+          31.1412918
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GORDO WTR GAS & SEWER BOARD",
+        "Population Served": 3630,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9027962,
+          33.3201178
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOSHEN WATER WORKS DIST SYSTEM",
+        "Population Served": 516,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1182882,
+          31.7229352
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GOVERNMENTAL UTILITY SERVICE CORPORATION",
+        "Population Served": 32,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.954437,
+          33.4017766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAND BAY WATER WORKS BOARD",
+        "Population Served": 11100,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.34654634,
+          30.4722153
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GRAYSVILLE WATER & SEWER BOARD",
+        "Population Served": 9180,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9713844,
+          33.6206611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENE COUNTY WATER AUTHORITY",
+        "Population Served": 4062,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8875144,
+          32.8406848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENHILL WATER & FIRE PRO AUTHORITY",
+        "Population Served": 8214,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677251,
+          34.79981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREEN POND WATER SYSTEM",
+        "Population Served": 8631,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1263844,
+          33.2251162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENSBORO, UTILITIES BD OF THE CITY OF",
+        "Population Served": 4500,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5958396,
+          32.7045753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GREENVILLE WATER WORKS",
+        "Population Served": 9290,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6177517,
+          31.8295972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GROVE HILL WATER WORKS",
+        "Population Served": 5280,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7772218,
+          31.7087681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GUIN WATER & SEWER BOARD",
+        "Population Served": 4350,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9138911,
+          33.9675458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GULF SHORES, THE UB OF THE CITY OF",
+        "Population Served": 36798,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6893826,
+          30.2711224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GUNTERSVILLE WATER WORKS & SEWER BOARD",
+        "Population Served": 12612,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2947041,
+          34.3581474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "GURLEY WATER SYSTEM",
+        "Population Served": 1143,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3758201,
+          34.7017558
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HACKLEBURG WATER & SEWER BOARD",
+        "Population Served": 2481,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8284254,
+          34.2776095
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HACKNEYVILLE WATER & FIRE PRO AUTHORITY",
+        "Population Served": 1383,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9538532,
+          32.944012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HALE COUNTY WATER AUTHORITY, THE",
+        "Population Served": 9540,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5958396,
+          32.7045753
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HALEYVILLE WATER WORKS & SEWER BOARD",
+        "Population Served": 11826,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6214133,
+          34.226488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMDEN RIDGE WATER AUTHORITY",
+        "Population Served": 2196,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9569176,
+          31.4334994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAMILTON WATER AND WASTEWATER DEPARTMENT",
+        "Population Served": 10500,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9890206,
+          34.1420861
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HANCEVILLE, THE WWSB OF THE CITY OF",
+        "Population Served": 6042,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7627004,
+          34.0623275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARPERSVILLE WATER BOARD",
+        "Population Served": 2550,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4380357,
+          33.3439995
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTFORD WATER WORKS",
+        "Population Served": 4323,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6977651,
+          31.1019671
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARTSELLE UTILITY BOARD",
+        "Population Served": 22233,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9352842,
+          34.4434282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HARVEST-MONROVIA WATER SYSTEM",
+        "Population Served": 51915,
+        "Primary Water Source Type": "GU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.74912137,
+          34.855872500000004
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAWK PRIDE MT WATER SYSTEM",
+        "Population Served": 4035,
+        "Primary Water Source Type": "GU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70253,
+          34.7312005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAYDEN WATER WORKS",
+        "Population Served": 2589,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.757773,
+          33.8926003
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HAYNEVILLE WATER DEPARTMENT",
+        "Population Served": 2958,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5802533,
+          32.1840315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HEADLAND WATER WORKS",
+        "Population Served": 6495,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3421559,
+          31.351284
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HEATH WATER SYSTEM",
+        "Population Served": 450,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.482424,
+          31.3080607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HEFLIN WATER WORKS",
+        "Population Served": 4287,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5874584,
+          33.6489948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HELENA UTILITY BOARD",
+        "Population Served": 20700,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8436004,
+          33.296224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HENRY COUNTY WATER AUTHORITY",
+        "Population Served": 10902,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2503315,
+          31.5702088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HIGHLAND WATER AUTHORITY",
+        "Population Served": 3963,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0030251,
+          34.0128323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOBSON CITY WATER SYSTEM",
+        "Population Served": 633,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8441318,
+          33.6214934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOBSON WATER SYSTEM",
+        "Population Served": 669,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2544557,
+          31.4651653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HODGES WATER SYSTEM",
+        "Population Served": 2400,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9268739,
+          34.3272554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOKES BLUFF WATER BOARD",
+        "Population Served": 5536,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8663574,
+          33.9981546
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLLINS WATER AUTHORITY",
+        "Population Served": 1269,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.13546527,
+          33.127647800000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOLTVILLE WATER SYSTEM",
+        "Population Served": 9006,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3958072,
+          32.6081874
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HOUSTON COUNTY WATER AUTHORITY",
+        "Population Served": 4902,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3934375,
+          31.2237285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUGULEY WATER AUTHORITY",
+        "Population Served": 6795,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.24629468,
+          32.8408635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HUNTSVILLE UTILITIES",
+        "Population Served": 262158,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5859011,
+          34.729847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "HURTSBORO WATER & SEWER BOARD",
+        "Population Served": 1038,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4163327,
+          32.2418146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "IRONDALE WATER SYSTEM",
+        "Population Served": 10098,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7072102,
+          33.5381601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON COUNTY WATER AUTHORITY",
+        "Population Served": 7800,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0338765,
+          34.6731323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSONS GAP WATER AUTHORITY",
+        "Population Served": 6813,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8116265,
+          32.8862364
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSONVILLE WATER WORKS, GAS AND SEWER",
+        "Population Served": 14217,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7612872,
+          33.8137919
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACKSON WATER WORKS & SEWER BOARD",
+        "Population Served": 11715,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9867941,
+          34.7692447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JACK WATER SYSTEM, INC",
+        "Population Served": 1305,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0002251,
+          31.5740513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JASPER WATER WORKS AND SEWER BOARD",
+        "Population Served": 28638,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2775053,
+          33.8312185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JEMISON WATER WORKS",
+        "Population Served": 4323,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7452105,
+          32.9596424
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOHNSONS CROSSING WATER SYSTEM",
+        "Population Served": 3432,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8779268,
+          34.1335332
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "JOPPA, HULACO & RYAN WATER AUTHORITY",
+        "Population Served": 5121,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.55126839,
+          34.299590550000005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KANSAS WATER SYSTEM",
+        "Population Served": 318,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5519582,
+          33.9017737
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KELLYTON WATER SYSTEM",
+        "Population Served": 1965,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.033578,
+          32.9798441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KENNEDY WATER WORKS BOARD",
+        "Population Served": 723,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9844527,
+          33.5870654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINSEY WATER SYSTEM",
+        "Population Served": 2010,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3934375,
+          31.2237285
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KINSTON WATER WORKS",
+        "Population Served": 2235,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1710579,
+          31.2160045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "KUSHLA WATER DISTRICT",
+        "Population Served": 6294,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.126946,
+          30.7635213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAFAYETTE WATER WORKS",
+        "Population Served": 4047,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4010592,
+          32.8998486
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAGRANGE MOUNTAIN WATER AUTHORITY",
+        "Population Served": 1242,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5289152,
+          34.700923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LAKE MITCHELL WATER, INCORPORATED",
+        "Population Served": 390,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2196936,
+          32.8895681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LANETT WATER WORKS",
+        "Population Served": 7152,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.1904971,
+          32.8687391
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEEDS WATER WORKS BOARD",
+        "Population Served": 21300,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5427551,
+          33.5439212
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEIGHTON, WSB OF THE TOWN OF",
+        "Population Served": 1203,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5289152,
+          34.700923
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEMOYNE WATER SYSTEM, INC.",
+        "Population Served": 3825,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.01822496,
+          30.9309768
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEROY WATER AUTHORITY",
+        "Population Served": 1710,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.96583386,
+          31.493721
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEVEL PLAINS, TOWN OF",
+        "Population Served": 3819,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7129908,
+          31.3101719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LEXINGTON WATER WORKS AND SEWER",
+        "Population Served": 2910,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3711316,
+          34.9692501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIMESTONE COUNTY WATER AND SEWER AUTH.",
+        "Population Served": 65003,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9711698,
+          34.8045487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINCOLN, CITY OF",
+        "Population Served": 12966,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1183061,
+          33.6131588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINDEN UTILITIES BOARD",
+        "Population Served": 5103,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7980665,
+          32.3062535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LINEVILLE WATER WORKS BOARD",
+        "Population Served": 3420,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7544051,
+          33.3106696
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLEVILLE WATERWORKS",
+        "Population Served": 3576,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7290264,
+          34.5068228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LITTLE WAXIE WATER AUTHORITY",
+        "Population Served": 1377,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6072054,
+          33.1781718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LIVINGSTON WATER WORKS",
+        "Population Served": 4680,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1872828,
+          32.5841595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOACHAPOKA WATER AUTHORITY",
+        "Population Served": 13503,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5932854,
+          32.6043008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOCKHART WATER WORKS",
+        "Population Served": 720,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3496691,
+          31.0104576
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOUISVILLE WATER WORKS",
+        "Population Served": 1350,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5551876,
+          31.7838754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWNDESBORO WATER SYSTEM",
+        "Population Served": 1128,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6113658,
+          32.2751399
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOWNDES COUNTY WATER SYSTEM",
+        "Population Served": 3675,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5802533,
+          32.1840315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LOXLEY, TOWN OF",
+        "Population Served": 10104,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7530454,
+          30.6182476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LUVERNE WATER & SEWER DEPARTMENT",
+        "Population Served": 3900,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2638492,
+          31.7165455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYEFFION WATER AUTHORITY, INC.",
+        "Population Served": 1506,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9569176,
+          31.4334994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "LYNN WATER WORKS",
+        "Population Served": 1896,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.54974,
+          34.0470483
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MACON COUNTY WATER AUTHORITY",
+        "Population Served": 6951,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6908715,
+          32.4240535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISON COUNTY WATER DEPARTMENT",
+        "Population Served": 97803,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5859011,
+          34.729847
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MADISON, WATER & WW BOARD OF THE CITY OF",
+        "Population Served": 54114,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5675095,
+          34.7736807
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MALVERN WATER DEPARTMENT",
+        "Population Served": 1680,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5191005,
+          31.1393439
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MAPLESVILLE WATER WORKS",
+        "Population Served": 1119,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8716549,
+          32.7884608
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARBURY WATER SYSTEM, INC.",
+        "Population Served": 8670,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.46098047,
+          32.6744366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARGARET WATER WORKS",
+        "Population Served": 6336,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4749838,
+          33.6862124
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARION COUNTY PUBLIC WATER AUTHORITY",
+        "Population Served": 3660,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9138911,
+          33.9675458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MARION WATER DEPARTMENT",
+        "Population Served": 4188,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8544031,
+          34.1128132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCCALL WATER SYSTEM INC",
+        "Population Served": 8400,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0722655,
+          31.1039239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCINTOSH WATER & FIRE PRO AUTHORITY",
+        "Population Served": 3060,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0313903,
+          31.2662818
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MCKENZIE WATER BOARD",
+        "Population Served": 1170,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.71497,
+          31.542384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MEXIA WATER SYSTEM, INC.",
+        "Population Served": 2550,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3883203,
+          31.507107
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MID-CENTRAL WATER AUTHORITY",
+        "Population Served": 2325,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7272221,
+          31.7884881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDLAND CITY WATER DEPARTMENT",
+        "Population Served": 2880,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4938975,
+          31.3187878
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MIDWAY WATER WORKS",
+        "Population Served": 1050,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.524417,
+          32.076365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLBROOK UTILITIES",
+        "Population Served": 5181,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3619163,
+          32.4798575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLERS FERRY WATER AUTHORITY, INC.",
+        "Population Served": 1650,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3674944,
+          32.0995897
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLERVILLE WATER & FIRE PRO AUTHORITY",
+        "Population Served": 1545,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.92944215,
+          33.19194965
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLPORT WATER WORKS",
+        "Population Served": 1410,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0814159,
+          33.5634478
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MILLRY WATER WORKS",
+        "Population Served": 2217,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.3133487,
+          31.6340496
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MITCHELL WATER SYSTEM INC",
+        "Population Served": 8730,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5675258,
+          33.2095614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOBILE, BD. OF W&S COMM. OF THE CITY OF",
+        "Population Served": 279000,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0437509,
+          30.6913462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOBILE COUNTY WATER & FIRE PRO AUTHORITY",
+        "Population Served": 39573,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1752796,
+          30.5476941
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONROEVILLE, WATER WORKS BD. OF CITY OF",
+        "Population Served": 9885,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3246325,
+          31.5278224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTEVALLO WATER WORKS & SEWER",
+        "Population Served": 9741,
+        "Primary Water Source Type": "GU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8641558,
+          33.1006746
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MONTGOMERY WATER WORKS",
+        "Population Served": 238536,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3091683,
+          32.37742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOSSES WATER & FIRE PRO AUTHORITY",
+        "Population Served": 1704,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5802533,
+          32.1840315
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOULTON WATER WORKS BOARD",
+        "Population Served": 9216,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2919449,
+          34.4817816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MOUNDVILLE WATER WORKS",
+        "Population Served": 4404,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6300075,
+          32.9976242
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT ANDREW WATER AUTHORITY",
+        "Population Served": 660,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.522167,
+          32.077098
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MT. VERNON, TOWN OF",
+        "Population Served": 1878,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MULGA WATER WORKS AND GAS DEPARTMENT",
+        "Population Served": 6117,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.97448787,
+          33.5517717
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUNFORD WATER AUTHORITY, INC.",
+        "Population Served": 4467,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9508006,
+          33.5298282
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MUSCLE SHOALS UTILITY BOARD",
+        "Population Served": 22467,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6532615,
+          34.7436791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "MYRTLEWOOD WATER SYSTEM",
+        "Population Served": 4095,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9497371,
+          32.2504214
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NAPIER FIELD WATER SYSTEM",
+        "Population Served": 2382,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4541013,
+          31.3154506
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NAUVOO WATER WORKS",
+        "Population Served": 2103,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4889033,
+          33.9895503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NECTAR, TOWN OF",
+        "Population Served": 3288,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5774905,
+          33.9909316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NE MORGAN CO WATER AND SEWER AUTHORITY",
+        "Population Served": 25515,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.798612,
+          34.4731491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW BROCKTON WATER DEPARTMENT",
+        "Population Served": 3297,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9293861,
+          31.3857239
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW HOPE WATER SYSTEM",
+        "Population Served": 6024,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3944308,
+          34.5370339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW LONDON WATER & FIRE PRO AUTHORITY",
+        "Population Served": 6843,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2691438,
+          33.5523269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEW SITE WATER SYSTEM",
+        "Population Served": 2310,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.810585,
+          32.688053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWTON, THE WW AND SB OF THE TOWN OF",
+        "Population Served": 2466,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6050526,
+          31.3393262
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NEWVILLE WATER SYSTEM",
+        "Population Served": 912,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3373084,
+          31.4215482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH BALDWIN UTILITIES",
+        "Population Served": 28713,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7730474,
+          30.8829628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH CHOCTAW WATER & SEWER AUTHORITY",
+        "Population Served": 3450,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2825251,
+          32.1687554
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH CLARKE WATER AUTHORITY",
+        "Population Served": 984,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7358367,
+          31.9134859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH DALLAS WATER AUTHORITY",
+        "Population Served": 8838,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0207473,
+          32.4078632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHEAST ALABAMA WATER, SEWER, AND FPD",
+        "Population Served": 47070,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7196893,
+          34.4442547
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHEAST ETOWAH COUNTY WATER CO-OP",
+        "Population Served": 4275,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0030251,
+          34.0128323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTH MARSHALL UTILITIES",
+        "Population Served": 15300,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2529755,
+          34.5271354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHPORT WATER WORKS",
+        "Population Served": 40551,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5771286,
+          33.2292976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NORTHWEST ST CLAIR WATER SYSTEM",
+        "Population Served": 2886,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2549799,
+          33.8369216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "NOTASULGA WATER SYSTEM",
+        "Population Served": 2850,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6724538,
+          32.5606908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OAKMAN, TOWN OF",
+        "Population Served": 3576,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3886157,
+          33.7134432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ODENVILLE, THE UTIL BOARD OF THE TOWN OF",
+        "Population Served": 26022,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3966481,
+          33.6773237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OHATCHEE WATER SYSTEM",
+        "Population Served": 1680,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0024703,
+          33.7834324
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OLD LINE WATER SYSTEM",
+        "Population Served": 5145,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9867941,
+          34.7692447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ONEONTA UTILITIES BOARD",
+        "Population Served": 19971,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.472938,
+          33.9481955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OPELIKA, WW BD. OF THE CITY OF",
+        "Population Served": 45621,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3782795,
+          32.6454116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OPP UTILITIES BOARD",
+        "Population Served": 9975,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.255839,
+          31.2821209
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORANGE BEACH WATER, SEWER AND F.P.A.",
+        "Population Served": 17796,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5735935,
+          30.2943681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ORRVILLE WATER DEPARTMENT, TOWN OF",
+        "Population Served": 435,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2455492,
+          32.3062505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OWASSA-BROWNSVILLE WATER AUTHORITY",
+        "Population Served": 3300,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9569176,
+          31.4334994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OWENS CROSSROADS WATER AUTHORITY",
+        "Population Served": 11532,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OXFORD WATER WORKS & SEWER BOARD",
+        "Population Served": 29556,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8339391,
+          33.6149211
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "OZARK UTILITIES BOARD",
+        "Population Served": 19965,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6405865,
+          31.4584764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARK CITY WATER AUTHORITY, INC",
+        "Population Served": 1458,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9036047,
+          30.6035255
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PARRISH WATER WORKS BOARD",
+        "Population Served": 5679,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.281325,
+          33.7334096
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PELHAM WATER WORKS",
+        "Population Served": 38703,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8099884,
+          33.285669
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PELL CITY, CITY OF",
+        "Population Served": 17586,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2860888,
+          33.5862149
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PENNINGTON, UTILITIES BOARD OF",
+        "Population Served": 1080,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0561287,
+          32.2070888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERDIDO BAY WATER, SEWER & FPA",
+        "Population Served": 10824,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5981531,
+          30.4144143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PERRY COUNTY WATER AUTHORITY",
+        "Population Served": 2850,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8544031,
+          34.1128132
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PETERSON WATER SYSTEM",
+        "Population Served": 2190,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.423614,
+          33.2326174
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHENIX CITY UTILITIES",
+        "Population Served": 42267,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0007653,
+          32.4709761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PHIL CAMPBELL WATER WORKS",
+        "Population Served": 7347,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7053803,
+          34.3516416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PICKENS COUNTY WATER AUTHORITY",
+        "Population Served": 14364,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIEDMONT UTILITIES BOARD",
+        "Population Served": 8073,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6113501,
+          33.9245454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PIKE COUNTY WATER AUTHORITY",
+        "Population Served": 12021,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.969951,
+          31.8087678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PILGRIM-PROVIDENCE WATER AUTHORITY",
+        "Population Served": 588,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2199457,
+          32.0500362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINCKARD WATER DEPARTMENT",
+        "Population Served": 1377,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5489659,
+          31.3112849
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE APPLE WATER WORKS",
+        "Population Served": 390,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.741762,
+          31.638635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE BLUFF WATER  AUTHORITY",
+        "Population Served": 6255,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6152685,
+          33.9075992
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINEDALE SHORES WSFPA",
+        "Population Served": 990,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2549799,
+          33.8369216
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE HILL WATER DEPARTMENT",
+        "Population Served": 2361,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5880561,
+          31.9795943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINE LEVEL WATER AUTHORITY",
+        "Population Served": 2700,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.45860581,
+          32.576674999999994
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PINTLALA WATER SYSTEM, INC.",
+        "Population Served": 5343,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3571916,
+          32.2698632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PISGAH WATER WORKS",
+        "Population Served": 1407,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8477523,
+          34.6809168
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PLURIS ALABAMA LLC",
+        "Population Served": 0,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3711316,
+          34.9692501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "POLLARD WATER SYSTEM",
+        "Population Served": 216,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1735825,
+          31.0271252
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRATTVILLE, THE WW BOARD OF THE CITY OF",
+        "Population Served": 45444,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4753174,
+          32.4600136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PRICHARD WATER WORKS BOARD",
+        "Population Served": 29253,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0788889,
+          30.7387998
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "PROVIDENCE WATER AUTHORITY",
+        "Population Served": 1329,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.3886157,
+          33.7134432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "QUINT-MAR WATER AUTHORITY",
+        "Population Served": 8358,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3141014,
+          31.9537475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAGLAND, THE WWB OF THE TOWN OF",
+        "Population Served": 3243,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1563143,
+          33.7434665
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAINBOW CITY, WWB OF THE TOWN OF",
+        "Population Served": 12363,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0414098,
+          33.9549152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAMER WATER COMPANY, INC.",
+        "Population Served": 1398,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2199457,
+          32.0500362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANBURNE WATER & SEWER DEPARTMENT",
+        "Population Served": 2010,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3446728,
+          33.5228885
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANDOLPH COUNTY WATER & SEWER AUTHORITY",
+        "Population Served": 10290,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3748173,
+          33.1522422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RANDOLPH WATER SYSTEM",
+        "Population Served": 1308,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4693961,
+          33.2651763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RAY WATER AUTHORITY",
+        "Population Served": 1257,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.9538532,
+          32.944012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED BAY, THE WATER WORKS & GAS BD",
+        "Population Served": 6048,
+        "Primary Water Source Type": "GU"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1432194,
+          34.4409459
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RED LEVEL WATER WORKS",
+        "Population Served": 846,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6121861,
+          31.4071111
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REECE CITY WATER SYSTEM",
+        "Population Served": 861,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0885851,
+          34.0217639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REFORM WATER & SEWER BOARD",
+        "Population Served": 2376,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0153008,
+          33.378451
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REMLAP-PINE MTN WATER AUTHORITY",
+        "Population Served": 2616,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6008222,
+          33.8167666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "REPTON WATER WORKS",
+        "Population Served": 510,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2391473,
+          31.4090551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVER FALLS, TOWN OF",
+        "Population Served": 1035,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.5391273,
+          31.3529468
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERSIDE, TOWN OF",
+        "Population Served": 3864,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2069703,
+          33.6027532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RIVERVIEW WATER WORKS",
+        "Population Served": 903,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0627469,
+          31.0932339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROANOKE, THE UTIL. BD. OF THE CITY OF",
+        "Population Served": 7575,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.3748173,
+          33.1522422
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROBERTSDALE, CITY OF",
+        "Population Served": 10905,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7109526,
+          30.5552959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROCKFORD UTILITIES BOARD, INC",
+        "Population Served": 3612,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2196936,
+          32.8895681
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ROGERSVILLE WATER WORKS & SEWER BOARD",
+        "Population Served": 5271,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2945325,
+          34.8256204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELL COUNTY WATER AUTHORITY",
+        "Population Served": 16800,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0007653,
+          32.4709761
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUSSELLVILLE WATER WORKS",
+        "Population Served": 16650,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7290264,
+          34.5068228
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "RUTLEDGE WATER WORKS",
+        "Population Served": 882,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3096846,
+          31.7304339
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SAMSON WATER WORKS",
+        "Population Served": 4125,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0476302,
+          31.1108931
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SANFORD WATER SYSTEM",
+        "Population Served": 498,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.482424,
+          31.3080607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SARALAND, BD OF W&S COMMISSIONERS",
+        "Population Served": 13827,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0705556,
+          30.820742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SARDIS CITY WATER BOARD",
+        "Population Served": 5328,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1649421,
+          34.1983281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SATSUMA WATER WORKS",
+        "Population Served": 7248,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0561106,
+          30.853241
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SCOTTSBORO WATER WORKS",
+        "Population Served": 22119,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0338765,
+          34.6731323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SECTION-DUTTON WATER SYSTEM",
+        "Population Served": 35259,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8477494,
+          34.4942536
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SELLERS STATION WATER SYSTEM",
+        "Population Served": 1644,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2844093,
+          31.9657055
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SELMA, THE WW AND SB OF THE CITY OF",
+        "Population Served": 21834,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0207473,
+          32.4078632
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHEFFIELD UTITLIES, CITY OF SHEFFIELD DB",
+        "Population Served": 13758,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6986407,
+          34.7650888
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SHELBY COUNTY COMMISSION-WATER SERVICES",
+        "Population Served": 35982,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6072054,
+          33.1781718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SILVERHILL WATER SYSTEM, TOWN OF",
+        "Population Served": 1572,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7516559,
+          30.5454715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SLOCOMB WATER WORKS AND SEWER BOARD",
+        "Population Served": 3660,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5936401,
+          31.1070277
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SMITHS WATER AND SEWER AUTHORITY",
+        "Population Served": 31695,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.0985474,
+          32.5401394
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SNEAD WATER WORKS, TOWN OF",
+        "Population Served": 6111,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SNOWDOUN WATER SYSTEM INC",
+        "Population Served": 2550,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.239651,
+          32.359185
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH ALABAMA UTILITIES WATER SYSTEM",
+        "Population Served": 39249,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.234284,
+          31.0937841
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH BULLOCK COUNTY WATER AUTHORITY",
+        "Population Served": 8601,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7160956,
+          32.1447494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH CRENSHAW COUNTY WATER AUTHORITY",
+        "Population Served": 5760,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2571786,
+          31.5823832
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH DALLAS WATER AUTHORITY",
+        "Population Served": 3504,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7627275,
+          32.0890397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTH MARENGO CO WATER & FIRE PRO AUTH",
+        "Population Served": 4416,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7980665,
+          32.3062535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHSIDE WATER WORKS",
+        "Population Served": 12000,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0224718,
+          33.9245425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SOUTHWEST ALABAMA WATER AUTHORITY",
+        "Population Served": 5196,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.26240288,
+          31.5836572
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPANISH FORT WATER SYSTEM",
+        "Population Served": 10161,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9040269,
+          30.6754503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRING VALLEY WATER AUTHORITY",
+        "Population Served": 5376,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70253,
+          34.7312005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SPRINGVILLE WATER WORKS",
+        "Population Served": 6468,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4716512,
+          33.7750997
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STAR-MINDINGALL WATER AUTHORITY",
+        "Population Served": 1962,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STEELE WATER WORKS BOARD",
+        "Population Served": 1722,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2016435,
+          33.9398202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST. ELMO-IRVINGTON WATER AUTHORITY",
+        "Population Served": 10284,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STERRETT-VANDIVER WATER SYSTEM",
+        "Population Served": 3153,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.47140682,
+          33.44612905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STEVENSON, UTIL. BOARD OF THE TOWN OF",
+        "Population Served": 4101,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.83942,
+          34.8686934
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "STEWARTVILLE WATER AUTHORITY",
+        "Population Served": 5067,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2516406,
+          33.1731716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "ST STEPHENS WATER SYSTEM",
+        "Population Served": 735,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SULLIGENT, CITY OF",
+        "Population Served": 2643,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1335344,
+          33.9005658
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMITON WATER WORKS BOARD",
+        "Population Served": 5997,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0504172,
+          33.7554224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMMERDALE, WW BOARD OF THE TOWN OF",
+        "Population Served": 1800,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6997094,
+          30.4876954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SUMTER COUNTY WATER AUTHORITY",
+        "Population Served": 10983,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1872828,
+          32.5841595
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWAN CREEK COMMUNITY, ROYCE SWAN, LLC",
+        "Population Served": 324,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9705632,
+          34.7314787
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWEARENGIN WATER SYSTEM",
+        "Population Served": 2520,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2529755,
+          34.5271354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SWEETWATER, THE WW & SB OF THE TOWN OF",
+        "Population Served": 465,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8675103,
+          32.0973707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYCAMORE WATER AND SEWER AUTHORITY",
+        "Population Served": 1728,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5177831,
+          33.1873412
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "SYLACAUGA UTILITIES BOARD",
+        "Population Served": 24087,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2516406,
+          33.1731716
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALLADEGA COUNTY WATER DEPARTMENT",
+        "Population Served": 4578,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1597137,
+          33.3967079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALLADEGA-SHELBY WATER TREATMENT PLANT",
+        "Population Served": 32,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6102422,
+          34.5053635
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALLADEGA WATER AND SEWER BOARD, CITY OF",
+        "Population Served": 20250,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1597137,
+          33.3967079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TALLASSEE WATER WORKS",
+        "Population Served": 7512,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8922974,
+          32.5348568
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TAYLOR WATER SYSTEM",
+        "Population Served": 9339,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.468267,
+          31.164899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THOMASTON WATER WORKS & GAS BOARD",
+        "Population Served": 960,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6253429,
+          32.2666151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THOMASVILLE WATER WORKS & SEWER BOARD",
+        "Population Served": 6897,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.7358367,
+          31.9134859
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "THORSBY WATER WORKS BOARD",
+        "Population Served": 3465,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7158178,
+          32.9156796
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TIBBIE WATER & FIRE PROTECTION AUTHORITY",
+        "Population Served": 1530,
+        "Primary Water Source Type": "GUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.24926553,
+          31.36339435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TILLISON BEND WATER AUTHORITY",
+        "Population Served": 1074,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0030251,
+          34.0128323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWN CREEK WATER SYSTEM",
+        "Population Served": 1566,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4061342,
+          34.6812012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TOWNLEY WATER AUTHORITY",
+        "Population Served": 2430,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.431675,
+          33.8289975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRIANA WATER WORKS",
+        "Population Served": 6213,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7356429,
+          34.5853276
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRI COMMUNITY WATER SYSTEM",
+        "Population Served": 11832,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3619163,
+          32.4798575
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRINITY WATER WORKS SYSTEM",
+        "Population Served": 2814,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0883459,
+          34.6067588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TROY UTILITIES, CITY OF",
+        "Population Served": 21864,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.969951,
+          31.8087678
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TRUSSVILLE UTILITIES",
+        "Population Served": 36300,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6084342,
+          33.6196266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TURNERVILLE WATER & FIRE PRO DISTRICT",
+        "Population Served": 5991,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0705556,
+          30.820742
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUSCALOOSA WATER & SEWER",
+        "Population Served": 142383,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5675258,
+          33.2095614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUSCUMBIA WATER WORKS",
+        "Population Served": 14400,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.70253,
+          34.7312005
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TUSKEGEE, UTILITIES BOARD OF THE CITY OF",
+        "Population Served": 12900,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6908715,
+          32.4240535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "TWIN WATER AUTHORITY",
+        "Population Served": 804,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.9138911,
+          33.9675458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION GROVE UTILITY BOARD",
+        "Population Served": 3045,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4491538,
+          34.4017589
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNION SPRINGS UTIL BOARD",
+        "Population Served": 3945,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7160956,
+          32.1447494
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UNIONTOWN WATER WORKS & SEWER BOARD",
+        "Population Served": 3441,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.5141688,
+          32.4495804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "UPPER BEAR CREEK WATER AUTHORITY",
+        "Population Served": 0,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6214133,
+          34.226488
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "URIAH WATER SYSTEM INC.",
+        "Population Served": 3420,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.49921645,
+          31.3074341
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "US ARMY GARRISON-REDSTONE ARSENAL",
+        "Population Served": 38700,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.65483517,
+          34.6646303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VALLEY HEAD WATER WORKS BOARD",
+        "Population Served": 3075,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.6149654,
+          34.5689732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "V.A.W. WATER SYSTEM, INC",
+        "Population Served": 17103,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8661139,
+          34.2417649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VERNON WATER AND SEWER BOARD",
+        "Population Served": 9801,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.1089185,
+          33.7570541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VINA WATER WORKS BOARD",
+        "Population Served": 1320,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.0570918,
+          34.377224
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "VINCENT WATER WORKS BOARD",
+        "Population Served": 2733,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4109331,
+          33.3859273
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WADLEY UTILITIES BOARD",
+        "Population Served": 1149,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.5663432,
+          33.1215089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALDO WATER SYSTEM",
+        "Population Served": 450,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.037187,
+          33.391816
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALL STREET WATER AUTHORITY",
+        "Population Served": 5868,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8023774,
+          32.8595687
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALNUT GROVE, TOWN OF",
+        "Population Served": 1227,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.3063695,
+          34.0656522
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALNUT HILL WATER AUTHORITY",
+        "Population Served": 13092,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7635692,
+          32.831238
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WALTER WATER AUTHORITY",
+        "Population Served": 1431,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7627004,
+          34.0623275
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WARRIOR RIVER WATER AUTHORITY",
+        "Population Served": 37263,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.954437,
+          33.4017766
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WASHINGTON COUNTY WATER AUTHORITY",
+        "Population Served": 2445,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.2544557,
+          31.4651653
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATER WORKS, INC.",
+        "Population Served": 579,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.1597137,
+          33.3967079
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WATTSVILLE WATER AUTHORITY",
+        "Population Served": 5097,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2797002,
+          33.6814904
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEAVER WATER SYSTEM, CITY 0F",
+        "Population Served": 6591,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.8113543,
+          33.7520457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEBB WATER SYSTEM",
+        "Population Served": 1761,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2732658,
+          31.2604534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEDOWEE WATER, SEWER, & GAS BOARD",
+        "Population Served": 7782,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.484675,
+          33.3090047
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST AUTAUGA WATER AUTHORITY",
+        "Population Served": 5106,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.6547019,
+          32.4340249
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST BARBOUR COUNTY WATER AUTHORITY",
+        "Population Served": 1395,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.4496627,
+          31.8782162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST BLOCTON, TOWN OF",
+        "Population Served": 4629,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.1249954,
+          33.1181748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST DALLAS CO WATER AUTHORITY",
+        "Population Served": 3747,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.7627275,
+          32.0890397
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST ESCAMBIA UTILITIES INC.",
+        "Population Served": 12060,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.4938708,
+          31.0237921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST ETOWAH WATER & FIRE PRO AUTHORITY",
+        "Population Served": 6765,
+        "Primary Water Source Type": "GUP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0885851,
+          34.0217639
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST JEFFERSON WATER WORKS, TOWN OF",
+        "Population Served": 3282,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.0666648,
+          33.6720505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST LAUDERDALE CO WATER & FPA",
+        "Population Served": 15681,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.677251,
+          34.79981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST LAWRENCE WATER COOP",
+        "Population Served": 15348,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8295337,
+          33.2588817
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WEST MORGAN-EAST LAWRENCE WATER AUTHORIT",
+        "Population Served": 30000,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.9838165,
+          34.6060203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WETUMPKA, THE WW & SB OF THE CITY OF",
+        "Population Served": 10023,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2045442,
+          32.5378668
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHITE HALL WATER BOARD",
+        "Population Served": 1200,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.7119247,
+          32.3270827
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WHORTON BEND WATER AUTHORITY",
+        "Population Served": 2610,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.0030251,
+          34.0128323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILCOX COUNTY WATER AND SEWER DISTRICT",
+        "Population Served": 6144,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.2905456,
+          31.9909813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILLS CROSS ROADS WATER SYSTEM",
+        "Population Served": 540,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.2503315,
+          31.5702088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILSONVILLE WATER WORKS",
+        "Population Served": 2391,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.4835916,
+          33.234281
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WILTON WATER WORKS",
+        "Population Served": 3063,
+        "Primary Water Source Type": "GW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.8816562,
+          33.0787308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WINFIELD WATER WORKS & SEWER BOARD",
+        "Population Served": 8631,
+        "Primary Water Source Type": "SW"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.8163017,
+          33.9281866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOLF CREEK WATER AUTHORITY",
+        "Population Served": 1044,
+        "Primary Water Source Type": "GWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -86.2069703,
+          33.6027532
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Water System Name": "WOODLAND WATER BOARD",
+        "Population Served": 1527,
+        "Primary Water Source Type": "SWP"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -85.399673,
+          33.3742812
+        ]
+      }
+    }
+  ]
+}
